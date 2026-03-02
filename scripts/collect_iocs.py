@@ -1,14 +1,39 @@
+"""
+IOC Collector
+=============
+Pulls the latest malicious IOCs from:
+  - VirusTotal  (IPs, Hashes, Domains, URLs)
+  - AbuseIPDB   (IPs)
+  - AlienVault OTX (IPs, Hashes, Domains, URLs)
+  - Shodan      (IPs)
+
+Outputs (one IOC per line, deduplicated, overwritten each run):
+  reports/virustotal_ips.txt
+  reports/virustotal_hashes.txt
+  reports/virustotal_domains.txt
+  reports/virustotal_urls.txt
+  reports/abuseipdb_ips.txt
+  reports/otx_ips.txt
+  reports/otx_hashes.txt
+  reports/otx_domains.txt
+  reports/otx_urls.txt
+  reports/shodan_ips.txt
+"""
+
 import os
 import sys
+import csv
 import requests
 from datetime import datetime, timezone
 from collections import defaultdict
 
+# ── API Keys (injected by GitHub Actions secrets) ────────────────────────────
 VT_API_KEY      = os.environ.get("VT_API_KEY", "")
 ABUSEIPDB_KEY   = os.environ.get("ABUSEIPDB_KEY", "")
 OTX_API_KEY     = os.environ.get("OTX_API_KEY", "")
 SHODAN_API_KEY  = os.environ.get("SHODAN_API_KEY", "")
 
+# ── Config ───────────────────────────────────────────────────────────────────
 ABUSEIPDB_MIN_CONFIDENCE = 90   # Only IPs with confidence >= this value
 VT_FEED_LIMIT            = 200  # Max items per VT feed call
 OTX_PULSE_LIMIT          = 30   # Max number of recent OTX pulses to scan
@@ -23,7 +48,7 @@ OUTPUT_DIR = "reports"
 iocs = {
     "virustotal": defaultdict(set),
     "abuseipdb":  defaultdict(set),
-    "otx":        defaultdict(set),
+    "otx":        {"ips": set(), "hashes": set(), "urls": set(), "domains": []},
     "shodan":     defaultdict(set),
 }
 
@@ -51,12 +76,35 @@ def save(source, ioc_type, data):
     log("OUTPUT", f"{filename} → {len(sorted_data)} IOCs")
 
 
+def save_domains_csv(source, rows):
+    """Write domain IOCs as CSV: date,reporter,type,ioc,tags,reference"""
+    if not rows:
+        log("OUTPUT", f"{source}_domains.csv — skipped (0 IOCs)")
+        return
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    filename = f"{source}_domains.csv"
+    path     = os.path.join(OUTPUT_DIR, filename)
+    seen     = set()
+    unique_rows = []
+    for row in rows:
+        if row["ioc"] not in seen:
+            seen.add(row["ioc"])
+            unique_rows.append(row)
+    unique_rows.sort(key=lambda r: r["ioc"])
+    with open(path, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=["date", "reporter", "type", "ioc", "tags", "reference"])
+        writer.writerows(unique_rows)
+    log("OUTPUT", f"{filename} → {len(unique_rows)} IOCs")
+
+
 def save_all():
-    """Iterate every source/type bucket and write to disk."""
     print("-" * 60)
     for source, types in iocs.items():
         for ioc_type, data in types.items():
-            save(source, ioc_type, data)
+            if source == "otx" and ioc_type == "domains":
+                save_domains_csv(source, data)
+            else:
+                save(source, ioc_type, data)
     print("-" * 60)
 
 
@@ -174,10 +222,26 @@ def fetch_otx():
                 break
 
             for pulse in results:
+                pulse_name = pulse.get("name", "OTX")
+                pulse_tags = " ".join(f"#{t}" for t in pulse.get("tags", []))
+                pulse_url  = f"https://otx.alienvault.com/pulse/{pulse.get('id','')}"
+                ts         = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+
                 for indicator in pulse.get("indicators", []):
                     ioc_type = OTX_TYPE_MAP.get(indicator.get("type", ""))
                     ioc_val  = indicator.get("indicator", "").strip()
-                    if ioc_type and ioc_val:
+                    if not ioc_type or not ioc_val:
+                        continue
+                    if ioc_type == "domains":
+                        iocs["otx"]["domains"].append({
+                            "date":      ts,
+                            "reporter":  pulse_name,
+                            "type":      "domain",
+                            "ioc":       ioc_val,
+                            "tags":      pulse_tags,
+                            "reference": pulse_url,
+                        })
+                    else:
                         iocs["otx"][ioc_type].add(ioc_val)
 
             fetched += len(results)
