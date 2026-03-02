@@ -11,6 +11,7 @@ jobs:
   collect-iocs:
     name: Collect & Commit IOCs
     runs-on: ubuntu-latest
+    timeout-minutes: 10   # Kill the job if it exceeds 10 minutes
     permissions:
       contents: write   # Required to commit reports back to the repo
 
