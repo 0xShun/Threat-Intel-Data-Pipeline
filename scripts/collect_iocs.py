@@ -1,38 +1,14 @@
-"""
-IOC Collector
-=============
-Pulls the latest malicious IOCs from:
-  - VirusTotal  (IPs, Hashes, Domains, URLs)
-  - AbuseIPDB   (IPs)
-  - AlienVault OTX (IPs, Hashes, Domains, URLs)
-  - Shodan      (IPs)
-
-Outputs (one IOC per line, deduplicated, overwritten each run):
-  reports/virustotal_ips.txt
-  reports/virustotal_hashes.txt
-  reports/virustotal_domains.txt
-  reports/virustotal_urls.txt
-  reports/abuseipdb_ips.txt
-  reports/otx_ips.txt
-  reports/otx_hashes.txt
-  reports/otx_domains.txt
-  reports/otx_urls.txt
-  reports/shodan_ips.txt
-"""
-
 import os
 import sys
 import requests
 from datetime import datetime, timezone
 from collections import defaultdict
 
-# ── API Keys (injected by GitHub Actions secrets) ────────────────────────────
 VT_API_KEY      = os.environ.get("VT_API_KEY", "")
 ABUSEIPDB_KEY   = os.environ.get("ABUSEIPDB_KEY", "")
 OTX_API_KEY     = os.environ.get("OTX_API_KEY", "")
 SHODAN_API_KEY  = os.environ.get("SHODAN_API_KEY", "")
 
-# ── Config ───────────────────────────────────────────────────────────────────
 ABUSEIPDB_MIN_CONFIDENCE = 90   # Only IPs with confidence >= this value
 VT_FEED_LIMIT            = 200  # Max items per VT feed call
 OTX_PULSE_LIMIT          = 30   # Max number of recent OTX pulses to scan
