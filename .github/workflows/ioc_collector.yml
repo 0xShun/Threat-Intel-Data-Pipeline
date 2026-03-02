@@ -46,7 +46,7 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add reports/ips.txt reports/hashes.txt reports/domains.txt reports/urls.txt
+          git add reports/
 
           # Only commit if there are actual changes
           if git diff --cached --quiet; then
