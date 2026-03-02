@@ -149,48 +149,55 @@ def fetch_otx():
         log("OTX", "Skipped — OTX_API_KEY not set")
         return
 
+    OTX_TYPE_MAP = {
+        "IPv4":            ips,
+        "IPv6":            ips,
+        "FileHash-SHA256": hashes,
+        "FileHash-MD5":    hashes,
+        "FileHash-SHA1":   hashes,
+        "domain":          domains,
+        "hostname":        domains,
+        "URL":             urls,
+    }
+
+    before_ip = len(ips)
+    before_h  = len(hashes)
+    before_d  = len(domains)
+    before_u  = len(urls)
+
     try:
-        from OTXv2 import OTXv2
-        otx = OTXv2(OTX_API_KEY)
+        # Use direct REST calls instead of SDK getall() which has no timeout
+        page = 1
+        fetched = 0
+        while fetched < OTX_PULSE_LIMIT:
+            resp = requests.get(
+                "https://otx.alienvault.com/api/v1/pulses/subscribed",
+                headers={"X-OTX-API-KEY": OTX_API_KEY},
+                params={"limit": 10, "page": page},
+                timeout=30
+            )
+            resp.raise_for_status()
+            data    = resp.json()
+            results = data.get("results", [])
+            if not results:
+                break
 
-        # Pull the latest subscribed pulses
-        pulses = otx.getall(max_items=OTX_PULSE_LIMIT)
+            for pulse in results:
+                for indicator in pulse.get("indicators", []):
+                    ioc_type = indicator.get("type", "")
+                    ioc_val  = indicator.get("indicator", "").strip()
+                    bucket   = OTX_TYPE_MAP.get(ioc_type)
+                    if bucket is not None and ioc_val:
+                        bucket.add(ioc_val)
 
-        before_ip  = len(ips)
-        before_h   = len(hashes)
-        before_d   = len(domains)
-        before_u   = len(urls)
+            fetched += len(results)
+            page    += 1
 
-        OTX_TYPE_MAP = {
-            # IPs
-            "IPv4":              ips,
-            "IPv6":              ips,
-            # Hashes
-            "FileHash-SHA256":   hashes,
-            "FileHash-MD5":      hashes,
-            "FileHash-SHA1":     hashes,
-            # Domains
-            "domain":            domains,
-            "hostname":          domains,
-            # URLs
-            "URL":               urls,
-        }
+            # Stop if no more pages
+            if not data.get("next"):
+                break
 
-        for pulse in pulses:
-            for indicator in pulse.get("indicators", []):
-                ioc_type = indicator.get("type", "")
-                ioc_val  = indicator.get("indicator", "").strip()
-                bucket   = OTX_TYPE_MAP.get(ioc_type)
-                if bucket is not None and ioc_val:
-                    bucket.add(ioc_val)
-
-        log("OTX", f"IPs +{len(ips)-before_ip}  Hashes +{len(hashes)-before_h}  "
-                   f"Domains +{len(domains)-before_d}  URLs +{len(urls)-before_u}")
-
-    except ImportError:
-        log("OTX", "OTXv2 SDK not installed — run: pip install OTXv2")
-    except Exception as e:
-        log("OTX", f"Error: {e}")
+        log("OTX", f"IPs +{len(ips)-before_ip}  Hashes +{len(hashes)-before_
 
 
 # ════════════════════════════════════════════════════════════════════════════
