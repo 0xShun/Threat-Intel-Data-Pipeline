@@ -8,56 +8,80 @@ Pulls the latest malicious IOCs from:
   - Shodan      (IPs)
 
 Outputs (one IOC per line, deduplicated, overwritten each run):
-  reports/ips.txt
-  reports/hashes.txt
-  reports/domains.txt
-  reports/urls.txt
+  reports/virustotal_ips.txt
+  reports/virustotal_hashes.txt
+  reports/virustotal_domains.txt
+  reports/virustotal_urls.txt
+  reports/abuseipdb_ips.txt
+  reports/otx_ips.txt
+  reports/otx_hashes.txt
+  reports/otx_domains.txt
+  reports/otx_urls.txt
+  reports/shodan_ips.txt
 """
 
 import os
 import sys
 import requests
 from datetime import datetime, timezone
+from collections import defaultdict
 
 # ── API Keys (injected by GitHub Actions secrets) ────────────────────────────
-VT_API_KEY       = os.environ.get("VT_API_KEY", "")
-ABUSEIPDB_KEY    = os.environ.get("ABUSEIPDB_KEY", "")
-OTX_API_KEY      = os.environ.get("OTX_API_KEY", "")
-SHODAN_API_KEY   = os.environ.get("SHODAN_API_KEY", "")
+VT_API_KEY      = os.environ.get("VT_API_KEY", "")
+ABUSEIPDB_KEY   = os.environ.get("ABUSEIPDB_KEY", "")
+OTX_API_KEY     = os.environ.get("OTX_API_KEY", "")
+SHODAN_API_KEY  = os.environ.get("SHODAN_API_KEY", "")
 
 # ── Config ───────────────────────────────────────────────────────────────────
-ABUSEIPDB_MIN_CONFIDENCE = 90    # Only IPs with confidence >= this value
-VT_FEED_LIMIT            = 200   # Max items per VT feed call
-OTX_PULSE_LIMIT          = 30    # Number of recent OTX pulses to scan
+ABUSEIPDB_MIN_CONFIDENCE = 90   # Only IPs with confidence >= this value
+VT_FEED_LIMIT            = 200  # Max items per VT feed call
+OTX_PULSE_LIMIT          = 30   # Max number of recent OTX pulses to scan
 SHODAN_QUERY             = "category:malware"
 
 OUTPUT_DIR = "reports"
 
-# Buckets
-ips     = set()
-hashes  = set()
-domains = set()
-urls    = set()
+# ── IOC Store ────────────────────────────────────────────────────────────────
+# Structure: iocs[source][ioc_type] = set of values
+# Sources : "virustotal", "abuseipdb", "otx", "shodan"
+# Types   : "ips", "hashes", "domains", "urls"
+iocs = {
+    "virustotal": defaultdict(set),
+    "abuseipdb":  defaultdict(set),
+    "otx":        defaultdict(set),
+    "shodan":     defaultdict(set),
+}
 
 
 # ════════════════════════════════════════════════════════════════════════════
 # HELPERS
 # ════════════════════════════════════════════════════════════════════════════
 
-def log(source: str, msg: str):
+def log(source, msg):
     ts = datetime.now(timezone.utc).strftime("%H:%M:%S")
     print(f"[{ts}] [{source}] {msg}")
 
 
-def save(filename: str, data: set):
-    path = os.path.join(OUTPUT_DIR, filename)
+def save(source, ioc_type, data):
+    """Write a source+type bucket to reports/<source>_<ioc_type>.txt"""
+    if not data:
+        log("OUTPUT", f"{source}_{ioc_type}.txt — skipped (0 IOCs)")
+        return
     os.makedirs(OUTPUT_DIR, exist_ok=True)
+    filename = f"{source}_{ioc_type}.txt"
+    path     = os.path.join(OUTPUT_DIR, filename)
     sorted_data = sorted(data)
     with open(path, "w") as f:
-        f.write("\n".join(sorted_data))
-        if sorted_data:
-            f.write("\n")
-    log("OUTPUT", f"{filename} → {len(sorted_data)} IOCs written to {path}")
+        f.write("\n".join(sorted_data) + "\n")
+    log("OUTPUT", f"{filename} → {len(sorted_data)} IOCs")
+
+
+def save_all():
+    """Iterate every source/type bucket and write to disk."""
+    print("-" * 60)
+    for source, types in iocs.items():
+        for ioc_type, data in types.items():
+            save(source, ioc_type, data)
+    print("-" * 60)
 
 
 # ════════════════════════════════════════════════════════════════════════════
@@ -73,13 +97,13 @@ def fetch_virustotal():
 
     headers = {"x-apikey": VT_API_KEY}
     feeds = [
-        ("https://www.virustotal.com/api/v3/feeds/ip-addresses", "ip",     ips),
-        ("https://www.virustotal.com/api/v3/feeds/files",        "hash",   hashes),
-        ("https://www.virustotal.com/api/v3/feeds/domains",      "domain", domains),
-        ("https://www.virustotal.com/api/v3/feeds/urls",         "url",    urls),
+        ("https://www.virustotal.com/api/v3/feeds/ip-addresses", "ips"),
+        ("https://www.virustotal.com/api/v3/feeds/files",        "hashes"),
+        ("https://www.virustotal.com/api/v3/feeds/domains",      "domains"),
+        ("https://www.virustotal.com/api/v3/feeds/urls",         "urls"),
     ]
 
-    for feed_url, kind, bucket in feeds:
+    for feed_url, ioc_type in feeds:
         try:
             resp = requests.get(
                 feed_url,
@@ -89,17 +113,15 @@ def fetch_virustotal():
             )
             resp.raise_for_status()
             items = resp.json().get("data", [])
-            before = len(bucket)
             for item in items:
                 val = item.get("id", "").strip()
                 if val:
-                    bucket.add(val)
-            log("VT", f"{kind} feed → +{len(bucket) - before} IOCs")
+                    iocs["virustotal"][ioc_type].add(val)
+            log("VT", f"{ioc_type} feed → {len(iocs['virustotal'][ioc_type])} IOCs")
         except requests.HTTPError as e:
-            # 403 = no premium access, 429 = rate limited
-            log("VT", f"{kind} feed HTTP error: {e.response.status_code} {e.response.text[:120]}")
+            log("VT", f"{ioc_type} HTTP {e.response.status_code}: {e.response.text[:120]}")
         except Exception as e:
-            log("VT", f"{kind} feed error: {e}")
+            log("VT", f"{ioc_type} error: {e}")
 
 
 # ════════════════════════════════════════════════════════════════════════════
@@ -125,15 +147,14 @@ def fetch_abuseipdb():
             timeout=30
         )
         resp.raise_for_status()
-        entries = resp.json().get("data", [])
-        before = len(ips)
-        for entry in entries:
+        for entry in resp.json().get("data", []):
             ip = entry.get("ipAddress", "").strip()
             if ip:
-                ips.add(ip)
-        log("AbuseIPDB", f"Blacklist → +{len(ips) - before} IPs (confidence >= {ABUSEIPDB_MIN_CONFIDENCE})")
+                iocs["abuseipdb"]["ips"].add(ip)
+        log("AbuseIPDB", f"ips → {len(iocs['abuseipdb']['ips'])} IOCs "
+                         f"(confidence >= {ABUSEIPDB_MIN_CONFIDENCE})")
     except requests.HTTPError as e:
-        log("AbuseIPDB", f"HTTP error: {e.response.status_code} {e.response.text[:120]}")
+        log("AbuseIPDB", f"HTTP {e.response.status_code}: {e.response.text[:120]}")
     except Exception as e:
         log("AbuseIPDB", f"Error: {e}")
 
@@ -141,7 +162,7 @@ def fetch_abuseipdb():
 # ════════════════════════════════════════════════════════════════════════════
 # ALIENVAULT OTX
 # Docs: https://otx.alienvault.com/api
-# Uses the official OTXv2 Python SDK
+# Direct REST calls with timeout (avoids SDK getall() hanging indefinitely)
 # ════════════════════════════════════════════════════════════════════════════
 
 def fetch_otx():
@@ -150,24 +171,18 @@ def fetch_otx():
         return
 
     OTX_TYPE_MAP = {
-        "IPv4":            ips,
-        "IPv6":            ips,
-        "FileHash-SHA256": hashes,
-        "FileHash-MD5":    hashes,
-        "FileHash-SHA1":   hashes,
-        "domain":          domains,
-        "hostname":        domains,
-        "URL":             urls,
+        "IPv4":            "ips",
+        "IPv6":            "ips",
+        "FileHash-SHA256": "hashes",
+        "FileHash-MD5":    "hashes",
+        "FileHash-SHA1":   "hashes",
+        "domain":          "domains",
+        "hostname":        "domains",
+        "URL":             "urls",
     }
 
-    before_ip = len(ips)
-    before_h  = len(hashes)
-    before_d  = len(domains)
-    before_u  = len(urls)
-
     try:
-        # Use direct REST calls instead of SDK getall() which has no timeout
-        page = 1
+        page    = 1
         fetched = 0
         while fetched < OTX_PULSE_LIMIT:
             resp = requests.get(
@@ -184,26 +199,30 @@ def fetch_otx():
 
             for pulse in results:
                 for indicator in pulse.get("indicators", []):
-                    ioc_type = indicator.get("type", "")
+                    ioc_type = OTX_TYPE_MAP.get(indicator.get("type", ""))
                     ioc_val  = indicator.get("indicator", "").strip()
-                    bucket   = OTX_TYPE_MAP.get(ioc_type)
-                    if bucket is not None and ioc_val:
-                        bucket.add(ioc_val)
+                    if ioc_type and ioc_val:
+                        iocs["otx"][ioc_type].add(ioc_val)
 
             fetched += len(results)
             page    += 1
-
-            # Stop if no more pages
             if not data.get("next"):
                 break
 
-        log("OTX", f"IPs +{len(ips)-before_ip}  Hashes +{len(hashes)-before_
+        totals = {t: len(v) for t, v in iocs["otx"].items()}
+        log("OTX", f"IPs={totals.get('ips',0)}  Hashes={totals.get('hashes',0)}  "
+                   f"Domains={totals.get('domains',0)}  URLs={totals.get('urls',0)}")
+
+    except requests.HTTPError as e:
+        log("OTX", f"HTTP {e.response.status_code}: {e.response.text[:120]}")
+    except Exception as e:
+        log("OTX", f"Error: {e}")
 
 
 # ════════════════════════════════════════════════════════════════════════════
 # SHODAN
 # Docs: https://developer.shodan.io/api
-# Note: Shodan free tier has limited search credits
+# Note: Shodan free tier has limited search credits per month
 # ════════════════════════════════════════════════════════════════════════════
 
 def fetch_shodan():
@@ -222,15 +241,13 @@ def fetch_shodan():
             timeout=30
         )
         resp.raise_for_status()
-        matches = resp.json().get("matches", [])
-        before = len(ips)
-        for host in matches:
+        for host in resp.json().get("matches", []):
             ip = host.get("ip_str", "").strip()
             if ip:
-                ips.add(ip)
-        log("Shodan", f"Query '{SHODAN_QUERY}' → +{len(ips) - before} IPs")
+                iocs["shodan"]["ips"].add(ip)
+        log("Shodan", f"ips → {len(iocs['shodan']['ips'])} IOCs (query: '{SHODAN_QUERY}')")
     except requests.HTTPError as e:
-        log("Shodan", f"HTTP error: {e.response.status_code} {e.response.text[:120]}")
+        log("Shodan", f"HTTP {e.response.status_code}: {e.response.text[:120]}")
     except Exception as e:
         log("Shodan", f"Error: {e}")
 
@@ -250,18 +267,19 @@ if __name__ == "__main__":
     fetch_otx()
     fetch_shodan()
 
+    # Print grand totals per source
     print("-" * 60)
-    print(f"  Totals → IPs: {len(ips)}  Hashes: {len(hashes)}  "
-          f"Domains: {len(domains)}  URLs: {len(urls)}")
-    print("-" * 60)
+    for source, types in iocs.items():
+        total     = sum(len(v) for v in types.values())
+        breakdown = "  ".join(f"{t}={len(v)}" for t, v in types.items())
+        print(f"  {source.upper():<12} total={total}  [{breakdown}]")
 
-    save("ips.txt",     ips)
-    save("hashes.txt",  hashes)
-    save("domains.txt", domains)
-    save("urls.txt",    urls)
+    # Write all files
+    save_all()
 
-    # Exit non-zero if ALL sources returned nothing (likely all keys missing)
-    if not any([ips, hashes, domains, urls]):
+    # Exit non-zero if absolutely nothing was collected
+    grand_total = sum(len(v) for types in iocs.values() for v in types.values())
+    if grand_total == 0:
         log("MAIN", "WARNING: No IOCs collected. Check API keys and feed access.")
         sys.exit(1)
 
