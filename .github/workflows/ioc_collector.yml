@@ -1,37 +1,30 @@
 name: IOC Feed Collector
-
 on:
   schedule:
-    # Runs at 06:00 UTC and 17:00 UTC every day
     - cron: "0 6 * * *"
     - cron: "0 17 * * *"
-  workflow_dispatch:  # Allow manual trigger from GitHub UI
-
+  workflow_dispatch:  
 jobs:
   collect-iocs:
     name: Collect & Commit IOCs
     runs-on: ubuntu-latest
-    timeout-minutes: 10   # Kill the job if it exceeds 10 minutes
+    timeout-minutes: 10 
     permissions:
-      contents: write   # Required to commit reports back to the repo
+      contents: write  
 
     steps:
-      # ── 1. Checkout repo ──────────────────────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # ── 2. Set up Python ──────────────────────────────────────────────────
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
 
-      # ── 3. Install dependencies ───────────────────────────────────────────
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # ── 4. Run IOC collector ──────────────────────────────────────────────
       - name: Run IOC collector
         env:
           VT_API_KEY:      ${{ secrets.VT_API_KEY }}
@@ -40,7 +33,6 @@ jobs:
           SHODAN_API_KEY:  ${{ secrets.SHODAN_API_KEY }}
         run: python scripts/collect_iocs.py
 
-      # ── 5. Commit updated report files back to repo ───────────────────────
       - name: Commit IOC reports
         run: |
           git config user.name  "github-actions[bot]"
@@ -48,7 +40,6 @@ jobs:
 
           git add reports/
 
-          # Only commit if there are actual changes
           if git diff --cached --quiet; then
             echo "No changes to commit — IOC lists are unchanged."
           else
