@@ -63,14 +63,12 @@ def save_domains_csv(source, rows):
 
 
 def save_all():
-    print("-" * 60)
     for source, types in iocs.items():
         for ioc_type, data in types.items():
             if source == "otx" and ioc_type == "domains":
                 save_domains_csv(source, data)
             else:
                 save(source, ioc_type, data)
-    print("-" * 60)
 
 
 
@@ -231,9 +229,7 @@ def fetch_shodan():
 
 if __name__ == "__main__":
     run_ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
-    print("=" * 60)
     print(f"  IOC Collection Run — {run_ts}")
-    print("=" * 60)
 
     fetch_virustotal()
     fetch_abuseipdb()
