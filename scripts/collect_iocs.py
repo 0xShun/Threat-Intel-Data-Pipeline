@@ -433,5 +433,4 @@ if __name__ == "__main__":
     if grand_total == 0:
         log("MAIN", "WARNING: No IOCs collected. Check API keys and feed access.")
         sys.exit(1)
-
     print("  Done.")
