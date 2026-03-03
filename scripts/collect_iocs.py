@@ -6,6 +6,7 @@ Pulls the latest malicious IOCs from:
   - AbuseIPDB   (IPs)
   - AlienVault OTX (IPs, Hashes, Domains, URLs)
   - Shodan      (IPs)
+  - URLhaus     (URLs)
 
 Outputs (one IOC per line, deduplicated, overwritten each run):
   reports/virustotal_ips.txt
@@ -15,9 +16,10 @@ Outputs (one IOC per line, deduplicated, overwritten each run):
   reports/abuseipdb_ips.txt
   reports/otx_ips.txt
   reports/otx_hashes.txt
-  reports/otx_domains.txt
-  reports/otx_urls.txt
+  reports/otx_domains.csv
+  reports/otx_urls.csv
   reports/shodan_ips.txt
+  reports/urlhaus_urls.csv
 """
 
 import os
@@ -32,6 +34,7 @@ VT_API_KEY      = os.environ.get("VT_API_KEY", "")
 ABUSEIPDB_KEY   = os.environ.get("ABUSEIPDB_KEY", "")
 OTX_API_KEY     = os.environ.get("OTX_API_KEY", "")
 SHODAN_API_KEY  = os.environ.get("SHODAN_API_KEY", "")
+ABUSECH_API_KEY = os.environ.get("ABUSECH_API_KEY", "")
 
 # ── Config ───────────────────────────────────────────────────────────────────
 ABUSEIPDB_MIN_CONFIDENCE = 90   # Only IPs with confidence >= this value
@@ -50,6 +53,7 @@ iocs = {
     "abuseipdb":  defaultdict(set),
     "otx":        {"ips": set(), "hashes": set(), "urls": [], "domains": []},
     "shodan":     defaultdict(set),
+    "urlhaus":    {"urls": []},
 }
 
 
@@ -122,9 +126,9 @@ def save_all():
     print("-" * 60)
     for source, types in iocs.items():
         for ioc_type, data in types.items():
-            if source == "otx" and ioc_type == "domains":
+            if ioc_type == "domains" and isinstance(data, list):
                 save_domains_csv(source, data)
-            elif source == "otx" and ioc_type == "urls":
+            elif ioc_type == "urls" and isinstance(data, list):
                 save_urls_csv(source, data)
             else:
                 save(source, ioc_type, data)
@@ -325,6 +329,76 @@ def fetch_shodan():
 
 
 # ════════════════════════════════════════════════════════════════════════════
+# URLHAUS
+# Docs: https://urlhaus.abuse.ch/api/
+# Full dump: active malware URLs + URLs added in the past 90 days
+# CSV columns: id, dateadded, url, url_status, last_online, threat, tags,
+#              urlhaus_link, reporter
+# Only rows where url_status == "online" OR threat is set are kept
+# ════════════════════════════════════════════════════════════════════════════
+
+def fetch_urlhaus():
+    if not ABUSECH_API_KEY:
+        log("URLhaus", "Skipped — ABUSECH_API_KEY not set")
+        return
+
+    try:
+        resp = requests.get(
+            "https://urlhaus-api.abuse.ch/v1/urls/recent/limit/0/",
+            headers={"Auth-Key": ABUSECH_API_KEY},
+            params={"auth-key": ABUSECH_API_KEY},
+            timeout=60
+        )
+
+        if resp.status_code == 301 or "auth-key" in resp.url:
+            resp = requests.get(
+                f"https://urlhaus-api.abuse.ch/files/exports/recent.csv?auth-key={ABUSECH_API_KEY}",
+                timeout=60
+            )
+
+        resp.raise_for_status()
+
+        lines = resp.text.splitlines()
+        before = len(iocs["urlhaus"]["urls"])
+
+        for line in lines:
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+
+            parts = line.split(",", 8)
+            if len(parts) < 8:
+                continue
+
+            url_val    = parts[2].strip().strip('"')
+            url_status = parts[3].strip().strip('"')
+            threat     = parts[5].strip().strip('"')
+            tags       = parts[6].strip().strip('"')
+            reporter   = parts[8].strip().strip('"') if len(parts) > 8 else "urlhaus"
+            date_added = parts[1].strip().strip('"')
+            reference  = parts[7].strip().strip('"')
+
+            if not url_val or not url_val.startswith("http"):
+                continue
+
+            iocs["urlhaus"]["urls"].append({
+                "date":      date_added,
+                "reporter":  reporter,
+                "type":      "url",
+                "ioc":       url_val,
+                "tags":      tags,
+                "reference": reference,
+            })
+
+        log("URLhaus", f"urls → {len(iocs['urlhaus']['urls']) - before} malicious URLs fetched")
+
+    except requests.HTTPError as e:
+        log("URLhaus", f"HTTP {e.response.status_code}: {e.response.text[:120]}")
+    except Exception as e:
+        log("URLhaus", f"Error: {e}")
+
+
+# ════════════════════════════════════════════════════════════════════════════
 # MAIN
 # ════════════════════════════════════════════════════════════════════════════
 
@@ -338,6 +412,7 @@ if __name__ == "__main__":
     fetch_abuseipdb()
     fetch_otx()
     fetch_shodan()
+    fetch_urlhaus()
 
     # Print grand totals per source
     print("-" * 60)
