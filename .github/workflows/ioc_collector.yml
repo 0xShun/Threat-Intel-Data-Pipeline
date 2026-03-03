@@ -39,10 +39,12 @@ jobs:
           OTX_API_KEY:     ${{ secrets.OTX_API_KEY }}
           SHODAN_API_KEY:  ${{ secrets.SHODAN_API_KEY }}
           ABUSECH_API_KEY: ${{ secrets.ABUSECH_API_KEY }}
+
+
         run: python scripts/collect_iocs.py
 
       # ── 5. Commit updated report files back to repo ───────────────────────
-      - name: Commit IOC reports
+      - name: Commit new IOC reports
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
