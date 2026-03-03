@@ -70,8 +70,6 @@ def save_all():
             else:
                 save(source, ioc_type, data)
 
-
-
 def fetch_virustotal():
     if not VT_API_KEY:
         log("VT", "Skipped — VT_API_KEY not set")
