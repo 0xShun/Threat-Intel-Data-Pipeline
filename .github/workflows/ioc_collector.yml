@@ -51,3 +51,4 @@ jobs:
             git commit -m "chore: update IOC feeds [${TIMESTAMP}]"
             git push
           fi
+
