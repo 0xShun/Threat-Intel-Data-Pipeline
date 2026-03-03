@@ -26,6 +26,7 @@ iocs = {
     "threatfox":   {"ips": set(), "urls": [], "domains": []},
     "shodan":     defaultdict(set),
     "urlhaus":    {"urls": []},
+    "malwarebazaar": defaultdict(set),
 }
 
 def log(source, msg):
@@ -405,6 +406,37 @@ def fetch_threatfox():
     except Exception as e:
         log("ThreatFox", f"Error: {e}")
 
+
+def fetch_malwarebazaar():
+    if not ABUSECH_API_KEY:
+        log("MalwareBazaar", "Skipped — ABUSECH_API_KEY not set")
+        return
+
+    try:
+        resp = requests.post(
+            "https://mb-api.abuse.ch/api/v1/",
+            headers={"Auth-Key": ABUSECH_API_KEY, "Accept": "application/json"},
+            data={"query": "get_recent", "selector": "100"},
+            timeout=60,
+        )
+        resp.raise_for_status()
+        payload = resp.json()
+        if payload.get("query_status") != "ok":
+            log("MalwareBazaar", f"API returned query_status={payload.get('query_status')}")
+            return
+
+        for entry in payload.get("data", []) or []:
+            sha256_hash = str(entry.get("sha256_hash", "")).strip()
+            if sha256_hash:
+                iocs["malwarebazaar"]["hashes"].add(sha256_hash)
+
+        log("MalwareBazaar", f"hashes → {len(iocs['malwarebazaar']['hashes'])} IOCs")
+
+    except requests.HTTPError as e:
+        log("MalwareBazaar", f"HTTP {e.response.status_code}: {e.response.text[:120]}")
+    except Exception as e:
+        log("MalwareBazaar", f"Error: {e}")
+
 if __name__ == "__main__":
     run_ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
     print("=" * 60)
@@ -417,6 +449,7 @@ if __name__ == "__main__":
     fetch_shodan()
     fetch_urlhaus()
     fetch_threatfox()
+    fetch_malwarebazaar()
 
     # Print grand totals per source
     print("-" * 60)
@@ -433,4 +466,5 @@ if __name__ == "__main__":
     if grand_total == 0:
         log("MAIN", "WARNING: No IOCs collected. Check API keys and feed access.")
         sys.exit(1)
+
     print("  Done.")
