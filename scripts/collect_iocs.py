@@ -1,3 +1,25 @@
+"""
+IOC Collector
+=============
+Pulls the latest malicious IOCs from:
+  - VirusTotal  (IPs, Hashes, Domains, URLs)
+  - AbuseIPDB   (IPs)
+  - AlienVault OTX (IPs, Hashes, Domains, URLs)
+  - Shodan      (IPs)
+
+Outputs (one IOC per line, deduplicated, overwritten each run):
+  reports/virustotal_ips.txt
+  reports/virustotal_hashes.txt
+  reports/virustotal_domains.txt
+  reports/virustotal_urls.txt
+  reports/abuseipdb_ips.txt
+  reports/otx_ips.txt
+  reports/otx_hashes.txt
+  reports/otx_domains.txt
+  reports/otx_urls.txt
+  reports/shodan_ips.txt
+"""
+
 import os
 import sys
 import csv
@@ -5,11 +27,13 @@ import requests
 from datetime import datetime, timezone
 from collections import defaultdict
 
+# ── API Keys (injected by GitHub Actions secrets) ────────────────────────────
 VT_API_KEY      = os.environ.get("VT_API_KEY", "")
 ABUSEIPDB_KEY   = os.environ.get("ABUSEIPDB_KEY", "")
 OTX_API_KEY     = os.environ.get("OTX_API_KEY", "")
 SHODAN_API_KEY  = os.environ.get("SHODAN_API_KEY", "")
 
+# ── Config ───────────────────────────────────────────────────────────────────
 ABUSEIPDB_MIN_CONFIDENCE = 90   # Only IPs with confidence >= this value
 VT_FEED_LIMIT            = 200  # Max items per VT feed call
 OTX_PULSE_LIMIT          = 30   # Max number of recent OTX pulses to scan
@@ -17,12 +41,21 @@ SHODAN_QUERY             = "category:malware"
 
 OUTPUT_DIR = "reports"
 
+# ── IOC Store ────────────────────────────────────────────────────────────────
+# Structure: iocs[source][ioc_type] = set of values
+# Sources : "virustotal", "abuseipdb", "otx", "shodan"
+# Types   : "ips", "hashes", "domains", "urls"
 iocs = {
     "virustotal": defaultdict(set),
     "abuseipdb":  defaultdict(set),
-    "otx":        {"ips": set(), "hashes": set(), "urls": set(), "domains": []},
+    "otx":        {"ips": set(), "hashes": set(), "urls": [], "domains": []},
     "shodan":     defaultdict(set),
 }
+
+
+# ════════════════════════════════════════════════════════════════════════════
+# HELPERS
+# ════════════════════════════════════════════════════════════════════════════
 
 def log(source, msg):
     ts = datetime.now(timezone.utc).strftime("%H:%M:%S")
@@ -30,6 +63,7 @@ def log(source, msg):
 
 
 def save(source, ioc_type, data):
+    """Write a source+type bucket to reports/<source>_<ioc_type>.txt"""
     if not data:
         log("OUTPUT", f"{source}_{ioc_type}.txt — skipped (0 IOCs)")
         return
@@ -43,6 +77,7 @@ def save(source, ioc_type, data):
 
 
 def save_domains_csv(source, rows):
+    """Write domain IOCs as CSV: date,reporter,type,ioc,tags,reference"""
     if not rows:
         log("OUTPUT", f"{source}_domains.csv — skipped (0 IOCs)")
         return
@@ -62,13 +97,45 @@ def save_domains_csv(source, rows):
     log("OUTPUT", f"{filename} → {len(unique_rows)} IOCs")
 
 
+def save_urls_csv(source, rows):
+    """Write URL IOCs as CSV: date,reporter,type,ioc,tags,reference"""
+    if not rows:
+        log("OUTPUT", f"{source}_urls.csv — skipped (0 IOCs)")
+        return
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    filename = f"{source}_urls.csv"
+    path     = os.path.join(OUTPUT_DIR, filename)
+    seen     = set()
+    unique_rows = []
+    for row in rows:
+        if row["ioc"] not in seen:
+            seen.add(row["ioc"])
+            unique_rows.append(row)
+    unique_rows.sort(key=lambda r: r["ioc"])
+    with open(path, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=["date", "reporter", "type", "ioc", "tags", "reference"])
+        writer.writerows(unique_rows)
+    log("OUTPUT", f"{filename} → {len(unique_rows)} IOCs")
+
+
 def save_all():
+    print("-" * 60)
     for source, types in iocs.items():
         for ioc_type, data in types.items():
             if source == "otx" and ioc_type == "domains":
                 save_domains_csv(source, data)
+            elif source == "otx" and ioc_type == "urls":
+                save_urls_csv(source, data)
             else:
                 save(source, ioc_type, data)
+    print("-" * 60)
+
+
+# ════════════════════════════════════════════════════════════════════════════
+# VIRUSTOTAL
+# Requires VT Enterprise/Premium for /feeds endpoints
+# Docs: https://developers.virustotal.com/reference/feeds
+# ════════════════════════════════════════════════════════════════════════════
 
 def fetch_virustotal():
     if not VT_API_KEY:
@@ -103,6 +170,14 @@ def fetch_virustotal():
         except Exception as e:
             log("VT", f"{ioc_type} error: {e}")
 
+
+# ════════════════════════════════════════════════════════════════════════════
+# ABUSEIPDB
+# Docs: https://docs.abuseipdb.com/#blacklist-endpoint
+# Free tier: up to 10,000 IPs at confidence >= 100
+# Basic tier: configurable confidence threshold
+# ════════════════════════════════════════════════════════════════════════════
+
 def fetch_abuseipdb():
     if not ABUSEIPDB_KEY:
         log("AbuseIPDB", "Skipped — ABUSEIPDB_KEY not set")
@@ -129,6 +204,13 @@ def fetch_abuseipdb():
         log("AbuseIPDB", f"HTTP {e.response.status_code}: {e.response.text[:120]}")
     except Exception as e:
         log("AbuseIPDB", f"Error: {e}")
+
+
+# ════════════════════════════════════════════════════════════════════════════
+# ALIENVAULT OTX
+# Docs: https://otx.alienvault.com/api
+# Direct REST calls with timeout (avoids SDK getall() hanging indefinitely)
+# ════════════════════════════════════════════════════════════════════════════
 
 def fetch_otx():
     if not OTX_API_KEY:
@@ -182,6 +264,15 @@ def fetch_otx():
                             "tags":      pulse_tags,
                             "reference": pulse_url,
                         })
+                    elif ioc_type == "urls":
+                        iocs["otx"]["urls"].append({
+                            "date":      ts,
+                            "reporter":  pulse_name,
+                            "type":      "url",
+                            "ioc":       ioc_val,
+                            "tags":      pulse_tags,
+                            "reference": pulse_url,
+                        })
                     else:
                         iocs["otx"][ioc_type].add(ioc_val)
 
@@ -198,6 +289,13 @@ def fetch_otx():
         log("OTX", f"HTTP {e.response.status_code}: {e.response.text[:120]}")
     except Exception as e:
         log("OTX", f"Error: {e}")
+
+
+# ════════════════════════════════════════════════════════════════════════════
+# SHODAN
+# Docs: https://developer.shodan.io/api
+# Note: Shodan free tier has limited search credits per month
+# ════════════════════════════════════════════════════════════════════════════
 
 def fetch_shodan():
     if not SHODAN_API_KEY:
@@ -225,9 +323,16 @@ def fetch_shodan():
     except Exception as e:
         log("Shodan", f"Error: {e}")
 
+
+# ════════════════════════════════════════════════════════════════════════════
+# MAIN
+# ════════════════════════════════════════════════════════════════════════════
+
 if __name__ == "__main__":
     run_ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    print("=" * 60)
     print(f"  IOC Collection Run — {run_ts}")
+    print("=" * 60)
 
     fetch_virustotal()
     fetch_abuseipdb()
