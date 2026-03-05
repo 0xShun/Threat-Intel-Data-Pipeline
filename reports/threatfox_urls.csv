@@ -1,170 +1,116 @@
-2026-03-04 06:08:28,Unknown malware,url,http://103.27.156.206/most.pdf,#ClickFix #Fake OS Update #xHamster,https://threatfox.abuse.ch/ioc/1757612/
-2026-03-04 06:08:32,Unknown malware,url,http://114.66.58.11:8888/supershell/login/,#AS136188 #NINGBO  ZHEJIANG Province  P.R.China. #Supershell,https://threatfox.abuse.ch/ioc/1757600/
-2026-03-04 21:41:49,Unknown malware,url,http://144.31.207.34/f.GRE,#ClickFix #NetSupport RAT,https://threatfox.abuse.ch/ioc/1758523/
-2026-03-04 06:08:17,Unknown malware,url,http://144.31.25.150:5000/send_photo,#c2,https://app.any.run/tasks/0680fb2e-4d2d-4dfa-bf19-732a30e630e1
+2026-03-05 06:22:00,Unknown malware,url,http://144.31.207.34/f.GRE,#ClickFix #NetSupport RAT,https://threatfox.abuse.ch/ioc/1758523/
 2026-03-04 08:46:08,Stealc,url,http://158.94.209.172/f9c376230e95425f.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-9fbc-736c-a5c9-b67290256f4f
 2026-03-04 08:46:14,Stealc,url,http://173.208.162.243/001131370c794afc.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-b6bf-7026-a561-0ac1d986750b
 2026-03-04 08:46:18,Stealc,url,http://176.65.141.212/4e42aa25c624454b.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-c537-7149-9d4b-2dd391cd59c9
 2026-03-04 08:46:21,Stealc,url,http://176.98.185.85/536fde2d792c4b27.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-d4a4-72ec-8234-009d6a5cba9b
 2026-03-04 08:49:09,Hook,url,http://185.196.11.203/,#c2 #HookBot #URLscan,https://urlscan.io/result/019cb809-6299-702a-a9b4-d74d84d2be88
 2026-03-04 08:46:15,Stealc,url,http://185.208.156.150/5c7528f9ea08459d.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-bac4-762e-83ba-2ec6f78c53ff
-2026-03-04 21:07:34,Unknown malware,url,http://193.111.117.21/R.GRE,#ClickFix #NetSupport RAT,https://threatfox.abuse.ch/ioc/1758513/
+2026-03-05 06:22:09,Unknown malware,url,http://193.111.117.21/R.GRE,#ClickFix #NetSupport RAT,https://threatfox.abuse.ch/ioc/1758513/
 2026-03-04 08:46:10,Stealc,url,http://193.233.198.199/9d649318033e475a.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-a881-7076-9cf7-8c929971b941
 2026-03-04 08:46:23,Stealc,url,http://193.24.123.41/eae4257f605c417c.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-d969-71ab-9c44-bb2035b8f2bd
 2026-03-04 08:46:19,Stealc,url,http://213.209.150.27/51d19cd02aba4bdf.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-ca9b-714f-9f02-391bdeaca02f
 2026-03-04 08:46:09,Stealc,url,http://213.21.237.183/979b792f11becc6f.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-a408-704e-a20e-b1d535ecbf10
-2026-03-04 18:28:40,Unknown malware,url,http://213.5.130.131,#c2 #REMPROXY,https://threatfox.abuse.ch/ioc/1758459/
-2026-03-04 18:28:40,Unknown malware,url,http://213.5.130.154,#c2 #REMPROXY,https://threatfox.abuse.ch/ioc/1758457/
-2026-03-04 18:28:41,Unknown malware,url,http://213.5.130.179,#c2 #REMPROXY,https://threatfox.abuse.ch/ioc/1758460/
-2026-03-04 18:28:41,Unknown malware,url,http://213.5.130.189,#c2 #REMPROXY,https://threatfox.abuse.ch/ioc/1758461/
-2026-03-04 18:28:40,Unknown malware,url,http://213.5.130.197,#c2 #REMPROXY,https://threatfox.abuse.ch/ioc/1758456/
-2026-03-04 18:28:40,Unknown malware,url,http://213.5.130.200,#c2 #REMPROXY,https://threatfox.abuse.ch/ioc/1758458/
+2026-03-05 06:17:55,Unknown malware,url,http://213.5.130.131,#c2 #REMPROXY,https://threatfox.abuse.ch/ioc/1758459/
+2026-03-05 06:17:57,Unknown malware,url,http://213.5.130.154,#c2 #REMPROXY,https://threatfox.abuse.ch/ioc/1758457/
+2026-03-05 06:17:54,Unknown malware,url,http://213.5.130.179,#c2 #REMPROXY,https://threatfox.abuse.ch/ioc/1758460/
+2026-03-05 06:17:54,Unknown malware,url,http://213.5.130.189,#c2 #REMPROXY,https://threatfox.abuse.ch/ioc/1758461/
+2026-03-05 06:17:58,Unknown malware,url,http://213.5.130.197,#c2 #REMPROXY,https://threatfox.abuse.ch/ioc/1758456/
+2026-03-05 06:17:56,Unknown malware,url,http://213.5.130.200,#c2 #REMPROXY,https://threatfox.abuse.ch/ioc/1758458/
 2026-03-04 08:46:01,Stealc,url,http://23.88.106.134/c73eed764cc59dcb.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-8665-729d-8976-15042ff42a06
 2026-03-04 16:31:11,Unknown malware,url,http://35.231.116.180/AF8kJoVfX0xugW-DByfqkgKrdK7lzVGoPl773KpXeK4tXU2s2pL-sMjacHw7N_hT4bwiK3Lir5ZbEdjtxa8VCH6li4dH3ZDHp6rua66zFX_nNh7fML8z7EXbK70-JDoAgbFsYahsTfwCI0GoeGKlQR9T8oz5IJ26cHExXziF1o4mbC0G8mULmIZcbP7_,,https://bazaar.abuse.ch/sample/bd59bb135653562210af1eb84bce0345472014b06f21c86e1bfd11e04acbf546/
 2026-03-04 08:46:05,Stealc,url,http://45.147.196.230/79f070f264484425.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-9536-772b-9f02-ce8fd4e6b849
-2026-03-04 19:17:59,Unknown malware,url,http://5.175.234.213/small.bat,#ClickFix,https://threatfox.abuse.ch/ioc/1758469/
-2026-03-04 19:18:19,Unknown malware,url,http://5.175.234.213/test.txt,#ClickFix,https://threatfox.abuse.ch/ioc/1758470/
+2026-03-05 06:22:16,Unknown malware,url,http://5.175.234.213/small.bat,#ClickFix,https://threatfox.abuse.ch/ioc/1758469/
+2026-03-05 06:22:15,Unknown malware,url,http://5.175.234.213/test.txt,#ClickFix,https://threatfox.abuse.ch/ioc/1758470/
 2026-03-04 08:46:11,Stealc,url,http://77.110.114.203/c8f5f829fc9a4856.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-ac04-73da-be02-025a6f17249d
 2026-03-04 08:46:15,Stealc,url,http://77.220.213.101/d302466ba3884d8c.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-bdbc-71bd-8240-212e21f1dbd7
+2026-03-05 06:01:48,Stealc,url,http://91.212.166.169,#AS198953 #c2 #Stealc #stealer #triage,https://tria.ge/260305-dbpcdahy8n
 2026-03-04 08:46:00,Stealc,url,http://95.217.139.186/1f8e0e5505b344dd.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-8235-72cf-9f96-0f89b93c8f9b
-2026-03-04 17:22:56,Unknown malware,url,http://bestcryptocurrency.top/details/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 10:15:10,DCRat,url,http://cc812496.tw1.ru/06ee2c94.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1758114/
-2026-03-04 06:00:08,TeamBot,url,http://cjto.top/sdgfsdfhsdfsdfssfdspen5/get.php,#TeamBot,https://threatfox.abuse.ch/ioc/1758027/
-2026-03-04 17:22:55,Unknown malware,url,http://cryptocurrencyworld.top/details/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:53,Unknown malware,url,http://ddus17.com/tuiliu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:55,Unknown malware,url,http://goodcryptocurrency.top/details/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 16:25:07,DCRat,url,http://hulr3lyand.temp.swtest.ru/664f54e6.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1758288/
-2026-03-04 17:22:59,Unknown malware,url,http://land.777bingos.xyz/88k4ez/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:59,Unknown malware,url,http://land.77bingos.com/88k4ez/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:59,Unknown malware,url,http://land.bingo777.now/88k4ez/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:53,Unknown malware,url,http://pepeairdrop01.com/static/analytics.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
+2026-03-05 06:01:01,Amadey,url,http://support.avs4soft.com,#Amadey #c2 #Loader #triage,https://tria.ge/260305-dhnpesat4p
+2026-03-05 06:01:01,Amadey,url,http://support.office365excel.xyz,#Amadey #c2 #Loader #triage,https://tria.ge/260305-dhnpesat4p
 2026-03-04 08:50:52,Kimsuky,url,https://101.36.114.231,#c2 #kimsuky #URLQuery,https://urlquery.net/report/c09deb76-e0c8-4808-bb1f-0180fa0f3389
-2026-03-04 06:08:17,Vidar,url,https://151.247.22.111/,#c2 #Vidar,https://tria.ge/260303-ys4hvaev5r/behavioral3
 2026-03-04 08:46:03,Stealc,url,https://178.236.252.126/3e95b29aff3361c5.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-8adf-710f-a4e2-64b6d31bd7d7
 2026-03-04 08:46:06,Stealc,url,https://185.190.250.43/a4b374f33e9c46af.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-994d-774b-8118-bd6b9029d3db
-2026-03-04 17:22:55,Unknown malware,url,https://26a.online/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 08:50:51,Kimsuky,url,https://27.102.137.140,#c2 #kimsuky #URLQuery,https://urlquery.net/report/86bde43d-2027-4c07-b431-c1566b000a2b
-2026-03-04 17:23:00,Unknown malware,url,https://3v5w1km5gv.xyz/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:57,Unknown malware,url,https://4kgame.us/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:56,Unknown malware,url,https://4u.game/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:54,Unknown malware,url,https://65sse.668ddf.cc/tuiliu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
+2026-03-05 06:18:01,Unknown malware,url,https://3v5w1km5gv.xyz/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 07:53:18,Vidar,url,https://74.0.32.118/,#Vidar,https://threatfox.abuse.ch/ioc/1758053/
 2026-03-04 07:53:17,Vidar,url,https://74.0.32.119/,#Vidar,https://threatfox.abuse.ch/ioc/1758051/
 2026-03-04 07:53:18,Vidar,url,https://74.0.32.28/,#Vidar,https://threatfox.abuse.ch/ioc/1758054/
 2026-03-04 07:53:18,Vidar,url,https://77.42.49.55/,#Vidar,https://threatfox.abuse.ch/ioc/1758055/
-2026-03-04 17:22:57,Unknown malware,url,https://7ff.online/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:58,Unknown malware,url,https://7fun.icu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:58,Unknown malware,url,https://7p.game/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:57,Unknown malware,url,https://7uspin.us/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 08:45:59,Stealc,url,https://91.214.78.178/19347ab5734978bc.php,#c2 #Stealc #URLscan,https://urlscan.io/result/019cb806-7d77-7438-89f1-e43c4ff177bb
 2026-03-04 07:53:18,Vidar,url,https://95.217.50.22/,#Vidar,https://threatfox.abuse.ch/ioc/1758052/
-2026-03-04 17:22:58,Unknown malware,url,https://98a.online/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 13:54:06,ClearFake,url,https://a7x9k2.goatbreed.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758204/
 2026-03-04 13:55:59,ClearFake,url,https://agr4-vvave.agrahurry.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758210/
-2026-03-04 17:22:53,Unknown malware,url,https://ai-scorepredict.com/static/analytics.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:54,Unknown malware,url,https://ajskbnrs.xn--jor0b302fdhgwnccw8g.com/gogo/list.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 10:47:10,Unknown malware,url,https://akaras.ch/,#ClickFix,https://clickfix.carsonww.com/domains/akaras.ch
-2026-03-04 17:22:59,Unknown malware,url,https://anygg.liquorfight.com/88k4ez/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 15:29:56,ClearFake,url,https://aurum-net.goldhaven.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758226/
-2026-03-04 17:22:56,Unknown malware,url,https://b27.icu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:56,Unknown malware,url,https://binancealliancesintro.com/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 13:58:03,ClearFake,url,https://blastforge.highexplos.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758215/
 2026-03-04 13:58:49,ClearFake,url,https://blue-node.bluehaven.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758217/
 2026-03-04 14:17:12,ClearFake,url,https://blue03.bluehaven.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758223/
-2026-03-04 17:22:59,Unknown malware,url,https://btrank.top/tuiliu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 13:52:00,ClearFake,url,https://cal-node.caliphdotham.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758200/
 2026-03-04 13:52:51,ClearFake,url,https://cal-v1.caliphdotham.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758202/
-2026-03-04 22:00:27,KongTuke,url,https://cam4fr.com/4a5g.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1758531/
-2026-03-04 23:11:57,Unknown malware,url,https://cdnwoopress.com/api/beacon,#ClickFix,https://threatfox.abuse.ch/ioc/1758569/
-2026-03-04 23:11:14,Unknown malware,url,https://cdnwoopress.com/api/get_payload,#ClickFix,https://threatfox.abuse.ch/ioc/1758568/
-2026-03-04 23:08:46,Unknown malware,url,https://cdnwoopress.com/verify,#ClickFix,https://threatfox.abuse.ch/ioc/1758565/
+2026-03-05 06:21:55,KongTuke,url,https://cam4fr.com/4a5g.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1758531/
+2026-03-05 06:21:42,Unknown malware,url,https://cdnwoopress.com/api/beacon,#ClickFix,https://threatfox.abuse.ch/ioc/1758569/
+2026-03-05 06:21:43,Unknown malware,url,https://cdnwoopress.com/api/get_payload,#ClickFix,https://threatfox.abuse.ch/ioc/1758568/
+2026-03-05 06:21:45,Unknown malware,url,https://cdnwoopress.com/verify,#ClickFix,https://threatfox.abuse.ch/ioc/1758565/
 2026-03-04 10:54:59,Vidar,url,https://che.cricket-physio.com/,#Vidar,https://threatfox.abuse.ch/ioc/1758119/
 2026-03-04 10:54:59,Vidar,url,https://chu.myserver.com.bd/,#Vidar,https://threatfox.abuse.ch/ioc/1758118/
 2026-03-04 08:47:11,Fickle Stealer,url,https://cloud-verificate.com/panel/login.php,#c2 #fickle #URLscan,https://urlscan.io/result/019cb807-9633-70da-861c-c9f09eae4dbc
+2026-03-05 06:01:34,Lumma Stealer,url,https://copper-replace.sbs/api,#c2 #Lumma #stealer #triage,https://tria.ge/260305-dchk8ahz5m
 2026-03-04 13:43:57,ClearFake,url,https://crop-sync.croprotation.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758192/
 2026-03-04 13:45:45,ClearFake,url,https://crop-v2.croprotation.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758194/
-2026-03-04 17:22:57,Unknown malware,url,https://cy8.top/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 13:40:15,ClearFake,url,https://dach-core.dachshreinsur.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758187/
-2026-03-04 17:22:55,Unknown malware,url,https://dbgopaxl.com/static/goindex/tuiliu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:23:00,Unknown malware,url,https://dd9l7e6ghme8pbk.xyz/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 06:08:26,Unknown malware,url,https://diskcitylink.com/winsxs/../compile/../debug/../gfGm0dy/c.w,#ClickFix,https://threatfox.abuse.ch/ioc/1757615/
 2026-03-04 13:52:24,ClearFake,url,https://doth-sync.caliphdotham.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758201/
 2026-03-04 13:53:44,ClearFake,url,https://doth09.caliphdotham.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758203/
 2026-03-04 08:53:02,Unknown Loader,url,https://drive.google.com/uc?export=download&id=1YBjCq-7kViWvaYuMdXlFCl0vCRlAfrGy,#guloader,https://threatfox.abuse.ch/ioc/1758100/
 2026-03-04 08:50:52,Kimsuky,url,https://elecviews85.dynv6.net/?naps,#c2 #kimsuky #URLQuery,https://urlquery.net/report/d3e8df50-3726-4b42-a4a5-40a4de53ab00
 2026-03-04 13:57:10,ClearFake,url,https://f1at-rnold.flatdon.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758213/
-2026-03-04 22:49:16,Unknown malware,url,https://fasrbaundidnbb.vg/flfa,#ClickFix,https://threatfox.abuse.ch/ioc/1758536/
+2026-03-05 06:21:46,Unknown malware,url,https://fasrbaundidnbb.vg/flfa,#ClickFix,https://threatfox.abuse.ch/ioc/1758536/
 2026-03-04 13:55:38,ClearFake,url,https://fastgrain.agrahurry.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758209/
-2026-03-04 17:23:00,Unknown malware,url,https://fxrhcnfwxes90q.xyz/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 13:54:53,ClearFake,url,https://g0at-rnark.goatbreed.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758207/
-2026-03-04 17:22:59,Unknown malware,url,https://goanalytics.xyz/88k4ez/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 15:29:57,ClearFake,url,https://gold-hub.goldhaven.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758224/
-2026-03-04 17:22:53,Unknown malware,url,https://goodcryptocurrency.top/details/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 13:58:26,ClearFake,url,https://h1gh-xpl0r.highexplos.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758216/
-2026-03-04 17:22:56,Unknown malware,url,https://h4k.icu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 13:57:32,ClearFake,url,https://h9k2x7.highexplos.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758214/
+2026-03-05 06:01:37,Lumma Stealer,url,https://hallowed-noisy.sbs/api,#c2 #Lumma #stealer #triage,https://tria.ge/260305-dchk8ahz5m
 2026-03-04 13:59:37,ClearFake,url,https://haven-v1.bluehaven.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758218/
 2026-03-04 15:29:57,ClearFake,url,https://haven-v2.goldhaven.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758225/
 2026-03-04 13:54:29,ClearFake,url,https://hillpasture.goatbreed.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758206/
-2026-03-04 17:22:54,Unknown malware,url,https://i.binaner.com/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 12:25:04,Unknown malware,url,https://inheritance-claims-portal-3246744.com/,#ClickFix,https://clickfix.carsonww.com/domains/inheritance-claims-portal-3246744.com
 2026-03-04 13:41:37,ClearFake,url,https://insur-net.dachshreinsur.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758188/
 2026-03-04 13:42:48,ClearFake,url,https://insur02.dachshreinsur.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758191/
-2026-03-04 17:22:54,Unknown malware,url,https://ios.teegrom.top/tuiliu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:55,Unknown malware,url,https://iphonex.mjdqw.cn/tuiliu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 06:08:20,KongTuke,url,https://joseph-stalin.top/o,#Kongtuke,https://infosec.exchange/@monitorsg/116166981342254584
-2026-03-04 17:22:58,Unknown malware,url,https://k96.icu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 06:08:26,SpyBanker,url,https://kKO1pH.b3h5n3c0.work,,https://threatfox.abuse.ch/ioc/1757617/
-2026-03-04 17:23:00,Unknown malware,url,https://kanav.blog/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:59,Unknown malware,url,https://land.bingo777.now/88k4ez/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:58,Unknown malware,url,https://lddx3z2d72aa8i6.xyz/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:53,Unknown malware,url,https://m.pc6.com/test/tuiliu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 06:08:30,Unknown malware,url,https://massimuta.ru/xhamster.html,#ClickFix #Fake OS Update #xHamster,https://threatfox.abuse.ch/ioc/1757609/
+2026-03-05 06:01:36,Lumma Stealer,url,https://looky-marked.sbs/api,#c2 #Lumma #stealer #triage,https://tria.ge/260305-dchk8ahz5m
 2026-03-04 08:50:51,Kimsuky,url,https://mhjjh.dynv6.net/,#c2 #kimsuky #URLQuery,https://urlquery.net/report/71f9c8e4-6e45-4446-a032-5df2e917e7e7
-2026-03-04 17:22:54,Unknown malware,url,https://mkkku.com/static/analytics.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 23:27:46,Unknown malware,url,https://mrinmay.net,#ClickFix,https://threatfox.abuse.ch/ioc/1758577/
-2026-03-04 21:37:55,Unknown malware,url,https://mvjfkakfkfkaiai.com/qwttt.js,#ClickFix,https://threatfox.abuse.ch/ioc/1758521/
-2026-03-04 17:22:58,Unknown malware,url,https://n49.top/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 23:29:16,Unknown malware,url,https://nobovcs.com,#ClickFix,https://threatfox.abuse.ch/ioc/1758579/
-2026-03-04 21:00:31,Unknown malware,url,https://ofaskfaksfmtjmka.com/kkaksf.js,#ClickFix,https://threatfox.abuse.ch/ioc/1758511/
-2026-03-04 21:50:49,Unknown malware,url,https://ofofoalalaladjrkrka.com/oaoasff.js,#ClickFix,https://threatfox.abuse.ch/ioc/1758526/
-2026-03-04 17:22:55,Unknown malware,url,https://ose.668ddf.cc/tuiliu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:53,Unknown malware,url,https://osec2.668ddf.cc/tuiliu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 23:10:34,Unknown malware,url,https://palanusantara.com/challenge/cf,#ClickFix,https://threatfox.abuse.ch/ioc/1758567/
-2026-03-04 17:22:53,Unknown malware,url,https://pepeairdrop01.com/static/analytics.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 21:53:45,Unknown malware,url,https://primetimehost.me/ama.php,#ClickFix,https://threatfox.abuse.ch/ioc/1758529/
+2026-03-05 06:21:37,Unknown malware,url,https://mrinmay.net,#ClickFix,https://threatfox.abuse.ch/ioc/1758577/
+2026-03-05 06:22:02,Unknown malware,url,https://mvjfkakfkfkaiai.com/qwttt.js,#ClickFix,https://threatfox.abuse.ch/ioc/1758521/
+2026-03-05 06:17:39,Unknown malware,url,https://nobovcs.com,#ClickFix,https://threatfox.abuse.ch/ioc/1758579/
+2026-03-05 06:22:10,Unknown malware,url,https://ofaskfaksfmtjmka.com/kkaksf.js,#ClickFix,https://threatfox.abuse.ch/ioc/1758511/
+2026-03-05 06:21:58,Unknown malware,url,https://ofofoalalaladjrkrka.com/oaoasff.js,#ClickFix,https://threatfox.abuse.ch/ioc/1758526/
+2026-03-05 06:21:43,Unknown malware,url,https://palanusantara.com/challenge/cf,#ClickFix,https://threatfox.abuse.ch/ioc/1758567/
+2026-03-05 06:01:37,Lumma Stealer,url,https://plastic-mitten.sbs/api,#c2 #Lumma #stealer #triage,https://tria.ge/260305-dchk8ahz5m
+2026-03-05 06:01:32,Lumma Stealer,url,https://preside-comforter.sbs/api,#c2 #Lumma #stealer #triage,https://tria.ge/260305-dchk8ahz5m
+2026-03-05 06:21:57,Unknown malware,url,https://primetimehost.me/ama.php,#ClickFix,https://threatfox.abuse.ch/ioc/1758529/
 2026-03-04 10:47:11,Unknown malware,url,https://progress-in-process-x2.t3.storage.dev/index.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_tALZRtzVbleOwBzPhLaBFJtuFdNjO_svOzqfqbwrxjBmWHSGrz/20260302/auto/s3/aws4_request&X-Amz-Date=20260302T210821Z&X-Amz-Expires=3110400&X-Amz-SignedHeaders=host&X-Amz-Signature=7056984e01577478fadf51abdd9151a0d35f1422bc73d8d0dcac059edb8659cc,#ClickFix,https://clickfix.carsonww.com/domains/progress-in-process-x2.t3.storage.dev
 2026-03-04 13:55:17,ClearFake,url,https://q4m8v1r.agrahurry.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758208/
-2026-03-04 17:23:00,Unknown malware,url,https://res54allb.xn--xkrsa0078bd6d.com/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
+2026-03-05 06:01:34,Lumma Stealer,url,https://record-envyp.sbs/api,#c2 #Lumma #stealer #triage,https://tria.ge/260305-dchk8ahz5m
 2026-03-04 13:44:33,ClearFake,url,https://rot-node.croprotation.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758193/
 2026-03-04 13:46:08,ClearFake,url,https://rot04.croprotation.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758195/
-2026-03-04 06:08:24,SpyBanker,url,https://rw3ukjj4q8l7.sayloot.com/,,https://threatfox.abuse.ch/ioc/1757618/
-2026-03-04 17:22:54,Unknown malware,url,https://sadjd.mijieqi.cn/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:57,Unknown malware,url,https://seven7.to/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:56,Unknown malware,url,https://seven7.vip/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 21:37:05,Unknown malware,url,https://shallebstravelagency.co.ke/teams.php?page=,#ClickFix,https://threatfox.abuse.ch/ioc/1758519/
-2026-03-04 17:22:55,Unknown malware,url,https://share.4u.game/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:57,Unknown malware,url,https://share.7p.game/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 21:51:33,Unknown malware,url,https://shorteverydaynnn.com/oakf,#ClickFix,https://threatfox.abuse.ch/ioc/1758527/
+2026-03-05 06:01:33,Lumma Stealer,url,https://savvy-steereo.sbs/api,#c2 #Lumma #stealer #triage,https://tria.ge/260305-dchk8ahz5m
+2026-03-05 06:22:04,Unknown malware,url,https://shallebstravelagency.co.ke/teams.php?page=,#ClickFix,https://threatfox.abuse.ch/ioc/1758519/
+2026-03-05 06:21:57,Unknown malware,url,https://shorteverydaynnn.com/oakf,#ClickFix,https://threatfox.abuse.ch/ioc/1758527/
 2026-03-04 13:42:17,ClearFake,url,https://shre-v1.dachshreinsur.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758190/
-2026-03-04 17:22:54,Unknown malware,url,https://sj9ioz3a7y89cy7.xyz/list.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 14:00:00,ClearFake,url,https://sky-sync.bluehaven.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758219/
-2026-03-04 17:22:56,Unknown malware,url,https://so5083.tubeluck.com/static/goindex/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 06:08:29,Unknown malware,url,https://soundlovlr.ru/xhamster.html,#ClickFix #Fake OS Update #xHamster,https://threatfox.abuse.ch/ioc/1757611/
-2026-03-04 17:22:58,Unknown malware,url,https://spin7.icu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
+2026-03-05 06:01:35,Lumma Stealer,url,https://slam-whipp.sbs/api,#c2 #Lumma #stealer #triage,https://tria.ge/260305-dchk8ahz5m
 2026-03-04 13:56:47,ClearFake,url,https://stoneplain.flatdon.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758212/
-2026-03-04 23:27:21,Unknown malware,url,https://subsgod.com,#ClickFix,https://threatfox.abuse.ch/ioc/1758576/
+2026-03-05 06:21:38,Unknown malware,url,https://subsgod.com,#ClickFix,https://threatfox.abuse.ch/ioc/1758576/
 2026-03-04 13:51:32,ClearFake,url,https://susp03.suspendvector.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758199/
-2026-03-04 17:22:58,Unknown malware,url,https://t7c.icu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 2026-03-04 07:53:17,Vidar,url,https://ths.cricket-physio.com/,#Vidar,https://threatfox.abuse.ch/ioc/1758050/
 2026-03-04 07:53:17,Vidar,url,https://ths.jhotpot.com.bd/,#Vidar,https://threatfox.abuse.ch/ioc/1758049/
-2026-03-04 23:26:57,Unknown malware,url,https://traderslinkfx.com,#ClickFix,https://threatfox.abuse.ch/ioc/1758575/
+2026-03-05 06:21:39,Unknown malware,url,https://traderslinkfx.com,#ClickFix,https://threatfox.abuse.ch/ioc/1758575/
+2026-03-05 06:08:24,Aura Stealer,url,https://unknowntool.shop,#AuraStealer #c2 #stealer #triage,https://tria.ge/260305-ejn71sby9p
 2026-03-04 13:46:33,ClearFake,url,https://vec-core.suspendvector.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758196/
 2026-03-04 13:51:06,ClearFake,url,https://vec-v1.suspendvector.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758198/
 2026-03-04 08:47:10,Fickle Stealer,url,https://verificate-cloudflare.com/panel/login.php,#c2 #fickle #URLscan,https://urlscan.io/result/019cb807-9217-771e-81fd-9710eb618ad9
 2026-03-04 08:47:12,Fickle Stealer,url,https://verification-cloud.com/panel/login.php,#c2 #fickle #URLscan,https://urlscan.io/result/019cb807-98d6-77fc-9c66-993cfaa47bda
-2026-03-04 17:22:55,Unknown malware,url,https://w2a315.tubeluck.com/static/goindex/tuiliu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 17:22:57,Unknown malware,url,https://www.appstoreconn.com/xmweb/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
-2026-03-04 21:38:38,Unknown malware,url,https://www.fitmoversuae.com/mkama.php?page=,#ClickFix,https://threatfox.abuse.ch/ioc/1758522/
-2026-03-04 17:22:56,Unknown malware,url,https://y4w.icu/group.html,#backdoor #Coruna,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
+2026-03-05 06:01:36,Lumma Stealer,url,https://wrench-creter.sbs/api,#c2 #Lumma #stealer #triage,https://tria.ge/260305-dchk8ahz5m
+2026-03-05 06:22:01,Unknown malware,url,https://www.fitmoversuae.com/mkama.php?page=,#ClickFix,https://threatfox.abuse.ch/ioc/1758522/
 2026-03-04 13:56:25,ClearFake,url,https://z8t3p.flatdon.in.net,#ClearFake #ClickFix,https://threatfox.abuse.ch/ioc/1758211/
