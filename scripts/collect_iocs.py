@@ -538,8 +538,6 @@ def save_combined_files(scores):
     print("-" * 60)
 
 
-# ---------------------------------------------------------------------------
-
 if __name__ == "__main__":
     run_ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
     print("=" * 60)
