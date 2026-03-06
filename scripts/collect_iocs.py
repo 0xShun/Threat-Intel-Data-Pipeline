@@ -17,6 +17,10 @@ OTX_PULSE_LIMIT          = 30
 SHODAN_QUERY             = "category:malware"
 THREATFOX_DAYS            = 1
 
+# Cross-source confidence scoring
+# An IOC must appear in this many distinct sources to be written to combined_malicious_*.txt
+MIN_CONFIDENCE_SOURCES = 2
+
 OUTPUT_DIR = "reports"
 
 iocs = {
@@ -437,6 +441,105 @@ def fetch_malwarebazaar():
     except Exception as e:
         log("MalwareBazaar", f"Error: {e}")
 
+# ---------------------------------------------------------------------------
+# Cross-source confidence scoring
+# ---------------------------------------------------------------------------
+
+def compute_cross_source_scores():
+    """
+    After all feeds have run, build a per-IOC-type map of:
+        { ioc_value: set_of_sources_that_reported_it }
+
+    Returns a dict with keys: 'ips', 'hashes', 'domains', 'urls'.
+    The confidence score of an IOC equals the number of sources in its set.
+    """
+    scores = {
+        "ips":     defaultdict(set),
+        "hashes":  defaultdict(set),
+        "domains": defaultdict(set),
+        "urls":    defaultdict(set),
+    }
+
+    for source, types in iocs.items():
+        for ioc_type, data in types.items():
+            if ioc_type not in scores:
+                continue
+            if isinstance(data, set):
+                # Plain set of IOC strings
+                for val in data:
+                    val = val.strip()
+                    if val:
+                        scores[ioc_type][val].add(source)
+            elif isinstance(data, list):
+                # Enriched list of dicts (CSV rows) — extract the 'ioc' key
+                for row in data:
+                    val = row.get("ioc", "").strip()
+                    if val:
+                        scores[ioc_type][val].add(source)
+
+    return scores
+
+
+def save_scored_csvs(scores):
+    """
+    Write reports/scored_{type}.csv for each IOC type.
+    Columns: ioc, score, sources
+    Sorted by score descending, then alphabetically by IOC.
+    """
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    for ioc_type, ioc_map in scores.items():
+        if not ioc_map:
+            log("SCORE", f"scored_{ioc_type}.csv — skipped (0 IOCs)")
+            continue
+        filename = f"scored_{ioc_type}.csv"
+        path     = os.path.join(OUTPUT_DIR, filename)
+        rows = sorted(
+            [
+                {
+                    "ioc":     k,
+                    "score":   len(v),
+                    "sources": ",".join(sorted(v)),
+                }
+                for k, v in ioc_map.items()
+            ],
+            key=lambda r: (-r["score"], r["ioc"]),
+        )
+        with open(path, "w", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=["ioc", "score", "sources"])
+            writer.writeheader()
+            writer.writerows(rows)
+        multi = sum(1 for r in rows if r["score"] >= MIN_CONFIDENCE_SOURCES)
+        log("SCORE", f"{filename} → {len(rows)} unique IOCs  "
+                     f"({multi} meet {MIN_CONFIDENCE_SOURCES}+ source threshold)")
+
+
+def save_combined_files(scores):
+    """
+    Write reports/combined_malicious_{type}.txt containing only IOCs whose
+    confidence score (number of distinct sources) >= MIN_CONFIDENCE_SOURCES.
+    """
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    print("-" * 60)
+    for ioc_type, ioc_map in scores.items():
+        high_conf = sorted(
+            ioc for ioc, sources in ioc_map.items()
+            if len(sources) >= MIN_CONFIDENCE_SOURCES
+        )
+        filename = f"combined_malicious_{ioc_type}.txt"
+        path     = os.path.join(OUTPUT_DIR, filename)
+        if not high_conf:
+            log("COMBINED", f"{filename} — skipped "
+                            f"(0 IOCs matched {MIN_CONFIDENCE_SOURCES}+ sources)")
+            continue
+        with open(path, "w") as f:
+            f.write("\n".join(high_conf) + "\n")
+        log("COMBINED", f"{filename} → {len(high_conf)} high-confidence IOCs "
+                        f"(seen in {MIN_CONFIDENCE_SOURCES}+ sources)")
+    print("-" * 60)
+
+
+# ---------------------------------------------------------------------------
+
 if __name__ == "__main__":
     run_ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
     print("=" * 60)
@@ -458,8 +561,13 @@ if __name__ == "__main__":
         breakdown = "  ".join(f"{t}={len(v)}" for t, v in types.items())
         print(f"  {source.upper():<12} total={total}  [{breakdown}]")
 
-    # Write all files
+    # Write per-source files (unchanged behaviour)
     save_all()
+
+    # Compute cross-source confidence scores and write combined outputs
+    scores = compute_cross_source_scores()
+    save_scored_csvs(scores)
+    save_combined_files(scores)
 
     # Exit non-zero if absolutely nothing was collected
     grand_total = sum(len(v) for types in iocs.values() for v in types.values())
