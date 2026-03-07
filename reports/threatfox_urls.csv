@@ -1,7 +1,5 @@
 2026-03-06 15:45:27,Cobalt Strike,url,http://192.168.71.252:18443/static/vendor/bootstrap/dist-bundle-2.1.4.min.js,#CobaltStrike,https://bazaar.abuse.ch/sample/b74ab01d4cec9234b0f84a3313d5cf4f8a874c577b972fb5aff1713ad79281fc/
-2026-03-06 06:02:31,Stealc,url,http://194.195.209.91,#AS63949 #c2 #Stealc #stealer #triage,https://tria.ge/260306-er8xdsex2l
-2026-03-05 19:06:45,Unknown malware,url,http://47.105.117.209:83/supershell/login/,#AS37963 #Hangzhou Alibaba Advertising Co. Ltd. #Supershell,https://threatfox.abuse.ch/ioc/1759018/
-2026-03-06 06:40:32,SpyNote,url,http://mcypresss.asia/,#c2 #Spynote #URLscan,https://urlscan.io/result/019cc1e0-5b1d-7799-80e9-eb48e56e33ac
+2026-03-06 22:00:02,VShell,url,http://43.164.1.146:8082/login/index,#AS132203 #Tencent Building  Kejizhongyi Avenue #Vshell,https://threatfox.abuse.ch/ioc/1760459/
 2026-03-06 13:47:03,Vidar,url,https://103.27.157.144/api/download,#Vidar,https://threatfox.abuse.ch/ioc/1760323/
 2026-03-06 07:51:22,Vidar,url,https://65.21.225.207/,#Vidar,https://threatfox.abuse.ch/ioc/1760199/
 2026-03-06 07:51:22,Vidar,url,https://74.0.32.64/,#Vidar,https://threatfox.abuse.ch/ioc/1760200/
@@ -11,10 +9,13 @@
 2026-03-06 09:50:06,Unknown malware,url,https://alpha.erbildecoor.com/?id=9228023&__cf_chl_rt_tk=0WTT341v83OfTlu9_sVt0mpCGs8eiXGuXRj0LgIbMkt4-1759406441-1.0.1.1-cKgxnjeNC3bilN23wwtGd4ZTe00EYBZDCXqqw55zKFcc,#ClickFix,https://clickfix.carsonww.com/domains/alpha.erbildecoor.com
 2026-03-06 07:12:24,SmartApeSG,url,https://amfredio.com/server,#SmartApeSG,https://infosec.exchange/@monitorsg/116178385330183335
 2026-03-06 07:12:20,SmartApeSG,url,https://amfredio.com/success,#SmartApeSG,https://infosec.exchange/@monitorsg/116178368753014125
-2026-03-05 19:06:50,PoshC2,url,https://blankeyeo.com/Taffy/Esta/Eleonore/Malissia/Elle/Annadiana/Kania/Wrennie/Fern?Fiona=Adrianna,,https://urlhaus.abuse.ch/url/3790150/
 2026-03-06 07:12:44,Unknown malware,url,https://cdn-verify-cloudflareservices1.t3.storage.dev/index.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_JcJmbyhOIDXrRpbTSkElCYIsBOhGryXRgchWDscIFQkPHhsbXL%2F20260306%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260306T053505Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=df9e6214d4b7dd76aa270f3c35f11fa11c4c4e887055f4f40c7c86858961651c,#ClickFix,https://clickfix.carsonww.com/domains/cdn-verify-cloudflareservices1.t3.storage.dev
 2026-03-06 16:30:04,Unknown malware,url,https://cdn3-cloudservices-verify.t3.storage.dev/follow/index.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_Nl_UVnrlTsPFGJopLnpfmGrvpgTyRTbexMsA_zhm_SbzIxFvyp%2F20260306%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260306T125126Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=119933e7d1a96d2c07ac541a641e6de626ce18247ab1555cf5da7838efe9c897,#ClickFix,https://clickfix.carsonww.com/domains/cdn3-cloudservices-verify.t3.storage.dev
-2026-03-06 06:40:48,Loki Password Stealer (PWS),url,https://electrico.co.zw/wp-admin/five/five/PvqDq929BSx_A_D_M1n_a.php,#c2 #LokiBot #URLscan,https://urlscan.io/result/019cc1e0-9a90-7445-ad33-09e65990edc0
+2026-03-06 18:01:10,AsyncRAT,url,https://drplus.in.net:4782,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-sqwsbsbt9y
+2026-03-06 18:01:11,AsyncRAT,url,https://drplus.in.net:6666,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-sqwsbsbt9y
+2026-03-06 18:01:10,AsyncRAT,url,https://drplus.in.net:8808,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-sqwsbsbt9y
+2026-03-06 18:01:13,AsyncRAT,url,https://drplus.in.net:8848,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-sqwsbsbt9y
+2026-03-06 18:01:12,AsyncRAT,url,https://drplus.in.net:8888,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-sqwsbsbt9y
 2026-03-06 15:14:43,KongTuke,url,https://ewar4pres.com/5j2s.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1760352/
 2026-03-06 15:20:56,KongTuke,url,https://ewar4pres.com/js.php,#Kongtuke,https://infosec.exchange/@monitorsg/116182904764822403
 2026-03-06 06:43:17,Glupteba,url,https://fulusus.com/api/install-failure,#c2 #glupteba,https://threatfox.abuse.ch/ioc/1760022/
@@ -22,10 +23,18 @@
 2026-03-06 07:12:25,SmartApeSG,url,https://gerony.top/reset/tenant-pipeline.php,#SmartApeSG,https://infosec.exchange/@monitorsg/116178416579840754
 2026-03-06 07:12:34,KongTuke,url,https://heavens-gate.top/o,#Kongtuke,https://infosec.exchange/@monitorsg/116179028856486281
 2026-03-06 07:04:29,Unknown RAT,url,https://joinmeetinginvite.im/ejoinzoom.us/Windows/invite.php,,https://threatfox.abuse.ch/ioc/1760061/
+2026-03-07 00:33:02,Emmenhtal,url,https://luispantaleone.com/?u=d24agdykm7scbtdpkko2tmq,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760527/
+2026-03-07 01:33:02,Emmenhtal,url,https://lungilehealth.com/?u=y7rrlrz6eamtlp5iyppuoly,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760536/
+2026-03-07 02:33:02,Emmenhtal,url,https://lvlenergy.pl/?u=ncilyoqjvutpmi5skblrf4a,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760547/
+2026-03-07 02:33:05,Emmenhtal,url,https://lxbrands.se/?u=2iklnysz37hzawp4khgr23y,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760548/
+2026-03-07 03:33:02,Emmenhtal,url,https://lynx-new.mightrecoverymarketing.com/?u=etmbh5zutjelbfywikpqsvq,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760560/
+2026-03-07 04:33:02,Emmenhtal,url,https://lyssatee.com/?u=n3bdxmkppncau5brlqbigaa,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760581/
+2026-03-07 04:33:04,Emmenhtal,url,https://morskirai.com/?u=dyprzu6hlmki5euacmy4qfq,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760582/
 2026-03-06 16:36:04,Emmenhtal,url,https://ms-munchen.com/?u=tr4agurakxpppsujnltvnma,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760387/
 2026-03-06 16:36:06,Emmenhtal,url,https://mtechs.com.vn/?u=q4hajzlt26cp2j72xyxuw5a,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760388/
 2026-03-06 16:36:08,Emmenhtal,url,https://mtowambuculturaltourism.org/?u=fscwqmrdbxghb2gvkytbjmy,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760389/
 2026-03-06 16:36:11,Emmenhtal,url,https://mullensports.net/?u=it3lz2kptwhmqy4lvx45ewq,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760390/
+2026-03-06 18:33:02,Emmenhtal,url,https://mutangiwaenvironmental.co.za/?u=scpnnhcjkidzk352ap5byaa,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760423/
 2026-03-06 07:51:22,Vidar,url,https://nap.digitalmatters360.com/,#Vidar,https://threatfox.abuse.ch/ioc/1760198/
 2026-03-06 07:51:22,Vidar,url,https://nap.myserver.com.bd/,#Vidar,https://threatfox.abuse.ch/ioc/1760197/
 2026-03-06 07:12:37,KongTuke,url,https://oriana84.com/5a7h.js,#Kongtuke,https://infosec.exchange/@monitorsg/116179028856486281
@@ -38,5 +47,12 @@
 2026-03-06 07:04:29,Unknown RAT,url,https://us69webacc.top/Id/Windows/invite.php,,https://threatfox.abuse.ch/ioc/1760060/
 2026-03-06 13:44:22,Vidar,url,https://vrf.digitalmatters360.com/,#Vidar,https://threatfox.abuse.ch/ioc/1760321/
 2026-03-06 13:44:22,Vidar,url,https://vrf.myserver.com.bd/,#Vidar,https://threatfox.abuse.ch/ioc/1760320/
+2026-03-06 18:01:15,AsyncRAT,url,https://www.73bet.app/:443,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-pwmj3ae13l
+2026-03-06 18:01:16,AsyncRAT,url,https://www.73bet.app/:4782,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-pwmj3ae13l
+2026-03-06 18:01:13,AsyncRAT,url,https://www.73bet.app/:6606,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-pwmj3ae13l
+2026-03-06 18:01:14,AsyncRAT,url,https://www.73bet.app/:7707,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-pwmj3ae13l
+2026-03-06 18:01:14,AsyncRAT,url,https://www.73bet.app/:8808,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-pwmj3ae13l
+2026-03-06 18:01:15,AsyncRAT,url,https://www.73bet.app/:8848,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-pwmj3ae13l
+2026-03-06 18:01:14,AsyncRAT,url,https://www.73bet.app/:8888,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-pwmj3ae13l
 2026-03-06 07:04:29,Unknown RAT,url,https://zoommeetingapplicant.com/Zoom/Windows/invite.php,,https://threatfox.abuse.ch/ioc/1760059/
 2026-03-06 07:04:29,Unknown RAT,url,https://zoommeetingsapplicantinvite.com/Windows/invite.php,,https://threatfox.abuse.ch/ioc/1760062/
