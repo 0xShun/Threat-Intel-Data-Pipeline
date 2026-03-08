@@ -4,11 +4,7 @@
 2026-03-07 16:54:56,Unknown malware,url,http://45.113.1.204:8888/supershell/login/,#AS401701 #cognetcloud INC #Supershell,https://threatfox.abuse.ch/ioc/1760927/
 2026-03-07 07:07:36,Vidar,url,https://103.27.157.144/api/download,#Vidar,https://threatfox.abuse.ch/ioc/1760323/
 2026-03-07 07:07:31,Unknown malware,url,https://cdn3-cloudservices-verify.t3.storage.dev/follow/index.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_Nl_UVnrlTsPFGJopLnpfmGrvpgTyRTbexMsA_zhm_SbzIxFvyp%2F20260306%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260306T125126Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=119933e7d1a96d2c07ac541a641e6de626ce18247ab1555cf5da7838efe9c897,#ClickFix,https://clickfix.carsonww.com/domains/cdn3-cloudservices-verify.t3.storage.dev
-2026-03-06 18:01:10,AsyncRAT,url,https://drplus.in.net:4782,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-sqwsbsbt9y
-2026-03-06 18:01:11,AsyncRAT,url,https://drplus.in.net:6666,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-sqwsbsbt9y
-2026-03-06 18:01:10,AsyncRAT,url,https://drplus.in.net:8808,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-sqwsbsbt9y
-2026-03-06 18:01:13,AsyncRAT,url,https://drplus.in.net:8848,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-sqwsbsbt9y
-2026-03-06 18:01:12,AsyncRAT,url,https://drplus.in.net:8888,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-sqwsbsbt9y
+2026-03-08 05:00:23,Unknown malware,url,https://cf-n3-syncflow.t3.storage.dev/index.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_wNnIspS__TSkOKDG_UWKaGhHUVHbCshbuTGBmxTAQTxsqtRdFy%2F20260308%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260308T012517Z&X-Amz-Expires=2160000&X-Amz-SignedHeaders=host&X-Amz-Signature=0c6127b6b5eb246fb1abc8f341052f986cdb17239152f149b6dd56d64b7e2dbd,#ClickFix,https://clickfix.carsonww.com/domains/cf-n3-syncflow.t3.storage.dev
 2026-03-07 07:07:34,KongTuke,url,https://ewar4pres.com/5j2s.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1760352/
 2026-03-07 07:07:34,KongTuke,url,https://ewar4pres.com/js.php,#Kongtuke,https://infosec.exchange/@monitorsg/116182904764822403
 2026-03-07 07:06:51,Emmenhtal,url,https://lvlenergy.pl/?u=ncilyoqjvutpmi5skblrf4a,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760547/
@@ -16,11 +12,7 @@
 2026-03-07 07:06:49,Emmenhtal,url,https://lynx-new.mightrecoverymarketing.com/?u=etmbh5zutjelbfywikpqsvq,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760560/
 2026-03-07 07:06:43,Emmenhtal,url,https://lyssatee.com/?u=n3bdxmkppncau5brlqbigaa,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760581/
 2026-03-07 07:06:42,Emmenhtal,url,https://morskirai.com/?u=dyprzu6hlmki5euacmy4qfq,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1760582/
+2026-03-07 18:10:24,Lumma Stealer,url,https://retiriu.cyou/api,#Lumma,https://bazaar.abuse.ch/sample/5c47f62de622440aa88faa2bcafd0d1af4971b02e8d39b046a573c6cbe97a6c4/
 2026-03-07 07:07:33,KongTuke,url,https://road-to-hell.top/o,#Kongtuke,https://infosec.exchange/@monitorsg/116183108796436147
-2026-03-06 18:01:15,AsyncRAT,url,https://www.73bet.app/:443,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-pwmj3ae13l
-2026-03-06 18:01:16,AsyncRAT,url,https://www.73bet.app/:4782,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-pwmj3ae13l
-2026-03-06 18:01:13,AsyncRAT,url,https://www.73bet.app/:6606,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-pwmj3ae13l
-2026-03-06 18:01:14,AsyncRAT,url,https://www.73bet.app/:7707,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-pwmj3ae13l
-2026-03-06 18:01:14,AsyncRAT,url,https://www.73bet.app/:8808,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-pwmj3ae13l
-2026-03-06 18:01:15,AsyncRAT,url,https://www.73bet.app/:8848,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-pwmj3ae13l
-2026-03-06 18:01:14,AsyncRAT,url,https://www.73bet.app/:8888,#asyncrat #c2 #RAT #triage,https://tria.ge/260306-pwmj3ae13l
+2026-03-07 18:15:27,Unknown malware,url,https://sdn-inapi-server.sbs/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1761046/
+2026-03-07 18:15:27,Unknown malware,url,https://sdn-inapi-server.sbs/api/index.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1761052/
