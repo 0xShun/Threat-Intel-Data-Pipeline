@@ -1,6 +1,8 @@
 ioc,score,sources
+http://172.94.9.224/9cca20c6df659f72/m_cpt1267381.bin,2,"threatfox,urlhaus"
 http://172.94.9.250/d/xxx59361,2,"threatfox,urlhaus"
 http://172.94.9.250/d/xxx89413,2,"threatfox,urlhaus"
+http://91.92.242.30/x5ki60w1ih838sp7,2,"otx,urlhaus"
 http://0837234.duckdns.org/001010101010010110101011101010101101010111010101/debug,1,urlhaus
 http://0837234.duckdns.org/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arc,1,urlhaus
 http://0837234.duckdns.org/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.arm,1,urlhaus
@@ -47,6 +49,7 @@ http://101.168.56.102:85/sshd,1,urlhaus
 http://101.200.193.211:8086/02.08.2022.exe,1,urlhaus
 http://101.205.148.49:57639/bin.sh,1,urlhaus
 http://101.205.148.49:57639/i,1,urlhaus
+http://101.36.114.231/,1,threatfox
 http://101.59.79.119:61333/.i,1,urlhaus
 http://101.66.21.96:40615/bin.sh,1,urlhaus
 http://101.66.21.96:40615/i,1,urlhaus
@@ -135,6 +138,7 @@ http://103.203.210.102:37813/i,1,urlhaus
 http://103.203.72.70:45033/Mozi.a,1,urlhaus
 http://103.206.207.23:37555/bin.sh,1,urlhaus
 http://103.206.207.23:37555/i,1,urlhaus
+http://103.206.207.23:60397/bin.sh,1,urlhaus
 http://103.206.207.23:60397/i,1,urlhaus
 http://103.213.235.26:50439/bin.sh,1,urlhaus
 http://103.213.235.26:50439/i,1,urlhaus
@@ -350,6 +354,9 @@ http://110.182.236.7:43173/bin.sh,1,urlhaus
 http://110.182.236.7:43173/i,1,urlhaus
 http://110.182.252.233:59188/bin.sh,1,urlhaus
 http://110.182.252.233:59188/i,1,urlhaus
+http://110.182.252.249:57729/bin.sh,1,urlhaus
+http://110.182.252.249:57729/i,1,urlhaus
+http://110.185.104.180:8000,1,otx
 http://110.185.65.80:39556/bin.sh,1,urlhaus
 http://110.185.65.80:39556/i,1,urlhaus
 http://110.186.230.140:34746/bin.sh,1,urlhaus
@@ -414,6 +421,7 @@ http://110.36.19.215:44345/bin.sh,1,urlhaus
 http://110.36.19.215:44345/i,1,urlhaus
 http://110.36.19.215:47329/bin.sh,1,urlhaus
 http://110.36.19.215:47329/i,1,urlhaus
+http://110.36.19.215:55548/i,1,urlhaus
 http://110.36.19.51:40288/bin.sh,1,urlhaus
 http://110.36.19.51:45253/bin.sh,1,urlhaus
 http://110.36.19.51:45253/i,1,urlhaus
@@ -475,6 +483,8 @@ http://110.36.30.247:60113/bin.sh,1,urlhaus
 http://110.36.30.247:60113/i,1,urlhaus
 http://110.36.30.37:40977/bin.sh,1,urlhaus
 http://110.36.30.37:40977/i,1,urlhaus
+http://110.36.30.37:44720/bin.sh,1,urlhaus
+http://110.36.30.37:44720/i,1,urlhaus
 http://110.36.30.37:58252/i,1,urlhaus
 http://110.36.64.93:50454/bin.sh,1,urlhaus
 http://110.36.64.93:50454/i,1,urlhaus
@@ -482,6 +492,8 @@ http://110.36.65.23:40387/bin.sh,1,urlhaus
 http://110.36.65.23:52576/bin.sh,1,urlhaus
 http://110.36.65.9:34750/bin.sh,1,urlhaus
 http://110.36.65.9:34750/i,1,urlhaus
+http://110.36.65.9:47593/bin.sh,1,urlhaus
+http://110.36.65.9:47593/i,1,urlhaus
 http://110.36.65.9:49550/bin.sh,1,urlhaus
 http://110.36.65.9:49550/i,1,urlhaus
 http://110.36.65.9:50536/i,1,urlhaus
@@ -545,6 +557,7 @@ http://110.36.80.166:33808/i,1,urlhaus
 http://110.36.80.166:51681/bin.sh,1,urlhaus
 http://110.36.80.166:51681/i,1,urlhaus
 http://110.36.80.166:55765/bin.sh,1,urlhaus
+http://110.36.80.166:55765/i,1,urlhaus
 http://110.36.80.169:36180/bin.sh,1,urlhaus
 http://110.36.80.169:36180/i,1,urlhaus
 http://110.36.80.169:38843/bin.sh,1,urlhaus
@@ -596,10 +609,13 @@ http://110.36.88.208:34299/bin.sh,1,urlhaus
 http://110.36.88.208:34299/i,1,urlhaus
 http://110.36.88.208:51531/bin.sh,1,urlhaus
 http://110.36.88.208:51531/i,1,urlhaus
+http://110.36.88.237:46387/bin.sh,1,urlhaus
 http://110.36.88.237:55891/i,1,urlhaus
 http://110.36.89.45:38390/bin.sh,1,urlhaus
 http://110.36.89.45:38390/i,1,urlhaus
 http://110.36.89.45:52162/bin.sh,1,urlhaus
+http://110.36.93.182:43407/bin.sh,1,urlhaus
+http://110.36.93.182:43407/i,1,urlhaus
 http://110.36.93.182:57821/bin.sh,1,urlhaus
 http://110.36.93.182:57821/i,1,urlhaus
 http://110.36.93.248:49075/bin.sh,1,urlhaus
@@ -647,6 +663,7 @@ http://110.37.10.84:48539/i,1,urlhaus
 http://110.37.100.152:33873/bin.sh,1,urlhaus
 http://110.37.100.152:33873/i,1,urlhaus
 http://110.37.100.152:42177/bin.sh,1,urlhaus
+http://110.37.100.152:42177/i,1,urlhaus
 http://110.37.100.152:42220/bin.sh,1,urlhaus
 http://110.37.100.152:42220/i,1,urlhaus
 http://110.37.100.152:45562/bin.sh,1,urlhaus
@@ -794,6 +811,8 @@ http://110.37.118.101:39554/i,1,urlhaus
 http://110.37.118.101:44745/bin.sh,1,urlhaus
 http://110.37.118.101:44745/i,1,urlhaus
 http://110.37.118.101:48562/i,1,urlhaus
+http://110.37.118.101:58545/bin.sh,1,urlhaus
+http://110.37.118.101:58545/i,1,urlhaus
 http://110.37.118.241:45902/bin.sh,1,urlhaus
 http://110.37.118.241:45902/i,1,urlhaus
 http://110.37.118.241:46513/bin.sh,1,urlhaus
@@ -851,6 +870,8 @@ http://110.37.14.231:56341/i,1,urlhaus
 http://110.37.14.251:38674/i,1,urlhaus
 http://110.37.14.251:42291/bin.sh,1,urlhaus
 http://110.37.14.251:42291/i,1,urlhaus
+http://110.37.14.251:46844/bin.sh,1,urlhaus
+http://110.37.14.251:46844/i,1,urlhaus
 http://110.37.14.73:39413/bin.sh,1,urlhaus
 http://110.37.14.73:39413/i,1,urlhaus
 http://110.37.16.57:57187/i,1,urlhaus
@@ -924,6 +945,8 @@ http://110.37.27.87:53252/i,1,urlhaus
 http://110.37.27.87:58362/i,1,urlhaus
 http://110.37.27.87:58950/bin.sh,1,urlhaus
 http://110.37.27.87:58950/i,1,urlhaus
+http://110.37.28.119:43420/bin.sh,1,urlhaus
+http://110.37.28.119:43420/i,1,urlhaus
 http://110.37.28.119:44410/bin.sh,1,urlhaus
 http://110.37.28.119:44410/i,1,urlhaus
 http://110.37.28.119:47047/bin.sh,1,urlhaus
@@ -989,6 +1012,8 @@ http://110.37.35.199:39186/i,1,urlhaus
 http://110.37.35.199:47257/bin.sh,1,urlhaus
 http://110.37.35.199:47257/i,1,urlhaus
 http://110.37.35.199:49997/bin.sh,1,urlhaus
+http://110.37.35.199:52510/bin.sh,1,urlhaus
+http://110.37.35.199:52510/i,1,urlhaus
 http://110.37.35.199:57231/bin.sh,1,urlhaus
 http://110.37.35.199:57231/i,1,urlhaus
 http://110.37.35.199:57805/bin.sh,1,urlhaus
@@ -1010,6 +1035,7 @@ http://110.37.36.23:35728/i,1,urlhaus
 http://110.37.36.23:53022/bin.sh,1,urlhaus
 http://110.37.36.23:53022/i,1,urlhaus
 http://110.37.36.254:46666/bin.sh,1,urlhaus
+http://110.37.36.254:46666/i,1,urlhaus
 http://110.37.36.254:48359/bin.sh,1,urlhaus
 http://110.37.36.89:58605/bin.sh,1,urlhaus
 http://110.37.37.136:36317/bin.sh,1,urlhaus
@@ -1031,6 +1057,7 @@ http://110.37.38.88:52412/bin.sh,1,urlhaus
 http://110.37.38.88:52412/i,1,urlhaus
 http://110.37.39.129:43198/bin.sh,1,urlhaus
 http://110.37.39.129:43198/i,1,urlhaus
+http://110.37.39.182:44010/i,1,urlhaus
 http://110.37.39.230:52904/bin.sh,1,urlhaus
 http://110.37.39.230:52904/i,1,urlhaus
 http://110.37.39.234:34358/bin.sh,1,urlhaus
@@ -1044,6 +1071,7 @@ http://110.37.39.32:46927/i,1,urlhaus
 http://110.37.39.88:60327/bin.sh,1,urlhaus
 http://110.37.39.88:60327/i,1,urlhaus
 http://110.37.40.14:58685/bin.sh,1,urlhaus
+http://110.37.40.14:58685/i,1,urlhaus
 http://110.37.40.215:33743/bin.sh,1,urlhaus
 http://110.37.40.215:33743/i,1,urlhaus
 http://110.37.40.215:35458/i,1,urlhaus
@@ -1286,6 +1314,8 @@ http://110.37.81.165:51759/bin.sh,1,urlhaus
 http://110.37.81.165:51759/i,1,urlhaus
 http://110.37.82.255:37572/bin.sh,1,urlhaus
 http://110.37.82.255:37572/i,1,urlhaus
+http://110.37.82.79:33819/bin.sh,1,urlhaus
+http://110.37.82.79:33819/i,1,urlhaus
 http://110.37.82.79:60429/bin.sh,1,urlhaus
 http://110.37.82.79:60429/i,1,urlhaus
 http://110.37.83.168:51090/bin.sh,1,urlhaus
@@ -1650,6 +1680,7 @@ http://110.81.114.230:9000/AV.lnk,1,urlhaus
 http://110.81.114.230:9000/Photo.scr,1,urlhaus
 http://110.81.114.230:9000/Video.scr,1,urlhaus
 http://110.81.114.230:9000/info.zip,1,urlhaus
+http://110.92.64.17/moo.cgi,1,otx
 http://111.123.41.235/ballnet,1,urlhaus
 http://111.123.41.235/bins.sh,1,urlhaus
 http://111.123.41.235/botnet,1,urlhaus
@@ -1889,6 +1920,8 @@ http://112.254.188.178:43139/bin.sh,1,urlhaus
 http://112.254.188.178:43139/i,1,urlhaus
 http://112.254.249.125:52050/bin.sh,1,urlhaus
 http://112.254.249.125:52050/i,1,urlhaus
+http://112.255.106.148:55299/bin.sh,1,urlhaus
+http://112.255.106.148:55299/i,1,urlhaus
 http://112.31.189.32:57316/bin.sh,1,urlhaus
 http://112.31.189.32:57316/i,1,urlhaus
 http://112.81.45.134:37720/i,1,urlhaus
@@ -2510,6 +2543,8 @@ http://115.52.80.20:51355/bin.sh,1,urlhaus
 http://115.52.80.20:51355/i,1,urlhaus
 http://115.53.192.187:55661/bin.sh,1,urlhaus
 http://115.53.192.187:55661/i,1,urlhaus
+http://115.53.196.85:55661/bin.sh,1,urlhaus
+http://115.53.196.85:55661/i,1,urlhaus
 http://115.53.199.175:59521/bin.sh,1,urlhaus
 http://115.53.199.175:59521/i,1,urlhaus
 http://115.53.203.235:55171/bin.sh,1,urlhaus
@@ -2649,6 +2684,8 @@ http://115.55.242.214:49156/i,1,urlhaus
 http://115.55.242.229:45958/bin.sh,1,urlhaus
 http://115.55.242.229:45958/i,1,urlhaus
 http://115.55.242.6:48695/i,1,urlhaus
+http://115.55.242.9:49065/bin.sh,1,urlhaus
+http://115.55.242.9:49065/i,1,urlhaus
 http://115.55.243.115:54410/bin.sh,1,urlhaus
 http://115.55.243.115:54410/i,1,urlhaus
 http://115.55.243.34:46448/bin.sh,1,urlhaus
@@ -2853,6 +2890,8 @@ http://115.57.233.248:46235/bin.sh,1,urlhaus
 http://115.57.233.248:46235/i,1,urlhaus
 http://115.57.235.206:51198/bin.sh,1,urlhaus
 http://115.57.235.206:51198/i,1,urlhaus
+http://115.57.240.201:34782/bin.sh,1,urlhaus
+http://115.57.240.201:34782/i,1,urlhaus
 http://115.57.240.202:35108/bin.sh,1,urlhaus
 http://115.57.240.202:35108/i,1,urlhaus
 http://115.57.242.117:35108/bin.sh,1,urlhaus
@@ -3030,6 +3069,7 @@ http://115.63.149.131:39767/i,1,urlhaus
 http://115.63.15.129:56641/bin.sh,1,urlhaus
 http://115.63.15.129:56641/i,1,urlhaus
 http://115.63.15.15:54973/bin.sh,1,urlhaus
+http://115.63.15.15:54973/i,1,urlhaus
 http://115.63.150.135:33854/bin.sh,1,urlhaus
 http://115.63.150.135:33854/i,1,urlhaus
 http://115.63.150.9:47058/bin.sh,1,urlhaus
@@ -3149,9 +3189,11 @@ http://116.89.74.157/,1,urlhaus
 http://116.91.125.215:7100/,1,urlhaus
 http://117.146.92.46:48175/bin.sh,1,urlhaus
 http://117.146.92.46:48175/i,1,urlhaus
+http://117.175.185.81:8003/,1,otx
 http://117.190.134.254:50401/bin.sh,1,urlhaus
 http://117.190.134.254:50401/i,1,urlhaus
 http://117.192.154.161:45981/bin.sh,1,urlhaus
+http://117.192.34.102:41232/bin.sh,1,urlhaus
 http://117.193.140.164:36567/bin.sh,1,urlhaus
 http://117.193.141.254:39852/bin.sh,1,urlhaus
 http://117.193.141.254:39852/i,1,urlhaus
@@ -3162,6 +3204,8 @@ http://117.193.145.206:60446/bin.sh,1,urlhaus
 http://117.193.145.206:60446/i,1,urlhaus
 http://117.193.151.154:53267/bin.sh,1,urlhaus
 http://117.193.151.154:53267/i,1,urlhaus
+http://117.193.168.158:33841/bin.sh,1,urlhaus
+http://117.193.168.158:33841/i,1,urlhaus
 http://117.195.103.234:46776/bin.sh,1,urlhaus
 http://117.195.103.234:46776/i,1,urlhaus
 http://117.195.115.67:32935/bin.sh,1,urlhaus
@@ -3349,11 +3393,15 @@ http://117.209.23.179:53143/i,1,urlhaus
 http://117.209.23.253:50678/bin.sh,1,urlhaus
 http://117.209.23.34:43336/Mozi.m,1,urlhaus
 http://117.209.24.168:35386/bin.sh,1,urlhaus
+http://117.209.24.229:56080/bin.sh,1,urlhaus
+http://117.209.24.229:56080/i,1,urlhaus
 http://117.209.241.159:42097/bin.sh,1,urlhaus
 http://117.209.26.193:36632/bin.sh,1,urlhaus
 http://117.209.26.193:36632/i,1,urlhaus
 http://117.209.26.226:37399/bin.sh,1,urlhaus
 http://117.209.26.226:37399/i,1,urlhaus
+http://117.209.26.253:47895/bin.sh,1,urlhaus
+http://117.209.26.253:47895/i,1,urlhaus
 http://117.209.27.203:38034/bin.sh,1,urlhaus
 http://117.209.27.203:38034/i,1,urlhaus
 http://117.209.27.85:57950/bin.sh,1,urlhaus
@@ -3367,12 +3415,16 @@ http://117.209.31.119:35932/bin.sh,1,urlhaus
 http://117.209.31.119:35932/i,1,urlhaus
 http://117.209.31.52:45377/bin.sh,1,urlhaus
 http://117.209.31.52:45377/i,1,urlhaus
+http://117.209.31.72:34322/bin.sh,1,urlhaus
+http://117.209.31.72:34322/i,1,urlhaus
 http://117.209.4.47:44110/bin.sh,1,urlhaus
 http://117.209.4.47:44110/i,1,urlhaus
 http://117.209.5.128:45327/i,1,urlhaus
 http://117.209.5.188:41768/bin.sh,1,urlhaus
 http://117.209.5.191:50743/bin.sh,1,urlhaus
 http://117.209.5.191:50743/i,1,urlhaus
+http://117.209.5.234:58292/bin.sh,1,urlhaus
+http://117.209.5.234:58292/i,1,urlhaus
 http://117.209.7.226:55191/bin.sh,1,urlhaus
 http://117.209.7.226:55191/i,1,urlhaus
 http://117.209.8.142:39809/i,1,urlhaus
@@ -3448,6 +3500,8 @@ http://117.209.91.136:37136/i,1,urlhaus
 http://117.209.91.195:42895/i,1,urlhaus
 http://117.209.91.222:52974/i,1,urlhaus
 http://117.209.91.65:42726/i,1,urlhaus
+http://117.209.92.118:33750/bin.sh,1,urlhaus
+http://117.209.92.118:33750/i,1,urlhaus
 http://117.209.92.160:36673/bin.sh,1,urlhaus
 http://117.209.92.39:42288/bin.sh,1,urlhaus
 http://117.209.92.3:53395/bin.sh,1,urlhaus
@@ -3460,6 +3514,8 @@ http://117.210.214.46:58882/bin.sh,1,urlhaus
 http://117.210.214.46:58882/i,1,urlhaus
 http://117.211.145.202:34281/bin.sh,1,urlhaus
 http://117.211.145.202:34281/i,1,urlhaus
+http://117.211.147.30:59996/bin.sh,1,urlhaus
+http://117.211.147.30:59996/i,1,urlhaus
 http://117.211.149.143:59459/bin.sh,1,urlhaus
 http://117.211.149.143:59459/i,1,urlhaus
 http://117.211.152.14:52210/bin.sh,1,urlhaus
@@ -3511,6 +3567,9 @@ http://117.216.176.180:52609/bin.sh,1,urlhaus
 http://117.216.176.9:57642/Mozi.m,1,urlhaus
 http://117.216.177.12:39054/bin.sh,1,urlhaus
 http://117.216.177.12:39054/i,1,urlhaus
+http://117.216.181.87:53312/i,1,urlhaus
+http://117.216.183.223:33780/bin.sh,1,urlhaus
+http://117.216.183.223:33780/i,1,urlhaus
 http://117.216.183.230:34444/bin.sh,1,urlhaus
 http://117.216.183.230:34444/i,1,urlhaus
 http://117.216.186.1:42406/bin.sh,1,urlhaus
@@ -3560,6 +3619,8 @@ http://117.221.174.229:55479/bin.sh,1,urlhaus
 http://117.221.174.229:55479/i,1,urlhaus
 http://117.221.25.226:42217/bin.sh,1,urlhaus
 http://117.221.27.179:36810/i,1,urlhaus
+http://117.221.55.219:51951/bin.sh,1,urlhaus
+http://117.221.55.219:51951/i,1,urlhaus
 http://117.221.68.103:55635/bin.sh,1,urlhaus
 http://117.221.68.103:55635/i,1,urlhaus
 http://117.222.164.125:37478/bin.sh,1,urlhaus
@@ -3625,6 +3686,8 @@ http://117.241.180.146:33568/i,1,urlhaus
 http://117.241.183.4:51031/bin.sh,1,urlhaus
 http://117.241.183.4:51031/i,1,urlhaus
 http://117.241.185.28:53132/bin.sh,1,urlhaus
+http://117.241.199.58:44047/bin.sh,1,urlhaus
+http://117.241.199.58:44047/i,1,urlhaus
 http://117.241.201.28:42429/bin.sh,1,urlhaus
 http://117.241.201.28:42429/i,1,urlhaus
 http://117.241.205.114:52533/bin.sh,1,urlhaus
@@ -3642,6 +3705,8 @@ http://117.241.95.105:43878/bin.sh,1,urlhaus
 http://117.241.95.105:43878/i,1,urlhaus
 http://117.241.95.54:45529/bin.sh,1,urlhaus
 http://117.241.95.54:45529/i,1,urlhaus
+http://117.242.203.52:35767/bin.sh,1,urlhaus
+http://117.242.203.52:35767/i,1,urlhaus
 http://117.242.224.204:33173/bin.sh,1,urlhaus
 http://117.242.224.204:33173/i,1,urlhaus
 http://117.242.237.25:45444/bin.sh,1,urlhaus
@@ -3673,6 +3738,7 @@ http://117.248.24.110:45107/bin.sh,1,urlhaus
 http://117.248.24.208:53232/bin.sh,1,urlhaus
 http://117.248.24.208:53232/i,1,urlhaus
 http://117.248.25.29:47711/bin.sh,1,urlhaus
+http://117.248.253.105:39197/bin.sh,1,urlhaus
 http://117.248.253.105:59013/bin.sh,1,urlhaus
 http://117.248.253.105:59013/i,1,urlhaus
 http://117.248.26.62:38730/bin.sh,1,urlhaus
@@ -3744,6 +3810,8 @@ http://118.136.158.12:8088/,1,urlhaus
 http://118.139.167.36/,1,urlhaus
 http://118.140.76.210:8000/,1,urlhaus
 http://118.189.98.124:1028/,1,urlhaus
+http://118.193.68.95/,1,threatfox
+http://118.194.248.183/,1,threatfox
 http://118.200.158.179:2016/,1,urlhaus
 http://118.200.240.134:8088/,1,urlhaus
 http://118.200.40.71:8081/,1,urlhaus
@@ -3799,6 +3867,8 @@ http://119.115.163.176:43002/bin.sh,1,urlhaus
 http://119.115.163.176:43002/i,1,urlhaus
 http://119.115.165.56:53442/bin.sh,1,urlhaus
 http://119.115.165.56:53442/i,1,urlhaus
+http://119.115.243.13:53957/bin.sh,1,urlhaus
+http://119.115.243.13:53957/i,1,urlhaus
 http://119.115.74.122:55484/bin.sh,1,urlhaus
 http://119.115.74.122:55484/i,1,urlhaus
 http://119.115.91.168:33667/bin.sh,1,urlhaus
@@ -3822,6 +3892,8 @@ http://119.117.103.133:52159/bin.sh,1,urlhaus
 http://119.117.103.133:52159/i,1,urlhaus
 http://119.117.161.142:46950/bin.sh,1,urlhaus
 http://119.117.161.142:46950/i,1,urlhaus
+http://119.117.164.121:49924/i,1,urlhaus
+http://119.117.185.187:43028/bin.sh,1,urlhaus
 http://119.117.62.67:34258/bin.sh,1,urlhaus
 http://119.117.62.67:34258/i,1,urlhaus
 http://119.117.74.10:47165/bin.sh,1,urlhaus
@@ -3957,6 +4029,7 @@ http://120.238.254.10:62267/i,1,urlhaus
 http://120.26.18.220/02.08.2022.exe,1,urlhaus
 http://120.28.124.40:38077/bin.sh,1,urlhaus
 http://120.28.124.40:38077/i,1,urlhaus
+http://120.28.169.1:39627/bin.sh,1,urlhaus
 http://120.28.189.223:56675/bin.sh,1,urlhaus
 http://120.28.189.223:56675/i,1,urlhaus
 http://120.28.201.75:33606/bin.sh,1,urlhaus
@@ -3970,6 +4043,7 @@ http://120.60.227.246:54518/bin.sh,1,urlhaus
 http://120.60.227.246:54518/i,1,urlhaus
 http://120.60.231.242:38518/bin.sh,1,urlhaus
 http://120.60.231.242:38518/i,1,urlhaus
+http://120.60.235.41:41350/bin.sh,1,urlhaus
 http://120.61.0.211:44086/i,1,urlhaus
 http://120.61.17.222:50691/bin.sh,1,urlhaus
 http://120.61.17.222:50691/i,1,urlhaus
@@ -3991,9 +4065,11 @@ http://120.61.8.102:58986/bin.sh,1,urlhaus
 http://120.61.89.80:53475/i,1,urlhaus
 http://120.61.91.248:51600/bin.sh,1,urlhaus
 http://120.76.143.184:443/02.08.2022.exe,1,urlhaus
+http://120.76.243.150:8899/1ujM,1,threatfox
 http://120.84.212.236:34390/i,1,urlhaus
 http://120.84.213.157:53783/bin.sh,1,urlhaus
 http://120.84.213.157:53783/i,1,urlhaus
+http://120.84.213.171:47005/i,1,urlhaus
 http://120.84.214.131:46073/i,1,urlhaus
 http://120.84.215.242:38495/i,1,urlhaus
 http://120.86.112.150:40560/bin.sh,1,urlhaus
@@ -4149,6 +4225,8 @@ http://123.11.76.32:37037/bin.sh,1,urlhaus
 http://123.11.76.32:37037/i,1,urlhaus
 http://123.11.76.47:51107/bin.sh,1,urlhaus
 http://123.11.76.47:51107/i,1,urlhaus
+http://123.11.76.99:54743/bin.sh,1,urlhaus
+http://123.11.76.99:54743/i,1,urlhaus
 http://123.11.77.120:60281/bin.sh,1,urlhaus
 http://123.11.77.120:60281/i,1,urlhaus
 http://123.11.77.144:54447/bin.sh,1,urlhaus
@@ -4264,6 +4342,8 @@ http://123.130.207.72:36079/i,1,urlhaus
 http://123.132.159.27:45317/i,1,urlhaus
 http://123.132.164.122:47994/bin.sh,1,urlhaus
 http://123.132.164.122:47994/i,1,urlhaus
+http://123.132.167.5:39723/bin.sh,1,urlhaus
+http://123.132.167.5:39723/i,1,urlhaus
 http://123.133.222.87:49352/bin.sh,1,urlhaus
 http://123.133.222.87:49352/i,1,urlhaus
 http://123.133.49.152:42483/bin.sh,1,urlhaus
@@ -4447,6 +4527,8 @@ http://123.5.146.100:60996/bin.sh,1,urlhaus
 http://123.5.146.100:60996/i,1,urlhaus
 http://123.5.147.188:51001/bin.sh,1,urlhaus
 http://123.5.147.188:51001/i,1,urlhaus
+http://123.5.147.209:60996/bin.sh,1,urlhaus
+http://123.5.147.209:60996/i,1,urlhaus
 http://123.5.149.48:43694/bin.sh,1,urlhaus
 http://123.5.149.48:43694/i,1,urlhaus
 http://123.5.154.141:42613/i,1,urlhaus
@@ -4508,6 +4590,8 @@ http://123.8.158.227:37634/i,1,urlhaus
 http://123.8.16.146:45035/bin.sh,1,urlhaus
 http://123.8.17.99:60004/bin.sh,1,urlhaus
 http://123.8.17.99:60004/i,1,urlhaus
+http://123.8.23.36:46066/bin.sh,1,urlhaus
+http://123.8.23.36:46066/i,1,urlhaus
 http://123.8.25.55:48153/i,1,urlhaus
 http://123.8.38.48:60004/bin.sh,1,urlhaus
 http://123.8.38.48:60004/i,1,urlhaus
@@ -4605,6 +4689,7 @@ http://124.135.33.113:44945/bin.sh,1,urlhaus
 http://124.135.33.113:44945/i,1,urlhaus
 http://124.135.79.195:45720/bin.sh,1,urlhaus
 http://124.135.79.195:45720/i,1,urlhaus
+http://124.162.80.79:56772/bin.sh,1,urlhaus
 http://124.198.131.103:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,1,urlhaus
 http://124.198.131.103:8040/bin/support.client.exe?i=&e=Support&y=Guest&r=,1,urlhaus
 http://124.198.131.123:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,1,urlhaus
@@ -4695,6 +4780,8 @@ http://125.160.141.81:44828/bin.sh,1,urlhaus
 http://125.160.141.81:44828/i,1,urlhaus
 http://125.160.223.217:54898/i,1,urlhaus
 http://125.161.142.194:36629/bin.sh,1,urlhaus
+http://125.161.166.159:51393/bin.sh,1,urlhaus
+http://125.161.166.159:51393/i,1,urlhaus
 http://125.162.87.188:8000/,1,urlhaus
 http://125.163.157.37:9000/,1,urlhaus
 http://125.198.18.91:8000/,1,urlhaus
@@ -5020,6 +5107,7 @@ http://125.47.207.76:39759/i,1,urlhaus
 http://125.47.216.21:48620/bin.sh,1,urlhaus
 http://125.47.216.21:48620/i,1,urlhaus
 http://125.47.217.82:60056/bin.sh,1,urlhaus
+http://125.47.217.82:60056/i,1,urlhaus
 http://125.47.219.193:42433/bin.sh,1,urlhaus
 http://125.47.219.193:42433/i,1,urlhaus
 http://125.47.223.205:60812/bin.sh,1,urlhaus
@@ -5595,6 +5683,7 @@ http://139.59.119.89/hiddenbin/boatnet.spc,1,urlhaus
 http://139.59.119.89/hiddenbin/boatnet.x86,1,urlhaus
 http://139.59.119.89/hiddenbin/boatnet.x86_64,1,urlhaus
 http://139.59.119.89/ohshit.sh,1,urlhaus
+http://13udm.v6.navy/,1,threatfox
 http://14.0.136.205:47645/bin.sh,1,urlhaus
 http://14.0.136.205:47645/i,1,urlhaus
 http://14.1.107.227:56710/Mozi.m,1,urlhaus
@@ -5948,6 +6037,7 @@ http://152.173.140.155:8080/sshd,1,urlhaus
 http://152.173.154.50:8080/sshd,1,urlhaus
 http://152.173.194.255:8080/sshd,1,urlhaus
 http://152.173.199.182:8080/sshd,1,urlhaus
+http://152.32.243.215/,1,threatfox
 http://152.42.212.97/all.sh,1,urlhaus
 http://152.42.212.97/huhu/titanjr.arc,1,urlhaus
 http://152.42.212.97/huhu/titanjr.arm,1,urlhaus
@@ -6143,10 +6233,18 @@ http://157.245.203.34/ambatukam/rizzx.x86_64,1,urlhaus
 http://157.85.69.255:56777/.i,1,urlhaus
 http://157.85.69.255:56777/i,1,urlhaus
 http://158.140.167.192:8081/,1,urlhaus
+http://158.247.253.169:443/cx,1,threatfox
 http://158.255.83.29:57970/i,1,urlhaus
 http://158.94.208.162/arm/,1,urlhaus
 http://158.94.208.174/,1,urlhaus
 http://158.94.208.52/,1,urlhaus
+http://158.94.208.58/arm4,1,urlhaus
+http://158.94.208.58/arm5,1,urlhaus
+http://158.94.208.58/arm6,1,urlhaus
+http://158.94.208.58/arm7,1,urlhaus
+http://158.94.208.58/mips,1,urlhaus
+http://158.94.208.58/mpsl,1,urlhaus
+http://158.94.208.58/x86_64,1,urlhaus
 http://158.94.208.69/arm,1,urlhaus
 http://158.94.208.69/arm/,1,urlhaus
 http://158.94.208.69/arm4,1,urlhaus
@@ -6159,27 +6257,37 @@ http://158.94.208.69/mpsl,1,urlhaus
 http://158.94.208.69/tplink.sh,1,urlhaus
 http://158.94.208.7/files/1424975206/grFJpUR.exe,1,urlhaus
 http://158.94.208.7/files/1591294058/VmVo8PF.exe,1,urlhaus
+http://158.94.208.7/files/1781548144/okR3iq0.exe,1,urlhaus
 http://158.94.208.7/files/5900855435/eNLe4nm.exe,1,urlhaus
 http://158.94.208.7/files/6902778688/AcjqUEy.exe,1,urlhaus
 http://158.94.208.7/files/7048186296/SASBjh2.exe,1,urlhaus
 http://158.94.208.7/files/7411337060/ZCGm9Ky.exe,1,urlhaus
 http://158.94.208.7/files/7453936223/KAQ8PQ5.exe,1,urlhaus
+http://158.94.208.7/files/7769977063/H7DC3me.bat,1,urlhaus
+http://158.94.208.7/files/7769977063/H7DC3me.exe,1,urlhaus
 http://158.94.208.7/files/7782139129/4Qrxrgo.exe,1,urlhaus
 http://158.94.208.7/files/7903503838/6NMKhZu.exe,1,urlhaus
 http://158.94.208.7/files/7903503838/hsy2OKS.exe,1,urlhaus
+http://158.94.208.7/files/8115221351/c8hckRF.exe,1,urlhaus
 http://158.94.208.7/files/8167064937/7P402xV.exe,1,urlhaus
+http://158.94.208.7/files/8167064937/BB3UGoE.exe,1,urlhaus
 http://158.94.208.7/files/8167064937/L2BuR1u.exe,1,urlhaus
 http://158.94.208.7/files/8220471530/Ads5xOS.exe,1,urlhaus
 http://158.94.208.7/files/8425384370/cpX8aAx.exe,1,urlhaus
 http://158.94.208.7/files/8425384370/mnVpX0P.exe,1,urlhaus
 http://158.94.208.7/files/8441193572/I8N8jbR.exe,1,urlhaus
 http://158.94.208.7/files/8441193572/Na8U4Fe.exe,1,urlhaus
+http://158.94.208.7/files/8468794285/dSBZqK0.exe,1,urlhaus
 http://158.94.208.7/files/8499672124/b1JNsvy.exe,1,urlhaus
+http://158.94.208.7/files/8520831842/YMUeQHk.exe,1,urlhaus
+http://158.94.208.7/files/8535406641/AYRS45O.exe,1,urlhaus
 http://158.94.208.7/files/8548282130/O43GJVa.exe,1,urlhaus
+http://158.94.208.7/files/8635093259/TUzr0QP.exe,1,urlhaus
 http://158.94.208.7/files/gop/random.exe,1,urlhaus
 http://158.94.208.7/files/oblivora/random.exe,1,urlhaus
 http://158.94.208.7/files/rdx/random.exe,1,urlhaus
 http://158.94.208.7/files/unique2/random.exe,1,urlhaus
+http://158.94.208.7/files/unique5/random.exe,1,urlhaus
 http://158.94.208.7/final/random.exe,1,urlhaus
 http://158.94.208.7/test/random.exe,1,urlhaus
 http://158.94.208.7/vidar/random.exe,1,urlhaus
@@ -6744,6 +6852,7 @@ http://174.163.48.188:52789/i,1,urlhaus
 http://174.34.242.140:42546/bin.sh,1,urlhaus
 http://174.34.242.49:47486/bin.sh,1,urlhaus
 http://174.71.238.196:81/,1,urlhaus
+http://175.0.72.159:50274/bin.sh,1,urlhaus
 http://175.106.11.242:83/,1,urlhaus
 http://175.106.11.242:88/,1,urlhaus
 http://175.106.11.242:89/,1,urlhaus
@@ -6774,6 +6883,7 @@ http://175.148.150.235:44469/i,1,urlhaus
 http://175.148.155.235:34754/bin.sh,1,urlhaus
 http://175.148.155.235:34754/i,1,urlhaus
 http://175.148.157.249:52091/i,1,urlhaus
+http://175.148.158.89:54210/bin.sh,1,urlhaus
 http://175.148.200.20:43929/bin.sh,1,urlhaus
 http://175.148.200.20:43929/i,1,urlhaus
 http://175.148.72.112:35787/bin.sh,1,urlhaus
@@ -6788,6 +6898,7 @@ http://175.149.141.66:53936/bin.sh,1,urlhaus
 http://175.149.141.66:53936/i,1,urlhaus
 http://175.149.142.50:53936/bin.sh,1,urlhaus
 http://175.149.142.50:53936/i,1,urlhaus
+http://175.149.145.48:51079/bin.sh,1,urlhaus
 http://175.149.157.249:36984/bin.sh,1,urlhaus
 http://175.149.157.249:36984/i,1,urlhaus
 http://175.149.209.140:43779/bin.sh,1,urlhaus
@@ -6798,6 +6909,8 @@ http://175.149.92.187:60404/i,1,urlhaus
 http://175.149.92.7:49382/i,1,urlhaus
 http://175.150.207.34:57228/bin.sh,1,urlhaus
 http://175.150.207.34:57228/i,1,urlhaus
+http://175.150.22.154:60301/bin.sh,1,urlhaus
+http://175.150.22.154:60301/i,1,urlhaus
 http://175.150.60.148:42699/bin.sh,1,urlhaus
 http://175.150.60.148:42699/i,1,urlhaus
 http://175.150.80.70:54814/bin.sh,1,urlhaus
@@ -6812,6 +6925,8 @@ http://175.165.115.5:46698/i,1,urlhaus
 http://175.165.122.254:33911/i,1,urlhaus
 http://175.165.124.205:40956/bin.sh,1,urlhaus
 http://175.165.124.205:40956/i,1,urlhaus
+http://175.165.126.169:50496/bin.sh,1,urlhaus
+http://175.165.126.169:50496/i,1,urlhaus
 http://175.165.126.17:43363/bin.sh,1,urlhaus
 http://175.165.126.17:43363/i,1,urlhaus
 http://175.165.157.160:56401/bin.sh,1,urlhaus
@@ -6873,6 +6988,8 @@ http://175.173.93.137:47108/i,1,urlhaus
 http://175.173.97.27:47018/i,1,urlhaus
 http://175.174.107.224:50556/bin.sh,1,urlhaus
 http://175.174.107.224:50556/i,1,urlhaus
+http://175.174.87.139:57425/bin.sh,1,urlhaus
+http://175.174.87.139:57425/i,1,urlhaus
 http://175.174.88.253:54080/bin.sh,1,urlhaus
 http://175.174.88.253:54080/i,1,urlhaus
 http://175.174.90.217:54080/bin.sh,1,urlhaus
@@ -7321,6 +7438,8 @@ http://180.190.238.89:54340/bin.sh,1,urlhaus
 http://180.190.238.89:54340/i,1,urlhaus
 http://180.190.240.131:44916/bin.sh,1,urlhaus
 http://180.190.240.131:44916/i,1,urlhaus
+http://180.190.240.131:50080/bin.sh,1,urlhaus
+http://180.190.240.131:50080/i,1,urlhaus
 http://180.191.22.109:48633/bin.sh,1,urlhaus
 http://180.191.22.109:48633/i,1,urlhaus
 http://180.191.230.61:40249/bin.sh,1,urlhaus
@@ -8031,6 +8150,8 @@ http://182.126.112.213:49492/bin.sh,1,urlhaus
 http://182.126.112.213:49492/i,1,urlhaus
 http://182.126.112.26:55484/bin.sh,1,urlhaus
 http://182.126.112.26:55484/i,1,urlhaus
+http://182.126.115.113:52478/bin.sh,1,urlhaus
+http://182.126.115.113:52478/i,1,urlhaus
 http://182.126.116.94:59174/bin.sh,1,urlhaus
 http://182.126.116.94:59174/i,1,urlhaus
 http://182.126.117.96:47785/i,1,urlhaus
@@ -8099,6 +8220,7 @@ http://182.127.1.78:36724/i,1,urlhaus
 http://182.127.103.239:54323/bin.sh,1,urlhaus
 http://182.127.103.239:54323/i,1,urlhaus
 http://182.127.104.4:43782/bin.sh,1,urlhaus
+http://182.127.104.4:43782/i,1,urlhaus
 http://182.127.104.67:35508/bin.sh,1,urlhaus
 http://182.127.104.67:35508/i,1,urlhaus
 http://182.127.108.136:34568/i,1,urlhaus
@@ -8223,6 +8345,8 @@ http://182.180.172.112:54605/bin.sh,1,urlhaus
 http://182.180.172.112:54605/i,1,urlhaus
 http://182.187.137.7:47657/Mozi.m,1,urlhaus
 http://182.191.72.235:35371/bin.sh,1,urlhaus
+http://182.239.81.126:43905/bin.sh,1,urlhaus
+http://182.239.81.126:43905/i,1,urlhaus
 http://182.241.136.21:38439/bin.sh,1,urlhaus
 http://182.241.136.21:38439/i,1,urlhaus
 http://182.242.66.130:40151/bin.sh,1,urlhaus
@@ -9140,6 +9264,9 @@ http://217.154.88.128/56/s823878d8fdsg78384787f8s8g788fd7gfd7g838488df8g8.vbs,1,
 http://217.209.57.38:43481/bin.sh,1,urlhaus
 http://217.209.57.38:43481/i,1,urlhaus
 http://217.64.135.181:35789/i,1,urlhaus
+http://217.69.0.159/dq1IMEteQ4AbO3daeYGXZw%3D%3D,1,threatfox
+http://217.69.0.159/xDMjY1UOOHWPpfDdc1OY1w%3D%3D,1,threatfox
+http://217.69.0.159:4789/socket.io/,1,threatfox
 http://217.69.11.99/module/wrtc,1,threatfox
 http://217.69.11.99/q6AUyyAAatxzpCw2im8XFg%3D%3D,1,threatfox
 http://217.69.11.99:4789/socket.io/,1,threatfox
@@ -9156,6 +9283,7 @@ http://218.57.36.202:58264/bin.sh,1,urlhaus
 http://218.57.36.202:58264/i,1,urlhaus
 http://218.59.106.193:49567/bin.sh,1,urlhaus
 http://218.59.106.193:49567/i,1,urlhaus
+http://218.60.181.77:39005/i,1,urlhaus
 http://218.61.98.61:35344/i,1,urlhaus
 http://218.91.138.193:36980/i,1,urlhaus
 http://218.91.138.209:36980/bin.sh,1,urlhaus
@@ -9236,6 +9364,7 @@ http://219.155.82.109:60438/i,1,urlhaus
 http://219.155.89.9:41025/i,1,urlhaus
 http://219.156.0.226:37277/bin.sh,1,urlhaus
 http://219.156.0.226:37277/i,1,urlhaus
+http://219.156.124.215:35504/i,1,urlhaus
 http://219.156.154.42:59823/bin.sh,1,urlhaus
 http://219.156.154.42:59823/i,1,urlhaus
 http://219.156.172.80:49624/bin.sh,1,urlhaus
@@ -9269,6 +9398,7 @@ http://219.156.93.124:35383/i,1,urlhaus
 http://219.157.150.221:50705/bin.sh,1,urlhaus
 http://219.157.150.221:50705/i,1,urlhaus
 http://219.157.150.242:34688/i,1,urlhaus
+http://219.157.154.248:33965/bin.sh,1,urlhaus
 http://219.157.154.248:33965/i,1,urlhaus
 http://219.157.16.104:56666/Mozi.m,1,urlhaus
 http://219.157.16.104:56666/bin.sh,1,urlhaus
@@ -9411,6 +9541,8 @@ http://221.14.110.169:47430/i,1,urlhaus
 http://221.14.12.51:42939/bin.sh,1,urlhaus
 http://221.14.12.51:42939/i,1,urlhaus
 http://221.14.129.122:59320/i,1,urlhaus
+http://221.14.171.192:35097/bin.sh,1,urlhaus
+http://221.14.171.192:35097/i,1,urlhaus
 http://221.14.172.157:56438/bin.sh,1,urlhaus
 http://221.14.172.157:56438/i,1,urlhaus
 http://221.14.175.205:53696/bin.sh,1,urlhaus
@@ -9535,6 +9667,8 @@ http://221.203.237.218:48418/bin.sh,1,urlhaus
 http://221.203.237.218:48418/i,1,urlhaus
 http://221.203.95.20:59075/bin.sh,1,urlhaus
 http://221.203.95.20:59075/i,1,urlhaus
+http://221.229.54.188:47305/bin.sh,1,urlhaus
+http://221.229.54.188:47305/i,1,urlhaus
 http://221.3.43.31:54268/bin.sh,1,urlhaus
 http://221.3.43.31:54268/i,1,urlhaus
 http://222.106.63.234:36880/i,1,urlhaus
@@ -9544,6 +9678,7 @@ http://222.127.226.53:46211/bin.sh,1,urlhaus
 http://222.127.226.53:46211/i,1,urlhaus
 http://222.127.251.23:46127/bin.sh,1,urlhaus
 http://222.127.251.23:46127/i,1,urlhaus
+http://222.127.254.114:42745/bin.sh,1,urlhaus
 http://222.127.48.44:33148/bin.sh,1,urlhaus
 http://222.127.48.44:33148/i,1,urlhaus
 http://222.127.53.189:44858/bin.sh,1,urlhaus
@@ -9553,6 +9688,8 @@ http://222.133.100.187:40255/bin.sh,1,urlhaus
 http://222.133.100.187:40255/i,1,urlhaus
 http://222.134.162.32:58414/bin.sh,1,urlhaus
 http://222.134.162.32:58414/i,1,urlhaus
+http://222.134.163.0:42462/bin.sh,1,urlhaus
+http://222.134.163.0:42462/i,1,urlhaus
 http://222.134.163.66:46394/bin.sh,1,urlhaus
 http://222.134.163.66:46394/i,1,urlhaus
 http://222.134.163.66:58241/bin.sh,1,urlhaus
@@ -9565,6 +9702,8 @@ http://222.134.173.170:46948/i,1,urlhaus
 http://222.134.173.19:59763/bin.sh,1,urlhaus
 http://222.134.173.19:59763/i,1,urlhaus
 http://222.134.175.94:48838/i,1,urlhaus
+http://222.135.129.29:38802/bin.sh,1,urlhaus
+http://222.135.129.29:38802/i,1,urlhaus
 http://222.135.206.203:46848/bin.sh,1,urlhaus
 http://222.135.206.203:46848/i,1,urlhaus
 http://222.135.217.218:58664/bin.sh,1,urlhaus
@@ -9679,6 +9818,8 @@ http://222.138.183.233:40607/bin.sh,1,urlhaus
 http://222.138.183.233:40607/i,1,urlhaus
 http://222.138.183.77:60638/bin.sh,1,urlhaus
 http://222.138.183.77:60638/i,1,urlhaus
+http://222.138.205.201:33629/bin.sh,1,urlhaus
+http://222.138.205.201:33629/i,1,urlhaus
 http://222.138.213.222:55081/bin.sh,1,urlhaus
 http://222.138.213.222:55081/i,1,urlhaus
 http://222.138.224.7:55681/bin.sh,1,urlhaus
@@ -10115,6 +10256,8 @@ http://27.215.214.105:47476/i,1,urlhaus
 http://27.215.214.134:60116/bin.sh,1,urlhaus
 http://27.215.214.134:60116/i,1,urlhaus
 http://27.215.214.169:39298/i,1,urlhaus
+http://27.215.215.117:44017/bin.sh,1,urlhaus
+http://27.215.215.117:44017/i,1,urlhaus
 http://27.215.38.124:46853/bin.sh,1,urlhaus
 http://27.215.38.124:46853/i,1,urlhaus
 http://27.215.42.37:49158/i,1,urlhaus
@@ -10259,6 +10402,7 @@ http://27.37.88.217:34154/i,1,urlhaus
 http://27.4.74.65:42708/bin.sh,1,urlhaus
 http://27.4.74.65:42708/i,1,urlhaus
 http://27.77.188.136:7618/.i,1,urlhaus
+http://2ebq4.dns.army/,1,threatfox
 http://3.110.22.152/,1,urlhaus
 http://31.13.208.135/files/loader/2.exe,1,urlhaus
 http://31.13.208.135/files/loader/OnoMiner_obfus.exe,1,urlhaus
@@ -10352,6 +10496,8 @@ http://36.88.136.202:44445/i,1,urlhaus
 http://36.88.136.202:48199/bin.sh,1,urlhaus
 http://36.88.136.202:48199/i,1,urlhaus
 http://36.88.136.202:56299/i,1,urlhaus
+http://36.88.136.202:57533/bin.sh,1,urlhaus
+http://36.88.136.202:57533/i,1,urlhaus
 http://36.88.164.210:38757/i,1,urlhaus
 http://36.88.164.210:49733/bin.sh,1,urlhaus
 http://36.88.164.210:49733/i,1,urlhaus
@@ -10373,6 +10519,7 @@ http://37.221.66.75/hiddenbin/boatnet.x86,1,urlhaus
 http://37.235.139.196:36439/bin.sh,1,urlhaus
 http://37.235.139.196:36439/i,1,urlhaus
 http://37.235.139.196:59189/bin.sh,1,urlhaus
+http://37.235.223.51:51326/.i,1,urlhaus
 http://37.34.181.111:32881/bin.sh,1,urlhaus
 http://37.34.242.96:58652/bin.sh,1,urlhaus
 http://37.34.242.96:58652/i,1,urlhaus
@@ -10499,6 +10646,8 @@ http://39.74.55.220:46040/bin.sh,1,urlhaus
 http://39.74.55.220:46040/i,1,urlhaus
 http://39.74.59.116:59619/bin.sh,1,urlhaus
 http://39.74.59.116:59619/i,1,urlhaus
+http://39.74.67.162:46642/bin.sh,1,urlhaus
+http://39.74.67.162:46642/i,1,urlhaus
 http://39.74.89.187:52662/bin.sh,1,urlhaus
 http://39.74.89.187:52662/i,1,urlhaus
 http://39.74.89.53:58038/bin.sh,1,urlhaus
@@ -10578,6 +10727,7 @@ http://39.90.150.187:56203/i,1,urlhaus
 http://39.90.185.17:53039/bin.sh,1,urlhaus
 http://39.90.185.17:53039/i,1,urlhaus
 http://39.91.51.247:40353/bin.sh,1,urlhaus
+http://3tg8i.dns.army/,1,threatfox
 http://41.141.4.77:32776/bin.sh,1,urlhaus
 http://41.141.4.77:32776/i,1,urlhaus
 http://41.146.1.154:8081/sshd,1,urlhaus
@@ -10618,6 +10768,8 @@ http://42.177.110.141:38560/i,1,urlhaus
 http://42.177.190.76:48614/bin.sh,1,urlhaus
 http://42.177.190.76:48614/i,1,urlhaus
 http://42.177.250.240:49208/bin.sh,1,urlhaus
+http://42.177.59.146:37551/bin.sh,1,urlhaus
+http://42.177.59.146:37551/i,1,urlhaus
 http://42.177.59.216:57615/bin.sh,1,urlhaus
 http://42.177.59.216:57615/i,1,urlhaus
 http://42.177.61.213:55972/bin.sh,1,urlhaus
@@ -10705,6 +10857,8 @@ http://42.224.196.217:50179/bin.sh,1,urlhaus
 http://42.224.196.217:50179/i,1,urlhaus
 http://42.224.196.88:56417/bin.sh,1,urlhaus
 http://42.224.196.88:56417/i,1,urlhaus
+http://42.224.199.189:57315/bin.sh,1,urlhaus
+http://42.224.199.189:57315/i,1,urlhaus
 http://42.224.2.230:35518/bin.sh,1,urlhaus
 http://42.224.2.99:50179/bin.sh,1,urlhaus
 http://42.224.2.99:50179/i,1,urlhaus
@@ -10796,10 +10950,14 @@ http://42.226.65.130:56856/bin.sh,1,urlhaus
 http://42.226.65.130:56856/i,1,urlhaus
 http://42.226.66.228:55630/bin.sh,1,urlhaus
 http://42.226.66.228:55630/i,1,urlhaus
+http://42.226.68.76:54886/bin.sh,1,urlhaus
+http://42.226.68.76:54886/i,1,urlhaus
 http://42.226.69.117:56201/bin.sh,1,urlhaus
 http://42.226.69.117:56201/i,1,urlhaus
 http://42.226.69.242:40072/bin.sh,1,urlhaus
 http://42.226.69.242:40072/i,1,urlhaus
+http://42.226.73.5:33732/bin.sh,1,urlhaus
+http://42.226.73.5:33732/i,1,urlhaus
 http://42.226.73.5:57865/bin.sh,1,urlhaus
 http://42.226.73.5:57865/i,1,urlhaus
 http://42.226.73.65:35876/bin.sh,1,urlhaus
@@ -11008,6 +11166,8 @@ http://42.231.210.44:56305/bin.sh,1,urlhaus
 http://42.231.210.44:56305/i,1,urlhaus
 http://42.231.216.126:35444/bin.sh,1,urlhaus
 http://42.231.216.126:35444/i,1,urlhaus
+http://42.231.230.184:53535/bin.sh,1,urlhaus
+http://42.231.230.184:53535/i,1,urlhaus
 http://42.231.252.5:34652/bin.sh,1,urlhaus
 http://42.231.252.5:34652/i,1,urlhaus
 http://42.231.254.48:52201/bin.sh,1,urlhaus
@@ -11199,6 +11359,8 @@ http://42.235.89.72:49612/bin.sh,1,urlhaus
 http://42.235.89.72:49612/i,1,urlhaus
 http://42.235.89.86:33303/bin.sh,1,urlhaus
 http://42.235.89.86:33303/i,1,urlhaus
+http://42.235.90.235:37904/bin.sh,1,urlhaus
+http://42.235.90.235:37904/i,1,urlhaus
 http://42.235.91.157:59114/bin.sh,1,urlhaus
 http://42.235.91.157:59114/i,1,urlhaus
 http://42.235.95.32:32967/bin.sh,1,urlhaus
@@ -11221,6 +11383,7 @@ http://42.237.49.238:34031/i,1,urlhaus
 http://42.237.50.167:36321/i,1,urlhaus
 http://42.237.52.167:45272/i,1,urlhaus
 http://42.237.52.213:57304/bin.sh,1,urlhaus
+http://42.237.52.213:57304/i,1,urlhaus
 http://42.237.8.175:33125/i,1,urlhaus
 http://42.237.8.242:33125/i,1,urlhaus
 http://42.237.83.175:47070/bin.sh,1,urlhaus
@@ -11312,6 +11475,8 @@ http://42.239.228.208:45958/bin.sh,1,urlhaus
 http://42.239.228.208:45958/i,1,urlhaus
 http://42.239.228.49:56600/bin.sh,1,urlhaus
 http://42.239.228.49:56600/i,1,urlhaus
+http://42.239.230.180:50648/bin.sh,1,urlhaus
+http://42.239.230.180:50648/i,1,urlhaus
 http://42.239.231.46:57548/bin.sh,1,urlhaus
 http://42.239.231.46:57548/i,1,urlhaus
 http://42.239.232.223:39739/bin.sh,1,urlhaus
@@ -11374,6 +11539,8 @@ http://42.53.39.89:54585/bin.sh,1,urlhaus
 http://42.53.39.89:54585/i,1,urlhaus
 http://42.53.61.212:60301/bin.sh,1,urlhaus
 http://42.53.62.43:58778/bin.sh,1,urlhaus
+http://42.53.72.254:36511/bin.sh,1,urlhaus
+http://42.53.72.254:36511/i,1,urlhaus
 http://42.53.72.72:41315/bin.sh,1,urlhaus
 http://42.53.72.72:41315/i,1,urlhaus
 http://42.54.165.204:45841/bin.sh,1,urlhaus
@@ -11492,6 +11659,8 @@ http://42.87.41.227:44480/bin.sh,1,urlhaus
 http://42.87.41.227:44480/i,1,urlhaus
 http://42.98.142.205:1750/i,1,urlhaus
 http://42.98.214.195:42270/.i,1,urlhaus
+http://43.132.205.118:81/app/minibrowser11_rpl.zip,1,otx
+http://43.155.62.54:81/app/minibrowser11_rpl.zip,1,otx
 http://43.228.157.33/hiddenbin/boatnet.arc,1,urlhaus
 http://43.228.157.33/hiddenbin/boatnet.arm,1,urlhaus
 http://43.228.157.33/hiddenbin/boatnet.arm5,1,urlhaus
@@ -11508,6 +11677,7 @@ http://43.228.157.33/hiddenbin/boatnet.spc,1,urlhaus
 http://43.228.157.33/hiddenbin/boatnet.x86,1,urlhaus
 http://43.228.157.33/hiddenbin/boatnet.x86_64,1,urlhaus
 http://43.249.54.246:17771/.i,1,urlhaus
+http://43t34t.yv3ie.dns.army/,1,threatfox
 http://45.112.207.69:8000/1.exe,1,urlhaus
 http://45.112.207.69:8000/2.exe,1,urlhaus
 http://45.112.207.69:8000/3.exe,1,urlhaus
@@ -12035,6 +12205,19 @@ http://46.149.73.60/4SLEYpfAk57hGubo/FNPLicensingService.php,1,urlhaus
 http://46.149.73.60/4SLEYpfAk57hGubo/messagebus.pdf,1,urlhaus
 http://46.149.73.60/4SLEYpfAk57hGubo/wslservice.mp3,1,urlhaus
 http://46.151.182.73/hb8ipc.sh,1,urlhaus
+http://46.151.182.73/oxpdxnaob113/assets/js/0twxt1rqmy,1,urlhaus
+http://46.151.182.73/oxpdxnaob113/assets/js/4bonx494kg,1,urlhaus
+http://46.151.182.73/oxpdxnaob113/assets/js/4bonx494kg?token=sZJUJ8lMq4yzsZuO5oJu1gjt8HZxTFG3,1,urlhaus
+http://46.151.182.73/oxpdxnaob113/assets/js/a7nuhf01jq,1,urlhaus
+http://46.151.182.73/oxpdxnaob113/assets/js/d8o7xu71em,1,urlhaus
+http://46.151.182.73/oxpdxnaob113/assets/js/hk9r4h7dm6,1,urlhaus
+http://46.151.182.73/oxpdxnaob113/assets/js/hk9r4h7dm6?token=sZJUJ8lMq4yzsZuO5oJu1gjt8HZxTFG3,1,urlhaus
+http://46.151.182.73/oxpdxnaob113/assets/js/kcd5v195q5,1,urlhaus
+http://46.151.182.73/oxpdxnaob113/assets/js/nfrqbh0ttz,1,urlhaus
+http://46.151.182.73/oxpdxnaob113/assets/js/nnzlphr2vt,1,urlhaus
+http://46.151.182.73/oxpdxnaob113/assets/js/qjzu1ipbfu,1,urlhaus
+http://46.151.182.73/oxpdxnaob113/assets/js/tjyhj7uvnn,1,urlhaus
+http://46.151.182.73/oxpdxnaob113/assets/js/tjyhj7uvnn?token=sZJUJ8lMq4yzsZuO5oJu1gjt8HZxTFG3,1,urlhaus
 http://46.158.240.193:52467/bin.sh,1,urlhaus
 http://46.158.240.193:52467/i,1,urlhaus
 http://46.163.134.250:39756/bin.sh,1,urlhaus
@@ -12105,13 +12288,17 @@ http://47.110.69.92:1042/02.08.2022.exe,1,urlhaus
 http://47.120.20.86:8888/02.08.2022.exe,1,urlhaus
 http://47.152.112.236:8105/sshd,1,urlhaus
 http://47.229.1.27:90/,1,urlhaus
+http://47.238.107.83:81/app/minibrowser11_rpl.zip,1,otx
 http://47.239.230.84:20000/02.08.2022.exe,1,urlhaus
 http://47.80.11.103:2222/loader1.bin,1,urlhaus
 http://47.92.169.87/02.08.2022.exe,1,urlhaus
+http://47.93.54.134:8005,1,otx
 http://49.176.254.54/,1,urlhaus
 http://49.228.131.61:3001/,1,urlhaus
 http://49.245.76.121:8000/,1,urlhaus
 http://49.49.149.140:8088/,1,urlhaus
+http://49.89.41.187:8003/,1,otx
+http://4ckuc.dns.army/,1,threatfox
 http://5.134.254.3:39512/bin.sh,1,urlhaus
 http://5.142.113.170:22381/.i,1,urlhaus
 http://5.16.162.140:81/hiddenbin/dvr1.sh,1,urlhaus
@@ -12266,6 +12453,8 @@ http://59.101.213.127:39088/i,1,urlhaus
 http://59.101.92.185:39088/bin.sh,1,urlhaus
 http://59.102.26.245:40924/bin.sh,1,urlhaus
 http://59.102.26.245:40924/i,1,urlhaus
+http://59.103.86.150:39914/bin.sh,1,urlhaus
+http://59.103.86.150:39914/i,1,urlhaus
 http://59.110.40.60:8443/02.08.2022.exe,1,urlhaus
 http://59.153.83.218:9000/,1,urlhaus
 http://59.177.100.95:38253/bin.sh,1,urlhaus
@@ -12286,6 +12475,7 @@ http://59.177.97.111:37055/i,1,urlhaus
 http://59.177.98.162:35743/bin.sh,1,urlhaus
 http://59.177.98.162:35743/i,1,urlhaus
 http://59.177.99.160:59221/i,1,urlhaus
+http://59.177.99.248:40474/i,1,urlhaus
 http://59.177.99.83:37055/i,1,urlhaus
 http://59.177.99.85:57434/i,1,urlhaus
 http://59.180.178.148:57429/bin.sh,1,urlhaus
@@ -12335,10 +12525,15 @@ http://59.184.221.248:36422/bin.sh,1,urlhaus
 http://59.184.241.103:43347/i,1,urlhaus
 http://59.184.242.126:43397/bin.sh,1,urlhaus
 http://59.184.242.126:43397/i,1,urlhaus
+http://59.184.242.97:36317/bin.sh,1,urlhaus
+http://59.184.242.97:36317/i,1,urlhaus
 http://59.184.247.170:46350/bin.sh,1,urlhaus
+http://59.184.247.170:46350/i,1,urlhaus
 http://59.184.249.191:50715/bin.sh,1,urlhaus
 http://59.184.249.191:50715/i,1,urlhaus
 http://59.184.249.229:44564/bin.sh,1,urlhaus
+http://59.184.251.154:42746/bin.sh,1,urlhaus
+http://59.184.251.154:42746/i,1,urlhaus
 http://59.184.251.221:58200/bin.sh,1,urlhaus
 http://59.184.255.231:54241/bin.sh,1,urlhaus
 http://59.184.255.231:54241/i,1,urlhaus
@@ -12353,6 +12548,7 @@ http://59.42.88.34:56735/bin.sh,1,urlhaus
 http://59.42.88.34:56735/i,1,urlhaus
 http://59.42.88.39:56735/bin.sh,1,urlhaus
 http://59.42.88.39:56735/i,1,urlhaus
+http://59.42.89.131:56735/bin.sh,1,urlhaus
 http://59.42.89.131:56735/i,1,urlhaus
 http://59.42.89.150:56735/i,1,urlhaus
 http://59.42.91.26:56735/bin.sh,1,urlhaus
@@ -12389,6 +12585,8 @@ http://59.88.253.94:56274/i,1,urlhaus
 http://59.88.29.161:41138/bin.sh,1,urlhaus
 http://59.88.37.213:39475/bin.sh,1,urlhaus
 http://59.88.37.213:39475/i,1,urlhaus
+http://59.88.40.143:42593/bin.sh,1,urlhaus
+http://59.88.40.143:42593/i,1,urlhaus
 http://59.88.45.188:2003/sshd,1,urlhaus
 http://59.88.46.53:52820/bin.sh,1,urlhaus
 http://59.88.46.53:52820/i,1,urlhaus
@@ -12405,6 +12603,7 @@ http://59.88.8.160:34119/bin.sh,1,urlhaus
 http://59.88.8.160:34119/i,1,urlhaus
 http://59.88.8.62:56935/bin.sh,1,urlhaus
 http://59.88.8.62:56935/i,1,urlhaus
+http://59.88.89.73:58535/i,1,urlhaus
 http://59.89.1.51:51671/i,1,urlhaus
 http://59.89.18.131:53368/bin.sh,1,urlhaus
 http://59.89.25.232:57721/bin.sh,1,urlhaus
@@ -12433,12 +12632,16 @@ http://59.93.18.59:55942/bin.sh,1,urlhaus
 http://59.93.18.59:55942/i,1,urlhaus
 http://59.93.189.169:59477/bin.sh,1,urlhaus
 http://59.93.189.169:59477/i,1,urlhaus
+http://59.93.189.250:52964/i,1,urlhaus
 http://59.93.19.123:44532/bin.sh,1,urlhaus
 http://59.93.19.123:44532/i,1,urlhaus
+http://59.93.19.33:54004/bin.sh,1,urlhaus
+http://59.93.19.33:54004/i,1,urlhaus
 http://59.93.190.19:53971/bin.sh,1,urlhaus
 http://59.93.190.19:53971/i,1,urlhaus
 http://59.93.23.98:53890/bin.sh,1,urlhaus
 http://59.93.23.98:53890/i,1,urlhaus
+http://59.93.90.241:60192/bin.sh,1,urlhaus
 http://59.94.126.163:54070/i,1,urlhaus
 http://59.94.126.49:35104/bin.sh,1,urlhaus
 http://59.94.126.49:35104/i,1,urlhaus
@@ -12468,6 +12671,8 @@ http://59.96.137.63:50855/bin.sh,1,urlhaus
 http://59.96.137.63:50855/i,1,urlhaus
 http://59.96.137.81:51423/bin.sh,1,urlhaus
 http://59.96.137.81:51423/i,1,urlhaus
+http://59.96.138.61:56065/bin.sh,1,urlhaus
+http://59.96.138.61:56065/i,1,urlhaus
 http://59.96.139.77:52913/bin.sh,1,urlhaus
 http://59.96.139.77:52913/i,1,urlhaus
 http://59.96.139.7:48584/bin.sh,1,urlhaus
@@ -12537,6 +12742,8 @@ http://59.97.253.255:44406/i,1,urlhaus
 http://59.97.254.31:58371/bin.sh,1,urlhaus
 http://59.97.254.62:55868/bin.sh,1,urlhaus
 http://59.97.254.62:55868/i,1,urlhaus
+http://59.97.255.247:36369/bin.sh,1,urlhaus
+http://59.97.255.247:36369/i,1,urlhaus
 http://59.97.255.43:34613/bin.sh,1,urlhaus
 http://59.97.255.43:34613/i,1,urlhaus
 http://59.97.255.74:60617/bin.sh,1,urlhaus
@@ -12558,6 +12765,7 @@ http://60.162.195.238:56417/i,1,urlhaus
 http://60.17.154.225:58849/i,1,urlhaus
 http://60.17.158.18:58849/i,1,urlhaus
 http://60.18.10.74:60629/bin.sh,1,urlhaus
+http://60.18.10.74:60629/i,1,urlhaus
 http://60.18.105.150:55599/bin.sh,1,urlhaus
 http://60.18.105.150:55599/i,1,urlhaus
 http://60.18.107.0:42065/bin.sh,1,urlhaus
@@ -12684,12 +12892,16 @@ http://61.176.24.11:36571/bin.sh,1,urlhaus
 http://61.176.24.11:36571/i,1,urlhaus
 http://61.176.70.36:57108/i,1,urlhaus
 http://61.176.71.232:41468/i,1,urlhaus
+http://61.176.71.90:40802/bin.sh,1,urlhaus
+http://61.176.71.90:40802/i,1,urlhaus
 http://61.2.169.91:52517/bin.sh,1,urlhaus
 http://61.231.227.198:83/,1,urlhaus
 http://61.238.21.198:37777/,1,urlhaus
 http://61.3.100.88:39817/bin.sh,1,urlhaus
 http://61.3.100.88:39817/i,1,urlhaus
 http://61.3.102.232:58590/bin.sh,1,urlhaus
+http://61.3.111.183:54467/bin.sh,1,urlhaus
+http://61.3.111.183:54467/i,1,urlhaus
 http://61.3.111.33:39121/bin.sh,1,urlhaus
 http://61.3.111.93:35253/bin.sh,1,urlhaus
 http://61.3.111.93:35253/i,1,urlhaus
@@ -12701,6 +12913,8 @@ http://61.3.140.9:40156/i,1,urlhaus
 http://61.3.142.62:49123/bin.sh,1,urlhaus
 http://61.3.142.62:49123/i,1,urlhaus
 http://61.3.143.170:49568/i,1,urlhaus
+http://61.3.16.168:35247/bin.sh,1,urlhaus
+http://61.3.16.168:35247/i,1,urlhaus
 http://61.3.19.21:49203/i,1,urlhaus
 http://61.3.23.244:35776/bin.sh,1,urlhaus
 http://61.3.23.244:35776/i,1,urlhaus
@@ -12945,6 +13159,8 @@ http://61.53.93.86:59619/bin.sh,1,urlhaus
 http://61.53.93.86:59619/i,1,urlhaus
 http://61.53.93.90:44949/bin.sh,1,urlhaus
 http://61.53.93.90:44949/i,1,urlhaus
+http://61.53.94.16:60189/bin.sh,1,urlhaus
+http://61.53.94.16:60189/i,1,urlhaus
 http://61.53.94.84:58340/bin.sh,1,urlhaus
 http://61.53.94.84:58340/i,1,urlhaus
 http://61.53.95.48:47622/bin.sh,1,urlhaus
@@ -13144,6 +13360,7 @@ http://68.183.46.3/x86_64,1,urlhaus
 http://69.157.147.60:58277/i,1,urlhaus
 http://69.159.155.246:58277/.i,1,urlhaus
 http://69.159.155.246:58277/i,1,urlhaus
+http://6exkk.v6.navy/,1,threatfox
 http://70.169.51.111/02.08.2022.exe,1,urlhaus
 http://70.36.97.24/m4ng0d33w1771nnmnlove/MMaaRRiiOisecTanee.arc,1,urlhaus
 http://70.36.97.24/m4ng0d33w1771nnmnlove/MMaaRRiiOisecTanee.arm,1,urlhaus
@@ -13215,6 +13432,8 @@ http://77.238.232.165/optopucas_v1.4.1-x86.bat,1,urlhaus
 http://77.245.107.223:36220/i,1,urlhaus
 http://77.247.88.120:40611/bin.sh,1,urlhaus
 http://77.247.88.120:40611/i,1,urlhaus
+http://77.247.88.72:42957/bin.sh,1,urlhaus
+http://77.247.88.72:42957/i,1,urlhaus
 http://77.247.88.82:44503/bin.sh,1,urlhaus
 http://77.247.88.82:44503/i,1,urlhaus
 http://77.247.88.87:35785/bin.sh,1,urlhaus
@@ -13297,6 +13516,7 @@ http://79.200.94.3:89/,1,urlhaus
 http://79.25.255.106:8080/,1,urlhaus
 http://79.253.167.204/,1,urlhaus
 http://79.98.159.151:8088/,1,urlhaus
+http://7ieub.dns.army/,1,threatfox
 http://8.131.77.227:817/02.08.2022.exe,1,urlhaus
 http://8.138.112.209:1112/02.08.2022.exe,1,urlhaus
 http://8.141.93.66:8081/02.08.2022.exe,1,urlhaus
@@ -13395,7 +13615,6 @@ http://82.137.218.197/,1,urlhaus
 http://82.139.95.202:2000/,1,urlhaus
 http://82.144.86.37:51209/bin.sh,1,urlhaus
 http://82.144.86.37:51209/i,1,urlhaus
-http://82.146.48.233/Processorbigload.php,1,threatfox
 http://82.223.44.153/1.sh,1,urlhaus
 http://82.223.44.153/hiddenbin/Space.arc,1,urlhaus
 http://82.223.44.153/hiddenbin/Space.arm,1,urlhaus
@@ -13844,6 +14063,18 @@ http://88.151.195.33/001010101010010110101011101010101101010111010101/nwfaiehg4e
 http://88.151.195.33/001010101010010110101011101010101101010111010101/nwfaiehg4ewijfgriehgirehaughrarg.x86_64,1,urlhaus
 http://88.151.195.33/1.sh,1,urlhaus
 http://88.180.236.68/,1,urlhaus
+http://88.214.20.14/bins/tux.arc,1,urlhaus
+http://88.214.20.14/bins/tux.arm,1,urlhaus
+http://88.214.20.14/bins/tux.arm4,1,urlhaus
+http://88.214.20.14/bins/tux.arm5,1,urlhaus
+http://88.214.20.14/bins/tux.arm6,1,urlhaus
+http://88.214.20.14/bins/tux.arm7,1,urlhaus
+http://88.214.20.14/bins/tux.m68k,1,urlhaus
+http://88.214.20.14/bins/tux.mips,1,urlhaus
+http://88.214.20.14/bins/tux.mpsl,1,urlhaus
+http://88.214.20.14/bins/tux.ppc,1,urlhaus
+http://88.214.20.14/bins/tux.sh4,1,urlhaus
+http://88.214.20.14/bins/tux.x86,1,urlhaus
 http://88.228.249.54:59970/bin.sh,1,urlhaus
 http://88.228.249.54:59970/i,1,urlhaus
 http://88.250.238.6:44580/bin.sh,1,urlhaus
@@ -13852,6 +14083,7 @@ http://88.8.16.9:1051/sshd,1,urlhaus
 http://88.8.16.9:1058/sshd,1,urlhaus
 http://88.8.16.9:1078/sshd,1,urlhaus
 http://88.8.20.75:10002/sshd,1,urlhaus
+http://88.84.222.217:29218/i,1,urlhaus
 http://88.84.222.217:43870/bin.sh,1,urlhaus
 http://88.84.222.217:43870/i,1,urlhaus
 http://88.85.183.120:49994/bin.sh,1,urlhaus
@@ -13863,6 +14095,7 @@ http://89.165.251.230:51993/i,1,urlhaus
 http://89.185.84.13:19347/1/axhtymsbrkiems935.css,1,urlhaus
 http://89.185.84.13:19347/1/brkiemshaeetwja612.bin,1,urlhaus
 http://89.190.158.76/XClient.exe,1,urlhaus
+http://89.195.5.18:4553,1,otx
 http://89.208.39.43:55734/.i,1,urlhaus
 http://89.31.44.99:6080/,1,urlhaus
 http://90.174.101.42:47650/i,1,urlhaus
@@ -13882,6 +14115,7 @@ http://91.124.63.133/main_ppc,1,urlhaus
 http://91.124.63.133/main_sh4,1,urlhaus
 http://91.124.63.133/main_x86,1,urlhaus
 http://91.124.63.133/main_x86_64,1,urlhaus
+http://91.124.63.200/main_mips,1,urlhaus
 http://91.143.171.155:50112/i,1,urlhaus
 http://91.143.171.155:57100/i,1,urlhaus
 http://91.143.172.196:35719/bin.sh,1,urlhaus
@@ -13901,7 +14135,10 @@ http://91.196.32.55/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68
 http://91.196.32.55/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.mips,1,urlhaus
 http://91.196.32.55/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.mpsl,1,urlhaus
 http://91.196.32.55/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.ppc,1,urlhaus
+http://91.196.32.55/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.sh4,1,urlhaus
+http://91.196.32.55/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.spc,1,urlhaus
 http://91.196.32.55/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.x86,1,urlhaus
+http://91.196.33.177,1,threatfox
 http://91.218.66.241/bins/loader.sh,1,urlhaus
 http://91.218.66.241/bins/nullpointer.x86,1,urlhaus
 http://91.219.23.145/predator-varying,1,urlhaus
@@ -13990,10 +14227,11 @@ http://91.92.242.240/nullnet_bin_dir/nullnet_load.sh4,1,urlhaus
 http://91.92.242.240/nullnet_bin_dir/nullnet_load.spc,1,urlhaus
 http://91.92.242.240/nullnet_bin_dir/nullnet_load.x86,1,urlhaus
 http://91.92.242.240/nullnet_bin_dir/nullnet_load.x86_64,1,urlhaus
+http://91.92.242.30/6x8c0trkp4l9uugo,1,otx
+http://91.92.242.30/7buu24ly8m1tn8m4,1,otx
 http://91.92.242.30/dx2w5j5bka6qkwxi,1,urlhaus
 http://91.92.242.30/l5ou8r739pc48rwi,1,urlhaus
 http://91.92.242.30/sujwb2nsdn93d79q,1,urlhaus
-http://91.92.242.30/x5ki60w1ih838sp7,1,urlhaus
 http://91.92.243.113:235/arm7.kok,1,urlhaus
 http://91.92.243.113:235/logic.sh,1,urlhaus
 http://91.92.243.113:235/x86_32.kok,1,urlhaus
@@ -14278,6 +14516,7 @@ http://98.195.187.75/Photo.scr,1,urlhaus
 http://98.197.230.147:88/,1,urlhaus
 http://98.252.87.232:57939/bin.sh,1,urlhaus
 http://99.53.69.161:88/,1,urlhaus
+http://9jgeb.v6.navy/,1,threatfox
 http://a54mfa.easypanel.host/1.sh,1,urlhaus
 http://a54mfa.easypanel.host/ambatukam/debug,1,urlhaus
 http://a54mfa.easypanel.host/ambatukam/rizzx.arc,1,urlhaus
@@ -14294,6 +14533,9 @@ http://a54mfa.easypanel.host/ambatukam/rizzx.sh4,1,urlhaus
 http://a54mfa.easypanel.host/ambatukam/rizzx.spc,1,urlhaus
 http://a54mfa.easypanel.host/ambatukam/rizzx.x86,1,urlhaus
 http://a54mfa.easypanel.host/ambatukam/rizzx.x86_64,1,urlhaus
+http://a5db.ch/api.php?check,1,threatfox
+http://a6b6.biz/api.php?check,1,threatfox
+http://a7f3q.v6.navy/,1,threatfox
 http://adobeappsxpyrf-update.click/files/Adobe_Reader928097.zip,1,urlhaus
 http://affectionate-easley.121-127-34-164.plesk.page/armv4l,1,urlhaus
 http://affectionate-easley.121-127-34-164.plesk.page/armv5l,1,urlhaus
@@ -14312,6 +14554,7 @@ http://agent-client-stoarge.webredirect.org/access/JWrapper-Remote%20Access_winu
 http://agitate6vagina.digital,1,urlhaus
 http://aidiyet.esb.org.tr/landpage?ms=http://bloomshift.takeoverspring.in.net/service/verification.google,1,urlhaus
 http://almacensantangel.com/ENCRYPT.Ps1,1,urlhaus
+http://analytics.freshdatainsights.org/display/2025/uid_8oQRkgpvMSgmBFt9/WondershareApplicationManual.pdf,1,otx
 http://antimalwarehub.com/Hisefuhu,1,urlhaus
 http://antimalwarehub.com/Verification,1,urlhaus
 http://api.skwise.net/nullnet_bin_dir/nullnet_load.arc,1,urlhaus
@@ -14427,6 +14670,7 @@ http://bmh-global.myfirewall.org/QUOTATION.jar,1,urlhaus
 http://bmh-global.myfirewall.org/WORDS.exe,1,urlhaus
 http://bnet-api.playm8ru.win/SSA_Statement.msi,1,urlhaus
 http://bnet.playm8ru.win/SSA_Statement.msi,1,urlhaus
+http://bng0e.dns.army/,1,threatfox
 http://bobnet.exiled.fit/main_arm,1,urlhaus
 http://bobnet.exiled.fit/main_arm5,1,urlhaus
 http://bobnet.exiled.fit/main_arm6,1,urlhaus
@@ -14444,6 +14688,8 @@ http://browse-secure.kesug.com/arquivo_20260201221806.txt,1,urlhaus
 http://bunq.appswifthub.com/SSA_Statement_pdf.msi,1,urlhaus
 http://c.fi3.me/666666.png,1,urlhaus
 http://campaigns-barn-jake-controlling.trycloudflare.com/Sep01x86_Ayoo.zip,1,urlhaus
+http://catalogs.dailydownloads.net/archives/microsoft/office/,1,otx
+http://catalogs.dailydownloads.net/archives/microsoft/office/@MrPresident_001_bot.rar,1,otx
 http://cdt-working-famous-nsw.trycloudflare.com/Sep01x86_Ayoo.zip,1,urlhaus
 http://chanchanmiraixd.duckdns.org/huhu/titanjr.arc,1,urlhaus
 http://chanchanmiraixd.duckdns.org/huhu/titanjr.arm,1,urlhaus
@@ -14556,6 +14802,7 @@ http://cnc.mu-minhvuong.com/z0l1mxjm4mdl4jjfjf7sb2vdmv/MMaaRRiiOisecTanee.sh4,1,
 http://cnc.mu-minhvuong.com/z0l1mxjm4mdl4jjfjf7sb2vdmv/MMaaRRiiOisecTanee.spc,1,urlhaus
 http://cnc.mu-minhvuong.com/z0l1mxjm4mdl4jjfjf7sb2vdmv/MMaaRRiiOisecTanee.x86,1,urlhaus
 http://cnc.mu-minhvuong.com/z0l1mxjm4mdl4jjfjf7sb2vdmv/MMaaRRiiOisecTanee.x86_64,1,urlhaus
+http://contatoplus.com/curl/8d2d275360adedecfbbd91567daddeed80d20aceb8aa4320d06a21486493945b,1,otx
 http://coolcams.duckdns.org/bins/arm,1,urlhaus
 http://coolcams.duckdns.org/bins/arm5,1,urlhaus
 http://coolcams.duckdns.org/bins/arm6,1,urlhaus
@@ -14575,7 +14822,10 @@ http://crm.razatelefonia.pro/new/c,1,urlhaus
 http://crm.razatelefonia.pro/new/k.php,1,urlhaus
 http://crypter5ds.lovestoblog.com/arquivo_20260120101822.txt,1,urlhaus
 http://cryptershgs.lovestoblog.com/arquivo_20260107045307.txt,1,urlhaus
+http://daily.getfreshdata.com/dailynews/environment.enc,1,otx
+http://daily.getfreshdata.com/dailynews/key.txt,1,otx
 http://dam-basename-performances-mph.trycloudflare.com/sep01x86_ayoo.zip,1,urlhaus
+http://dbi0b.v6.navy/,1,threatfox
 http://dbss180.com/%E8%B1%86%E5%8C%85%E7%81%AB%E9%BE%99.rar,1,urlhaus
 http://de-25x800.com/b,1,urlhaus
 http://de-25x800.com/bins/mpsl,1,urlhaus
@@ -14648,6 +14898,7 @@ http://down.1756520.xyz/mips,1,urlhaus
 http://down.1756520.xyz/run.sh,1,urlhaus
 http://down.1756520.xyz/x86,1,urlhaus
 http://download.pplive.com/PPTV(pplive)_forap_1084_9993.exe,1,urlhaus
+http://drive.easyboxsync.com/resources/channels/v7/cambodia64,1,otx
 http://easyhostweb.com/1.bat,1,urlhaus
 http://echorp.shop/bins/arm,1,urlhaus
 http://echorp.shop/bins/arm5,1,urlhaus
@@ -14684,6 +14935,7 @@ http://excellence02.rf.gd/arquivo_20260227020225.txt,1,urlhaus
 http://exercises-gorgeous-robin-parker.trycloudflare.com/Sep01x86_Ayoo.zip,1,urlhaus
 http://ext-checkdin.vercel.app/api/tokenl?st=NkQ2TGJ5THlKVDZ5N1ZlMi84dVB0dz09Omc4U3hTbUVpNGwzQ1RwNWJoTWMyVDFWSkhQalk3UXFmUDE3bE5BRFF4QTluVDlZNW9KcmpBaDlONzBJNzBzU3NiUDBmTmg5K2NyTWhHOFBYUWsrRnM0Y3NnaCs5eXZRMWpMcWNvcnA5VVQxcmVBM3Jyd2pJV0VqZmFuV0d6RWJRYWJqREJDbzZQME5sSTNORGNTOXVCb3V4NnQ3RTRlNGdmcG1FSDBSTmhwVT0,1,urlhaus
 http://falconsplayingpoker.com/allyourbase/RoyalFlush3.ps1,1,urlhaus
+http://fastcruiseandco.com,1,threatfox
 http://fenbushijujuefuwu.com/arm,1,urlhaus
 http://fenbushijujuefuwu.com/arm5,1,urlhaus
 http://fenbushijujuefuwu.com/arm6,1,urlhaus
@@ -14708,17 +14960,29 @@ http://fil.ydns.eu/sleahygtr/sleaked.js,1,urlhaus
 http://fil.ydns.eu/somgftred/jigcAIp.txt,1,urlhaus
 http://fil.ydns.eu/wkijh/FnIeaoI.txt,1,urlhaus
 http://floneimf.ydns.eu/webcontents/drsgtsrhydtesrtshtigushdfhsdufhuhdsfrgsthfxh/ibKUVSEfbgrnsrkgtsdzthsftgzhthsthsfg/contents.exe,1,urlhaus
+http://freefoodaid.com/davwwwroot/2_2.lNk?init=,1,otx
+http://freefoodaid.com/documents/2_2.lNk?init=,1,otx
+http://freefoodaid.com/documents/template_2_2.doc,1,otx
 http://friendly.ydns.eu/CH1.exe,1,urlhaus
 http://friendly.ydns.eu/CH2.exe,1,urlhaus
 http://friendly.ydns.eu/CH3.exe,1,urlhaus
+http://fsmhn.v6.navy/,1,threatfox
+http://g24.bng0e.dns.army/,1,threatfox
+http://get.storagesync.biz/resources/newspaper/2018/forecast2018,1,otx
 http://gettpose2far.com/SSA_STATEMENT_PDF.msi,1,urlhaus
+http://gettranslate.ir:18443/baner?sig=ded8deb7ff580788cc58cbbf5508f3bf&BanerId=347333,1,otx
 http://github.com/stevencohn8888-max/6789098778909876/raw/refs/heads/main/Documento%236124.7z,1,urlhaus
 http://github.com/stevencohn8888-max/GJH/raw/refs/heads/main/documento_pdf.7z,1,urlhaus
 http://github.com/stevencohn8888-max/NEWOWNOW/raw/refs/heads/main/P0-678766887678.7z,1,urlhaus
 http://github.com/stevencohn8888-max/johnj/raw/refs/heads/main/Documento.iso,1,urlhaus
 http://github.com/stevencohn8888-max/t354454323432/raw/refs/heads/main/Documento_6789789_pdf.cab,1,urlhaus
 http://github.com/user-attachments/files/16784059/p.zip,1,urlhaus
+http://glot.io/snippets/hfdxv8uyaf,1,otx
 http://goldenangel.wuaze.com/MSI_PRO_with_b64.png,1,urlhaus
+http://gosidefastandpure.com/76773139753479743332356866677863/completed/a16a5d4,1,threatfox
+http://gosidefastandpure.com/76773139753479743332356866677863/failed/4a82136,1,threatfox
+http://gosidefastandpure.com/76773139753479743332356866677863/failed/4a821368,1,threatfox
+http://gosidefastandpure.com/76773139753479743332356866677863/started/69c85cb9,1,threatfox
 http://hanzzmypanel.paneldo.my.id:8080/kurayami_mips,1,urlhaus
 http://hanzzmypanel.paneldo.my.id:8080/kurayami_mipsel,1,urlhaus
 http://hanzzmypanel.paneldo.my.id:8080/payload.sh,1,urlhaus
@@ -14825,6 +15089,7 @@ http://js.zianxn.qzz.io/mips,1,urlhaus
 http://js.zianxn.qzz.io/mipsel,1,urlhaus
 http://js.zianxn.qzz.io/sh4,1,urlhaus
 http://js.zianxn.qzz.io/x86_64,1,urlhaus
+http://jupbc.dns.army/,1,threatfox
 http://justwatch.life/389242390482/3atoNational.arm,1,urlhaus
 http://justwatch.life/389242390482/3atoNational.arm5,1,urlhaus
 http://justwatch.life/389242390482/3atoNational.arm6,1,urlhaus
@@ -14850,6 +15115,8 @@ http://ksda.ct.ws/arquivo_20260224234736.txt,1,urlhaus
 http://ksda.ct.ws/arquivo_20260225190035.txt,1,urlhaus
 http://kys.cx/get.php,1,urlhaus
 http://kys.li/get.php,1,urlhaus
+http://live.easyboxsync.com/resources/gup/notepad,1,otx
+http://mail.appvpensan.com/,1,threatfox
 http://mailserver.ccsnetwork.cn/arm,1,urlhaus
 http://mailserver.ccsnetwork.cn/arm5,1,urlhaus
 http://mailserver.ccsnetwork.cn/arm6,1,urlhaus
@@ -14891,6 +15158,7 @@ http://messageforms.com/sparc,1,urlhaus
 http://messageforms.com/x-3.2-.ISIS,1,urlhaus
 http://messageforms.com/x-8.6-.ISIS,1,urlhaus
 http://messageforms.com/x86_64,1,urlhaus
+http://mhjjh.dynv6.net/,1,threatfox
 http://miltary-company.kesug.com/arquivo_20260202232045.txt,1,urlhaus
 http://miltary-company.kesug.com/arquivo_20260204234716.txt,1,urlhaus
 http://miltary-company.kesug.com/arquivo_20260212005716.txt,1,urlhaus
@@ -14917,6 +15185,12 @@ http://musing-visvesvaraya.45-90-98-218.plesk.page/yakuza.sh4,1,urlhaus
 http://musing-visvesvaraya.45-90-98-218.plesk.page/yakuza.spc,1,urlhaus
 http://musing-visvesvaraya.45-90-98-218.plesk.page/yakuza.x86,1,urlhaus
 http://mvirdi.com/SSA_Statement.msi,1,urlhaus
+http://ndoc-pass.dns.army/,1,threatfox
+http://ndociverify.dns.army/,1,threatfox
+http://ndocpass.dns.army/,1,threatfox
+http://ndocs-verify.dns.army/,1,threatfox
+http://ndocs2mai1.dns.army/,1,threatfox
+http://ndocs5mai1.dns.army/,1,threatfox
 http://nelavohomet.com/0FQum2BFeA/qGNNxl4/6mzmPwGPQWF,1,urlhaus
 http://nelavohomet.com/0Z4DkMnG/YiSRPO4/7VjM3PszY,1,urlhaus
 http://nelavohomet.com/0tIKofR/BbZV8/U23gb6UD9Ca,1,urlhaus
@@ -15008,6 +15282,8 @@ http://neronpidaras.it.com/main_sh4,1,urlhaus
 http://neronpidaras.it.com/main_x86,1,urlhaus
 http://neronpidaras.it.com/main_x86_64,1,urlhaus
 http://newapps.site/NISSAN3.exe,1,urlhaus
+http://news.dostpagasa.com/llehs/jdkasdnkaf.enc,1,otx
+http://nexfin.expert,1,threatfox
 http://nguyentuanan.com/abc1.sh,1,urlhaus
 http://nguyentuanan.com/abc2.sh,1,urlhaus
 http://nguyentuanan.com/abc3.sh,1,urlhaus
@@ -15025,6 +15301,7 @@ http://nguyentuanan.com/sh4,1,urlhaus
 http://nguyentuanan.com/spc,1,urlhaus
 http://nguyentuanan.com/x86,1,urlhaus
 http://nguyentuanan.com/x86_64,1,urlhaus
+http://nid.naver.liferod.com/,1,threatfox
 http://nmgm-nmm.vip/bins/arm,1,urlhaus
 http://nmgm-nmm.vip/bins/arm5,1,urlhaus
 http://nmgm-nmm.vip/bins/arm6,1,urlhaus
@@ -15060,6 +15337,7 @@ http://oficialrem.duckdns.org/SOSTENER.vbs,1,urlhaus
 http://oficialrem.duckdns.org/a.exe,1,urlhaus
 http://paper0post.com/SSA_STATEMENT_PDF.msi,1,urlhaus
 http://pastefy.app/slc7jpkp/raw,1,urlhaus
+http://payrolladvice.fr,1,threatfox
 http://photo-id5631894.com/,1,urlhaus
 http://piece-showing-supervision-virtue.trycloudflare.com/PHSep01x86_Ayoo.zip,1,urlhaus
 http://pin-up0045.com/bins/xnxnxnxnxnxnxnxnaarch64xnxn,1,urlhaus
@@ -15092,6 +15370,8 @@ http://pls.ddosme.web.id/ambatukam/rizzx.sh4,1,urlhaus
 http://pls.ddosme.web.id/ambatukam/rizzx.spc,1,urlhaus
 http://pls.ddosme.web.id/ambatukam/rizzx.x86,1,urlhaus
 http://pls.ddosme.web.id/ambatukam/rizzx.x86_64,1,urlhaus
+http://pool-proxy.fud2026.com:9000,1,otx
+http://pool.fud2026.com:9000,1,otx
 http://primedatahost4.lol/loader.sh,1,urlhaus
 http://proxy005.vgate.app/winlocker/autoupdate/gamelauncher.ini?ver=1.3.0.20,1,urlhaus
 http://proxyzabc.zabc.net/bins/ARM5,1,urlhaus
@@ -15159,10 +15439,15 @@ http://ravku.com/ambatukam/rizzx.sh4,1,urlhaus
 http://ravku.com/ambatukam/rizzx.spc,1,urlhaus
 http://ravku.com/ambatukam/rizzx.x86,1,urlhaus
 http://ravku.com/ambatukam/rizzx.x86_64,1,urlhaus
+http://red9c.dns.army/,1,threatfox
+http://res2erch-sl0ut.com/debug/payload.applescript,1,otx
+http://res2erch-sl0ut.com/gate,1,otx
 http://resolutions-fleece-posting-qty.trycloudflare.com/Sep01x86_Ayoo.zip,1,urlhaus
 http://roverbot.info/killxd.bat,1,urlhaus
 http://roverbot.info/result.hta,1,urlhaus
 http://roverlink.io/result.hta,1,urlhaus
+http://rpf9z.v6.navy/,1,threatfox
+http://s7ycn.dns.army/,1,threatfox
 http://s8.vizja.cc/bins/arm,1,urlhaus
 http://s8.vizja.cc/bins/arm5,1,urlhaus
 http://s8.vizja.cc/bins/arm6,1,urlhaus
@@ -15175,6 +15460,7 @@ http://s8.vizja.cc/bins/sh4,1,urlhaus
 http://s8.vizja.cc/bins/spc,1,urlhaus
 http://s8.vizja.cc/bins/x86,1,urlhaus
 http://s8.vizja.cc/bins/x86_64,1,urlhaus
+http://saramoftah.com/curl/958ca005af6a71be22cfcd5de82ebf5c8b809b7ee28999b6ed38bfe5d19420,1,otx
 http://sbstorage.cfd/Chrome.js,1,urlhaus
 http://scholar-medline-vegetarian-neon.trycloudflare.com/sep01x86_ayoo.zip,1,urlhaus
 http://scientists-protection-tiny-musician.trycloudflare.com/sep01x86_ayoo.zip,1,urlhaus
@@ -15235,6 +15521,7 @@ http://skwise.net/nullnet_bin_dir/nullnet_load.sh4,1,urlhaus
 http://skwise.net/nullnet_bin_dir/nullnet_load.spc,1,urlhaus
 http://skwise.net/nullnet_bin_dir/nullnet_load.x86,1,urlhaus
 http://skwise.net/nullnet_bin_dir/nullnet_load.x86_64,1,urlhaus
+http://softwares.dailydownloads.net/products/microsoft/office/product-key/DB2F.activation.key,1,otx
 http://staying-heavily-meaning-blowing.trycloudflare.com/01.zip,1,urlhaus
 http://staying-heavily-meaning-blowing.trycloudflare.com/asq.js,1,urlhaus
 http://staying-heavily-meaning-blowing.trycloudflare.com/dokumente/Rechnung%2000019283.PDF.lnk,1,urlhaus
@@ -15243,8 +15530,12 @@ http://staying-heavily-meaning-blowing.trycloudflare.com/spol.bat,1,urlhaus
 http://staying-heavily-meaning-blowing.trycloudflare.com/vua.wsh,1,urlhaus
 http://straight-though-quest-ratings.trycloudflare.com/Sep01x86_Ayoo.zip,1,urlhaus
 http://sutterpoint.com/Qbix01.exe,1,urlhaus
+http://symbiose-business.fr,1,threatfox
+http://t34r.7ieub.dns.army/,1,threatfox
 http://tallrobot.mypi.co/lekeleke/Oblations.ocx,1,urlhaus
 http://tallrobot.mypi.co/lekeleke/iQFLVPnq194.bin,1,urlhaus
+http://techcross-wne.com/include/plugin/snoopy/board/libs/mrd.dat,1,otx
+http://techcross-wne.com/include/plugin/snoopy/board/register.php,1,otx
 http://teslasuit.to/img_012505yubtcc.png,1,urlhaus
 http://teslasuit.to/optimized_MSIyu.png,1,urlhaus
 http://thankyourawbuy.p-e.kr/main_arm,1,urlhaus
@@ -15269,12 +15560,15 @@ http://trackpolicy.xyz/files/REMOTE_STOP_BLANK_SCREEN.ps1,1,urlhaus
 http://trackpolicy.xyz/files/SMB653CT56JO.msi,1,urlhaus
 http://trackpolicy.xyz/files/SystemUpdateServiceWithTrigger.ps1,1,urlhaus
 http://ua-gov.info/soft/security/updateV3.23.exe,1,urlhaus
+http://umc5a.dns.army/,1,threatfox
 http://union.macoms.la/jquery.min-4.0.2.js,1,urlhaus
+http://updates.dailydownloads.net/docs/microsoft/office/Office_Activation_Manual_DB2F.pdf,1,otx
 http://ursosmart.lol/api/decrypter,1,urlhaus
 http://ursosmart.lol/api/dps,1,urlhaus
 http://ursosmart.lol/api/ps,1,urlhaus
 http://usatodayssgirlsslek.net/ya/0sSI.png,1,urlhaus
 http://user.keio.ac.jp/~rhotta/hellog/upload/upl/q4bRYpi9WFXyAHO4dIYG/python312x86.zip,1,urlhaus
+http://uswebzoomus.com/zoom,1,otx
 http://valfanto.com/bgdgvrb/amIdnja.txt,1,urlhaus
 http://valfanto.com/otigfght/mprgIoi.txt,1,urlhaus
 http://valfanto.com/somthids/ejgddFd.txt,1,urlhaus
@@ -15282,7 +15576,6 @@ http://vereasw.ydns.eu/CH1.exe,1,urlhaus
 http://vereasw.ydns.eu/CH2.exe,1,urlhaus
 http://vereasw.ydns.eu/CH3.exe,1,urlhaus
 http://vinievent.com/venv/build.exe,1,urlhaus
-http://virtualispmanager.sbs/api/css.js,1,threatfox
 http://vmi3034867.contaboserver.net/1.sh,1,urlhaus
 http://vmi3034867.contaboserver.net/ambatukam/debug,1,urlhaus
 http://vmi3034867.contaboserver.net/ambatukam/rizzx.arc,1,urlhaus
@@ -15301,6 +15594,7 @@ http://vmi3034867.contaboserver.net/ambatukam/rizzx.x86,1,urlhaus
 http://vmi3034867.contaboserver.net/ambatukam/rizzx.x86_64,1,urlhaus
 http://vmi3096311.contaboserver.net/x86,1,urlhaus
 http://vmi3114056.contaboserver.net/nullnet_bin_dir/nullnet_load.mips,1,urlhaus
+http://wallets-gate.io/api/injection,1,otx
 http://weifang.serveftp.com/bins/sora.arm,1,urlhaus
 http://weifang.serveftp.com/bins/sora.arm5,1,urlhaus
 http://weifang.serveftp.com/bins/sora.arm6,1,urlhaus
@@ -15312,6 +15606,13 @@ http://weifang.serveftp.com/bins/sora.ppc,1,urlhaus
 http://weifang.serveftp.com/bins/sora.sh4,1,urlhaus
 http://weifang.serveftp.com/bins/sora.spc,1,urlhaus
 http://weifang.serveftp.com/bins/sora.x86,1,urlhaus
+http://wellnesscaremed.com/buch/Downloads/document.doc.LnK?init=,1,otx
+http://wellnesscaremed.com/davwwwroot/buch/Downloads/blank.doc,1,otx
+http://wellnesscaremed.com/davwwwroot/venezia/Favorites/blank.doc,1,otx
+http://wellnesscaremed.com/venezia/Favorites/document.doc.LnK?init=,1,otx
+http://wellnesscaremed.com/venezia/d/sd,1,otx
+http://wellnessmedcare.org/davwwwroot/cz/Downloads/document.LnK?init=,1,otx
+http://wellnessmedcare.org/davwwwroot/pol/Downloads/document.LnK?init=,1,otx
 http://whovcs.com/at.7z,1,urlhaus
 http://wire2spell.com/1.rar,1,urlhaus
 http://wormteste.shop/optimized_MSI.png,1,urlhaus
@@ -15432,6 +15733,8 @@ http://www.coolcams.duckdns.org/bins/sh4,1,urlhaus
 http://www.coolcams.duckdns.org/bins/spc,1,urlhaus
 http://www.coolcams.duckdns.org/bins/x86,1,urlhaus
 http://www.coolcams.duckdns.org/bins/x86_64,1,urlhaus
+http://www.e-kflower.com/_prozn/_skin_mbl/home/KApp.rar,1,otx
+http://www.e-kflower.com/_prozn/_skin_mbl/home/KAppl.rar,1,otx
 http://www.kernelservices.eu/download/Loader.exe,1,urlhaus
 http://www.messageforms.com/aarch64,1,urlhaus
 http://www.messageforms.com/arc,1,urlhaus
@@ -15507,6 +15810,7 @@ http://x.tlpoe.com:8008/access/JWrapper-Remote%20Access-00075795303-archive.p2.l
 http://x.tlpoe.com:8008/access/JWrapper-Remote%20Access_os_jwwin-00075795303-archive.p2.l2,1,urlhaus
 http://x.tlpoe.com:8008/access/JWrapper-Remote%20Access_winutils64-00075795303-archive.p2.l2,1,urlhaus
 http://x.tlpoe.com:8008/access/JWrapper-Windows64JRE-00063527423-archive.p2.l2,1,urlhaus
+http://x2db.cx/api.php?check,1,threatfox
 http://x400l.ltangarorw.org/ARMx32,1,urlhaus
 http://x400l.ltangarorw.org/ARMx64,1,urlhaus
 http://x400l.ltangarorw.org/I686,1,urlhaus
@@ -15551,6 +15855,7 @@ http://xanax.enzostress.st/mips,1,urlhaus
 http://xanax.enzostress.st/mpsl,1,urlhaus
 http://xanax.enzostress.st/x86_64,1,urlhaus
 http://xf221.cn/cs12.exe,1,urlhaus
+http://xvzdn.2ebq4.dns.army/,1,threatfox
 http://yandex-app.ru/download,1,urlhaus
 http://yourdox.icu/xd.arc,1,urlhaus
 http://yourdox.icu/xd.arm,1,urlhaus
@@ -15566,6 +15871,7 @@ http://yourdox.icu/xd.spc,1,urlhaus
 http://yourdox.icu/xd.x86,1,urlhaus
 http://yourdox.icu/xd.x86_64,1,urlhaus
 http://ys8758.com/%ea%b3%b5%eb%8f%99%20%ec%9e%90%eb%a3%8c%ec%8b%a4/remote2.exe,1,urlhaus
+http://yv3ie.dns.army/,1,threatfox
 http://zrd6omm630kx5p7.top/1.php,1,threatfox
 https://0-rw1-t.jelvax.in.net/verification.google,1,urlhaus
 https://01n680.calloak.in.net/verification.google,1,urlhaus
@@ -15623,8 +15929,10 @@ https://139.59.31.145/,1,urlhaus
 https://13nq2ksp.lunarbridge.digital/?=check&&actmn=eAgRfIrSvsPSjmzE,1,urlhaus
 https://144.172.100.220/img/optimized_msi.png,1,urlhaus
 https://144.172.101.164/SSA_E-STATEMENT_ADMIN.msi,1,urlhaus
+https://144.172.102.83/ssa_estatement.msi,1,urlhaus
 https://144.172.108.207/SSA%20ADMIN_STATEMENT.msi,1,urlhaus
 https://144.172.110.191:53663/kunkun/jquery-3.3.1.min.js_,1,urlhaus
+https://144.172.112.190/COURT_ORDER_AGENT_473850_V10_14_4_RW.EXE,1,urlhaus
 https://144.172.114.22/SSA_Statement_pdf.msi,1,urlhaus
 https://144.172.115.244/SSA-Statement.pdf.msi,1,urlhaus
 https://144.172.91.24/SSA-STATEMENT-PDFADMIN.msi,1,urlhaus
@@ -15640,15 +15948,15 @@ https://144.172.92.213/SSA_Statement.msi,1,urlhaus
 https://144.172.92.217/SSA-E-Statementpdf.msi,1,urlhaus
 https://144.172.94.254/SSA_STATEMENT_PDF.msi,1,urlhaus
 https://144.172.96.63/Ststement_File.scr,1,urlhaus
-https://144.76.124.253/,1,threatfox
-https://151.247.22.14/,1,threatfox
+https://151.245.121.200/,1,threatfox
+https://152.32.138.146/,1,threatfox
 https://162.240.96.107/,1,urlhaus
 https://168-1393918816.cos.ap-tokyo.myqcloud.com/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88.rar,1,urlhaus
-https://168.119.68.217/,1,threatfox
 https://172.245.195.236/,1,urlhaus
 https://172.245.195.237/,1,urlhaus
 https://172.245.209.195/,1,urlhaus
 https://172.86.116.191/SSA-Statement.pdf.msi,1,urlhaus
+https://172.86.116.238/ssa_em_YgJHJTuo_installer_Win7-Win11_x86_x64.msi,1,urlhaus
 https://172.86.68.175/MyWallet.exe,1,urlhaus
 https://172.86.68.175/PapaPepeV1.4.exe,1,urlhaus
 https://172.86.68.175/PapaPepeV1.6.exe,1,urlhaus
@@ -15658,7 +15966,6 @@ https://172.86.89.251/access/Remote%20Access-macos-offline.dmg?language=en,1,url
 https://172.86.89.251/access/Remote%20Access-windows32-offline.exe?language=en,1,urlhaus
 https://172.86.89.251/access/Remote%20Access-windows64-offline.exe?language=en,1,urlhaus
 https://176.190.153.160.host.secureserver.net/w1/lib/AutoIt3.exe,1,urlhaus
-https://179.61.227.32/,1,threatfox
 https://1827897262.v.123pan.cn/1827897262/MH/INJECT3.PS1,1,urlhaus
 https://185.125.91.3/,1,urlhaus
 https://185.138.89.117/,1,urlhaus
@@ -15673,6 +15980,7 @@ https://185.241.211.6/bin/support.client.exe?i=&e=Support&y=Guest&r=,1,urlhaus
 https://185.241.211.61/bin/support.client.exe?i=&e=Support&y=Guest&r=,1,urlhaus
 https://185.241.211.64/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,1,urlhaus
 https://185.241.211.64/bin/support.client.exe?i=&e=Support&y=Guest&r=,1,urlhaus
+https://185.78.76.13/21b9c0db1dfb4718.php,1,threatfox
 https://186.169.75.221/a.exe,1,urlhaus
 https://192.159.99.119/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,1,urlhaus
 https://192.159.99.119/bin/support.client.exe?i=&e=Support&y=Guest&r=,1,urlhaus
@@ -15743,7 +16051,6 @@ https://2.58.56.228/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,1,urlhaus
 https://2.58.56.46/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,1,urlhaus
 https://2.58.56.46/bin/support.client.exe?i=&e=Support&y=Guest&r=,1,urlhaus
 https://203.159.90.56/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,1,urlhaus
-https://204.168.129.220/,1,threatfox
 https://20t2lqnx.grosstable.digital/?=check&&actmn=iGiakZrubIPGLzie,1,urlhaus
 https://210.245.90.206/,1,urlhaus
 https://216.10.244.155/bins.sh,1,urlhaus
@@ -15758,6 +16065,7 @@ https://216.10.244.155/yakuza.sh4,1,urlhaus
 https://216.10.244.155/yakuza.x32,1,urlhaus
 https://216.10.244.155/yakuza.x86,1,urlhaus
 https://216.119.126.23/old_backup/,1,urlhaus
+https://216.126.225.120/SSA_ADMIN_ESTATEMENT.exe,1,urlhaus
 https://216.126.236.17/Ezo0HJkTPWyaIZsj84zzGw84qZIvRb_Fi4xFDrmII5/,1,urlhaus
 https://216.126.236.17/Ezo0HJkTPWyaIZsj86znTAzDNBQB3JFjrh2qin0yZKkczcchQlrXoftNLL8Sw64H_NJ8Kmljo7qZ5PpDzK-QGxm4L7zmhr1DsEdR,1,urlhaus
 https://216.126.236.17/Ezo0HJkTPWyaIZsj86znTAzDNBQB3JFjrh2qin0yZKkczcchQlrXoftNLL8Sw64H_NJ8Kmljo7qZ5PpDzK-QGxm4L7zmhr1DsEdR/,1,urlhaus
@@ -15770,7 +16078,9 @@ https://216.126.236.17/Ezo0HJkTPWyaIZsj87UOzwVE3wvHPKN9X9ojr5dtNpWYrk1sBSK_BezQi
 https://216.126.236.17/Ezo0HJkTPWyaIZsj87UOzwVE3wvHPKN9X9ojr5dtNpWYrk1sBSK_BezQik_BGpbF06nJgoTxHoDD0ZXerxMKKZgmFjhD6bCpDxbk9TP7jnX2zqZ/,1,urlhaus
 https://216.126.239.98/SSA_STATEMENT_PDFAB.msi,1,urlhaus
 https://217.154.88.128/,1,urlhaus
+https://217.156.65.56/new/LogM.msi,1,urlhaus
 https://23.152.0.240:3957/835a189ccf9d6badf60eacc/mcgw458i.fre2n,1,threatfox
+https://23.88.122.134/da4d23fa59600f9c.php,1,threatfox
 https://26s1p5ue.frostholm.digital/?=check&&actmn=igyevHRFOhxwmulg,1,urlhaus
 https://2azr2jei.coreforge.digital/?=check&&actmn=LacBCiCFwzBsDApE,1,urlhaus
 https://2g1jl.sunpit.in.net/verification.google,1,urlhaus
@@ -15779,6 +16089,7 @@ https://2umw.bluebay.in.net/verification.google,1,urlhaus
 https://2v42nbtg.deliainaturner.digital/?=check&&actmn=eArRcvNuXJTUtqlD,1,urlhaus
 https://2z0nkkls.lumenbit.digital/?=check&&actmn=WDIFGxQnsJnvHCPg,1,urlhaus
 https://3.110.22.152/,1,urlhaus
+https://31.57.201.19/,1,threatfox
 https://31.57.216.121/aarch64,1,urlhaus
 https://31.57.216.121/arm7,1,urlhaus
 https://31.57.216.121/clean,1,urlhaus
@@ -15789,8 +16100,6 @@ https://34lhj33.granitevalley.in.net/verification.google,1,urlhaus
 https://366kf0hf.up12file.digital/?=check&&actmn=SeKeSbevZsJAERVj,1,urlhaus
 https://3aofxgg5.orbit44kind.digital/?=check&&actmn=CeCWFzKXkbzLvPTd,1,urlhaus
 https://3pf82esd.globalframe.digital/?=check&&actmn=XVSVitsCbUSAfQqW,1,urlhaus
-https://41.216.188.231:4449/ping,1,threatfox
-https://41.216.188.231:4449/plugin,1,threatfox
 https://45.138.16.201/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,1,urlhaus
 https://45.138.16.201/bin/support.client.exe?i=&e=Support&y=Guest&r=,1,urlhaus
 https://45.141.215.10/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,1,urlhaus
@@ -15875,11 +16184,30 @@ https://45.94.31.23/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,1,urlhaus
 https://45.94.31.23/bin/support.client.exe?i=&e=Support&y=Guest&r=,1,urlhaus
 https://45.94.31.59/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,1,urlhaus
 https://45.94.31.59/bin/support.client.exe?i=&e=Support&y=Guest&r=,1,urlhaus
+https://47.93.54.134:8001/protocol/call-audio,1,otx
+https://47.93.54.134:8003,1,otx
+https://47.93.54.134:8003/,1,otx
+https://47.93.54.134:8003/protocol/application,1,otx
+https://47.93.54.134:8003/protocol/attack-result,1,otx
+https://47.93.54.134:8003/protocol/channel-trigger-log,1,otx
+https://47.93.54.134:8003/protocol/internet-action,1,otx
+https://47.93.54.134:8003/protocol/packet-up,1,otx
+https://47.93.54.134:8003/protocol/target-info,1,otx
+https://47.93.54.134:8003/protocol/tcp-data,1,otx
+https://47.93.54.134:8003/protocol/user-account,1,otx
+https://47.93.54.134:8003/protocol/virtual-id,1,otx
+https://47.93.54.134:8003/public/bind-ip,1,otx
 https://48z9.lakeweb.in.net/verification.google,1,urlhaus
+https://49.89.41.187:8001/protocol/target-info,1,otx
+https://49.89.41.187:8002/,1,otx
+https://49.89.41.187:8002/protocol/application,1,otx
+https://49.89.41.187:8002/protocol/tcp-data,1,otx
+https://49.89.41.187:8002/protocol/virtual-id,1,otx
 https://4enjfmcl.wallnapalm.digital/?=check&&actmn=vIVMUIeOtSteSoaQ,1,urlhaus
 https://4sontfzx.quantumloop.digital/?=check&&actmn=vspoFTvpBCFfsGMz,1,urlhaus
 https://4uzr61.autumnbrook.in.net/verification.google,1,urlhaus
 https://5-sw8-q.jelvax.in.net/verification.google,1,urlhaus
+https://5.75.216.247/,1,threatfox
 https://51.79.204.217/,1,urlhaus
 https://55-j30.bryzand.in.net/verification.google,1,urlhaus
 https://55aa11.quobix.in.net/verification.google,1,urlhaus
@@ -15899,7 +16227,8 @@ https://7070-ppxcx-a1-3gg5ufwp666ee644-1300076834.tcb.qcloud.la/test/zcgo/go.exe
 https://7070-ppxcx-a1-3gg5ufwp666ee644-1300076834.tcb.qcloud.la/test/zcgo/zcgo1.vbs,1,urlhaus
 https://72jk.skyroad.in.net/verification.google,1,urlhaus
 https://73rgwdew.getreplay.in.net/verification.google,1,urlhaus
-https://74.0.32.199/,1,threatfox
+https://74.0.32.208/,1,threatfox
+https://74.0.32.53/,1,threatfox
 https://7axh.limbsingle.in.net/verification.google,1,urlhaus
 https://7lqpjwbx.starpit.in.net/verification.google,1,urlhaus
 https://7o9ige3i.documentarygo.digital/?=check&&actmn=vzwgFGeCVWLhdCNI,1,urlhaus
@@ -15929,19 +16258,26 @@ https://95zxw7vw.opticprime.digital/?=check&&actmn=rufFmwLCMcraKwPc,1,urlhaus
 https://96.44.154.205/,1,urlhaus
 https://99-f21.bryzand.in.net/verification.google,1,urlhaus
 https://99bb22.quobix.in.net/verification.google,1,urlhaus
+https://9googllemeett.live/,1,otx
 https://9jmu.calloak.in.net/verification.google,1,urlhaus
+https://9ooggleactivemeett.live/in/invite.php,1,otx
 https://9rfio.backlog.in.net/verification.google,1,urlhaus
 https://9smjiz.boynitsameow.in.net/verification.google,1,urlhaus
 https://a4x-99f2.xylophis.in.net/verification.google,1,urlhaus
+https://a5db.ch/api.php?check,1,threatfox
+https://a5db.ch/get.php?txid=ef6bd94166cc8336ddc168c25825f4b1,1,threatfox
 https://a5v9n.box3pear.coupons/tn27w4lmo,1,urlhaus
 https://a5v9n.capitul98hypo.coupons/webclient,1,urlhaus
 https://a5v9n.grape1shipping.coupons/cachehost,1,urlhaus
+https://a6b6.biz/api.php?check,1,threatfox
+https://a6b6.biz/get.php?txid=ef6bd94166cc8336ddc168c25825f4b1,1,threatfox
 https://a6mm9t.glint39parko.coupons/FixISO,1,urlhaus
 https://a6t9q.whirl189wind.coupons/msdn,1,urlhaus
 https://a7k3z.unt452hub.coupons/EdgeGameAssist,1,urlhaus
 https://aaa4b.com/bullk/BRUTER.zip,1,urlhaus
 https://aaronart.com/H64.exe,1,urlhaus
 https://abcgrid-0form.abcdesign.in.net/verification.google,1,urlhaus
+https://accessor.fud2026.com/libmine-,1,otx
 https://acecareer.edu/wp-includes/certificates/Config.ps1,1,urlhaus
 https://acecareer.edu/wp-includes/certificates/Geany,1,urlhaus
 https://acecareer.edu/wp-includes/certificates/Host.ps1,1,urlhaus
@@ -15997,6 +16333,7 @@ https://allcheat.netlify.app/tExecute.exe,1,urlhaus
 https://allcheat.netlify.app/vpExecuter.exe,1,urlhaus
 https://allcheat.netlify.app/vwExecute.exe,1,urlhaus
 https://almacensantangel.com/ENCRYPT.Ps1,1,urlhaus
+https://alpha-trace-0.cybergeist.in.net/verification.google,1,urlhaus
 https://alt-0tter.migratetulle.in.net/verification.google,1,urlhaus
 https://alt-base.nimbura.in.net/verification.google,1,urlhaus
 https://alt-cor3.darkridge.in.net/verification.google,1,urlhaus
@@ -16042,6 +16379,8 @@ https://api.files.link/v1/p/6eb195dd-ee4b-48a8-8166-346fc97280d7,1,urlhaus
 https://api.files.link/v1/p/96f0b8e0-c009-4a8f-a5c7-e48907896135,1,urlhaus
 https://api.nuitetoile.coupons/sync,1,urlhaus
 https://api.orbit6crate.coupons/webclient,1,urlhaus
+https://api.ra-backup.com/analytics/submit.php,1,otx
+https://api.ra-backup.com/analytics/submit.php.,1,otx
 https://apk.tcpateiu.com/app_sub/pkg/Tcpatel-tcpateiu-release-2.0.apk,1,urlhaus
 https://app-data-sync.vittoriastrada.in.net/verification.google,1,urlhaus
 https://app-dn.b-cdn.net/CryptoVista_Installer.exe,1,urlhaus
@@ -16067,6 +16406,7 @@ https://archive.org/download/newmarchrump/newmarchrump.png,1,urlhaus
 https://archive.org/download/optimized_msi_20260221/optimized_MSI.png,1,urlhaus
 https://archive.org/download/optimized_msi_20260309/optimized_MSI.png,1,urlhaus
 https://area-grove-sync.brightgrove.ru/service/verification.google,1,urlhaus
+https://area-zone-55.grandespace.in.net/verification.google,1,urlhaus
 https://argentvif.8etmon1sto.ru/msdn,1,urlhaus
 https://ark7r5k.kolos56tomat.coupons/FixISO,1,urlhaus
 https://arkcoreex.winlog.in.net/verification.google,1,urlhaus
@@ -16135,6 +16475,7 @@ https://bank-sync.savingssit.in.net/verification.google,1,urlhaus
 https://baraltransportes.com/20khgc26oiwefoibfuww.php,1,urlhaus
 https://baritonclick.online/uploads/sharp.exe,1,urlhaus
 https://basa-cod.skyroad.in.net/verification.google,1,urlhaus
+https://base-infra-9.mondosolido.in.net/verification.google,1,urlhaus
 https://basecommand.orbitalmap.coupons/telemetry,1,urlhaus
 https://baseflow.box1fig7.coupons/unit_log,1,urlhaus
 https://basil902.dealharbor2.coupons/new-scheduledtask,1,urlhaus
@@ -16153,6 +16494,7 @@ https://best7.novalis.in.net/verification.google,1,urlhaus
 https://bestway.miravento.in.net/verification.google,1,urlhaus
 https://beta-node.deal4harbor.coupons/webclient,1,urlhaus
 https://beyond.trak8lin4zo.ru/cloudflare,1,urlhaus
+https://bgsgroup.com.ar/c/Doc_902838.msi,1,urlhaus
 https://big-city.solenta.in.net/verification.google,1,urlhaus
 https://big-prog.bigamyprogramm.in.net/verification.google,1,urlhaus
 https://big02.bigamyprogramm.in.net/verification.google,1,urlhaus
@@ -16198,7 +16540,6 @@ https://blueshell.bluewave.coupons/beach_scan,1,urlhaus
 https://bnt11.mainsage.coupons/09fa47a71346a,1,urlhaus
 https://bobik-peak.bobikcleavage.in.net/verification.google,1,urlhaus
 https://bobik-sys.bobikcleavage.in.net/verification.google,1,urlhaus
-https://boikng.com/,1,threatfox
 https://bois-vert.clairforet.coupons/check,1,urlhaus
 https://bolixtiol.lol/downloads,1,urlhaus
 https://boltfix.metalheart.coupons/fix_point,1,urlhaus
@@ -16284,9 +16625,11 @@ https://casadoserralheirosaocarlos.com.br/ENCRYPTZ.Ps1,1,urlhaus
 https://cascade.amber2vivid.coupons/x64,1,urlhaus
 https://cascade.flint1zarco.coupons/string,1,urlhaus
 https://casyetnx.pw/eq8e1l4b0qjd22w,1,urlhaus
+https://catalogmonitor.whitebus.in.net/verification.google,1,urlhaus
 https://cav-base.cavalieroral.in.net/verification.google,1,urlhaus
 https://cav-oral.cavalieroral.in.net/verification.google,1,urlhaus
 https://ccleaner.gl,1,urlhaus
+https://cdn-2faclov.sbs/api/css.js,1,threatfox
 https://cdn-303-web.flash5saver.coupons/webclient,1,urlhaus
 https://cdn-b12.nifty4locker.coupons/webclient,1,urlhaus
 https://cdn-b9.bleuforet.coupons/sync,1,urlhaus
@@ -16305,6 +16648,7 @@ https://ch3c-line.bestink.in.net/verification.google,1,urlhaus
 https://ch3ck-spark.bestlog.in.net/verification.google,1,urlhaus
 https://ch3rry-rnark.cherry5freight.coupons/cachehost,1,urlhaus
 https://charitable-proposed-james-postcards.trycloudflare.com/PHSep01x86_Ayoo.zip,1,urlhaus
+https://chatai.trcipg.top/,1,threatfox
 https://checknode.censure47contr.coupons/state_val,1,urlhaus
 https://chefacto.appdeck.in.net/verification.google,1,urlhaus
 https://chillwater.coldinriver.in.net/service/verification.google,1,urlhaus
@@ -16327,6 +16671,8 @@ https://cjzsujzp.expresslabina.digital/?=check&&actmn=CWziWKlbxeTIewLI,1,urlhaus
 https://clash-org.com.cn/Clash.for.Windows.zip,1,urlhaus
 https://classifieds-formation-phones-insulin.trycloudflare.com/Sep01x86_Ayoo.zip,1,urlhaus
 https://classifieds-formation-phones-insulin.trycloudflare.com/Sep01x86_Ayoo.zip/,1,urlhaus
+https://claude.update-version.com/claude,1,otx
+https://clawdex.koi.security,1,otx
 https://clay-gate.redclay.in.net/verification.google,1,urlhaus
 https://clay-logic.redclay.in.net/verification.google,1,urlhaus
 https://clear-field-view.clearfield.in.net/service/verification.google,1,urlhaus
@@ -16358,6 +16704,7 @@ https://cloudaxis.cc/gsmft/yueu/fkvqld/tvqqwh/ushu/,1,urlhaus
 https://cloudaxis.cc/gsmft/yueu/fkvqld/tvqqwh/ushu/22.exe,1,urlhaus
 https://cloudaxis.cc/gsmft/yueu/fkvqld/tvqqwh/ushu/update.exe,1,urlhaus
 https://cloudflare-check.cfd/api/index.php,1,threatfox
+https://cloudflare-check.cfd/cf.js,1,threatfox
 https://cloudford.grayford.in.net/node_sync-v12_log,1,urlhaus
 https://cn.unionlever.com/uploads/soft/111210/1_0048481261.rar,1,urlhaus
 https://coach-sync.coachsoup.in.net/verification.google,1,urlhaus
@@ -16418,6 +16765,7 @@ https://cop-v09.copperhill.in.net/verification.google,1,urlhaus
 https://cora-clu.stonefield.in.net/verification.google,1,urlhaus
 https://coralasargetia.ro/optimized_MSI.png,1,urlhaus
 https://coralwil.draniercismn.in.net/verification.google,1,urlhaus
+https://core-shell-77.cybergeist.in.net/verification.google,1,urlhaus
 https://core-t9.tensorfield.in.net/verification.google,1,urlhaus
 https://corepulse.metalheart.coupons/iron_pulse,1,urlhaus
 https://corvet-sync.corvetsynchron.in.net/verification.google,1,urlhaus
@@ -16450,6 +16798,7 @@ https://creek-ref.shadowcreek.in.net/verification.google,1,urlhaus
 https://crest-logic-point.clearcrest.ru/service/check.google,1,urlhaus
 https://crest03.windcrest.in.net/verification.google,1,urlhaus
 https://crestrai.backtest.in.net/verification.google,1,urlhaus
+https://criloya.whitebus.in.net/verification.google,1,urlhaus
 https://crimsonbeat.rockinred.in.net/service/verification.google,1,urlhaus
 https://crixup.com/downloads/o00ptimized_MSI.png,1,urlhaus
 https://crixup.com/downloads/tryinggim.vbs,1,urlhaus
@@ -16474,10 +16823,12 @@ https://d3ploy-mesh.idyllmuscat.in.net/verification.google,1,urlhaus
 https://d71j5xk1.highlifeless.digital/?=check&&actmn=UwOiBhlMSAGRiHmD,1,urlhaus
 https://da1113.0r6ecdax.work/android/aaseoy_2.2.6/aaseoy_2.2.6_82375752.apk,1,urlhaus
 https://dach-core.dachshreinsur.in.net/verification.google,1,urlhaus
+https://daily.getfreshdata.com/dailynews/key.txt,1,otx
 https://dam-basename-performances-mph.trycloudflare.com/Sep01x86_Ayoo.zip/,1,urlhaus
 https://dance-v9.dancingvcr.in.net/verification.google,1,urlhaus
 https://dance-vcr.dancingvcr.in.net/verification.google,1,urlhaus
 https://dark-core.darkhaven.in.net/verification.google,1,urlhaus
+https://dark-room-v8.nachtlicht.in.net/verification.google,1,urlhaus
 https://dark-shi.droplast.in.net/verification.google,1,urlhaus
 https://dark01.darkhaven.in.net/verification.google,1,urlhaus
 https://darkforest.darkpine.in.net/l_trace-data_ref,1,urlhaus
@@ -16489,6 +16840,7 @@ https://darkspice.bakhkondach.in.net/internal-proxy-xj4,1,urlhaus
 https://darktimber.deepwood.in.net/log_val,1,urlhaus
 https://darkview.nightvision.coupons/lens_mod,1,urlhaus
 https://darkwater.deepwave.in.net/depth_id,1,urlhaus
+https://data-base-v3.mondosolido.in.net/verification.google,1,urlhaus
 https://data-clear-sync.clearfield.in.net/service/verification.google,1,urlhaus
 https://data-f6.orbitcapture.in.net/verification.google,1,urlhaus
 https://data-flow-central.amber9stash.coupons/webclient,1,urlhaus
@@ -16541,6 +16893,7 @@ https://devc.ws/%D0%92%D0%BE%D0%BEtst%D0%B0%D1%80%D1%80%D0%B5%D0%B3yos%D1%8564.z
 https://devc.ws/%D0%92%D0%BE%D0%BEtstapp%D0%B5%D0%B3%D1%8564.zip,1,urlhaus
 https://devc.ws/%D0%92ootst%D0%B0%D1%80%D1%80%D0%B5%D0%B3%D1%83%D0%BEs%D1%8564.zip,1,urlhaus
 https://df1113.qmpqcv83.work/android/aaseoy_1.2.4/aaseoy_1.2.4_82544757.apk,1,urlhaus
+https://dhvault.com/,1,otx
 https://dia-v5.dialectblood.in.net/verification.google,1,urlhaus
 https://direct-access-line.silverpath.in.net/service/verification.google,1,urlhaus
 https://direct-access-point.vertjardin.coupons/sync,1,urlhaus
@@ -16569,6 +16922,7 @@ https://dmv.uqoo.nl/a/Adobe.ClientSetup.msi,1,urlhaus
 https://dmv2ddsm.mozillacola.digital/?=check&&actmn=vyjrKGakWSQaNLIO,1,urlhaus
 https://dn720003.ca.archive.org/0/items/optimized_msi_20260221/optimized_MSI.png,1,urlhaus
 https://dnvigv97.comedianmental.digital/?=check&&actmn=elCDluAKDOztCEGr,1,urlhaus
+https://docinstall.top/new/LogM.msi,1,urlhaus
 https://dock-sync.winddock.in.net/verification.google,1,urlhaus
 https://dock-way.winddock.in.net/verification.google,1,urlhaus
 https://documentos.microsoft-waresystems.com/Comprovante-Pix-12-03-2026.pdf.lnk,1,urlhaus
@@ -16608,6 +16962,9 @@ https://dramalive-app.org/wp-content/uploads/2026/02/Drama-Live-v20.apk,1,urlhau
 https://dran-optic.draniercism.in.net/verification.google,1,urlhaus
 https://dran02.draniercism.in.net/verification.google,1,urlhaus
 https://dream-12.mirante.in.net/verification.google,1,urlhaus
+https://dretryout.top/role/logout-storage.js,1,threatfox
+https://dretryout.top/role/realm-sessionstore.js,1,threatfox
+https://dretryout.top/role/tenant-header.php,1,threatfox
 https://drevos.ro/Re45766712.msi,1,urlhaus
 https://drifstac.bluecrest.in.net/verification.google,1,urlhaus
 https://drift8wave.coupon9cabin.coupons/new-scheduledtask,1,urlhaus
@@ -16635,8 +16992,6 @@ https://dtp-gorod.lol/VIDEO_28022026.apk,1,urlhaus
 https://du5t0-frame.lakepit.in.net/verification.google,1,urlhaus
 https://dubapkg.cmcmcdn.com/c/186def/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90.exe,1,urlhaus
 https://dune-logic-base.rapiddune.ru/service/verification.google,1,urlhaus
-https://dus.paihost.com/,1,threatfox
-https://dus.ssffaa18.xyz/,1,threatfox
 https://dustcrate.flatdon.in.net/core-v1-8i7,1,urlhaus
 https://dv-77k.moxitron.in.net/verification.google,1,urlhaus
 https://dxt405.zenithax.in.net/verification.google,1,urlhaus
@@ -16677,8 +17032,7 @@ https://eishin-kk-co.asia/dev/ENCRYPTEDP.ps1,1,urlhaus
 https://eishin-kk-co.asia/dev/ENCRYPTEDS.ps1,1,urlhaus
 https://ej41ykw1.slobodaspang.digital/?=check&&actmn=kGGuOJLUHneahMsE,1,urlhaus
 https://electroboob.com/g?i=1,1,urlhaus
-https://elenviel.com/4s2h.js,1,threatfox
-https://elenviel.com/js.php,1,threatfox
+https://elecviews66.dynv6.net/,1,threatfox
 https://elvenforest.s3.us-east-005.backblazeb2.com/blender/blender-9.0.364_win_x64.exe,1,urlhaus
 https://elvenforest.s3.us-east-005.backblazeb2.com/inventor/Autodesk-Inventor-x64-5.35.374.exe,1,urlhaus
 https://elvenforest.s3.us-east-005.backblazeb2.com/notion/Notion-App-6.475.3-win-x64.exe,1,urlhaus
@@ -16728,6 +17082,7 @@ https://f2i32y9f.silvernode.digital/?=check&&actmn=mBntqeCswGETrRAO,1,urlhaus
 https://f2kpaub7.bullymarvel.digital/?=check&&actmn=DFDpitryOnQsppuL,1,urlhaus
 https://f4gyiajw.impeachlizob.digital/?=check&&actmn=dTBgPoTLTlgAbTnO,1,urlhaus
 https://f7ozu1t9.flogginquisit.digital/?=check&&actmn=YVIBwWnnTOgWtApP,1,urlhaus
+https://facai063.top/,1,threatfox
 https://faitdem.wayton.in.net/verification.google,1,urlhaus
 https://falcon.pro7center.coupons/new-scheduledtask,1,urlhaus
 https://fall-node.falldown.in.net/verification.google,1,urlhaus
@@ -16820,6 +17175,8 @@ https://fix-point.stabulis.in.net/verification.google,1,urlhaus
 https://fjnghv.fastlog.in.net/verification.google,1,urlhaus
 https://fjord305.offer6orchard.coupons/new-scheduledtask,1,urlhaus
 https://fkwy66.com/SSA1099-Statement.pdf.msi,1,urlhaus
+https://fliclouding-nuvistv1.t3.storage.dev/index.html,1,threatfox
+https://fliclouding-nuvistv1.t3.storage.dev/index.html?9cRJWYnZgvq7Et0a-PgXiKTuU9Sy8-AUEmP-jt0fSU-QC4kjdsUy4cGADey101VmAIqF8zcH%Pv_2N5ojSYrPk3EbcHyDo2i9jFSB5VSH18_e%xwceqLauo-3Br20Uba,1,threatfox
 https://flow-core.fluxbridge.in.net/verification.google,1,urlhaus
 https://flow-gate.synchromesh.in.net/verification.google,1,urlhaus
 https://flow-x3.staticmotion.in.net/verification.google,1,urlhaus
@@ -16905,6 +17262,7 @@ https://fruitline.kiwi5pack.coupons/box_ref,1,urlhaus
 https://fruitpack.pack12pear.coupons/sort_val,1,urlhaus
 https://fruitsland.it/torinconstruction/mcasset3.svg,1,urlhaus
 https://fuckcartel.icu/download/gitlol,1,urlhaus
+https://fud2026.com/libmine-,1,otx
 https://fukt.link/ftgYxE,1,urlhaus
 https://fukt.link/qarsWs,1,urlhaus
 https://fullbet138.games/aplikasi/Fullbet138.apk,1,urlhaus
@@ -16944,6 +17302,7 @@ https://gateway.lighthouse.storage/ipfs/bafybeigq6iohqop4lt5ynsuok4pflhoirsrtwxl
 https://gath3r1-phase.skybit.in.net/verification.google,1,urlhaus
 https://gaydkonx.fullgate.in.net/verification.google,1,urlhaus
 https://gb31welb.bullymarvel.digital/?=check&&actmn=cLOzEPAbVHbBqEom,1,urlhaus
+https://gb7ni5rgeexdcncj.onion/cgi-bin/prometei.cgi,1,otx
 https://gearsync.metalheart.coupons/engine_val,1,urlhaus
 https://geheimcode.cav1ng5cript.ru/check,1,urlhaus
 https://geheimcode.cav1ng5cript.ru/msdn,1,urlhaus
@@ -16958,12 +17317,16 @@ https://get-ma-iker.com/WORDPRESS%202026.zip,1,urlhaus
 https://getjwrv.concretemixer.in.net/verification.google,1,urlhaus
 https://getryos.com/%D0%92%D0%BE%D0%BEtsta%D1%80%D1%80%D0%B5rUI2.zip,1,urlhaus
 https://gettpose2far.com/SSA_STATEMENT_PDF.msi,1,urlhaus
+https://gettranslate.ir:18443,1,otx
 https://getwellhung.net/,1,threatfox
 https://geyllysson.org/seuapkaqui/Ibo-Pro-Player_3.9.apk,1,urlhaus
+https://gfrye.com/document,1,threatfox
 https://gharnt.com/poss5645/ENCRYPT.Ps1,1,urlhaus
+https://ghost-node.cybergeist.in.net/verification.google,1,urlhaus
 https://gi9d0czb.serve5woodman.digital/?=check&&actmn=MurVfDVrgkUAzGMV,1,urlhaus
 https://github.com/1o-s/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/raw/refs/heads/main/Forgotten-Runiverse-Bot/Utils/Clicker_Cheat_Api_Game_Bot_Auto_Forgotten_Runiverse_Farm_Crypto_lozengeways.zip,1,urlhaus
 https://github.com/365player/cracked-save-to-microsoft-one-drive-extension/raw/refs/heads/main/cruck/one_drive_to_save_cracked_microsoft_extension_v2.2-beta.5.zip,1,urlhaus
+https://github.com/4realgg/Helper-Update1.0/releases/download/update1/mw--58389c35-c76b-46ac-b33e-7efe83b65fda.zip,1,threatfox
 https://github.com/Abbashussain5/Hacking-Cheatsheets/raw/refs/heads/main/Responder/Cheatsheets_Hacking_3.4.zip,1,urlhaus
 https://github.com/Admv9/repo-cheat-modpack/raw/refs/heads/main/calculary/modpack_repo_cheat_v3.0.zip,1,urlhaus
 https://github.com/Agesha/HellDivers2-FPS-Boost/releases/download/v1.1/HD2.7z,1,urlhaus
@@ -17146,6 +17509,8 @@ https://github.com/l1ssh/Silentum-Spoofer/raw/refs/heads/main/Silentum_Spoofer.e
 https://github.com/laouysalma/Roblox-Blind-Shot-Script/raw/refs/heads/main/fosteringly/Roblox_Shot_Blind_Script_v1.6.zip,1,urlhaus
 https://github.com/lezer10/cheatcode/raw/refs/heads/main/frontend/src/hooks/react-query/threads/Software_2.8.zip,1,urlhaus
 https://github.com/ltaycn301/Roblox-Zenith/raw/refs/heads/master/Gurneyite/Zenith-Roblox-v1.6.zip,1,urlhaus
+https://github.com/m1-nc/roukii/raw/main/m1-nc.zip,1,urlhaus
+https://github.com/m1-nc/roukii/raw/main/up.png,1,urlhaus
 https://github.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/raw/refs/heads/main/Chibi-Clash-Exp/ChibiApp/Hack_Auto_Clicker_Chibi_Crypto_Cheat_Clash_Token_Game_Bot_Farm_Api_v1.2.zip,1,urlhaus
 https://github.com/magmaworkerpruner/valorant-external-3.0/releases/download/new/ValorantExternal-3.0-x64.rar,1,urlhaus
 https://github.com/makodany/decomp/raw/refs/heads/main/sz.txt,1,urlhaus
@@ -17222,6 +17587,7 @@ https://gitlab.com/lxxx1h/r1vl/-/raw/main/P616Z5YPGXB9.exe,1,urlhaus
 https://gitlab.com/lxxx1h/r1vl/-/raw/main/U7Q7R23U7669.exe,1,urlhaus
 https://gitlab.com/lxxx1h/r1vl/-/raw/main/Y3593UGC11D2.exe,1,urlhaus
 https://gitlab.com/lxxx1h/r1vl/-/raw/main/ZUV9745L7374.exe,1,urlhaus
+https://gkgkgkgff.sbs/TikTok18.apk,1,urlhaus
 https://gl4ss-hollow.sheetglass.in.net/verification.google,1,urlhaus
 https://glac-net.glacierpeak.in.net/verification.google,1,urlhaus
 https://glac-point.glacierpeak.in.net/verification.google,1,urlhaus
@@ -17231,6 +17597,7 @@ https://glacier.kozhevnik6lan.coupons/string,1,urlhaus
 https://glanz.trak8lin4zo.ru/cloudflare,1,urlhaus
 https://glasscube.glasspurity.coupons/render_cache,1,urlhaus
 https://glob-k2.siliconcanyon.in.net/verification.google,1,urlhaus
+https://global-net-1.mondosolido.in.net/verification.google,1,urlhaus
 https://global-site-check.bonus3basket.coupons/webclient,1,urlhaus
 https://global-sync-srv.orbit6crate.coupons/webclient,1,urlhaus
 https://globalfruit.kiwi9ship3.coupons/ship_log,1,urlhaus
@@ -17244,6 +17611,7 @@ https://gnchdcvq.webweave.digital/?=check&&actmn=NjuHxFSyvBQJPyck,1,urlhaus
 https://go-99.miravento.in.net/verification.google,1,urlhaus
 https://go.perkparcel.coupons/webclient,1,urlhaus
 https://go.stillesee.coupons/amdkmdag,1,urlhaus
+https://goggllemmeettiingnc.com/meett/invite.php,1,otx
 https://gohpit.lol/downloads,1,urlhaus
 https://gold-day.luminos.in.net/verification.google,1,urlhaus
 https://gold-hub.goldhaven.in.net/verification.google,1,urlhaus
@@ -17266,8 +17634,10 @@ https://good-gate.goodtime.in.net/verification.google,1,urlhaus
 https://good-logic.goodtime.in.net/verification.google,1,urlhaus
 https://google-2gy.pages.dev/chrome.exe,1,urlhaus
 https://google-securedocs.makeneg458.workers.dev/update.zip,1,urlhaus
+https://googlemeetme.us/,1,otx
 https://googleplaystoree.pages.dev/assets/AGENDA2026.apk,1,urlhaus
 https://googmeetinginvitation.com/Windows/download.php,1,urlhaus
+https://gosidefastandpure.com/captcha,1,threatfox
 https://gr1m-mark.crimsonridge.in.net/verification.google,1,urlhaus
 https://gran-pra.bestlog.in.net/verification.google,1,urlhaus
 https://grand-reve.revesage.coupons/check,1,urlhaus
@@ -17289,6 +17659,7 @@ https://greenmoss.mossrock.in.net/r_base-sync_log,1,urlhaus
 https://greenpark.urbanharvest.coupons/chromesetup_x64,1,urlhaus
 https://greenpath.deepwood.in.net/area_log,1,urlhaus
 https://greenstore.kiwi5pack.coupons/stock_list,1,urlhaus
+https://greenwayauto.sale/,1,otx
 https://greenwild.wildfern.in.net/service/verification.google,1,urlhaus
 https://greytrack.graywolf.in.net/area_ref,1,urlhaus
 https://grim-vault.grimasdiscuss.in.net/verification.google,1,urlhaus
@@ -17313,6 +17684,7 @@ https://guillaumerobin.com/smobillispankki/spankki.zip,1,urlhaus
 https://guillaumerobin.com/sp-ankki-pankki/spankki.zip,1,urlhaus
 https://guillaumerobin.com/spankki-suomi/spankki.zip,1,urlhaus
 https://guillaumerobin.com/spankki-zi/spankki.zip,1,urlhaus
+https://gundositstop.digital/script.sh,1,threatfox
 https://gupixlot.lol/downloads,1,urlhaus
 https://gypisiondev.lol/downloads,1,urlhaus
 https://gzgqdb.directkorchaga.in.net/verification.google,1,urlhaus
@@ -17420,6 +17792,7 @@ https://ia601409.us.archive.org/19/items/optimized_msi_20260303_1054/optimized_M
 https://ia601609.us.archive.org/5/items/msi-pro-with/MSI_PRO_with.png,1,urlhaus
 https://ia802801.us.archive.org/view_archive.php?archive=/35/items/201004011329/201004011329.iso&file=Activation%20%26%20Serial%20For%20Windows%20Xp%2FRockXP4.exe,1,urlhaus
 https://ia902805.us.archive.org/33/items/0225-r/0225R.png,1,urlhaus
+https://iceevery.whitebus.in.net/verification.google,1,urlhaus
 https://icefront.northlake.in.net/coast_ref,1,urlhaus
 https://icepine.coldpine.in.net/c_flow-patch_03,1,urlhaus
 https://iceshore.frozengrove.coupons/chromesetup_x64,1,urlhaus
@@ -17442,6 +17815,7 @@ https://infinity.glor5ven2ta.ru/cloudflare,1,urlhaus
 https://infra-hub.altimetrica.in.net/verification.google,1,urlhaus
 https://infra-net.altimetrica.in.net/verification.google,1,urlhaus
 https://inkcarry.dawnforest.in.net/verification.google,1,urlhaus
+https://install.app-distribution.net/setup/,1,otx
 https://insur-net.dachshreinsur.in.net/verification.google,1,urlhaus
 https://insur02.dachshreinsur.in.net/verification.google,1,urlhaus
 https://internal-dns.cielonumerique.in.net/verification.google,1,urlhaus
@@ -17487,6 +17861,8 @@ https://joltarena.com/download-installer?name=8+Pool+Ball+Mod+Menu&year=,1,urlha
 https://joqyh.windbay.in.net/verification.google,1,urlhaus
 https://jqicypl.stonefield.in.net/verification.google,1,urlhaus
 https://js0qnoh0.alphasync.digital/?=check&&actmn=fmDDhGuxkEXfSMZy,1,urlhaus
+https://jsonkeeper.com/b/36KEM,1,threatfox
+https://jsonkeeper.com/b/LXWGD,1,threatfox
 https://jung1e-rnate.jungle9orbit.coupons/x64,1,urlhaus
 https://jungle.pricepirate.coupons/EdgeGameAssist,1,urlhaus
 https://just-do.valora.in.net/verification.google,1,urlhaus
@@ -17562,6 +17938,7 @@ https://kys.li/get.php,1,urlhaus
 https://kz7v2.coachcoal.in.net/verification.google,1,urlhaus
 https://l.revio.live/LunX.zip,1,urlhaus
 https://l0t05.exoruby.in.net/verification.google,1,urlhaus
+https://l2mk50mf.rednet.digital/?=check&&actmn=tVXUFUzZyRMztPfM,1,urlhaus
 https://l3jvnuw2.smartcanvas.digital/?=check&&actmn=QuwIZyBsWUGgLPBu,1,urlhaus
 https://l3rn0n-llne.lemon8logistics.coupons/cachehost,1,urlhaus
 https://labculture.alaspasteur.in.net/verification.google,1,urlhaus
@@ -17593,6 +17970,7 @@ https://lenx.tukitravel.com/LunX.zip,1,urlhaus
 https://letcurre.windright.in.net/verification.google,1,urlhaus
 https://lg1kpu12.microzen.digital/?=check&&actmn=pJUtqigIrxBgGPdv,1,urlhaus
 https://lifeline.proofsurvivor.in.net/verification.google,1,urlhaus
+https://light-bridge-4.nachtlicht.in.net/verification.google,1,urlhaus
 https://light-grove-hub.brightgrove.ru/service/verification.google,1,urlhaus
 https://light-valley-hub.brightvale.ru/service/verification.google,1,urlhaus
 https://light-way.ambertide.in.net/verification.google,1,urlhaus
@@ -17628,6 +18006,7 @@ https://loader-400.pages.dev/RANKUP/FREE/FreeFortniteCheat.zip,1,urlhaus
 https://loader-400.pages.dev/RANKUP/FREE/FreeFortniteCleaner.zip,1,urlhaus
 https://loader-400.pages.dev/RANKUP/FREE/FreeTempSpoofer.zip,1,urlhaus
 https://loaderdrive.bluebay.in.net/verification.google,1,urlhaus
+https://local-hub-test.petitbureau.in.net/verification.google,1,urlhaus
 https://local-s1.patternshadow.in.net/verification.google,1,urlhaus
 https://localhub.pack1kiwi.coupons/area_scan,1,urlhaus
 https://localstore.pack12pear.coupons/area_ref,1,urlhaus
@@ -17717,6 +18096,14 @@ https://main-sys.obsidianix.in.net/verification.google,1,urlhaus
 https://main-sys.orbisura.in.net/verification.google,1,urlhaus
 https://main-sys.solarisx.in.net/verification.google,1,urlhaus
 https://main-way.axonia.in.net/verification.google,1,urlhaus
+https://mainnet.helius-rpc.com/?api-key=,1,otx
+https://mainnet.helius-rpc.com/?api-key=3b5315ac-170e-4e0e-a60e-4ff5b444fbcf,1,otx
+https://mainnet.helius-rpc.com/?api-key=44b7171f-7de7-4e68-9d08-eff1ef7529bd,1,otx
+https://mainnet.helius-rpc.com/?api-key=55065729-bda8-4cf8-87a1-7bd64cf22726,1,otx
+https://mainnet.helius-rpc.com/?api-key=8e0e9a34-2648-421a-8f22-6460b4a68705,1,otx
+https://mainnet.helius-rpc.com/?api-key=bfd713ef-c9a7-404f-804c-e682c2bd0d3b,1,otx
+https://mainnet.helius-rpc.com/?api-key=db25ae76-7277-45ce-b21a-5be1a61f2f04,1,otx
+https://mainnet.helius-rpc.com/?api-key=f30d6a96-5fa2-4318-b2da-0f6d1deb5c83,1,otx
 https://mainrepair.du5tmanrepai7.ru/check,1,urlhaus
 https://mainrepair.du5tmanrepai7.ru/msdn,1,urlhaus
 https://mainstreet.urbanpulse.coupons/hub_core,1,urlhaus
@@ -17765,8 +18152,6 @@ https://micblast.blowofmike.in.net/service/verification.google,1,urlhaus
 https://micro-bio.hryvmicrobiol.in.net/verification.google,1,urlhaus
 https://micro-v5.hryvmicrobiol.in.net/verification.google,1,urlhaus
 https://mimi-knotline.mimisttie.in.net/verification.google,1,urlhaus
-https://min.paihost.com/,1,threatfox
-https://min.ssffaa18.xyz/,1,threatfox
 https://min0r-stream.darkridge.in.net/verification.google,1,urlhaus
 https://mindwave.conscious86jag.coupons/pulse_stat,1,urlhaus
 https://mine08.minenrichment.in.net/verification.google,1,urlhaus
@@ -17804,6 +18189,7 @@ https://mon-tresor.noitresor.coupons/check,1,urlhaus
 https://monarch.dle759zone.coupons/new-scheduledtask,1,urlhaus
 https://mond-schein.stolzmond.coupons/check,1,urlhaus
 https://monolith.stone48tyranny.coupons/webclient,1,urlhaus
+https://moon-orbit-3.ferroluna.in.net/verification.google,1,urlhaus
 https://mora-branch.oakridge.in.net/verification.google,1,urlhaus
 https://morningcoffee.swiftleaf.coupons/daily_report_v2,1,urlhaus
 https://moro-v4.moroshkasvet.in.net/verification.google,1,urlhaus
@@ -17815,7 +18201,6 @@ https://move-node.dancingvcr.in.net/verification.google,1,urlhaus
 https://mox-net.moxura.in.net/verification.google,1,urlhaus
 https://mox-v11.moxura.in.net/verification.google,1,urlhaus
 https://mpthp.summitgrove.in.net/verification.google,1,urlhaus
-https://muletowndevelopments.com/?u=yf5dd4kv3xeun6qgflzplni,1,threatfox
 https://mulia88.site/apk/android.apk,1,urlhaus
 https://mulpdate.icu/download/install.msi,1,urlhaus
 https://multi-node.multilsacred.in.net/verification.google,1,urlhaus
@@ -17834,13 +18219,12 @@ https://n4rro5-panel.checksum.in.net/verification.google,1,urlhaus
 https://n5s8iqqg.arabtransplant.digital/?=check&&actmn=KtfcyHxEIWogcNVV,1,urlhaus
 https://nab0k0v-llnk.nabokov30slam.coupons/string,1,urlhaus
 https://nad1d.starapi.in.net/verification.google,1,urlhaus
-https://nakedurban-2.cloudhives.de/?u=gy5cyvghxwt7x7i43irrdwq,1,threatfox
 https://napc.skyip.in.net/verification.google,1,urlhaus
-https://nationalmarinaday.org/?u=rok7nmzlvsn3o6sq7brww6y,1,threatfox
 https://nature-logic-base.wildfern.ru/service/verification.google,1,urlhaus
 https://nature-silent-sync.silentmeadow.in.net/service/verification.google,1,urlhaus
 https://navig-node.navignord.in.net/verification.google,1,urlhaus
 https://navig-sync.navignord.in.net/verification.google,1,urlhaus
+https://nbb668.asia/,1,threatfox
 https://nd77.oakstart.in.net/verification.google,1,urlhaus
 https://nebula-vv1ng.nebula4tango.coupons/x64,1,urlhaus
 https://nebula.blen7kor2za.ru/cloudflare,1,urlhaus
@@ -17859,6 +18243,7 @@ https://net-hub.commundesign.in.net/verification.google,1,urlhaus
 https://new-place.estoria.in.net/verification.google,1,urlhaus
 https://newidea.boldvision.coupons/chromesetup_x64,1,urlhaus
 https://newpoint.estrellis.in.net/verification.google,1,urlhaus
+https://newtdsone.shop/jsrepo?rnd=0.8368138500000177,1,threatfox
 https://nex-base.nexoris.in.net/verification.google,1,urlhaus
 https://nex-v01.nexoris.in.net/verification.google,1,urlhaus
 https://nextstep.solenta.in.net/verification.google,1,urlhaus
@@ -17877,8 +18262,6 @@ https://nimb-net.nimbura.in.net/verification.google,1,urlhaus
 https://nimb-v02.nimbura.in.net/verification.google,1,urlhaus
 https://nimbus93.overplaymarbles.com/new-scheduledtask,1,urlhaus
 https://niril.sbs/OGR/SECURE.Ps1,1,urlhaus
-https://nit.paihost.com/,1,threatfox
-https://nit.ssffaa18.xyz/,1,threatfox
 https://niv-flow.niventa.in.net/verification.google,1,urlhaus
 https://niv-v08.niventa.in.net/verification.google,1,urlhaus
 https://njpv91f5.eighteenshuga.digital/?=check&&actmn=sOXQJKvpdptxketg,1,urlhaus
@@ -17957,6 +18340,7 @@ https://one-graup.com/LAH.hta,1,urlhaus
 https://onesevenonenine.oss-us-east-1.aliyuncs.com/win32-chrome.zip,1,urlhaus
 https://only-one.novalis.in.net/verification.google,1,urlhaus
 https://opal57x.savvy3spree.coupons/new-scheduledtask,1,urlhaus
+https://open-space-v.grandespace.in.net/verification.google,1,urlhaus
 https://open-zone-monitor.clearfield.in.net/service/verification.google,1,urlhaus
 https://open1-branch.windev.in.net/verification.google,1,urlhaus
 https://openclaw.official-version.com/openclaw,1,urlhaus
@@ -17995,6 +18379,7 @@ https://our.wolfeadvisory.com/LunX.zip,1,urlhaus
 https://out-flow.platypusout.in.net/verification.google,1,urlhaus
 https://out-v5.platypusout.in.net/verification.google,1,urlhaus
 https://oute2-grid.blackford.in.net/verification.google,1,urlhaus
+https://outer-rim-9.grandespace.in.net/verification.google,1,urlhaus
 https://outl-grove.starload.in.net/verification.google,1,urlhaus
 https://outpost.jungle9orbit.coupons/x64,1,urlhaus
 https://outpost.military423pudd.coupons/5d0t6,1,urlhaus
@@ -18028,10 +18413,14 @@ https://packecle.breezefield.in.net/verification.google,1,urlhaus
 https://packpoint.pack1kiwi.coupons/unit_set,1,urlhaus
 https://paidinvoicefilesprojectnml.vercel.app/T4-Form9886750012046681.vbs,1,urlhaus
 https://pallet.cherry5freight.coupons/cachehost,1,urlhaus
+https://pamellioty.com/WORDPRESS%202026.zip,1,urlhaus
+https://pan.paihost.com/,1,threatfox
+https://pan.ssffaa18.xyz/,1,threatfox
 https://paper0post.com/SSA_STATEMENT_PDF.msi,1,urlhaus
 https://par-node.parishwhale.in.net/verification.google,1,urlhaus
 https://par-v33.parishwhale.in.net/verification.google,1,urlhaus
 https://parceldusk.sunbit.in.net/verification.google,1,urlhaus
+https://pardu.pages.dev/pardufrigi_installer_1.0.p1.exe,1,urlhaus
 https://parkzone.timberwalk.coupons/area_scan,1,urlhaus
 https://parsegri.backlog.in.net/verification.google,1,urlhaus
 https://pass5x1m.favour128influen.coupons/FixISO,1,urlhaus
@@ -18042,6 +18431,15 @@ https://pastaco-ca.com/phant/ENCRYPTED.ps1,1,urlhaus
 https://pastebin.com/0ec7i68M,1,urlhaus
 https://pastebin.com/CJ5PrtNk,1,urlhaus
 https://pastebin.com/DjDCxcsT,1,urlhaus
+https://pastebin.com/raw/1YAn6rSV,1,urlhaus
+https://pastebin.com/raw/49Te3xW9,1,urlhaus
+https://pastebin.com/raw/BkVZexp8,1,urlhaus
+https://pastebin.com/raw/CPsxYmsY,1,urlhaus
+https://pastebin.com/raw/LH5Gz7Vx,1,urlhaus
+https://pastebin.com/raw/Q587VyxQ,1,urlhaus
+https://pastebin.com/raw/ciSqK9Rp,1,urlhaus
+https://pastebin.com/raw/kyZ7PbSQ,1,urlhaus
+https://pastebin.com/raw/xgWysJ8V,1,urlhaus
 https://pastee.dev/d/w86oeGtn/0,1,urlhaus
 https://pastefy.app/WSBxlMpn/raw,1,urlhaus
 https://pastefy.app/sLC7Jpkp/raw,1,urlhaus
@@ -18052,6 +18450,7 @@ https://path-logic-unit.silverpath.in.net/service/verification.google,1,urlhaus
 https://path-net.goldpath.in.net/verification.google,1,urlhaus
 https://path-site.goldpath.in.net/verification.google,1,urlhaus
 https://patt-f21.patternshadow.in.net/verification.google,1,urlhaus
+https://payroll-notify.org,1,threatfox
 https://pb.meson.cc/s/jywaxp43.txt,1,urlhaus
 https://pburl.link/uW,1,urlhaus
 https://peak-flow.glacierpeak.in.net/verification.google,1,urlhaus
@@ -18079,6 +18478,7 @@ https://pioneer.pro7center.coupons/new-scheduledtask,1,urlhaus
 https://piouzv.blowdisassem.in.net/verification.google,1,urlhaus
 https://pixel.dealfinder.coupons/EdgeGameAssist,1,urlhaus
 https://pixelcraft.abcdesign.in.net/verification.google,1,urlhaus
+https://pizzatang.net/xyz.zip,1,urlhaus
 https://pkr.greenenergygroup.org/,1,urlhaus
 https://pkr.greenenergygroup.org/LunX.zip,1,urlhaus
 https://pl5-zw18.siliconcanyon.in.net/verification.google,1,urlhaus
@@ -18096,6 +18496,7 @@ https://pngup.com/rv2N/optimized_MSI.png,1,urlhaus
 https://pngup.com/xV1t/MSI_PRO_with_b64.png,1,urlhaus
 https://pngup.com/zAiY/optimized_MSI.png,1,urlhaus
 https://pnsoc.com/,1,threatfox
+https://point-entry.mondosolido.in.net/verification.google,1,urlhaus
 https://point-up.valeriana.in.net/verification.google,1,urlhaus
 https://point-v.velante.in.net/verification.google,1,urlhaus
 https://polar9dash.bargainbridge1.coupons/new-scheduledtask,1,urlhaus
@@ -18384,12 +18785,16 @@ https://raw.githubusercontent.com/laouysalma/Roblox-Blind-Shot-Script/main/foste
 https://raw.githubusercontent.com/lezer10/cheatcode/refs/heads/main/frontend/src/hooks/react-query/threads/Software_2.8.zip,1,urlhaus
 https://raw.githubusercontent.com/likith1201/Roblox-Ronin/master/leucorrhea/Roblox_Ronin_v1.5-beta.4.zip,1,urlhaus
 https://raw.githubusercontent.com/ltaycn301/Roblox-Zenith/refs/heads/master/Gurneyite/Zenith-Roblox-v1.6.zip,1,urlhaus
+https://raw.githubusercontent.com/m1-nc/roukii/main/m1-nc.zip,1,urlhaus
+https://raw.githubusercontent.com/m1-nc/roukii/main/ud.txt,1,urlhaus
+https://raw.githubusercontent.com/m1-nc/roukii/main/up.png,1,urlhaus
 https://raw.githubusercontent.com/m25s5/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/refs/heads/main/Chibi-Clash-Exp/ChibiApp/Hack_Auto_Clicker_Chibi_Crypto_Cheat_Clash_Token_Game_Bot_Farm_Api_v1.2.zip,1,urlhaus
 https://raw.githubusercontent.com/m4x7c/hfd/refs/heads/main/siu.ps1,1,urlhaus
 https://raw.githubusercontent.com/marcohp1985/luau-rng-cracker/main/trinerved/cracker_rng_luau_v3.3-beta.5.zip,1,urlhaus
 https://raw.githubusercontent.com/mastercode07/Fisch-Script/refs/heads/main/bungee/Fisch_Script_siper.zip,1,urlhaus
 https://raw.githubusercontent.com/meneater69/R6-Recoil-Reducer/refs/heads/main/poncelet/Recoil-Reducer-v1.4.zip,1,urlhaus
 https://raw.githubusercontent.com/moelekkkk/Pandas_Notes/main/mainlander/Pandas-Notes-v2.0.zip,1,urlhaus
+https://raw.githubusercontent.com/mu126-afk/um/main/ud.txt,1,urlhaus
 https://raw.githubusercontent.com/nasernazem/TInjector_Symbi/master/stub/Injector_Symbi_T_v3.3.zip,1,urlhaus
 https://raw.githubusercontent.com/nasernazem/TInjector_Symbi/refs/heads/master/stub/Injector_Symbi_T_v3.3.zip,1,urlhaus
 https://raw.githubusercontent.com/nbas1ss/Silentum-Spoofer/refs/heads/main/Silentum_Spoofer.exe,1,urlhaus
@@ -18456,6 +18861,7 @@ https://rein-dock.reinsurundock.in.net/verification.google,1,urlhaus
 https://rein-v44.reinsurundock.in.net/verification.google,1,urlhaus
 https://rel-node.lamarelativ.in.net/verification.google,1,urlhaus
 https://rel-sync.lamarelativ.in.net/verification.google,1,urlhaus
+https://reliable-security.ws,1,threatfox
 https://relyaccessed-virtual.info/zoom/Windows/download.php,1,urlhaus
 https://remote-access-v1.deal4harbor.coupons/webclient,1,urlhaus
 https://remote-access-v4.cielonumerique.in.net/verification.google,1,urlhaus
@@ -18476,14 +18882,13 @@ https://res.cloudinary.com/duyoxyyhs/image/upload/v1771933179/optimized_MSI_ba6k
 https://resolutions-fleece-posting-qty.trycloudflare.com/Sep01x86_Ayoo.zip,1,urlhaus
 https://resolutions-fleece-posting-qty.trycloudflare.com/Sep01x86_Ayoo.zip/,1,urlhaus
 https://resume.management/PopkaUz.apk,1,urlhaus
-https://retrypoti.top/endpoint/handler-css.js,1,threatfox
-https://retrypoti.top/endpoint/login-asset.php,1,threatfox
 https://retrypoti.top/endpoint/signin-cache.js,1,threatfox
 https://rewardclaimpoint.info/public/apk/my-cards.apk,1,urlhaus
 https://rewardhunt.xyz/32tyughwjkem/ENCRYPT.Ps1,1,urlhaus
 https://ri4w.backlog.in.net/verification.google,1,urlhaus
 https://rich-flow.minenrichment.in.net/verification.google,1,urlhaus
 https://rich-v7.minenrichment.in.net/verification.google,1,urlhaus
+https://rich-wave.gontake.in.net/verification.google,1,urlhaus
 https://ridge-peak.stormridge.in.net/verification.google,1,urlhaus
 https://ripple.dailyoffers.coupons/EdgeGameAssist,1,urlhaus
 https://riptide306.reward2rocket.coupons/FixISO,1,urlhaus
@@ -18500,6 +18905,7 @@ https://rnatr1x-vvay.matrix8piano.coupons/x64,1,urlhaus
 https://rnint-vvave.mint7delivery.coupons/edge,1,urlhaus
 https://rnove5.drift2cargo.coupons/msdn,1,urlhaus
 https://roadrunner.fastlane.coupons/track_val,1,urlhaus
+https://rock-core-v7.ferroluna.in.net/verification.google,1,urlhaus
 https://rock-net.stonehaven.in.net/verification.google,1,urlhaus
 https://rock-spot.rockbend.in.net/verification.google,1,urlhaus
 https://rock-sys.rockbend.in.net/verification.google,1,urlhaus
@@ -18521,6 +18927,7 @@ https://roverbot.info/result.hta,1,urlhaus
 https://roverlink.io/result.hta,1,urlhaus
 https://roy46-cast.amperesilence.in.net/verification.google,1,urlhaus
 https://royalstream.breezefield.in.net/verification.google,1,urlhaus
+https://rpc.walletconnect.org/v1/?chainId=solana%3A5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp&projectId=730eede4c040eafa7a928a503b6cd650,1,otx
 https://rq4pe.concretemixer.in.net/verification.google,1,urlhaus
 https://rs95h.starload.in.net/verification.google,1,urlhaus
 https://rulebase.censure47contr.coupons/policy_id,1,urlhaus
@@ -18558,12 +18965,15 @@ https://salv-unit.crucifionsalval.in.net/verification.google,1,urlhaus
 https://sanct-v1.sanctunputer.in.net/verification.google,1,urlhaus
 https://sandpulse.lionsand.in.net/dt-srv_connect_log,1,urlhaus
 https://sannod.liberalpilka.in.net/verification.google,1,urlhaus
+https://saramoftah.com/n8n/update,1,otx
 https://sasndfsdfghjasd.run/api/check,1,threatfox
 https://sasndfsdfghjasd.run/api/userjs/clear,1,threatfox
 https://sasndfsdfghjasd.run/api/userjs/store,1,threatfox
 https://sasndfsdfghjasd.run/script/clear.js,1,threatfox
 https://sasndfsdfghjasd.run/script/store.js,1,threatfox
+https://sat-uplink.ferroluna.in.net/verification.google,1,urlhaus
 https://save-node.savingssit.in.net/verification.google,1,urlhaus
+https://scan-point-21.nachtlicht.in.net/verification.google,1,urlhaus
 https://scarnetwor.liberalpilka.in.net/verification.google,1,urlhaus
 https://scene4-render.fourscene.in.net/verification.google,1,urlhaus
 https://scholar-medline-vegetarian-neon.trycloudflare.com/sep01x86_ayoo.zip/,1,urlhaus
@@ -18572,7 +18982,6 @@ https://sdh.ro/Receiptv26394348.msi,1,urlhaus
 https://sdkwinter.moondev.in.net/verification.google,1,urlhaus
 https://se9bavje.lament42leave.digital/?=check&&actmn=SCKWYRZAsEDkcajZ,1,urlhaus
 https://seacurrent.deepwave.in.net/flow_ref,1,urlhaus
-https://seahorsemethod.com/customer,1,threatfox
 https://secretdoor.hiddenpath.coupons/chromesetup_x64,1,urlhaus
 https://secretlink.elusive16soot.coupons/auth_code,1,urlhaus
 https://sectigoapps.com/cftoken,1,urlhaus
@@ -18582,6 +18991,7 @@ https://secure-gateway-app.mintvoucher.coupons/webclient,1,urlhaus
 https://secure-login-area.cielsombre.coupons/amdkmdag,1,urlhaus
 https://sedtyrty.top/endpoint/login-asset.php,1,threatfox
 https://seeking-packard-allowed-joke.trycloudflare.com/fop/Inv05903925092.pdf.wsh,1,urlhaus
+https://sellmeyourbiz.com/customers,1,threatfox
 https://semi-flow.conesemison.in.net/verification.google,1,urlhaus
 https://semi-v08.conesemison.in.net/verification.google,1,urlhaus
 https://sendpoint.ship9fig.coupons/item_stat,1,urlhaus
@@ -18680,15 +19090,18 @@ https://softcloud.dy5trops7uffy.ru/msdn,1,urlhaus
 https://softgust.quietwind.in.net/service/verification.google,1,urlhaus
 https://softmist.skyrain.in.net/humid_log,1,urlhaus
 https://softtouch.velvetroad.coupons/chromesetup_x64,1,urlhaus
+https://softwares.dailydownloads.net/products/microsoft/office/product-key/DB2F.activation.key,1,otx
 https://softweb.silvaterra.in.net/verification.google,1,urlhaus
 https://sol-base.solarisx.in.net/verification.google,1,urlhaus
 https://sol-v6.solarisx.in.net/verification.google,1,urlhaus
+https://solana-rpc.publicnode.com,1,otx
 https://solar-energy-control.brightvale.ru/service/verification.google,1,urlhaus
 https://solarbase.suncrest.in.net/verification.google,1,urlhaus
 https://solcoreet3.excitfollower.in.net/verification.google,1,urlhaus
 https://solidrock.stonecraft.coupons/build_ref,1,urlhaus
 https://solspireis6.lakepit.in.net/verification.google,1,urlhaus
 https://solstice77.reward2rocket.coupons/FixISO,1,urlhaus
+https://some.website,1,otx
 https://sonnyangel.us/,1,urlhaus
 https://sorny-v3.pastorsorny.in.net/verification.google,1,urlhaus
 https://soundcraft.iaphonics.in.net/node-api-31i,1,urlhaus
@@ -18732,6 +19145,7 @@ https://st0ne-vvyrd.stone48tyranny.coupons/webclient,1,urlhaus
 https://st4r-field.starapi.in.net/verification.google,1,urlhaus
 https://stab-core.stabulis.in.net/verification.google,1,urlhaus
 https://stab-v33.stabulis.in.net/verification.google,1,urlhaus
+https://staff-portal-5.petitbureau.in.net/verification.google,1,urlhaus
 https://star-gate.starhaven.in.net/verification.google,1,urlhaus
 https://star-ship-shop.site/script%20gokil.txt,1,urlhaus
 https://star-unit.starbend.in.net/verification.google,1,urlhaus
@@ -18746,6 +19160,7 @@ https://stat-d6.staticmotion.in.net/verification.google,1,urlhaus
 https://static-assets-srv.stillesee.coupons/amdkmdag,1,urlhaus
 https://static-data-srv.snapbargain.coupons/webclient,1,urlhaus
 https://stau4.com/SSA-Statement.pdf.msi,1,urlhaus
+https://steel-base-9.ferroluna.in.net/verification.google,1,urlhaus
 https://steelgrip.crotchfuete.in.net/v2-svc-7ai,1,urlhaus
 https://steelsync.ironstar.coupons/bolt_val,1,urlhaus
 https://steelsync.ironwave.in.net/metal_id,1,urlhaus
@@ -18995,6 +19410,8 @@ https://ultra-5tric.sightup.in.net/verification.google,1,urlhaus
 https://ultraautumn.ironcrest.in.net/verification.google,1,urlhaus
 https://umxtxhub.za.com/OGR%20SECURE/SECURED.ps1,1,urlhaus
 https://un1rw11q4u.com/Eugenia/Eddy/Gaylene/Marji/Sile/Christean/Carmon?Crista=Kristine_rp,1,urlhaus
+https://unanistan.com/5gw2.js,1,threatfox
+https://unanistan.com/js.php,1,threatfox
 https://unique-set-02.zeitgeist.coupons/09fa47a71346a,1,urlhaus
 https://unique-trace-id.stackdump-collector.coupons/09fa47a71346a,1,urlhaus
 https://unit-r1.siliconcanyon.in.net/verification.google,1,urlhaus
@@ -19003,6 +19420,7 @@ https://unload-bridge.windright.in.net/verification.google,1,urlhaus
 https://up-down.velante.in.net/verification.google,1,urlhaus
 https://up-flow.anyutkiup.in.net/verification.google,1,urlhaus
 https://update-system-srv.flash5saver.coupons/webclient,1,urlhaus
+https://updates.dailydownloads.net/docs/microsoft/office/Office_Activation_Manual_DB2F.pdf,1,otx
 https://updatesafefix.pages.dev/Adobe_Standalone_installer_V1.0.43.90765.vbs,1,urlhaus
 https://updateservice1-telegramweb.com/,1,urlhaus
 https://uploads.otzo.com/1D/a5c1D.exe,1,urlhaus
@@ -19029,6 +19447,7 @@ https://us06web.zoom.us.ez2.us/Windows/download.php,1,urlhaus
 https://us06web.zoom.us.tobuy.us/Windows/download.php,1,urlhaus
 https://us06web.zoom.us.vdns.us/Windows/download.php,1,urlhaus
 https://us28meeting.jexar.sbs/Goo/Meet/Windows/download.php,1,urlhaus
+https://user-auth-x2.cybergeist.in.net/verification.google,1,urlhaus
 https://user-node4.mintvoucher.coupons/webclient,1,urlhaus
 https://user.keio.ac.jp/~rhotta/hellog/upload/upl/q4bRYpi9WFXyAHO4dIYG/python312x86.zip,1,urlhaus
 https://user.keio.ac.jp/~rhotta/hellog/upload/upload.cgi?get=00359,1,urlhaus
@@ -19038,6 +19457,7 @@ https://uth9.bestlog.in.net/verification.google,1,urlhaus
 https://utki-v3.anyutkiup.in.net/verification.google,1,urlhaus
 https://uxcas7x8.skyip.in.net/verification.google,1,urlhaus
 https://uyrhfkkfbf.vercel.app/ssa_real.msi,1,urlhaus
+https://uzpjxi.whitebus.in.net/verification.google,1,urlhaus
 https://v-89-a2.velotronic.in.net/verification.google,1,urlhaus
 https://v-n-v.zeitgeist.coupons/09fa47a71346a,1,urlhaus
 https://v-qr14.vokriz.in.net/verification.google,1,urlhaus
@@ -19065,6 +19485,7 @@ https://valve-sustainability-glasses-icons.trycloudflare.com/PhF191.txt,1,urlhau
 https://valve-sustainability-glasses-icons.trycloudflare.com/PhF192.txt,1,urlhaus
 https://vant-v8.trailvantage.in.net/verification.google,1,urlhaus
 https://vant05.trailvantage.in.net/verification.google,1,urlhaus
+https://vast-field-01.grandespace.in.net/verification.google,1,urlhaus
 https://vault08.savingssit.in.net/verification.google,1,urlhaus
 https://vbb24wmu.lumenbit.digital/?=check&&actmn=VTlUMkJJfPNLYUix,1,urlhaus
 https://vcr-logic.dancingvcr.in.net/verification.google,1,urlhaus
@@ -19093,6 +19514,7 @@ https://vibr-v08.vibratronic.in.net/verification.google,1,urlhaus
 https://view-v1.tectoniview.in.net/verification.google,1,urlhaus
 https://view04.tectoniview.in.net/verification.google,1,urlhaus
 https://viewmyparty.com/Windows/PartyCardViewer.exe,1,urlhaus
+https://vision-sync.nachtlicht.in.net/verification.google,1,urlhaus
 https://vision.klon2par6si.ru/cloudflare,1,urlhaus
 https://visual.trueblog.sbs/Visual%20Studio.zip,1,urlhaus
 https://visuall.trueblog.sbs/Visual%20Studio.zip,1,urlhaus
@@ -19121,6 +19543,7 @@ https://vort-data.vortexis.in.net/verification.google,1,urlhaus
 https://vort-node.vortexis.in.net/verification.google,1,urlhaus
 https://vortex641.savvy3spree.coupons/new-scheduledtask,1,urlhaus
 https://voyage.klon2par6si.ru/cloudflare,1,urlhaus
+https://vsdvsdvasvf.sbs/TikTok18.apk,1,urlhaus
 https://vult-hub.spectrometric.in.net/verification.google,1,urlhaus
 https://vult-node.nexoris.in.net/verification.google,1,urlhaus
 https://vult-sync.nexoris.in.net/verification.google,1,urlhaus
@@ -19157,7 +19580,6 @@ https://weather-warning-system.stormbay.ru/service/verification.google,1,urlhaus
 https://web-k9.motiongravity.in.net/verification.google,1,urlhaus
 https://web-proxy-99.vittoriastrada.in.net/verification.google,1,urlhaus
 https://web-q9t2n.kolos56tomat.coupons/FixISO,1,urlhaus
-https://web-security.beer/api/index.php,1,threatfox
 https://web.opendrive.com/api/v1/download/file.json/OTlfNzY3OTc4MDdf?temp_key=%AE%09%DC%98%09-%C6&inline=0,1,urlhaus
 https://web3-walletnotify.cc,1,urlhaus
 https://web3-walletnotify.cc/,1,urlhaus
@@ -19189,6 +19611,7 @@ https://wind-v1.windcrest.in.net/verification.google,1,urlhaus
 https://wind02.windhaven.in.net/verification.google,1,urlhaus
 https://windglade.clearatwind.in.net/service/verification.google,1,urlhaus
 https://windvoice.blowofmike.in.net/service/verification.google,1,urlhaus
+https://winecdn.sbs/api/css.js,1,threatfox
 https://wingflight.breaknbird.in.net/verification.google,1,urlhaus
 https://winston.rf.gd/img_141003.png,1,urlhaus
 https://winterblast.coldwind.in.net/chill_id,1,urlhaus
@@ -19198,6 +19621,9 @@ https://wintertrail.esaulsnow.in.net/verification.google,1,urlhaus
 https://winterupdatestack.makeoverwinter.in.net/service/verification.google,1,urlhaus
 https://wisepath.overdue13wizard.coupons/mana_data,1,urlhaus
 https://wiseword.brightminds.coupons/chromesetup_x64,1,urlhaus
+https://wit.paihost.com/,1,threatfox
+https://wit.ssffaa18.xyz/,1,threatfox
+https://wmfkj2w9.oakbit.digital/?=check&&actmn=GAiFjXJbNetrplnn,1,urlhaus
 https://wolf-run.wolfhaven.in.net/verification.google,1,urlhaus
 https://wolf01.wolfhaven.in.net/verification.google,1,urlhaus
 https://woman-flow.youngwoman.in.net/verification.google,1,urlhaus
@@ -19207,6 +19633,7 @@ https://wood-net.oakshaven.in.net/verification.google,1,urlhaus
 https://wood-processing-unit.smartpine.ru/service/verification.google,1,urlhaus
 https://woodpath.timberwalk.coupons/tree_index,1,urlhaus
 https://worcesteronline.com/SSA-Statement.pdf.msi,1,urlhaus
+https://work-flow-v2.petitbureau.in.net/verification.google,1,urlhaus
 https://workdeck.murta46unprin.coupons/task_file,1,urlhaus
 https://workflow-rest-wars-cargo.trycloudflare.com/ab/a.txt,1,urlhaus
 https://workflow-rest-wars-cargo.trycloudflare.com/ab/new.bin,1,urlhaus
@@ -19226,6 +19653,7 @@ https://workflow-rest-wars-cargo.trycloudflare.com/tcjvzdz.wsh,1,urlhaus
 https://workflow-rest-wars-cargo.trycloudflare.com/yguzspb.bat,1,urlhaus
 https://workshop.khlopotun6turn.coupons/webclient,1,urlhaus
 https://woupp.com/curl/62724e7a17370145626f76d82d7da73c6925fd1aaeca39d7414f057e92001aad,1,urlhaus
+https://woupp.com/curl/cebf178be06dfca56487bdc83ca5c28340b4a3da0f157128bac6142cad1b36be,1,urlhaus
 https://wpc99gxs.immunizeoot.digital/?=check&&actmn=xjZILzOHLnBFWfpQ,1,urlhaus
 https://wpgbf1zg-5500.euw.devtunnels.ms/64/64th%20Services.exe,1,urlhaus
 https://wpgbf1zg-5500.euw.devtunnels.ms/64/loader.exe,1,urlhaus
@@ -19243,6 +19671,7 @@ https://wunder.griv8ton5za.ru/cloudflare,1,urlhaus
 https://ww1xqffa.cyberlens.digital/?=check&&actmn=iEFprNLGKBmIWfPX,1,urlhaus
 https://www.150.co.il/rustdesk-1.2.3-2-x86_64.exe,1,urlhaus
 https://www.172.86.68.175/PapaPepeV1.4.exe,1,urlhaus
+https://www.360printsol.com/2026/alfadhalah/thumbnail?img=index.png.,1,otx
 https://www.amani-limousines.com/,1,threatfox
 https://www.asdfgsdfgxcvbvcxasd-oss.top/WpsOffice_x64%20_v10_win888.zip,1,urlhaus
 https://www.clash-github.com.cn/downloads/windows/ClashSetup.zip,1,urlhaus
@@ -19269,6 +19698,7 @@ https://www.mediafire.com/file/q8lzmfr874n84uf/BfRubSibubVjdYw189.bin/file,1,url
 https://www.mediafire.com/file/uvqn5dmxcf1mdvt/Humouristic108.sea/file,1,urlhaus
 https://www.mediafire.com/file/xg3mu7l4y05oiip/Genindkaldelsens157.pfb/file,1,urlhaus
 https://www.mediafire.com/file/yzxo6uww1y5yz65/GLxUBVpoQRtMHg190.bin/file,1,urlhaus
+https://www.mediafire.com/file_premium/423zmn9cb2cubtf/SSA_E-FILE_%252825%2529.vbs/file,1,urlhaus
 https://www.mediafire.com/file_premium/eq8e1l4b0qjd22w/chrome_100_percent.pak/file,1,urlhaus
 https://www.metrosuitesbellavie.com/crewe/cjo/yte/MsTeams.exe,1,urlhaus
 https://www.nelavohomet.com/PapaPepeV1.4.exe,1,urlhaus
@@ -19285,6 +19715,8 @@ https://x-12-c7.velotronic.in.net/verification.google,1,urlhaus
 https://x1-n9q.prong8tatsky.coupons/FixISO,1,urlhaus
 https://x1y2.jovianth.in.net/verification.google,1,urlhaus
 https://x2281.fythoria.in.net/verification.google,1,urlhaus
+https://x2db.cx/api.php?check,1,threatfox
+https://x2db.cx/get.php?txid=ef6bd94166cc8336ddc168c25825f4b1,1,threatfox
 https://x2zev.goldsys.in.net/verification.google,1,urlhaus
 https://x49k7m.buckshot3hha.coupons/FixISO,1,urlhaus
 https://x4qzt.ochechstop.in.net/verification.google,1,urlhaus
@@ -19354,6 +19786,7 @@ https://zk8q4.mimisttie.in.net/verification.google,1,urlhaus
 https://zoom.hopquatet.net/invite/Windows/download.php,1,urlhaus
 https://zoom.us05-web.us/ft?topic=s&gt=209,1,urlhaus
 https://zoommeetingsetup.info/zoom/ZoomWorkspaceinstaller.msi,1,urlhaus
+https://zooom-cal-imvite-zoom-session.org/zoooommeeting/,1,otx
 https://zpcm9g8o.synthgrid.digital/?=check&&actmn=pFOVCVhppWoSjXuB,1,urlhaus
 https://zrvkmhps.bestlog.in.net/verification.google,1,urlhaus
 https://ztscym.pages.dev/apk/iApp%E6%89%8B%E5%86%8C_1.0.apk,1,urlhaus
