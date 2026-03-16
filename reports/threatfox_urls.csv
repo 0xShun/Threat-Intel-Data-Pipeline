@@ -1,5 +1,4 @@
 2026-03-15 08:16:03,Kimsuky,url,http://101.36.114.24/,#c2 #kimsuky #URLscan,https://urlscan.io/result/019cf091-0bda-732f-be36-85f3ed88f87e
-2026-03-15 06:48:51,XWorm,url,http://158.94.211.208/OBOXW2026.txt,#OBOXW2026 #Omegatech #staging #XWorm,https://threatfox.abuse.ch/ioc/1766705/
 2026-03-15 11:03:45,Unknown malware,url,http://185.161.251.58/n/Qt3Core.dll,#ClickFix #HTA #payload #VBScript,https://threatfox.abuse.ch/ioc/1766923/
 2026-03-15 11:01:41,Unknown malware,url,http://185.161.251.58/n/dnsapi.log,#ClickFix #payload #powershell,https://threatfox.abuse.ch/ioc/1766920/
 2026-03-15 11:03:02,Unknown malware,url,http://185.161.251.58/n/sys32.dll,#ClickFix #payload #powershell,https://threatfox.abuse.ch/ioc/1766922/
@@ -9,9 +8,7 @@
 2026-03-15 10:56:53,Unknown malware,url,http://185.161.251.58/n3/setup.xls,#ClickFix #HTA #JScript #payload,https://threatfox.abuse.ch/ioc/1766911/
 2026-03-15 10:58:13,Unknown malware,url,http://185.161.251.58/n3/setupapi.ini,#ClickFix #payload #powershell,https://threatfox.abuse.ch/ioc/1766912/
 2026-03-15 10:55:37,Unknown malware,url,http://185.161.251.58/n5/dwrite.bak,#ClickFix #payload #powershell,https://threatfox.abuse.ch/ioc/1766910/
-2026-03-15 06:49:03,IClickFix,url,http://185.242.245.69:5000/DForecast/p2/e70d098aace7414caa01272494f1c947,#ClickFix #russian,https://threatfox.abuse.ch/ioc/1766609/
-2026-03-14 18:33:29,Unknown malware,url,http://213.165.47.137:5000/api/i,,https://bazaar.abuse.ch/sample/c75ebab7bc1babe41757a8aa104fb4d53adc6590a7de158fd5ae723ceb8cdb2f/
-2026-03-14 18:33:29,Unknown malware,url,http://213.165.47.137:8080/payload,,https://bazaar.abuse.ch/sample/c75ebab7bc1babe41757a8aa104fb4d53adc6590a7de158fd5ae723ceb8cdb2f/
+2026-03-16 06:26:03,GlassWorm,url,http://45.32.150.251:4789/socket.io/,#glassworm #infostealer #macOS #RAT #supply-chain #Vultr,https://codeberg.org/tip-o-deincognito/glassworm-writeup/src/branch/main/PART2.md
 2026-03-15 11:06:55,Unknown malware,url,http://62.133.60.98/n/Qt3Core.dll,#ClickFix #HTA #payload #VBScript,https://threatfox.abuse.ch/ioc/1766928/
 2026-03-15 11:07:32,Unknown malware,url,http://62.133.60.98/n/dnsapi.log,#ClickFix #payload #powershell,https://threatfox.abuse.ch/ioc/1766929/
 2026-03-15 11:07:57,Unknown malware,url,http://62.133.60.98/n/sys32.dll,#ClickFix #payload #powershell,https://threatfox.abuse.ch/ioc/1766930/
@@ -28,7 +25,6 @@
 2026-03-15 10:41:12,Unknown malware,url,http://81.90.29.35/n5/mfcd.sql,#ClickFix #HTA #JScript #payload,https://threatfox.abuse.ch/ioc/1766898/
 2026-03-15 10:48:15,Unknown malware,url,http://81.90.29.35/rem/data.gz,#ClickFix #HTA #payload #VBScript,https://threatfox.abuse.ch/ioc/1766905/
 2026-03-15 10:48:32,Unknown malware,url,http://81.90.29.35/rem/kern.gz,#ClickFix #payload #powershell,https://threatfox.abuse.ch/ioc/1766906/
-2026-03-14 19:26:36,SmartLoader,url,http://94.156.154.6/api/NTE3YjdjNWU1NjYzNjU2YTA1N2Y=,#SmartLoader,https://threatfox.abuse.ch/ioc/1766433/
 2026-03-15 08:16:09,Kimsuky,url,http://dt.ndocbpass.dns.army/,#c2 #kimsuky #URLscan,https://urlscan.io/result/019cf091-20b4-7641-950e-0980eb35f5e3
 2026-03-15 08:15:58,Kimsuky,url,http://ndocabpass.dynv6.net/,#c2 #kimsuky #URLscan,https://urlscan.io/result/019cf090-f80c-763a-8004-d8245ce03cf1
 2026-03-15 08:16:01,Kimsuky,url,http://ndocepass.dns.army/,#c2 #kimsuky #URLscan,https://urlscan.io/result/019cf091-01ea-773d-8320-b79cb4cab94d
@@ -37,120 +33,86 @@
 2026-03-15 08:16:00,Kimsuky,url,http://ndocnpass.dns.army/,#c2 #kimsuky #URLscan,https://urlscan.io/result/019cf090-fc85-76d9-b772-4e1b98b4db31
 2026-03-15 08:16:02,Kimsuky,url,http://ndocppass.dns.army/,#c2 #kimsuky #URLscan,https://urlscan.io/result/019cf091-07e6-7751-83f8-7abd318a5b88
 2026-03-15 08:18:24,Kimsuky,url,http://nid.naver.desaindigital.com/,#c2 #kimsuky #URLQuery,https://urlquery.net/report/f49b5442-6afb-47c7-9559-cc3d1c93d8f0
-2026-03-15 06:00:38,Amadey,url,http://sibcomputer.ru,#Amadey #c2 #Loader #triage,https://tria.ge/260315-ekv2ysg17x
 2026-03-15 08:17:10,Unknown malware,url,http://statsinfos.com/,#c2 #UNAM #URLQuery,https://urlquery.net/report/b3c05d42-b474-4b4e-9327-5e25072b94dc
-2026-03-15 04:00:12,Amadey,url,http://tve-mail.com/forum/index.php,#Amadey,https://threatfox.abuse.ch/ioc/1766760/
-2026-03-15 07:05:37,Cobalt Strike,url,http://webcdns.com:2083/static-directory/lt.mp3,#CobaltStrike,https://bazaar.abuse.ch/sample/905fcd2566eb979d9ca4e63c7113346d86707f6ae70e325d0e85194acd721bf4/
-2026-03-14 22:25:29,Unknown malware,url,https://2131kobushidetoken.run/auth?xc=894123,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766537/
-2026-03-14 17:50:21,Vidar,url,https://78.108.59.69,#Vidar,https://bazaar.abuse.ch/sample/242f22c234df785f164e75f75714704c1102325d9b12737504e1287acebd09d5/
-2026-03-14 23:17:58,Unknown malware,url,https://aborigenivsehebyt.lol/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766644/
-2026-03-14 23:18:20,Unknown malware,url,https://aborigenivsehebyt.lol/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766645/
-2026-03-14 23:17:37,Unknown malware,url,https://aborigenivsehebyt.lol/api/visit,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766643/
-2026-03-14 22:42:59,Unknown malware,url,https://agentcity.fun/auth?xc=894691,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766569/
-2026-03-14 21:17:53,Unknown malware,url,https://aicoinonsol.lol/auth?xc=867867,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766502/
-2026-03-14 23:14:20,Unknown malware,url,https://aicoinonsol.lol/auth?xc=913145,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766640/
-2026-03-14 23:04:31,Unknown malware,url,https://appgodl.xyz/auth?xc=894914,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766614/
-2026-03-14 22:26:39,Unknown malware,url,https://arctoken.life/auth?xc=894161,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766539/
-2026-03-14 22:27:50,Unknown malware,url,https://arkm.live/auth?xc=894194,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766541/
-2026-03-14 23:05:18,Unknown malware,url,https://artistynetwork.lol/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766615/
-2026-03-14 23:06:19,Unknown malware,url,https://artistynetwork.lol/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766619/
-2026-03-14 23:05:56,Unknown malware,url,https://artistynetwork.lol/api/visit,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766618/
+2026-03-16 06:05:17,Rhadamanthys,url,https://147.124.221.241:1149/9c59034ac60846f8/mrx8h4of.prxvo,#AS396073 #c2 #Rhadamanthys #stealer #triage,https://tria.ge/260316-f4ttnsdt2x
+2026-03-16 04:40:22,Vidar,url,https://195.201.248.201,#Vidar,https://bazaar.abuse.ch/sample/8c3c77343b99a72aee510464eb052e421b7dc1d4e48d3d19a0058fcec1ccfb23/
+2026-03-16 05:35:24,Vidar,url,https://74.0.32.108,#Vidar,https://bazaar.abuse.ch/sample/afcdb8555c63b55523b8571a1c0a206bb54434157a1a2829eb6865d51bbd14ab/
+2026-03-15 19:53:34,Unknown malware,url,https://abh.eventartstata.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767346/
+2026-03-15 19:57:18,Unknown malware,url,https://ageconsultant.pk,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767356/
+2026-03-15 19:54:08,Unknown malware,url,https://agrofarmery.site,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767347/
+2026-03-15 19:49:00,Unknown malware,url,https://amit-haviv.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767322/
+2026-03-15 21:42:17,IClickFix,url,https://amlfoods.co.uk/wp-blog-footer.php,#ClickFix #IClickFix,https://threatfox.abuse.ch/ioc/1767401/
+2026-03-15 21:42:55,IClickFix,url,https://amlfoods.co.uk/wp-blog-footer.php?page=,#ClickFix #IClickFix,https://threatfox.abuse.ch/ioc/1767402/
+2026-03-15 19:55:43,Unknown malware,url,https://aurumcapital.ae,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767351/
 2026-03-15 16:50:41,Unknown malware,url,https://autismtoken.live/auth?xc=1002214,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767147/
-2026-03-14 22:49:20,Unknown malware,url,https://bedrockpumpfun.fun/auth?xc=894748,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766578/
-2026-03-14 22:51:15,Unknown malware,url,https://blackhouse.lol/auth?xc=894769,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766585/
 2026-03-15 16:43:10,Unknown malware,url,https://blockstreet.bet/auth?xc=1001742,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767138/
-2026-03-14 23:43:53,Unknown malware,url,https://blockstreet.life/auth?xc=934805,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766673/
 2026-03-15 16:06:12,Unknown malware,url,https://blockstreet.today/auth?xc=994887,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767086/
 2026-03-15 16:17:06,Unknown malware,url,https://blockstreet.world/auth?xc=995208,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767102/
 2026-03-15 16:25:51,Unknown malware,url,https://blockstreet.zone/auth?xc=995337,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767112/
-2026-03-14 22:45:50,Unknown malware,url,https://bratiyanetwork.lol/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766574/
-2026-03-14 22:46:09,Unknown malware,url,https://bratiyanetwork.lol/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766575/
-2026-03-14 22:46:35,Unknown malware,url,https://bratiyanetwork.lol/api/visit,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766576/
+2026-03-15 19:49:22,Unknown malware,url,https://cdrtmarrakech.org,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767323/
 2026-03-15 09:33:53,Unknown malware,url,https://cloud-save-image.sbs/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1766876/
 2026-03-15 09:34:12,Unknown malware,url,https://cloud-save-image.sbs/api/index.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1766877/
 2026-03-15 16:33:24,Unknown malware,url,https://corvuscoin.digital/auth?xc=996020,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767124/
-2026-03-14 22:16:38,Unknown malware,url,https://daiteobeziyanamtelok.lol/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766530/
-2026-03-14 22:17:43,Unknown malware,url,https://daiteobeziyanamtelok.lol/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766532/
-2026-03-14 22:17:17,Unknown malware,url,https://daiteobeziyanamtelok.lol/api/visit,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766531/
-2026-03-14 22:52:24,Unknown malware,url,https://deepseaai.lat/auth?xc=894788,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766587/
-2026-03-14 21:18:54,Unknown malware,url,https://deepworm.bet/auth?xc=867888,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766504/
-2026-03-14 23:00:52,Unknown malware,url,https://deepworm.lat/auth?xc=894874,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766602/
-2026-03-14 23:08:22,Unknown malware,url,https://dflows.net/auth?xc=900399,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766629/
+2026-03-15 19:51:39,Unknown malware,url,https://creativefarmsgeorgia.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767329/
+2026-03-15 19:52:01,Unknown malware,url,https://dewanmanufacturing.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767330/
 2026-03-15 10:31:39,Unknown malware,url,https://disrespectsentim.digital/script.sh,#ClickFix,https://threatfox.abuse.ch/ioc/1766895/
-2026-03-14 22:50:21,Unknown malware,url,https://distortedcoin.lat/auth?xc=894759,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766580/
 2026-03-15 16:09:22,Unknown malware,url,https://dustcoin.digital/auth?xc=994942,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767091/
-2026-03-14 21:16:13,Unknown malware,url,https://dustcoin.lat/auth?xc=867828,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766500/
-2026-03-14 23:19:58,Unknown malware,url,https://exchanges.lat/auth?xc=917550,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766647/
 2026-03-15 16:29:14,Unknown malware,url,https://exponentialmc.world/auth?xc=995364,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767117/
-2026-03-14 22:29:06,Unknown malware,url,https://fabric-foundation.co/auth?xc=894424,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766544/
-2026-03-14 23:41:11,Unknown malware,url,https://fishdomen.lat/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766669/
-2026-03-14 23:41:33,Unknown malware,url,https://fishdomen.lat/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766670/
-2026-03-14 23:40:42,Unknown malware,url,https://fishdomen.lat/api/visit,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766668/
-2026-03-15 06:48:58,BEARDSHELL,url,https://freefoodaid.com/ankara/Favorites/document.doc.LnK,#APT28 #CVE-2026-21509 #Operation_Neusploit #WebDav,https://www.zscaler.com/blogs/security-research/operation-neusploit
-2026-03-14 22:30:19,Unknown malware,url,https://gastoken.lat/auth?xc=894443,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766547/
+2026-03-15 19:52:19,Unknown malware,url,https://farmabrasil.farmamarketing.com.br,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767337/
+2026-03-16 06:00:48,Lumma Stealer,url,https://followw.cyou,#c2 #Lumma #stealer #triage,https://tria.ge/260316-fklzqac13x
+2026-03-15 19:52:09,Vidar,url,https://ggl.rongtv.xyz/,#Vidar,https://threatfox.abuse.ch/ioc/1767331/
+2026-03-15 19:52:09,Vidar,url,https://ggl.ssffaa19.xyz/,#Vidar,https://threatfox.abuse.ch/ioc/1767332/
+2026-03-15 23:24:29,Unknown malware,url,https://ghumbuy.com,#Evelyn Stealer - Web Panel,https://threatfox.abuse.ch/ioc/1767545/
+2026-03-15 22:19:57,Unknown malware,url,https://go.fileupload.vip/1.png,#ClickFix #payload #zip,https://threatfox.abuse.ch/ioc/1767513/
+2026-03-15 22:20:39,Unknown malware,url,https://go.fileupload.vip/M3Vmu?HH=a,#ClickFix,https://threatfox.abuse.ch/ioc/1767515/
+2026-03-15 22:22:37,Unknown malware,url,https://go.fileupload.vip/NRhu6?fM=3,#ClickFix,https://threatfox.abuse.ch/ioc/1767517/
+2026-03-15 22:27:22,Unknown malware,url,https://go.fileupload.vip/capcut,#ClickFix,https://threatfox.abuse.ch/ioc/1767520/
+2026-03-15 22:26:54,Unknown malware,url,https://go.fileupload.vip/spotify,#ClickFix,https://threatfox.abuse.ch/ioc/1767519/
 2026-03-15 15:53:28,Unknown malware,url,https://gosolcoin.digital/auth?xc=994683,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767071/
 2026-03-15 10:17:09,Unknown malware,url,https://greatsorors.digital/script.sh,#ClickFix,https://threatfox.abuse.ch/ioc/1766889/
-2026-03-14 23:01:51,Unknown malware,url,https://greenlizard.lol/auth?xc=894884,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766605/
-2026-03-14 22:37:35,Unknown malware,url,https://gunbygunz.lat/auth?xc=894610,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766560/
-2026-03-14 22:39:04,Unknown malware,url,https://idos.lat/auth?xc=894622,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766563/
+2026-03-15 19:49:47,Unknown malware,url,https://groundinvest.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767324/
+2026-03-15 19:50:06,Unknown malware,url,https://guasaveguia.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767325/
 2026-03-15 16:27:10,Unknown malware,url,https://idos.today/auth?xc=995345,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767114/
-2026-03-14 23:10:22,Unknown malware,url,https://judp.cc/auth?xc=905105,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766634/
-2026-03-14 22:40:14,Unknown malware,url,https://kichlanalivee.com/auth?xc=894648,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766565/
-2026-03-14 23:12:07,Unknown malware,url,https://knopkabablo.lol/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766638/
-2026-03-14 23:12:28,Unknown malware,url,https://knopkabablo.lol/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766639/
-2026-03-14 23:11:47,Unknown malware,url,https://knopkabablo.lol/api/visit,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766637/
-2026-03-14 23:45:04,Unknown malware,url,https://lenaganci.network/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766675/
-2026-03-14 23:45:48,Unknown malware,url,https://lenaganci.network/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766677/
-2026-03-14 23:45:24,Unknown malware,url,https://lenaganci.network/api/visit,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766676/
-2026-03-14 22:23:08,Unknown malware,url,https://limitlless.com/auth?xc=894105,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766535/
+2026-03-15 23:26:11,Unknown malware,url,https://ins0mnia.ru,#Insomnia - Web Panel,https://threatfox.abuse.ch/ioc/1767547/
+2026-03-15 19:54:30,Unknown malware,url,https://institutogeraldeprofissoes.site,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767348/
+2026-03-15 19:56:03,Unknown malware,url,https://jessielaurencestudio.1111webstaging.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767353/
 2026-03-15 15:47:44,Unknown malware,url,https://lobstercoin.digital/auth?xc=994548,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767056/
-2026-03-14 23:24:17,Unknown malware,url,https://maestroandperunamoneymoney.lol/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766655/
-2026-03-14 23:24:39,Unknown malware,url,https://maestroandperunamoneymoney.lol/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766656/
-2026-03-14 23:09:29,Unknown malware,url,https://markkacy.lol/auth?xc=902987,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766631/
-2026-03-14 21:14:12,Unknown malware,url,https://mirabelsol.lol/auth?xc=867769,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766496/
-2026-03-14 22:32:33,Unknown malware,url,https://mogonsol.lat/auth?xc=894491,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766549/
-2026-03-14 19:09:49,Unknown malware,url,https://mytaxclientcopy.com/xlab22.hta,,https://threatfox.abuse.ch/ioc/1766428/
-2026-03-14 20:56:24,Unknown malware,url,https://nanaonsol.lol/auth?xc=867486,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766481/
-2026-03-14 21:02:57,Unknown malware,url,https://nasacoin.lat/auth?xc=867620,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766484/
+2026-03-15 19:56:25,Unknown malware,url,https://mbswindows.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767354/
+2026-03-15 19:52:44,Unknown malware,url,https://mimoza-store.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767344/
+2026-03-15 21:41:10,IClickFix,url,https://mvjfkakfkfkaiai.com/dasgggg.js,#ClickFix #IClickFix,https://threatfox.abuse.ch/ioc/1767400/
 2026-03-15 16:31:56,Unknown malware,url,https://nexira.digital/auth?xc=995402,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767119/
-2026-03-14 21:05:19,Unknown malware,url,https://oillessonsol.lol/auth?xc=867646,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766487/
-2026-03-15 16:33:07,Emmenhtal,url,https://omznov.ru/?u=fn7ko3vzru32lh22ax2g3cq,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1767122/
-2026-03-15 16:33:04,Emmenhtal,url,https://omznov.ru/?u=icxyz2gbcjzbtvsvmjnkmfy,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1767121/
-2026-03-15 16:33:09,Emmenhtal,url,https://onboard.pr.business/?u=dcc5dsxdvjafvu66qxkxqji,#html-smuggling #spamtrap,https://threatfox.abuse.ch/ioc/1767123/
-2026-03-14 22:41:19,Unknown malware,url,https://onehotelequities.com/auth?xc=894671,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766567/
+2026-03-15 19:52:09,Vidar,url,https://nlf.rongtv.xyz/,#Vidar,https://threatfox.abuse.ch/ioc/1767333/
+2026-03-15 19:52:10,Vidar,url,https://nlf.ssffaa19.xyz/,#Vidar,https://threatfox.abuse.ch/ioc/1767334/
+2026-03-15 21:49:08,IClickFix,url,https://ofaskfaksfmtjmka.com/otoaskjsk.js,#ClickFix #IClickFix,https://threatfox.abuse.ch/ioc/1767405/
+2026-03-15 18:56:25,IClickFix,url,https://ofofoalalaladjrkrka.com/asgxcvxcv.js,#ClickFix #IClickFix,https://threatfox.abuse.ch/ioc/1767243/
 2026-03-15 16:47:29,Unknown malware,url,https://onepiece.digital/auth?xc=1001797,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767143/
-2026-03-14 22:56:40,Unknown malware,url,https://opgmoneylootg.lol/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766595/
-2026-03-14 22:57:07,Unknown malware,url,https://opgmoneylootg.lol/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766597/
-2026-03-14 22:55:57,Unknown malware,url,https://opgmoneylootg.lol/api/visit,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766593/
 2026-03-15 16:31:00,Unknown malware,url,https://pheximloadv1-cc.t3.storage.dev/index.html?AGJyPd8Ry3GkfAU0JJ44cAJG%KuVLRJf1LZL3DzmTlvU8DL%1XOIaEa9DX=6vB6Mwla_EjBugyjk8GX8e5Rox34H3K25WHDlgpKj-1ucFflsioMsqhNnuWOaNKEk1dBT,#ClickFix,https://clickfix.carsonww.com/domains/pheximloadv1-cc.t3.storage.dev
+2026-03-15 19:50:24,Unknown malware,url,https://polysilicon-sa.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767326/
 2026-03-15 16:41:37,Unknown malware,url,https://portal-idos.network/auth?xc=1001686,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767136/
-2026-03-14 22:34:34,Unknown malware,url,https://publicsale-toby.lat/auth?xc=894522,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766555/
 2026-03-15 15:43:55,Unknown malware,url,https://punchcoin.life/auth?xc=994489,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767051/
 2026-03-15 15:42:47,Unknown malware,url,https://punchtoken.digital/auth?xc=994475,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767049/
-2026-03-14 23:22:06,Unknown malware,url,https://ribkamnetwork.lol/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766651/
-2026-03-14 23:22:30,Unknown malware,url,https://ribkamnetwork.lol/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766652/
-2026-03-14 23:21:42,Unknown malware,url,https://ribkamnetwork.lol/api/visit,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766650/
+2026-03-15 19:52:10,Vidar,url,https://red.rvoox.com/,#Vidar,https://threatfox.abuse.ch/ioc/1767335/
+2026-03-15 19:52:10,Vidar,url,https://red.ssffaa1.xyz/,#Vidar,https://threatfox.abuse.ch/ioc/1767336/
+2026-03-15 19:54:51,Unknown malware,url,https://redlacipj.org,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767349/
+2026-03-15 19:50:52,Unknown malware,url,https://resknowbd.org,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767327/
+2026-03-15 17:30:47,Unknown malware,url,https://rewardgoldshop.com/q/,#ClickFix,https://threatfox.abuse.ch/ioc/1767187/
+2026-03-15 17:31:08,Unknown malware,url,https://rewardgoldshop.com/work.zip,#ClickFix #payload,https://threatfox.abuse.ch/ioc/1767189/
 2026-03-15 15:39:29,Unknown malware,url,https://sandwatch.run/auth?xc=994435,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767046/
 2026-03-15 08:19:32,AsyncRAT,url,https://selot.jp.net/,#asyncrat #c2,https://threatfox.abuse.ch/ioc/1766861/
 2026-03-15 16:36:28,Unknown malware,url,https://shadenetwork.live/auth?xc=998988,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767129/
 2026-03-15 16:37:34,Unknown malware,url,https://shadenetwork.run/auth?xc=999768,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767131/
-2026-03-14 21:22:18,Unknown malware,url,https://siricoin.lat/auth?xc=867947,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766507/
+2026-03-15 19:53:10,Unknown malware,url,https://singhvinaynepaltour.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767345/
+2026-03-16 06:32:56,Unknown malware,url,https://slotmachinesgroup.com/,#ClickFix,https://clickfix.carsonww.com/domains/slotmachinesgroup.com
 2026-03-15 15:49:02,Unknown malware,url,https://solsol.life/auth?xc=994584,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767058/
 2026-03-15 16:44:16,Unknown malware,url,https://solwhitehouse.digital/auth?xc=1001768,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767140/
 2026-03-15 16:39:13,Unknown malware,url,https://stormrae.digital/auth?xc=1001374,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767133/
-2026-03-14 23:39:14,Unknown malware,url,https://stormrae.run/auth?xc=920381,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766665/
 2026-03-15 16:05:08,Unknown malware,url,https://stormrae.world/auth?xc=994869,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767084/
-2026-03-14 23:02:42,Unknown malware,url,https://sugeetoken.lat/auth?xc=894895,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766607/
-2026-03-14 21:11:53,Unknown malware,url,https://temucoin.lat/auth?xc=867743,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766494/
-2026-03-14 22:53:18,Unknown malware,url,https://thelobstercoin.lol/auth?xc=894799,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766589/
-2026-03-14 22:54:56,Unknown malware,url,https://trillioniare.lol/auth?xc=894825,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766591/
-2026-03-14 22:36:01,Unknown malware,url,https://tstsol.lol/auth?xc=894584,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766557/
+2026-03-15 19:55:10,Unknown malware,url,https://tabarukatonline.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767350/
+2026-03-16 06:55:56,Unknown malware,url,https://tabbysbakescodes.ws/CNB/gate.php,,https://bazaar.abuse.ch/sample/e44250c76f444640ca1e8360ee8fb9e80dec183555b620a46d16e78f53557aba/
+2026-03-15 19:56:57,Unknown malware,url,https://travely.mn,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1767355/
 2026-03-15 16:48:58,Unknown malware,url,https://usoil.life/auth?xc=1001858,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767145/
 2026-03-15 16:35:13,Unknown malware,url,https://usoronsol.digital/auth?xc=997335,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767127/
-2026-03-14 19:26:34,Unknown malware,url,https://virtual-cdncloud.sbs/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1766437/
-2026-03-15 06:44:11,Unknown malware,url,https://virtual-cdncloud.sbs/api/index.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1766467/
-2026-03-14 18:59:36,Unknown malware,url,https://vn.hugo-lapp.co/,,https://bazaar.abuse.ch/sample/93830d73ddf9665ae4d5665f1cebabd093646ed54356662e1b2a925bc2df681b/
-2026-03-14 21:08:13,Unknown malware,url,https://warcoin.bet/auth?xc=867681,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766489/
+2026-03-15 23:27:49,Unknown malware,url,https://voidstealer.net,#VoidStealer - Web Panel,https://threatfox.abuse.ch/ioc/1767550/
 2026-03-15 16:20:39,Unknown malware,url,https://warcoin.life/auth?xc=995269,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767104/
 2026-03-15 16:14:08,Unknown malware,url,https://warcoinsol.digital/auth?xc=995059,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767099/
 2026-03-15 16:12:59,Unknown malware,url,https://warcoinsol.life/auth?xc=995023,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767097/
@@ -158,9 +120,8 @@
 2026-03-15 16:07:26,Unknown malware,url,https://waronusd1.run/auth?xc=994911,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767088/
 2026-03-15 16:23:49,Unknown malware,url,https://waronusd1.world/auth?xc=995324,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767110/
 2026-03-15 15:45:48,Unknown malware,url,https://wartoken.world/auth?xc=994503,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767053/
-2026-03-15 06:49:01,BEARDSHELL,url,https://wellnessmedcare.org/buch/Favorites/document.doc.LnK,#APT28 #CVE-2026-21509 #Operation_Neusploit #WebDav,https://www.zscaler.com/blogs/security-research/operation-neusploit
+2026-03-15 19:17:52,IClickFix,url,https://www.skilledprofessionals.guru/wp-blog-footer.php?page=,#ClickFix #IClickFix,https://threatfox.abuse.ch/ioc/1767250/
 2026-03-15 16:10:47,Unknown malware,url,https://x-money.run/auth?xc=994959,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767093/
 2026-03-15 16:11:53,Unknown malware,url,https://xmoneycoin.world/auth?xc=995002,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767095/
 2026-03-15 08:19:32,AsyncRAT,url,https://xn--gmq90amm486bwinn5dqrt.jp.net/,#asyncrat #c2,https://threatfox.abuse.ch/ioc/1766862/
 2026-03-15 15:50:47,Unknown malware,url,https://xpdcoin.digital/auth?xc=994626,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1767062/
-2026-03-14 21:10:01,Unknown malware,url,https://xpdcoin.lat/auth?xc=867709,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1766492/
