@@ -258,6 +258,14 @@
 2026-03-17 21:35:54,Unknown malware,url,http://138.124.62.131/y2.txt,#ClickFix,https://threatfox.abuse.ch/ioc/1769757/
 2026-03-18 04:56:00,Mozi,url,http://139.218.43.94:34571/i,#Mozi,https://threatfox.abuse.ch/ioc/1770127/
 2026-03-18 04:56:23,Mozi,url,http://14.102.189.203:46632/i,#Mozi,https://threatfox.abuse.ch/ioc/1770343/
+2026-03-18 08:43:26,GCleaner,url,http://158.94.209.95/content,#GCleaner,https://threatfox.abuse.ch/ioc/1770620/
+2026-03-18 08:43:26,GCleaner,url,http://158.94.209.95/dll,#GCleaner,https://threatfox.abuse.ch/ioc/1770618/
+2026-03-18 08:43:26,GCleaner,url,http://158.94.209.95/good,#GCleaner,https://threatfox.abuse.ch/ioc/1770619/
+2026-03-18 08:43:25,GCleaner,url,http://158.94.209.95/info,#GCleaner,https://threatfox.abuse.ch/ioc/1770617/
+2026-03-18 08:43:25,GCleaner,url,http://158.94.209.95/service,#GCleaner,https://threatfox.abuse.ch/ioc/1770615/
+2026-03-18 08:43:25,GCleaner,url,http://158.94.209.95/success,#GCleaner,https://threatfox.abuse.ch/ioc/1770614/
+2026-03-18 08:43:25,GCleaner,url,http://158.94.209.95/update,#GCleaner,https://threatfox.abuse.ch/ioc/1770616/
+2026-03-18 10:14:32,Phorpiex,url,http://158.94.211.162/sodal,#Download #phorpiex,https://threatfox.abuse.ch/ioc/1770662/
 2026-03-18 04:56:11,Mozi,url,http://163.142.93.150:37596/i,#Mozi,https://threatfox.abuse.ch/ioc/1770224/
 2026-03-18 05:01:42,Mozi,url,http://163.142.95.53:47005/bin.sh,,https://threatfox.abuse.ch/ioc/1770484/
 2026-03-18 04:56:34,Mozi,url,http://166.48.94.241:50758/i,#Mozi,https://threatfox.abuse.ch/ioc/1770459/
@@ -281,7 +289,6 @@
 2026-03-18 04:56:06,Mozi,url,http://175.175.129.238:49051/i,#Mozi,https://threatfox.abuse.ch/ioc/1770177/
 2026-03-18 04:55:52,Mozi,url,http://175.175.54.85:36121/i,#Mozi,https://threatfox.abuse.ch/ioc/1770048/
 2026-03-18 04:55:47,Mozi,url,http://175.23.69.144:33671/i,#Mozi,https://threatfox.abuse.ch/ioc/1770004/
-2026-03-17 15:37:57,Stealc,url,http://176.65.132.97/4443b13326064ef29918.php,#dropped-by-amadey #Stealc,https://bazaar.abuse.ch/sample/81ddacc1d4689616b993f34465cb372e6046c035b45a4831343bd55ed37d48ee/
 2026-03-18 04:56:17,Mozi,url,http://177.39.122.214:59304/i,#Mozi,https://threatfox.abuse.ch/ioc/1770287/
 2026-03-18 04:55:58,Mozi,url,http://178.141.146.90:56867/i,#Mozi,https://threatfox.abuse.ch/ioc/1770111/
 2026-03-18 04:56:18,Mozi,url,http://178.141.178.46:52749/i,#Mozi,https://threatfox.abuse.ch/ioc/1770292/
@@ -338,6 +345,7 @@
 2026-03-18 04:55:57,Mozi,url,http://182.240.3.9:43335/i,#Mozi,https://threatfox.abuse.ch/ioc/1770103/
 2026-03-18 04:56:17,Mozi,url,http://182.242.66.130:40151/i,#Mozi,https://threatfox.abuse.ch/ioc/1770285/
 2026-03-18 04:56:16,Mozi,url,http://183.128.66.77:34459/i,#Mozi,https://threatfox.abuse.ch/ioc/1770273/
+2026-03-18 08:57:27,Unknown malware,url,http://185.242.245.69:5000/DForecast/p2/4bb285d29582485c8b48e257d6b58e9a,#ClickFix,https://threatfox.abuse.ch/ioc/1770625/
 2026-03-18 04:55:48,Mozi,url,http://188.149.206.91:48117/i,#Mozi,https://threatfox.abuse.ch/ioc/1770007/
 2026-03-18 04:55:59,Mozi,url,http://188.150.21.103:54253/i,#Mozi,https://threatfox.abuse.ch/ioc/1770122/
 2026-03-18 04:55:55,Mozi,url,http://188.150.45.193:45464/i,#Mozi,https://threatfox.abuse.ch/ioc/1770078/
@@ -358,6 +366,7 @@
 2026-03-18 04:55:50,Mozi,url,http://202.141.43.91:58602/i,#Mozi,https://threatfox.abuse.ch/ioc/1770035/
 2026-03-18 04:56:32,Mozi,url,http://203.177.237.148:7001/i,#Mozi,https://threatfox.abuse.ch/ioc/1770436/
 2026-03-18 04:56:22,Mozi,url,http://211.158.162.238:60941/i,#Mozi,https://threatfox.abuse.ch/ioc/1770338/
+2026-03-18 12:01:35,Stealc,url,http://213.176.73.136,#AS207957 #c2 #Stealc #stealer #triage,https://tria.ge/260318-ngjdesgz6t
 2026-03-18 04:56:23,Mozi,url,http://216.126.86.105:49993/i,#Mozi,https://threatfox.abuse.ch/ioc/1770344/
 2026-03-18 04:55:45,Mozi,url,http://216.247.208.231:3120/i,#Mozi,https://threatfox.abuse.ch/ioc/1769981/
 2026-03-18 04:55:50,Mozi,url,http://217.209.57.38:43481/i,#Mozi,https://threatfox.abuse.ch/ioc/1770026/
@@ -473,6 +482,9 @@
 2026-03-17 18:01:51,Stealc,url,http://45.131.214.233,#AS60781 #c2 #Stealc #stealer #triage,https://tria.ge/260317-tyvqnsaw2v
 2026-03-18 04:56:19,Mozi,url,http://45.180.84.90:44168/i,#Mozi,https://threatfox.abuse.ch/ioc/1770299/
 2026-03-18 04:55:47,Mozi,url,http://45.185.93.188:47912/i,#Mozi,https://threatfox.abuse.ch/ioc/1770006/
+2026-03-18 17:39:49,SocksProxyGo,url,http://45.76.21.42/3/3,#GOST #reverse-proxy #tunnel,https://threatfox.abuse.ch/ioc/1770907/
+2026-03-18 17:39:50,SocksProxyGo,url,http://45.76.21.42/index.js,#GOST #Node.js #reverse-proxy #tunnel #Websocket,https://threatfox.abuse.ch/ioc/1770905/
+2026-03-18 17:39:49,SocksProxyGo,url,http://45.76.21.42/svchost.exe,#GOST #reverse-proxy #svchost #tunnel,https://threatfox.abuse.ch/ioc/1770906/
 2026-03-18 04:55:58,Mozi,url,http://46.163.181.104:47481/i,#Mozi,https://threatfox.abuse.ch/ioc/1770109/
 2026-03-18 04:55:49,Mozi,url,http://46.163.184.136:34454/i,#Mozi,https://threatfox.abuse.ch/ioc/1770025/
 2026-03-18 04:55:55,Mozi,url,http://58.23.178.174:58815/i,#Mozi,https://threatfox.abuse.ch/ioc/1770082/
@@ -519,6 +531,7 @@
 2026-03-18 04:55:46,Mozi,url,http://83.233.204.183:55369/i,#Mozi,https://threatfox.abuse.ch/ioc/1769994/
 2026-03-18 04:55:57,Mozi,url,http://85.12.192.249:58322/i,#Mozi,https://threatfox.abuse.ch/ioc/1770095/
 2026-03-18 04:56:11,Mozi,url,http://85.12.205.35:50273/i,#Mozi,https://threatfox.abuse.ch/ioc/1770226/
+2026-03-18 09:10:37,Cobalt Strike,url,http://85.121.148.88:42871/kunkun/jquery-3.3.1.min.js,#CobaltStrike,https://bazaar.abuse.ch/sample/7b9778ed8559d714a26fc42c12a297658c8441ee790377944caa7d2d2eee06a1/
 2026-03-18 04:55:46,Mozi,url,http://85.15.110.240:46549/i,#Mozi,https://threatfox.abuse.ch/ioc/1769989/
 2026-03-18 04:55:45,Mozi,url,http://85.226.212.168:59318/i,#Mozi,https://threatfox.abuse.ch/ioc/1769979/
 2026-03-18 05:01:44,Mozi,url,http://87.110.15.80:49178/bin.sh,,https://threatfox.abuse.ch/ioc/1770496/
@@ -527,6 +540,7 @@
 2026-03-18 04:55:54,Mozi,url,http://88.84.222.217:29218/i,#Mozi,https://threatfox.abuse.ch/ioc/1770070/
 2026-03-18 04:55:46,Mozi,url,http://88.88.147.173:4472/i,#Mozi,https://threatfox.abuse.ch/ioc/1769993/
 2026-03-18 04:55:45,Mozi,url,http://89.10.237.211:2583/i,#Mozi,https://threatfox.abuse.ch/ioc/1769983/
+2026-03-18 11:37:51,SmartLoader,url,http://89.169.12.241/api/NTE3YjdjNWU1NjYzNjU2YTA1N2Y=,#SmartLoader,https://threatfox.abuse.ch/ioc/1770716/
 2026-03-18 04:55:59,Mozi,url,http://90.227.85.74:33976/i,#Mozi,https://threatfox.abuse.ch/ioc/1770119/
 2026-03-18 04:55:46,Mozi,url,http://90.228.239.131:41428/i,#Mozi,https://threatfox.abuse.ch/ioc/1769995/
 2026-03-18 04:55:54,Mozi,url,http://91.130.20.7:59134/i,#Mozi,https://threatfox.abuse.ch/ioc/1770068/
@@ -534,32 +548,7 @@
 2026-03-18 04:56:33,Mozi,url,http://93.208.166.69:41687/i,#Mozi,https://threatfox.abuse.ch/ioc/1770446/
 2026-03-18 04:55:49,Mozi,url,http://95.155.243.196:38537/i,#Mozi,https://threatfox.abuse.ch/ioc/1770018/
 2026-03-18 04:55:51,Mozi,url,http://95.56.232.109:39091/i,#Mozi,https://threatfox.abuse.ch/ioc/1770042/
-2026-03-17 07:36:05,Stealc,url,http://98.142.251.94/1af294eb367a4795.php,#Steal,https://threatfox.abuse.ch/ioc/1769082/
-2026-03-17 09:46:02,Stealc,url,http://adriaenclaeys.top/412a0310f85f16ad/freebl3.dll,#Stealc,https://threatfox.abuse.ch/ioc/1769195/
-2026-03-17 09:46:03,Stealc,url,http://adriaenclaeys.top/412a0310f85f16ad/mozglue.dll,#Stealc,https://threatfox.abuse.ch/ioc/1769196/
-2026-03-17 09:46:03,Stealc,url,http://adriaenclaeys.top/412a0310f85f16ad/msvcp140.dll,#Stealc,https://threatfox.abuse.ch/ioc/1769197/
-2026-03-17 09:46:03,Stealc,url,http://adriaenclaeys.top/412a0310f85f16ad/nss3.dll,#Stealc,https://threatfox.abuse.ch/ioc/1769198/
-2026-03-17 09:46:03,Stealc,url,http://adriaenclaeys.top/412a0310f85f16ad/softokn3.dll,#Stealc,https://threatfox.abuse.ch/ioc/1769199/
-2026-03-17 09:46:03,Stealc,url,http://adriaenclaeys.top/412a0310f85f16ad/sqlite3.dll,#Stealc,https://threatfox.abuse.ch/ioc/1769200/
-2026-03-17 09:46:03,Stealc,url,http://adriaenclaeys.top/412a0310f85f16ad/vcruntime140.dll,#Stealc,https://threatfox.abuse.ch/ioc/1769201/
-2026-03-17 09:42:40,Kimsuky,url,http://at.ndociverify.dns.army/,#c2 #kimsuky #URLscan,https://urlscan.io/result/019cfb2d-0f33-71cb-b658-f349cd61cfbb
-2026-03-17 08:30:29,Unknown malware,url,http://bkng-updt.com/7z.dll,#booking.com #ClickFix,https://threatfox.abuse.ch/ioc/1769127/
-2026-03-17 08:30:03,Unknown malware,url,http://bkng-updt.com/7z.exe,#booking.com #ClickFix,https://threatfox.abuse.ch/ioc/1769126/
-2026-03-17 08:28:51,Unknown malware,url,http://bkng-updt.com/at.7z,#booking.com #ClickFix #NetSupport RAT,https://threatfox.abuse.ch/ioc/1769124/
-2026-03-17 08:29:27,Unknown malware,url,http://bkng-updt.com/lnk.7z,#booking.com #ClickFix,https://threatfox.abuse.ch/ioc/1769125/
-2026-03-17 08:26:56,Unknown malware,url,http://bkng-updt.com/pl.php,#booking.com #ClickFix #powershell,https://threatfox.abuse.ch/ioc/1769123/
-2026-03-17 09:46:03,Stealc,url,http://bryanzachary.top/412a0310f85f16ad/freebl3.dll,#Stealc,https://threatfox.abuse.ch/ioc/1769202/
-2026-03-17 09:46:03,Stealc,url,http://bryanzachary.top/412a0310f85f16ad/mozglue.dll,#Stealc,https://threatfox.abuse.ch/ioc/1769203/
-2026-03-17 09:46:04,Stealc,url,http://bryanzachary.top/412a0310f85f16ad/msvcp140.dll,#Stealc,https://threatfox.abuse.ch/ioc/1769204/
-2026-03-17 09:46:04,Stealc,url,http://bryanzachary.top/412a0310f85f16ad/nss3.dll,#Stealc,https://threatfox.abuse.ch/ioc/1769205/
-2026-03-17 09:46:04,Stealc,url,http://bryanzachary.top/412a0310f85f16ad/softokn3.dll,#Stealc,https://threatfox.abuse.ch/ioc/1769206/
-2026-03-17 09:46:04,Stealc,url,http://bryanzachary.top/412a0310f85f16ad/sqlite3.dll,#Stealc,https://threatfox.abuse.ch/ioc/1769207/
-2026-03-17 09:46:04,Stealc,url,http://bryanzachary.top/412a0310f85f16ad/vcruntime140.dll,#Stealc,https://threatfox.abuse.ch/ioc/1769208/
-2026-03-17 09:42:38,Kimsuky,url,http://ct.ndoc-verify.dns.army/,#c2 #kimsuky #URLscan,https://urlscan.io/result/019cfb2d-06d7-70a5-8690-cac0784afa05
-2026-03-17 09:42:42,Kimsuky,url,http://dt.ndoc-verify.dns.army/,#c2 #kimsuky #URLscan,https://urlscan.io/result/019cfb2d-15c7-716d-a527-0a91e23b5164
-2026-03-17 09:42:41,Kimsuky,url,http://ndocs0mai1.dns.army/,#c2 #kimsuky #URLscan,https://urlscan.io/result/019cfb2d-1369-73f8-a0da-f35832feb30f
-2026-03-17 09:42:39,Kimsuky,url,http://ndocverify.dns.army/,#c2 #kimsuky #URLscan,https://urlscan.io/result/019cfb2d-0afd-75e6-b731-e58edb5b333b
-2026-03-17 09:42:37,Kimsuky,url,http://oc9bk.dynv6.net/,#c2 #kimsuky #URLscan,https://urlscan.io/result/019cfb2d-031d-778d-9945-6b7d3532b226
+2026-03-18 09:10:39,Cobalt Strike,url,http://wwwsec.top:443/jquery-3.3.1.min.js,#CobaltStrike,https://bazaar.abuse.ch/sample/36154900a5d00096595167edc83315a29646f7db240af5abdbe27ae872833f37/
 2026-03-17 22:52:32,Viper RAT,url,https://101.201.53.137:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769813/
 2026-03-17 22:15:29,Viper RAT,url,https://101.34.222.38:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769766/
 2026-03-17 22:15:29,Viper RAT,url,https://101.43.25.21:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769767/
@@ -590,8 +579,10 @@
 2026-03-17 22:52:34,Viper RAT,url,https://124.220.77.21:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769827/
 2026-03-17 22:15:31,Viper RAT,url,https://124.221.221.58:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769778/
 2026-03-17 22:52:34,Viper RAT,url,https://124.222.218.20:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769828/
+2026-03-18 09:10:46,Vidar,url,https://136.243.116.63,#Vidar,https://bazaar.abuse.ch/sample/9be708d6a2bd1c2523d3cdc119bc075d689db9f3ced7d248f58d524318511e4d/
 2026-03-17 22:15:31,Viper RAT,url,https://14.116.159.128:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769779/
 2026-03-17 22:15:31,Viper RAT,url,https://152.70.102.123:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769780/
+2026-03-18 09:10:48,Vidar,url,https://162.55.49.190,#Vidar,https://bazaar.abuse.ch/sample/5c3b8289aae8beeda82671ef5e1259debbd0aa5dcf2010fba8f5bbe4a5e32d90/
 2026-03-17 22:15:31,Viper RAT,url,https://180.101.25.48:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769781/
 2026-03-17 22:52:34,Viper RAT,url,https://182.92.113.13:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769829/
 2026-03-17 22:52:34,Viper RAT,url,https://192.144.211.249:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769830/
@@ -621,8 +612,8 @@
 2026-03-17 22:15:33,Viper RAT,url,https://47.94.168.231:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769791/
 2026-03-17 22:15:33,Viper RAT,url,https://47.95.39.96:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769792/
 2026-03-17 22:15:33,Viper RAT,url,https://49.235.113.177:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769793/
-2026-03-17 12:04:52,Rhadamanthys,url,https://5.35.34.193:5652/7754ab51414cb150c84e1ad/7k9siq3x.0t5n6,#AS216071 #c2 #Rhadamanthys #stealer #triage,https://tria.ge/260317-mrx4wsgz3m
 2026-03-17 22:52:36,Viper RAT,url,https://59.110.18.85:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769845/
+2026-03-18 07:54:42,Vidar,url,https://74.0.32.184/,#Vidar,https://threatfox.abuse.ch/ioc/1770567/
 2026-03-17 22:15:33,Viper RAT,url,https://8.134.108.73:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769794/
 2026-03-17 22:52:37,Viper RAT,url,https://8.134.119.97:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769846/
 2026-03-17 22:15:33,Viper RAT,url,https://8.138.179.29:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769795/
@@ -632,56 +623,62 @@
 2026-03-17 22:15:34,Viper RAT,url,https://82.156.166.227:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769797/
 2026-03-17 22:52:37,Viper RAT,url,https://82.157.6.98:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769849/
 2026-03-17 22:15:34,Viper RAT,url,https://83.229.121.234:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769798/
-2026-03-17 13:14:41,KongTuke,url,https://FlatheadCat.com/js.php,#Kongtuke,https://infosec.exchange/@monitorsg/116244681326734878
+2026-03-18 17:39:51,KongTuke,url,https://afshapiro.com/search,#Kongtuke,https://infosec.exchange/@monitorsg/116251048584567355
 2026-03-18 06:34:19,WSO,url,https://allhere.biz/bcse/bcse.php,#c2 #credential-harvesting #phishing #php-stealer #RU,https://www.virustotal.com/gui/url/08ba73e29cc43499fb6363229c0748f09b806db350e827008fdce6ebf7b645ac
-2026-03-17 11:49:58,Unknown malware,url,https://api-proxy.mersiblagodarutebya.workers.dev/api/?a=v&t=,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769246/
-2026-03-17 11:45:31,Unknown malware,url,https://api-proxy.mersiblagodarutebya.workers.dev/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769244/
-2026-03-17 11:45:58,Unknown malware,url,https://api-proxy.mersiblagodarutebya.workers.dev/api/index.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769245/
-2026-03-17 07:50:57,Vidar,url,https://apt.rvoox.com/,#Vidar,https://threatfox.abuse.ch/ioc/1769089/
-2026-03-17 07:50:57,Vidar,url,https://apt.ssffaa1.xyz/,#Vidar,https://threatfox.abuse.ch/ioc/1769090/
-2026-03-17 08:51:14,Unknown malware,url,https://auth-in-extranet.com,#booking.com #ClickFix,https://threatfox.abuse.ch/ioc/1769138/
-2026-03-17 12:40:41,Unknown malware,url,https://bigsmart.beer/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769277/
+2026-03-18 10:13:48,Unknown malware,url,https://api.weatherchecker.live/socket.io/,,https://bazaar.abuse.ch/sample/dabfd4c52271a9324f773dda53ed70f1117da979e20d152479b9e8815729a48e/
+2026-03-18 10:13:48,Unknown malware,url,https://api.weatherchecker.live/verify/build-1,,https://bazaar.abuse.ch/sample/dabfd4c52271a9324f773dda53ed70f1117da979e20d152479b9e8815729a48e/
+2026-03-18 15:35:59,Unknown malware,url,https://artiststeams.lat/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770818/
+2026-03-18 15:37:00,Unknown malware,url,https://artiststeams.lat/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770820/
+2026-03-18 15:36:21,Unknown malware,url,https://artiststeams.lat/api/visit,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770819/
+2026-03-18 15:41:45,Unknown malware,url,https://bratyanetwork.run/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770829/
+2026-03-18 15:42:08,Unknown malware,url,https://bratyanetwork.run/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770830/
+2026-03-18 15:41:24,Unknown malware,url,https://bratyanetwork.run/api/visit,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770828/
+2026-03-18 07:44:15,Unknown malware,url,https://cdn-yethounds.beer/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1770556/
 2026-03-18 06:36:23,SantaStealer,url,https://corvus-infra.cc/,#SantaStealer,https://bazaar.abuse.ch/sample/61c701e0103188878a6f0f9e4cf2adeea73c4824bcd16ec361f7879203cf2498/
-2026-03-17 12:26:58,Unknown malware,url,https://developerstation.live/q/,#ClickFix #powershell,https://threatfox.abuse.ch/ioc/1769270/
-2026-03-17 12:27:24,Unknown malware,url,https://developerstation.live/work.zip,#ClickFix #payload,https://threatfox.abuse.ch/ioc/1769271/
-2026-03-17 07:50:56,Vidar,url,https://fii.rvoox.com/,#Vidar,https://threatfox.abuse.ch/ioc/1769087/
-2026-03-17 07:50:57,Vidar,url,https://fii.ssffaa1.xyz/,#Vidar,https://threatfox.abuse.ch/ioc/1769088/
-2026-03-17 13:14:43,KongTuke,url,https://flatheadcat.com/7s99.js,#Kongtuke,https://infosec.exchange/@monitorsg/116244681326734878
-2026-03-17 15:18:00,SmartApeSG,url,https://fosaqopr.com/dashboard/metrics,#SmartApeSG,https://infosec.exchange/@monitorsg/116244906515281162
-2026-03-17 09:42:50,Vidar,url,https://ghumbuy.com/,#c2 #URLscan #Vidar,https://urlscan.io/result/019cfb2d-35f7-751b-a842-db771159ae76
+2026-03-18 07:54:41,Vidar,url,https://dnf.shuvocomputer.org/,#Vidar,https://threatfox.abuse.ch/ioc/1770563/
+2026-03-18 07:54:42,Vidar,url,https://dnf.ssffaa2.xyz/,#Vidar,https://threatfox.abuse.ch/ioc/1770564/
+2026-03-18 15:34:01,Unknown malware,url,https://fishtish.lat/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770813/
+2026-03-18 15:34:47,Unknown malware,url,https://fishtish.lat/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770815/
+2026-03-18 15:34:25,Unknown malware,url,https://fishtish.lat/api/visit,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770814/
 2026-03-18 06:34:32,MaskGramStealer,url,https://gist.githubusercontent.com/HexReaper/eec6869214d2b4e12bd606529128f8c2/raw/gistfile1.txt,#dead-drop #GitHub-Gist #Kortex #WallStealer,https://threatfox.abuse.ch/ioc/1769964/
 2026-03-17 22:15:34,Viper RAT,url,https://h5.erbg.ren:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769799/
 2026-03-18 06:34:31,MaskGramStealer,url,https://hydrax.live/download/HydraCheat.7.5.1.zip,#fake-cheat #Kortex #WallStealer,https://threatfox.abuse.ch/ioc/1769961/
-2026-03-17 09:42:49,Vidar,url,https://ins0mnia.ru/,#c2 #URLscan #Vidar,https://urlscan.io/result/019cfb2d-33b0-7527-b0a9-9ac722779f4b
 2026-03-17 22:37:51,Unknown malware,url,https://interpincafetr.com/configpack.zip,#ClickChain #ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769812/
 2026-03-17 22:35:41,Unknown malware,url,https://interpincafetr.com/data.php,#ClickChain #ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769807/
 2026-03-17 22:36:02,Unknown malware,url,https://interpincafetr.com/data.zip,#ClickChain #ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769808/
 2026-03-17 22:36:35,Unknown malware,url,https://interpincafetr.com/helpU.php,#ClickChain #ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769809/
 2026-03-17 22:37:14,Unknown malware,url,https://interpincafetr.com/server.php,#ClickChain #ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769811/
 2026-03-17 22:35:12,Unknown malware,url,https://interpincafetr.com/test.php,#ClickChain #ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769806/
-2026-03-17 12:22:06,Unknown malware,url,https://kentuckyfiredepartment.com/q/,#ClickFix #powershell,https://threatfox.abuse.ch/ioc/1769266/
-2026-03-17 12:22:35,Unknown malware,url,https://kentuckyfiredepartment.com/work.zip,#ClickFix #payload,https://threatfox.abuse.ch/ioc/1769267/
 2026-03-17 22:15:34,Viper RAT,url,https://lab.wangdun.cn:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769800/
-2026-03-17 14:31:09,Unknown malware,url,https://lcates-vs.beer/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769332/
-2026-03-17 08:04:25,Unknown malware,url,https://litespeedcachecdn.com/api/beacon,#ClickFix,https://threatfox.abuse.ch/ioc/1769111/
-2026-03-17 08:03:58,Unknown malware,url,https://litespeedcachecdn.com/api/get_payload?domain=,#ClickFix,https://threatfox.abuse.ch/ioc/1769110/
-2026-03-17 08:03:35,Unknown malware,url,https://litespeedcachecdn.com/verify?src=,#ClickFix,https://threatfox.abuse.ch/ioc/1769109/
-2026-03-17 12:39:23,Unknown malware,url,https://lstyle-sdn.sbs/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769275/
-2026-03-17 12:53:25,Unknown malware,url,https://lvlensourgat.sbs/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769282/
-2026-03-17 12:55:18,Unknown malware,url,https://networksolutionson.sbs/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769284/
-2026-03-17 13:14:41,KongTuke,url,https://obmlink.com/clients,#Kongtuke,https://infosec.exchange/@monitorsg/116244681326734878
-2026-03-17 16:15:53,KongTuke,url,https://obmlink.com/right,#Kongtuke,https://infosec.exchange/@monitorsg/116245373714794819
-2026-03-17 08:52:53,Unknown malware,url,https://signs-in-extranet.com,#booking.com #ClickFix,https://threatfox.abuse.ch/ioc/1769141/
-2026-03-17 08:06:24,Unknown malware,url,https://valhallaflwr.com/merry,#ClickFix #payload,https://threatfox.abuse.ch/ioc/1769114/
-2026-03-17 13:18:25,Unknown malware,url,https://vblbs.beer/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769300/
+2026-03-18 08:43:18,Unknown malware,url,https://onnabarabane.net/script.sh,#ClickFix #macOS,https://threatfox.abuse.ch/ioc/1770612/
+2026-03-18 15:32:30,Unknown malware,url,https://opgmoneyhoney.lol/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770810/
+2026-03-18 15:32:57,Unknown malware,url,https://opgmoneyhoney.lol/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770811/
+2026-03-18 15:32:08,Unknown malware,url,https://opgmoneyhoney.lol/api/visit,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770809/
+2026-03-18 10:10:35,Vidar,url,https://orhz.optiframe.pro,#drkfiz #Vidar,https://threatfox.abuse.ch/ioc/1770663/
+2026-03-18 14:07:19,SmartApeSG,url,https://otrypity.com/monitoring/ready,#SmartApeSG,https://infosec.exchange/@monitorsg/116250343610491624
+2026-03-18 13:10:53,Vidar,url,https://pkg.shuvocomputer.org/,#Vidar,https://threatfox.abuse.ch/ioc/1770760/
+2026-03-18 13:10:54,Vidar,url,https://pkg.ssffaa2.xyz/,#Vidar,https://threatfox.abuse.ch/ioc/1770761/
+2026-03-18 14:07:30,Lumma Stealer,url,https://postoconel.com/4ba0af68-0037-5f6e-afd1-64f89fc0f554/locs,#base64 #NSIS #python #stealer,https://threatfox.abuse.ch/ioc/1770752/
+2026-03-18 14:07:20,SmartApeSG,url,https://redsiout.top/beta/api-sandbox.php,#SmartApeSG,https://infosec.exchange/@monitorsg/116250343610491624
+2026-03-18 14:07:24,SmartApeSG,url,https://redsiout.top/beta/proxy-deploy.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116250343610491624
+2026-03-18 14:07:19,SmartApeSG,url,https://redsiout.top/beta/rate-css.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116250343610491624
+2026-03-18 15:38:39,Unknown malware,url,https://samuranetwork.lol/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770824/
+2026-03-18 15:39:02,Unknown malware,url,https://samuranetwork.lol/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770825/
+2026-03-18 15:38:14,Unknown malware,url,https://samuranetwork.lol/api/visit,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770823/
+2026-03-18 09:07:15,Unknown malware,url,https://securesslconnect.cfd/q/,#ClickFix #powershell,https://threatfox.abuse.ch/ioc/1770635/
+2026-03-18 09:07:55,Unknown malware,url,https://securesslconnect.cfd/work.zip,#ClickFix #payload,https://threatfox.abuse.ch/ioc/1770636/
+2026-03-18 15:43:39,Unknown malware,url,https://shamsikymnogodenegdaitev4.lol/api/config,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770833/
+2026-03-18 15:44:04,Unknown malware,url,https://shamsikymnogodenegdaitev4.lol/api/is-banned,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770834/
+2026-03-18 15:43:15,Unknown malware,url,https://shamsikymnogodenegdaitev4.lol/api/visit,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770832/
+2026-03-18 09:00:48,Unknown malware,url,https://shbtuyenson.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1770629/
+2026-03-18 09:21:11,Vidar,url,https://t.me/dazkzie,#Vidar,https://bazaar.abuse.ch/sample/95c469772c9b6b5b96bf12af5806fbe7ba60f36761c4d3bf844b19a9f8e60111/
+2026-03-18 09:02:50,Unknown malware,url,https://theperfumeguyqa.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1770631/
 2026-03-17 17:59:01,Unknown malware,url,https://verification-cdn-cloud.beer/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1769446/
-2026-03-17 08:51:46,Unknown malware,url,https://web-booking-extranet.com,#booking.com #ClickFix,https://threatfox.abuse.ch/ioc/1769139/
-2026-03-17 15:18:02,SmartApeSG,url,https://wedbrty.top/token/dashboard-header.php,#SmartApeSG,https://infosec.exchange/@monitorsg/116244906515281162
-2026-03-17 15:18:01,SmartApeSG,url,https://wedbrty.top/token/identity-response.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116244906515281162
+2026-03-18 14:07:26,KongTuke,url,https://voginc.com/58hgs.js,#Kongtuke,https://infosec.exchange/@monitorsg/116250340833324648
+2026-03-18 14:07:24,KongTuke,url,https://voginc.com/js.php,#Kongtuke,https://infosec.exchange/@monitorsg/116250340833324648
 2026-03-18 06:33:13,SmartApeSG,url,https://wedbrty.top/token/route-sandbox.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116245621800206799
 2026-03-17 21:33:55,Unknown malware,url,https://www.portaildocs.cloud/dropbox,#ClickFix,https://threatfox.abuse.ch/ioc/1769753/
 2026-03-17 21:34:24,Unknown malware,url,https://www.portaildocs.cloud/onedrive,#ClickFix,https://threatfox.abuse.ch/ioc/1769754/
-2026-03-17 12:07:44,IClickFix,url,https://www.seftugo.com/wp-blog-footer.php?data=,#ClickFix #IClickFix,https://threatfox.abuse.ch/ioc/1769261/
 2026-03-17 22:52:37,Viper RAT,url,https://www.zhouyuhang.xyz:60000,#ViperRAT,https://threatfox.abuse.ch/ioc/1769850/
-2026-03-17 13:30:03,Vidar,url,https://yum.shuvocomputer.org/,#Vidar,https://threatfox.abuse.ch/ioc/1769303/
-2026-03-17 13:30:04,Vidar,url,https://yum.ssffaa2.xyz/,#Vidar,https://threatfox.abuse.ch/ioc/1769304/
+2026-03-18 07:54:42,Vidar,url,https://yas.shuvocomputer.org/,#Vidar,https://threatfox.abuse.ch/ioc/1770565/
+2026-03-18 07:54:42,Vidar,url,https://yas.ssffaa2.xyz/,#Vidar,https://threatfox.abuse.ch/ioc/1770566/
