@@ -1,460 +1,421 @@
 2026-03-18 19:13:20,ClearFake,domain,04cbe3jm.fastbit.digital,#ClearFake,https://threatfox.abuse.ch/ioc/1771038/
-2026-03-18 11:18:37,ClearFake,domain,0txqgqkn.skyhub.digital,#ClearFake,https://threatfox.abuse.ch/ioc/1770711/
-2026-03-18 11:00:29,Quasar RAT,domain,1453.ydns.eu,#quasar,https://tria.ge/260318-l7663afy5s
+2026-03-19 17:08:59,Unknown malware,domain,0avxwqpqjtwkq21.3utilities.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,0avxwqpqjtwkq21.bounceme.net,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,0avxwqpqjtwkq21.cc,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:05,Unknown malware,domain,0avxwqpqjtwkq21.ddnsking.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,0avxwqpqjtwkq21.myftp.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:07,Unknown malware,domain,0avxwqpqjtwkq21.webhop.me,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 09:38:13,ClearFake,domain,0v6nu.tatneft.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771361/
+2026-03-19 10:11:43,ClearFake,domain,124vm6or.scrollnft.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771370/
+2026-03-19 08:02:47,ClearFake,domain,294asm.regwan.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771325/
+2026-03-19 17:09:07,Unknown malware,domain,29dpwljsel2h4tv.3utilities.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,29dpwljsel2h4tv.ddnsking.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,29dpwljsel2h4tv.hopto.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:03,Unknown malware,domain,29dpwljsel2h4tv.myftp.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:58,Unknown malware,domain,29dpwljuqt9ih4v.ddnsking.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,29dpwljuqt9ih4v.myftp.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:04,Unknown malware,domain,29dpwljuqt9ih4v.webhop.me,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,2nvweq9sk4l2o91.bounceme.net,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,2nvweq9sk4l2o91.cc,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:05,Unknown malware,domain,2nvweq9sk4l2o91.ddnsking.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,2nvweq9sk4l2o91.myftp.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,2nvweq9sk4l2o91.top,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,2nvweq9sk4l2o91.webhop.me,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:07,Unknown malware,domain,2nvweq9uqywio91.bounceme.net,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:01,Unknown malware,domain,2nvweq9uqywio91.cc,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:04,Unknown malware,domain,2nvweq9uqywio91.freedynamicdns.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,2nvweq9uqywio91.gotdns.ch,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,2nvweq9uqywio91.hopto.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,2qpw74fskf22qe1.3utilities.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,2qpw74fskf22qe1.bounceme.net,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,2qpw74fskf22qe1.cc,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:04,Unknown malware,domain,2qpw74fskf22qe1.hopto.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:03,Unknown malware,domain,2qpw74fskf22qe1.top,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:05,Unknown malware,domain,2qpw74fskwl4qe1.bounceme.net,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:03,Unknown malware,domain,2qpw74fskwl4qe1.ddnsking.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:07,Unknown malware,domain,2qpw74fskwl4qe1.freedynamicdns.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,2qpw74fskwl4qe1.gotdns.ch,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:01,Unknown malware,domain,2qpw74fskwl4qe1.myftp.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,2qpw74fskwl4qe1.webhop.me,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:01,Unknown malware,domain,2yqwpnfskfl2qlo.3utilities.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,2yqwpnfskfl2qlo.ddnsking.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:05,Unknown malware,domain,2yqwpnfuht8iqlo.3utilities.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:07,Unknown malware,domain,2yqwpnfuht8iqlo.gotdns.ch,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:04,Unknown malware,domain,2yqwpnfuht8iqlo.myftp.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:07,Unknown malware,domain,2yqwpnfuht8iqlo.top,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
 2026-03-19 04:07:37,ClearFake,domain,35x53u.yardnext.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771268/
+2026-03-19 11:19:18,ClearFake,domain,3pqw.farjoran.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771390/
+2026-03-19 17:09:05,Unknown malware,domain,3wljf82qhtyeqow.bounceme.net,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,3wljf82qhtyeqow.freedynamicdns.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:04,Unknown malware,domain,3wljf82qhtyeqow.gotdns.ch,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,3wljf82qhtyeqow.webhop.me,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 07:51:38,ClearFake,domain,4agat.yardnext.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771313/
+2026-03-19 12:11:43,ClearFake,domain,4kz9lzv.sanfloor.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771415/
+2026-03-19 10:28:39,ClearFake,domain,4lign-mount.aspdos.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771375/
+2026-03-19 07:01:28,ClearFake,domain,4w9jp.checkbro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771298/
 2026-03-19 03:22:17,ClearFake,domain,4wm0.woodflo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771229/
-2026-03-18 08:37:24,ClearFake,domain,5andb0x-gate.bokshire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770609/
-2026-03-18 14:28:02,ClearFake,domain,5h4ll-watch.checkbro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770793/
-2026-03-18 13:37:18,ClearFake,domain,5hap-phase.yardnext.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770778/
-2026-03-18 14:00:02,ClearFake,domain,5tud0-glow.goodwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770785/
-2026-03-18 13:20:56,ClearFake,domain,5umm1-forge.runfast.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770772/
-2026-03-18 07:18:39,ClearFake,domain,677ktc.slashbak.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770544/
-2026-03-18 10:43:55,ClearFake,domain,7uka.checkbro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770675/
-2026-03-18 12:24:35,ClearFake,domain,9ddky9.vouayger.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770740/
-2026-03-18 14:11:21,ClearFake,domain,a5say-craft.woodflo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770787/
+2026-03-19 13:07:53,ClearFake,domain,5ibfhk.commonit.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771445/
+2026-03-19 11:30:22,ClearFake,domain,5zfna.cloudhost.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771392/
+2026-03-19 11:57:45,ClearFake,domain,5zfv7hdg.ironapp.digital,#ClearFake,https://threatfox.abuse.ch/ioc/1771398/
+2026-03-19 09:04:23,ClearFake,domain,70x2ky.veloxunit.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771340/
+2026-03-19 11:57:09,ClearFake,domain,7gkvepml.ironapp.digital,#ClearFake,https://threatfox.abuse.ch/ioc/1771397/
+2026-03-19 17:09:04,Unknown malware,domain,7nvweq9tqyweo91.3utilities.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,7nvweq9tqyweo91.bounceme.net,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,7nvweq9tqyweo91.freedynamicdns.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:01,Unknown malware,domain,7nvweq9tqyweo91.gotdns.ch,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:03,Unknown malware,domain,7nvweq9tqyweo91.hopto.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:07,Unknown malware,domain,7nvweq9tqyweo91.myftp.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:05,Unknown malware,domain,7xqmvqlqtn5sjr3.bounceme.net,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,7xqmvqlqtn5sjr3.cc,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:07,Unknown malware,domain,7xqmvqlqtn5sjr3.gotdns.ch,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,7xqmvqlqtn5sjr3.myftp.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,7xqmvqlqtn5sjr3.top,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:05,Unknown malware,domain,7xqmvqlqtn5sjr3.webhop.me,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,8jfdbwglwi6ns92.bounceme.net,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,8jfdbwglwi6ns92.ddnsking.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,8jfdbwglwi6ns92.freedynamicdns.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,8jfdbwglwi6ns92.myftp.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:07,Unknown malware,domain,8jfdbwglwi6ns92.top,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 10:00:34,ClearFake,domain,8lyw.scrollnft.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771368/
+2026-03-19 17:09:07,Unknown malware,domain,91kdy4fjnqtphj2.cc,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:01,Unknown malware,domain,91kdy4fjnqtphj2.freedynamicdns.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,91kdy4fjnqtphj2.gotdns.ch,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:01,Unknown malware,domain,91kdy4fjnqtphj2.hopto.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,91kdy4fjnqtphj2.top,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
 2026-03-19 06:24:37,EtherRAT,domain,aabstone.com,#EtherRat,https://threatfox.abuse.ch/ioc/1771120/
-2026-03-18 09:25:44,ClearFake,domain,adapterprime.besthire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770650/
-2026-03-18 17:39:50,KongTuke,domain,afshapiro.com,#Kongtuke,https://infosec.exchange/@monitorsg/116251048584567355
-2026-03-18 13:54:26,ClearFake,domain,ag3nt1-lab.besthire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770784/
-2026-03-18 16:35:34,Unknown malware,domain,agenc.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770900/
-2026-03-18 16:30:56,Unknown malware,domain,agencone.xyz,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770895/
-2026-03-18 16:35:01,Unknown malware,domain,agenctoken.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770899/
-2026-03-18 16:31:48,Unknown malware,domain,agenctoken.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770896/
-2026-03-18 16:30:08,Unknown malware,domain,agennc.tech,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770894/
+2026-03-19 13:09:44,KongTuke,domain,aawbi.com,#Kongtuke,https://infosec.exchange/@monitorsg/116255994346513599
+2026-03-19 12:28:04,ClearFake,domain,adaptver.sanfloor.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771419/
+2026-03-19 12:16:51,ClearFake,domain,ahrgh87.sanfloor.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771416/
 2026-03-18 17:52:41,Unknown malware,domain,airdrop.paradex-sale.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1771002/
 2026-03-18 18:02:09,Quasar RAT,domain,akashmehndiandtattooart.in.net,#c2 #domain #quasar #RAT #triage,https://tria.ge/260318-s9qqescy9p
-2026-03-18 07:44:25,Unknown Stealer,domain,alhpaagent.com,#c2 #domain #MacSync #stealer #VirusTotal,https://www.virustotal.com/gui/file/8d98934e3cbdb155797ea13b470a731e3c9dfd44add9280a5f86639e0a88ccd5
 2026-03-19 03:01:52,XWorm,domain,aliowiasidaids-62178.portmap.host,#XWorm,https://tria.ge/260319-byz2aafw4y
-2026-03-18 14:56:04,ClearFake,domain,alt-c4che.devopsn.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770798/
-2026-03-18 08:09:45,ClearFake,domain,anchor0-mount.natneth.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770602/
-2026-03-18 16:00:35,Unknown malware,domain,aorsol.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770845/
+2026-03-19 08:47:49,ClearFake,domain,alt-5torag.termocenter.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771335/
+2026-03-19 14:48:30,ClearFake,domain,alt-dyn4m.closell.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771486/
+2026-03-19 09:43:37,ClearFake,domain,alt-qu1c.tatneft.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771362/
 2026-03-18 20:09:21,ClearFake,domain,api-r2-remote.densa-materia.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771081/
-2026-03-18 16:25:15,ClearFake,domain,api-r5-remote.vectorbase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770888/
-2026-03-18 10:11:31,Unknown malware,domain,api.weatherchecker.live,,https://bazaar.abuse.ch/sample/dabfd4c52271a9324f773dda53ed70f1117da979e20d152479b9e8815729a48e/
+2026-03-19 12:17:57,Unknown Stealer,domain,api.hdstlr.net,#c2 #HadeStealer,https://tria.ge/260319-n3v94sgx9j/
+2026-03-19 15:41:28,ClearFake,domain,api2edge.primanode.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771496/
 2026-03-18 23:09:38,ClearFake,domain,api2sync.flexonode.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771143/
-2026-03-18 15:00:06,Remcos,domain,apostlekpajie1.ddnsfree.com,#remcos,https://tria.ge/260318-q2y1qagy6m
+2026-03-19 07:35:53,Vidar,domain,apk.shuvocomputer.org,#Vidar,https://threatfox.abuse.ch/ioc/1771309/
+2026-03-19 07:35:53,Vidar,domain,apk.ssffaa2.xyz,#Vidar,https://threatfox.abuse.ch/ioc/1771310/
 2026-03-18 19:47:11,ClearFake,domain,app-v09-data.faser-tech.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771048/
-2026-03-18 15:40:23,ClearFake,domain,app-v44-meta.turboflow.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770826/
+2026-03-19 16:04:14,ClearFake,domain,app2data.fluxobase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771501/
 2026-03-18 23:32:05,ClearFake,domain,app2data.vivaflux.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771147/
-2026-03-18 12:19:09,ClearFake,domain,arkfluxor.vouayger.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770738/
-2026-03-18 12:07:50,ClearFake,domain,arktide4ix.checkbro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770735/
-2026-03-18 15:35:24,Unknown malware,domain,artiststeams.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770817/
-2026-03-18 16:02:07,Unknown malware,domain,aslansol.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770857/
-2026-03-18 10:10:40,ClearFake,domain,atomi5-watch.woodflo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770664/
+2026-03-19 12:00:15,ClearFake,domain,arraynimb.stabletu.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771399/
+2026-03-19 13:09:43,KongTuke,domain,artsselection.com,#Kongtuke,https://infosec.exchange/@monitorsg/116255994346513599
 2026-03-18 21:05:25,ClearFake,domain,auth-l2-user.foco-global.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771094/
-2026-03-18 15:57:03,ClearFake,domain,auth-q11-gate.acustica-v.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770839/
+2026-03-19 17:16:34,ClearFake,domain,auth3user.durogrid.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771644/
 2026-03-19 00:44:44,ClearFake,domain,auth3user.optigrid.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771185/
-2026-03-18 16:42:35,Unknown malware,domain,autismcoin.digital,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770915/
-2026-03-18 16:40:12,Unknown malware,domain,autismcoins.digital,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770911/
-2026-03-18 16:41:09,Unknown malware,domain,autismcoins.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770912/
-2026-03-18 17:35:47,Unknown malware,domain,automatoncoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770987/
 2026-03-19 03:02:00,XWorm,domain,ayidhh-48261.portmap.host,#XWorm,https://tria.ge/260319-ajsg8ae19x
-2026-03-18 11:00:26,Quasar RAT,domain,b-online.gr.com,#quasar,https://tria.ge/260318-mlx7psdx7p
-2026-03-18 17:35:15,Unknown malware,domain,babykimchi.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770986/
+2026-03-19 16:32:42,ClearFake,domain,azurpri.dashcloud.in.net,#19March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1771491/
+2026-03-19 08:01:05,Havoc,domain,banyun-bao.top,#AS13335 #c2 #censys #CLOUDFLARENET #Havoc,https://search.censys.io/hosts/2606:4700:3034:0:0:0:ac43:afac+banyun-bao.top
 2026-03-18 18:34:25,ClearFake,domain,base-b1-steel.prismaviva.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771023/
-2026-03-18 17:04:30,ClearFake,domain,base-f11-infra.durolocus.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770943/
 2026-03-18 20:54:18,ClearFake,domain,base-f4-infra.foco-global.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771091/
 2026-03-18 22:23:40,ClearFake,domain,base-v5-steel.soma-grid.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771117/
+2026-03-19 17:10:54,ClearFake,domain,base2point.durogrid.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771643/
 2026-03-19 00:39:41,ClearFake,domain,base2point.optigrid.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771184/
 2026-03-19 02:08:58,ClearFake,domain,base2steel.termocenter.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771208/
+2026-03-19 13:41:19,ClearFake,domain,bc39pv.registar.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771467/
 2026-03-18 18:27:37,Unknown malware,domain,bestwirelessus.com,#ClickFix #payload,https://threatfox.abuse.ch/ioc/1771020/
-2026-03-18 17:32:31,Unknown malware,domain,bfstoken.live,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770982/
-2026-03-18 16:43:39,Unknown malware,domain,bfun.space,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770916/
-2026-03-18 09:59:16,ClearFake,domain,biropt.goodwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770659/
-2026-03-18 17:36:17,Unknown malware,domain,blackelsa.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770988/
-2026-03-18 14:16:43,PureRAT,domain,blessingthings.ydns.eu,#RAT #ResolverRAT,https://bazaar.abuse.ch/sample/81d11ee5c84e4ee453eb9d95285c843592c61015d2712319c9910fb63ab74fe3/
-2026-03-18 16:23:18,Unknown malware,domain,blobcoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770885/
-2026-03-18 17:34:32,Unknown malware,domain,blogses.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770985/
-2026-03-18 11:01:06,ClearFake,domain,branchpubli.vouayger.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770705/
-2026-03-18 15:40:59,Unknown malware,domain,bratyanetwork.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770827/
-2026-03-18 10:52:19,Unknown malware,domain,brettcoin.life,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770687/
+2026-03-19 09:08:32,IClickFix,domain,biaolfkfkakajsfj.com,#ClickFix #IClickFix,https://threatfox.abuse.ch/ioc/1771341/
+2026-03-19 08:53:14,ClearFake,domain,bloomsilen.veloxunit.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771338/
+2026-03-19 12:18:03,EtherRAT,domain,bokphotguest.pro,#blockchain-C2 #ClickFix #EtherRat #Node.js #TON,https://threatfox.abuse.ch/ioc/1771411/
+2026-03-19 11:52:26,ClearFake,domain,breezeraven.stabletu.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771396/
 2026-03-18 17:49:01,ClearFake,domain,bridge-e5-light.altocentro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770999/
 2026-03-18 21:38:49,ClearFake,domain,bridge-x4-light.terra-data.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771106/
-2026-03-18 16:14:12,Unknown malware,domain,broke-girl.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770876/
-2026-03-18 16:17:40,Unknown malware,domain,brokecoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770880/
-2026-03-18 07:59:59,AdaptixC2,domain,c.anzemet.us,#AdaptixC2 #c2 #domain #VirusTotal,https://www.virustotal.com/gui/file/1af223424af9bdd82fc33ee383e60aca96c4cf5606a19775c03150d694b8cee0
+2026-03-19 09:11:23,IClickFix,domain,bunesaria.com,#ClickFix #IClickFix,https://threatfox.abuse.ch/ioc/1771345/
 2026-03-19 03:59:49,ClearFake,domain,c0mpi-branch.runfast.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771234/
-2026-03-18 13:26:19,ClearFake,domain,c4mp-cast.yardnext.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770776/
-2026-03-18 07:13:04,ClearFake,domain,cache-path.slashbak.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770542/
-2026-03-18 09:36:39,ClearFake,domain,carrypublish.besthire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770653/
-2026-03-18 07:43:54,Unknown malware,domain,cdn-yethounds.beer,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1770555/
 2026-03-18 19:29:56,ClearFake,domain,cdn-z7-edge.optico-voda.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771045/
+2026-03-19 15:47:04,ClearFake,domain,cdn3dist.primanode.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771497/
 2026-03-18 23:15:05,ClearFake,domain,cdn3edge.flexonode.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771144/
+2026-03-19 13:24:26,ClearFake,domain,chec-deliv.domprot.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771463/
 2026-03-19 03:10:35,ClearFake,domain,checkcipher.besthire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771225/
-2026-03-18 17:00:58,Unknown malware,domain,cjngcoin.digital,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770936/
-2026-03-18 14:07:31,Babar,domain,clou-dprotect.com,#Babar #crypto-stealer #logger,https://threatfox.abuse.ch/ioc/1770751/
 2026-03-18 20:03:53,ClearFake,domain,cloud-w11-store.densa-materia.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771079/
-2026-03-18 16:19:50,ClearFake,domain,cloud-w12-store.vectorbase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770882/
 2026-03-18 23:49:17,ClearFake,domain,cloud1store.metracore.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771150/
-2026-03-18 16:51:59,Unknown malware,domain,clude.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770925/
-2026-03-18 16:44:11,Unknown malware,domain,clude.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770917/
-2026-03-18 16:53:30,Unknown malware,domain,cludecoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770928/
-2026-03-18 16:46:33,Unknown malware,domain,cludecoin.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770919/
-2026-03-18 16:36:15,Unknown malware,domain,cludecoin.xyz,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770901/
-2026-03-18 11:51:14,ClearFake,domain,clusbuild.goodwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770721/
-2026-03-18 12:53:31,ClearFake,domain,cmavixjw.devopsn.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770745/
+2026-03-19 16:20:30,ClearFake,domain,cloud1store.metravolta.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771504/
 2026-03-18 19:58:08,ClearFake,domain,core-j1-sync.faser-tech.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771051/
 2026-03-18 18:39:30,ClearFake,domain,core-q7-rock.prismaviva.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771029/
 2026-03-18 22:29:18,ClearFake,domain,core-x4-rock.soma-grid.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771118/
-2026-03-18 09:48:06,ClearFake,domain,craf-freig.goodwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770656/
-2026-03-18 11:45:44,ClearFake,domain,crawltheory.goodwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770719/
-2026-03-18 17:03:20,Unknown malware,domain,ctocoin.digital,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770940/
-2026-03-18 16:02:58,ClearFake,domain,data-v09-core.acustica-v.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770859/
+2026-03-19 16:32:43,FAKEUPDATES,domain,cpanel.baeinevand.eu.org,#SocGholish,https://infosec.exchange/@monitorsg/116256237368505397
+2026-03-19 12:51:00,ClearFake,domain,dark-stre.dartvar.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771433/
 2026-03-19 02:37:03,ClearFake,domain,data3sync.nuxbase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771216/
-2026-03-18 16:24:57,Unknown malware,domain,dataclaw.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770887/
 2026-03-18 20:59:48,ClearFake,domain,db-g0-point.foco-global.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771093/
-2026-03-18 17:09:54,ClearFake,domain,db-g3-point.durolocus.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770951/
 2026-03-18 23:21:02,ClearFake,domain,db4static.flexonode.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771145/
+2026-03-19 15:52:35,ClearFake,domain,db4static.primanode.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771498/
+2026-03-19 12:05:41,ClearFake,domain,deepasset.stabletu.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771410/
 2026-03-19 06:25:05,Chaos,domain,deepseeklab.xyz,#CHAOS #crypto-scam #DeepSeek #impersonation,https://search.censys.io/hosts/45.153.186.237
-2026-03-18 11:00:29,Quasar RAT,domain,deli.publicvm.com,#quasar,https://tria.ge/260318-l7663afy5s
 2026-03-18 20:14:46,ClearFake,domain,dev-t0-host.densa-materia.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771083/
-2026-03-18 16:32:03,ClearFake,domain,dev-t0-host.vectorbase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770897/
 2026-03-19 00:00:23,ClearFake,domain,dev3host.metracore.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771153/
-2026-03-18 15:58:34,Unknown malware,domain,digitaloil.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770841/
-2026-03-18 08:13:21,Unknown Stealer,domain,dinitro.buzz,#c2 #domain #stealer #WallStealer,https://x.com/K_N1kolenko/status/2034142157993304315
-2026-03-18 15:46:11,ClearFake,domain,dist-x2-sync.turboflow.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770835/
-2026-03-18 07:55:13,Vidar,domain,dnf.shuvocomputer.org,#Vidar,https://threatfox.abuse.ch/ioc/1770572/
-2026-03-18 07:55:13,Vidar,domain,dnf.ssffaa2.xyz,#Vidar,https://threatfox.abuse.ch/ioc/1770573/
-2026-03-18 10:55:00,Unknown malware,domain,dogonsol.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770691/
-2026-03-18 15:29:02,ClearFake,domain,driveouter.yardnext.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770807/
-2026-03-18 09:14:17,ClearFake,domain,ds-grok.bokshire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770643/
-2026-03-18 11:06:31,ClearFake,domain,dynvenos7.vouayger.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770708/
+2026-03-19 16:31:43,ClearFake,domain,dev3host.metravolta.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771508/
+2026-03-19 13:11:25,Vidar,domain,dhzuadd.hellothere.sbs,#drkfiz #Vidar,https://threatfox.abuse.ch/ioc/1771456/
+2026-03-19 12:11:12,Vidar,domain,djzaj.capstudio.shop,#drkfiz #Vidar,https://threatfox.abuse.ch/ioc/1771414/
+2026-03-19 11:13:19,ClearFake,domain,dr4vv-forge.farjoran.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771385/
+2026-03-19 09:32:49,ClearFake,domain,dyncorear9.tatneft.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771358/
+2026-03-19 09:49:52,ClearFake,domain,dynnexet.tatneft.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771366/
+2026-03-19 16:32:42,ClearFake,domain,east-ciph.dashcloud.in.net,#19March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1771490/
 2026-03-19 06:24:39,Unknown malware,domain,echaefer.com,#Unknown malware,https://threatfox.abuse.ch/ioc/1771122/
 2026-03-19 02:59:07,ClearFake,domain,edge3dist.veloxunit.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771220/
-2026-03-18 17:38:13,Unknown malware,domain,elizaos.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770992/
-2026-03-18 17:39:27,Unknown malware,domain,elizaos16z.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770994/
 2026-03-19 00:05:38,ClearFake,domain,entry4link.metracore.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771177/
-2026-03-18 07:24:01,ClearFake,domain,enzym-nod.copyvrok.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770545/
-2026-03-18 16:42:01,Unknown malware,domain,esspreso.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770913/
-2026-03-18 16:10:59,Unknown malware,domain,ethgasfoundation.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770871/
-2026-03-18 10:47:33,Unknown malware,domain,fantrust.world,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770679/
-2026-03-18 09:08:57,ClearFake,domain,fast7.bokshire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770638/
-2026-03-18 10:49:20,Unknown malware,domain,feeliq.digital,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770681/
-2026-03-18 10:44:40,Unknown malware,domain,feeliq.world,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770676/
-2026-03-18 10:51:48,Unknown malware,domain,feeliqtoken.life,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770686/
+2026-03-19 16:37:05,ClearFake,domain,entry4link.metravolta.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771509/
+2026-03-19 14:42:29,ClearFake,domain,extendbuild.gatedale.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771485/
 2026-03-18 18:17:37,ClearFake,domain,field-z01-vast.sinapsitech.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771016/
 2026-03-18 22:07:03,ClearFake,domain,field-z1-vast.lumen-nodo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771113/
-2026-03-18 11:56:52,ClearFake,domain,fina1-hold.woodflo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770722/
-2026-03-18 15:00:27,Quasar RAT,domain,finewinesinvestment.uk.com,#quasar,https://tria.ge/260318-rfdy4abs2t
-2026-03-18 15:33:38,Unknown malware,domain,fishtish.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770812/
-2026-03-18 16:53:26,ClearFake,domain,flow-z2-work.metropunto.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770927/
 2026-03-18 20:42:58,ClearFake,domain,flow-z9-work.punto-viva.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771089/
 2026-03-19 00:28:18,ClearFake,domain,flow4work.densapoint.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771182/
+2026-03-19 16:59:48,ClearFake,domain,flow4work.sinapsov.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771516/
 2026-03-18 18:02:07,Quasar RAT,domain,fly88-zz.site,#c2 #domain #quasar #RAT #triage,https://tria.ge/260318-s9qqescy9p
-2026-03-18 07:41:09,ClearFake,domain,forest-sparr.copyvrok.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770551/
-2026-03-18 17:27:03,Unknown malware,domain,franklincoin.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770975/
-2026-03-18 08:38:14,SantaStealer,domain,fuckfuckioaeygiuy.icu,#SantaStealer,https://bazaar.abuse.ch/sample/9ff847266eccbe55815df693cf3f91a87b8a1691b1b059333ca4b36c8157d47b/
-2026-03-18 10:46:21,Unknown malware,domain,fuguu.life,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770678/
-2026-03-18 11:01:43,XWorm,domain,fxtun.dev,#XWorm,https://tria.ge/260318-mwr4fagv6v
-2026-03-18 10:50:34,Unknown malware,domain,ganycoin.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770684/
-2026-03-18 08:26:19,ClearFake,domain,gardeninsp.natneth.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770607/
-2026-03-18 16:13:48,ClearFake,domain,gate-j2-entry.acustica-v.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770875/
 2026-03-18 18:56:44,ClearFake,domain,gate-p1-proxy.curvaforte.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771034/
 2026-03-18 20:20:37,ClearFake,domain,gate-v5-entry.densa-materia.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771085/
 2026-03-18 22:46:10,ClearFake,domain,gate-x1-proxy.vortex-lab.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771124/
 2026-03-19 02:31:12,ClearFake,domain,gate2proxy.nuxbase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771214/
+2026-03-19 16:09:35,ClearFake,domain,gate3proxy.fluxobase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771502/
 2026-03-18 23:37:52,ClearFake,domain,gate3proxy.vivaflux.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771148/
 2026-03-18 23:00:26,Quasar RAT,domain,gbp.cn.com,#quasar,https://tria.ge/260318-x4bfrsbz4w
-2026-03-18 14:05:24,ClearFake,domain,gdrq4jn.goodwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770786/
-2026-03-18 09:03:00,ClearFake,domain,geamervial.slashbak.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770632/
-2026-03-18 11:00:26,Quasar RAT,domain,genesistechnologies.it.com,#quasar,https://tria.ge/260318-mlx7psdx7p
-2026-03-18 11:22:58,ClearFake,domain,gent1-core.gramsup.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770713/
-2026-03-18 07:52:16,ClearFake,domain,geo-n0de.slashbak.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770562/
-2026-03-18 17:32:12,ClearFake,domain,ghost-u4-node.fluidonodo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770981/
+2026-03-19 13:01:47,Lumma Stealer,domain,genuscs.cyou,#LummaStealer,https://bazaar.abuse.ch/sample/63066d64377e314bc34b7e2257910324f8ca73dea9ef41586df6be5785ee868a/
+2026-03-19 07:40:28,ClearFake,domain,geo-d3p1.runfast.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771311/
 2026-03-19 06:24:34,ClearFake,domain,ghost-z2-node.nux-systems.in.net,#18March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1771103/
 2026-03-19 01:07:18,ClearFake,domain,ghost3node.luxalabs.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771189/
+2026-03-19 17:38:43,ClearFake,domain,ghost3node.veloxsite.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771648/
+2026-03-19 07:06:36,ClearFake,domain,gladetrusted.vouayger.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771301/
+2026-03-19 17:05:28,ClearFake,domain,glob1infra.durogrid.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771517/
 2026-03-19 00:33:41,ClearFake,domain,glob1infra.optigrid.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771183/
-2026-03-18 09:40:28,XWorm,domain,globalsourcesinc.duckdns.org,#XWorm,https://bazaar.abuse.ch/sample/4c3661ed10a408d0cb49bfe952472737e3ade90a153eb19cdf02d43865d36866/
-2026-03-18 16:36:53,Unknown malware,domain,gogrokius.xyz,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770902/
-2026-03-18 16:44:59,Unknown malware,domain,gomoss.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770918/
-2026-03-18 16:28:07,Unknown malware,domain,gorkcoins.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770892/
-2026-03-18 10:57:01,Unknown malware,domain,gosweets.world,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770693/
-2026-03-18 17:40:50,Unknown malware,domain,gotestcoin.digital,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770996/
-2026-03-18 17:31:38,Unknown malware,domain,goyimtoken.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770980/
-2026-03-18 14:50:47,ClearFake,domain,gr0ve7-loop.gramsup.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770797/
-2026-03-18 16:10:08,Unknown malware,domain,grokcoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770868/
-2026-03-18 17:01:59,Unknown malware,domain,grokensol.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770938/
-2026-03-18 17:24:41,Unknown malware,domain,grokius.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770970/
-2026-03-18 17:22:26,Unknown malware,domain,grokiuscoin.digital,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770967/
-2026-03-18 17:29:34,Unknown malware,domain,grokiuscoin.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770978/
-2026-03-18 16:52:49,Unknown malware,domain,grokiuscoin.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770926/
-2026-03-18 16:50:29,Unknown malware,domain,grokiustoken.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770924/
-2026-03-18 16:39:10,Unknown malware,domain,hodlcoin.digital,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770910/
-2026-03-18 17:06:26,Unknown malware,domain,hodlcoin.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770946/
-2026-03-18 17:40:17,Unknown malware,domain,housecoin.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770995/
-2026-03-18 13:09:32,ClearFake,domain,hub-sync.runfast.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770756/
-2026-03-18 16:48:38,ClearFake,domain,hub-v01-local.metropunto.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770921/
+2026-03-19 13:52:28,ClearFake,domain,gr1d-dock.registar.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771469/
+2026-03-19 14:25:56,ClearFake,domain,grandclou.gatedale.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771482/
+2026-03-19 08:26:10,ClearFake,domain,gu1d-phase.bonflac.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771331/
+2026-03-19 10:22:44,ClearFake,domain,hidden-panel.aspdos.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771372/
 2026-03-18 20:37:33,ClearFake,domain,hub-v02-local.punto-viva.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771088/
+2026-03-19 16:15:02,ClearFake,domain,hub4sync.fluxobase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771503/
 2026-03-18 23:43:31,ClearFake,domain,hub4sync.vivaflux.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771149/
 2026-03-19 06:25:06,NetSupportManager RAT,domain,humanverif.cyou,,https://threatfox.abuse.ch/ioc/1771205/
+2026-03-19 08:19:32,ClearFake,domain,hyper-guid3.botslap.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771330/
 2026-03-19 06:28:18,ClearFake,domain,hyperdrift.besthire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771286/
-2026-03-18 07:29:37,ClearFake,domain,igewi86i.copyvrok.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770547/
-2026-03-18 17:08:24,Unknown malware,domain,ikeaorangutancoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770949/
 2026-03-19 06:24:33,Unknown RAT,domain,imarketads.com,,https://tria.ge/260318-zy9sgsdv6s/behavioral1
-2026-03-18 15:51:41,ClearFake,domain,infra-k7-static.turboflow.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770836/
+2026-03-19 12:01:17,Quasar RAT,domain,inclusive.za.com,#c2 #domain #quasar #RAT #triage,https://tria.ge/260319-nhe3dsfz8k
 2026-03-18 19:35:56,ClearFake,domain,infra-m2-static.optico-voda.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771046/
 2026-03-18 18:02:29,Unknown malware,domain,init-static.seccheckclod.workers.dev,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1771008/
-2026-03-18 10:21:24,ClearFake,domain,innerbund.woodflo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770670/
-2026-03-18 07:07:26,ClearFake,domain,innerrouter.slashbak.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770541/
-2026-03-18 07:55:12,Lumma Stealer,domain,insuffh.cyou,#c2 #domain #Lumma #stealer,https://threatfox.abuse.ch/ioc/1770568/
 2026-03-19 06:16:47,ClearFake,domain,ips.goodwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771284/
-2026-03-18 11:17:30,ClearFake,domain,islbay.gramsup.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770710/
-2026-03-18 16:16:18,Unknown malware,domain,janestreetcoin.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770879/
-2026-03-18 07:55:12,Lumma Stealer,domain,japanel.cyou,#c2 #domain #Lumma #stealer,https://threatfox.abuse.ch/ioc/1770569/
-2026-03-18 16:13:02,Unknown malware,domain,jellybeanmeme.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770874/
-2026-03-18 17:27:44,Unknown malware,domain,jetbluecoin.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770976/
-2026-03-18 13:49:45,ClearFake,domain,jhifgpnl.besthire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770783/
-2026-03-18 10:30:29,Remcos,domain,jimguy922.duckdns.org,#remcos,https://bazaar.abuse.ch/sample/6ce99f1c6f64c4e7e622285ed1eb35fd8c2dc4615f15a674e829968ac2cdfcc7/
+2026-03-19 08:08:38,ClearFake,domain,jijbgf8.regwan.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771328/
+2026-03-19 08:42:19,ClearFake,domain,ju80r.termocenter.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771334/
 2026-03-19 06:24:38,EtherRAT,domain,justtalken.com,#EtherRat,https://threatfox.abuse.ch/ioc/1771121/
-2026-03-18 08:20:39,ClearFake,domain,kernelbrid.natneth.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770606/
-2026-03-18 17:38:57,Unknown malware,domain,kimchicoin.live,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770993/
-2026-03-18 17:33:28,Unknown malware,domain,kimchitoken.live,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770983/
+2026-03-19 14:20:01,ClearFake,domain,jyllmoqw.worldwde.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771481/
+2026-03-19 14:09:25,ClearFake,domain,kellineal.worldwde.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771477/
+2026-03-19 11:01:32,XWorm,domain,kellydarosa.ddns.com.br,#XWorm,https://tria.ge/260319-ktflhscz2m
+2026-03-19 09:34:13,IClickFix,domain,klyvareno.com,#ClickFix #IClickFix #NetSupport RAT,https://threatfox.abuse.ch/ioc/1771360/
+2026-03-19 17:09:05,Unknown malware,domain,kqpw8tj2qtph2l9.ddnsking.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,kqpw8tj2qtph2l9.gotdns.ch,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,kqpw8tj2qtph2l9.hopto.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:03,Unknown malware,domain,kqpw8tj2qtph2l9.myftp.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,kqpw8tj2qtph2l9.top,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 12:18:04,Unknown Stealer,domain,kralcan.pro,,https://x.com/solostalking/status/2034525611784638562?s=20
 2026-03-18 19:13:22,ClearFake,domain,l22vyxd8.fastbit.digital,#ClearFake,https://threatfox.abuse.ch/ioc/1771039/
-2026-03-18 07:01:58,ClearFake,domain,lago-lun.slashbak.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770540/
-2026-03-18 13:15:11,ClearFake,domain,lattvisua.runfast.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770771/
 2026-03-19 06:44:18,ClearFake,domain,learntiny.woodflo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771292/
-2026-03-18 12:58:21,ClearFake,domain,lgd9j832.devopsn.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770746/
-2026-03-18 10:52:54,Unknown malware,domain,lifemaxxing.world,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770688/
+2026-03-19 10:34:03,ClearFake,domain,lettercompi.aspdos.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771376/
 2026-03-18 20:32:03,ClearFake,domain,link-p1-power.punto-viva.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771087/
-2026-03-18 16:37:07,ClearFake,domain,link-v9-point.vectorbase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770903/
 2026-03-18 22:35:16,ClearFake,domain,link-z2-sat.soma-grid.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771119/
+2026-03-19 17:21:55,ClearFake,domain,link4access.durogrid.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771645/
 2026-03-19 00:50:32,ClearFake,domain,link4access.optigrid.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771186/
-2026-03-18 17:15:36,Unknown malware,domain,lobstar.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770959/
-2026-03-18 17:25:47,Unknown malware,domain,lobstarcoin.digital,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770972/
-2026-03-18 16:47:24,Unknown malware,domain,lobstarsol.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770920/
-2026-03-18 16:58:40,Unknown malware,domain,lobstartoken.live,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770931/
-2026-03-18 17:04:28,Unknown malware,domain,lobstartoken.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770942/
+2026-03-19 09:54:48,ClearFake,domain,load-leaf.scrollnft.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771367/
+2026-03-19 08:50:07,Unknown malware,domain,localcloudcss.sbs,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1771336/
+2026-03-19 08:36:43,ClearFake,domain,loya-cache.termocenter.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771333/
+2026-03-19 14:36:56,ClearFake,domain,lsjnhprm.gatedale.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771484/
 2026-03-18 17:49:59,Unknown malware,domain,lucialabs.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1771000/
-2026-03-18 09:19:46,ClearFake,domain,lumcrestor.besthire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770647/
-2026-03-18 10:04:38,ClearFake,domain,lumlithis8.woodflo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770661/
-2026-03-18 15:06:34,ClearFake,domain,lumtide7ex.devopsn.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770803/
-2026-03-18 16:49:43,Unknown malware,domain,luxxcoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770923/
-2026-03-18 14:39:13,ClearFake,domain,lxphm9.vouayger.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770795/
-2026-03-18 17:20:01,Unknown malware,domain,macmini.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770963/
+2026-03-19 15:24:52,ClearFake,domain,m0pfvcb.dashcloud.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771492/
+2026-03-19 14:05:38,XWorm,domain,mTattmrvqnSB2jtWg1xeUQ==,#XWorm,https://bazaar.abuse.ch/sample/292f0dc47472057b493e1858eda6c1843531ad0f9ddcb1f7959b3677d2e0b0f3/
 2026-03-18 19:07:44,ClearFake,domain,main-j5-point.curvaforte.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771037/
 2026-03-18 22:57:27,ClearFake,domain,main-v4-point.vortex-lab.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771135/
 2026-03-19 02:42:59,ClearFake,domain,main4point.nuxbase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771217/
-2026-03-18 10:45:33,Unknown malware,domain,makedoodles.world,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770677/
-2026-03-18 07:42:18,Unknown Stealer,domain,mansfieldpediatrics.com,#c2 #domain #MacSync #stealer,https://threatfox.abuse.ch/ioc/1770553/
-2026-03-18 16:38:37,Unknown malware,domain,mariocoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770909/
-2026-03-18 17:09:15,Unknown malware,domain,maxxingtoken.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770950/
-2026-03-18 16:59:52,Unknown malware,domain,menbel.network,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770934/
-2026-03-18 16:57:38,Unknown malware,domain,menchocoin.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770930/
+2026-03-19 10:17:20,ClearFake,domain,memorybay.aspdos.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771371/
+2026-03-19 12:40:19,ClearFake,domain,mernex0or.dartvar.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771431/
+2026-03-19 09:15:40,ClearFake,domain,meta-5har.fotestat.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771348/
+2026-03-19 12:56:01,ClearFake,domain,meta-co1u.commonit.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771434/
 2026-03-19 06:11:08,ClearFake,domain,meta.veloxunit.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771279/
-2026-03-18 08:48:45,ClearFake,domain,microneur.bokshire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770621/
-2026-03-18 09:42:05,ClearFake,domain,mist-logic.goodwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770655/
+2026-03-19 07:46:07,ClearFake,domain,mntdtg1.runfast.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771312/
 2026-03-19 00:11:37,ClearFake,domain,mon1point.densapoint.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771179/
+2026-03-19 16:42:39,ClearFake,domain,mon1point.sinapsov.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771510/
 2026-03-19 05:59:14,ClearFake,domain,mona.termocenter.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771272/
-2026-03-18 07:46:54,ClearFake,domain,monit8-spark.slashbak.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770558/
 2026-03-19 02:03:37,ClearFake,domain,moon1orbit.termocenter.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771206/
-2026-03-18 16:01:14,Unknown malware,domain,mooshali.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770855/
-2026-03-18 17:03:57,Unknown malware,domain,mosscoin.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770941/
-2026-03-18 15:23:40,ClearFake,domain,msshdxv.yardnext.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770806/
-2026-03-18 16:09:38,Unknown malware,domain,myrobo.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770867/
-2026-03-18 17:16:21,Unknown malware,domain,neetcoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770961/
-2026-03-18 16:59:32,ClearFake,domain,net-v8-global.metropunto.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770933/
+2026-03-19 17:08:58,Unknown malware,domain,mqlw8tj29dlqt91.bounceme.net,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,mqlw8tj29dlqt91.ddnsking.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,mqlw8tj29dlqt91.freedynamicdns.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:05,Unknown malware,domain,mqlw8tj29dlqt91.top,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:04,Unknown malware,domain,mqlw8tj29dlqt91.webhop.me,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 12:01:16,Havoc,domain,msoffice360.com,#AS13335 #c2 #censys #CLOUDFLARENET #Havoc,https://search.censys.io/hosts/2606:4700:3035:0:0:0:ac43:d9ef+msoffice360.com
+2026-03-19 09:47:07,Unknown malware,domain,myverifhouse.sbs,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1771363/
+2026-03-19 13:57:44,ClearFake,domain,ncjajduq.registar.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771470/
 2026-03-18 20:48:52,ClearFake,domain,net-v88-global.foco-global.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771090/
 2026-03-19 00:22:14,ClearFake,domain,net3local.densapoint.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771181/
-2026-03-18 08:43:19,ClearFake,domain,neuronbundle.bokshire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770613/
-2026-03-18 15:59:49,Unknown malware,domain,nexirai.xyz,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770842/
-2026-03-18 16:27:29,Unknown malware,domain,nirecrypto.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770891/
-2026-03-18 16:20:32,Unknown malware,domain,niretoken.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770883/
-2026-03-18 15:18:11,ClearFake,domain,nirnb-node.runfast.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770805/
+2026-03-19 16:53:44,ClearFake,domain,net3local.sinapsov.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771515/
+2026-03-19 11:19:15,Vidar,domain,nix.ssffaa3.xyz,#Vidar,https://threatfox.abuse.ch/ioc/1771389/
+2026-03-19 11:19:14,Vidar,domain,nix.swadeshcomputer.com,#Vidar,https://threatfox.abuse.ch/ioc/1771388/
+2026-03-19 08:58:41,ClearFake,domain,nnzyf2.veloxunit.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771339/
 2026-03-18 19:13:40,ClearFake,domain,node-x33-auth.curvaforte.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771040/
 2026-03-19 02:53:40,ClearFake,domain,node2flow.veloxunit.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771219/
-2026-03-18 17:01:30,Unknown malware,domain,nolimitcoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770937/
-2026-03-18 09:31:07,ClearFake,domain,norcrest7is.besthire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770652/
-2026-03-18 12:47:04,ClearFake,domain,normesha7.devopsn.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770744/
-2026-03-18 10:51:10,Unknown malware,domain,nosebudsol.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770685/
+2026-03-19 14:14:53,ClearFake,domain,nort-leaf.worldwde.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771480/
+2026-03-19 09:33:37,IClickFix,domain,noviqerax.com,#ClickFix #IClickFix #NetSupport RAT,https://threatfox.abuse.ch/ioc/1771359/
 2026-03-18 23:00:26,Quasar RAT,domain,obf.uk.com,#quasar,https://tria.ge/260318-x4bfrsbz4w
-2026-03-18 13:42:52,ClearFake,domain,oewl.yardnext.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770779/
-2026-03-18 08:43:02,Unknown malware,domain,onnabarabane.net,#ClickFix #macOS,https://threatfox.abuse.ch/ioc/1770611/
-2026-03-18 17:23:59,Unknown malware,domain,onsingcoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770969/
 2026-03-19 01:57:30,ClearFake,domain,open4space.altasync.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771204/
-2026-03-18 15:31:40,Unknown malware,domain,opgmoneyhoney.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770808/
-2026-03-18 17:15:00,Unknown malware,domain,oramamacoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770958/
-2026-03-18 17:07:15,Unknown malware,domain,oramamacoin.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770947/
-2026-03-18 17:11:09,Unknown malware,domain,oramamasol.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770953/
 2026-03-18 18:28:19,ClearFake,domain,orbit-n2-moon.sinapsitech.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771022/
 2026-03-18 22:18:20,ClearFake,domain,orbit-z01-moon.soma-grid.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771116/
-2026-03-18 11:28:54,ClearFake,domain,orch3st-plate.gramsup.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770714/
-2026-03-18 09:15:32,Vidar,domain,orhz.optiframe.pro,#Vidar,https://bazaar.abuse.ch/sample/95c469772c9b6b5b96bf12af5806fbe7ba60f36761c4d3bf844b19a9f8e60111/
-2026-03-18 11:00:26,Quasar RAT,domain,osa.it.com,#quasar,https://tria.ge/260318-mlx7psdx7p
-2026-03-18 10:16:00,ClearFake,domain,oxtn0z.woodflo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770669/
+2026-03-19 10:51:05,ClearFake,domain,p4rcel-grid.bejont.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771379/
 2026-03-19 06:22:12,ClearFake,domain,p9vpxaz1.besthire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771285/
-2026-03-18 13:04:26,ClearFake,domain,packetpuls.gramsup.in.net,#18March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1770742/
-2026-03-18 10:54:55,ClearFake,domain,palesdk.vouayger.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770690/
+2026-03-19 11:35:55,ClearFake,domain,pasdusk.cloudhost.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771393/
 2026-03-19 01:35:11,ClearFake,domain,path4gate.protovoda.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771195/
 2026-03-19 06:33:12,ClearFake,domain,patternpilot.goodwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771288/
 2026-03-19 06:01:39,NjRAT,domain,phishing.solemarbeach.com,#c2 #domain #njrat #triage,https://tria.ge/260319-dskqhsg13p
-2026-03-18 16:02:43,Unknown malware,domain,pippagenccoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770858/
-2026-03-18 16:59:15,Unknown malware,domain,pippincoin.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770932/
-2026-03-18 16:37:49,Unknown malware,domain,pippkin.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770904/
-2026-03-18 13:11:08,Vidar,domain,pkg.shuvocomputer.org,#Vidar,https://threatfox.abuse.ch/ioc/1770762/
-2026-03-18 13:11:08,Vidar,domain,pkg.ssffaa2.xyz,#Vidar,https://threatfox.abuse.ch/ioc/1770763/
-2026-03-18 12:02:47,ClearFake,domain,pkidfz.woodflo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770734/
-2026-03-18 17:28:43,Unknown malware,domain,playsolana.today,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770977/
-2026-03-18 16:34:19,Unknown malware,domain,pmpr.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770898/
-2026-03-18 16:26:42,Unknown malware,domain,pmprcoin.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770890/
-2026-03-18 16:28:57,Unknown malware,domain,pmprtoken.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770893/
-2026-03-18 16:11:37,Unknown malware,domain,pnutsol.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770872/
-2026-03-18 16:08:59,Unknown malware,domain,pomboncoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770866/
-2026-03-18 16:08:24,Unknown malware,domain,pombonsol.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770865/
+2026-03-19 11:41:28,ClearFake,domain,planstoc.cloudhost.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771394/
 2026-03-18 19:19:05,ClearFake,domain,pop-x88-node.optico-voda.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771043/
-2026-03-18 07:43:15,Unknown Stealer,domain,ptrei.com,#c2 #domain #MacSync #stealer #VirusTotal,https://www.virustotal.com/gui/file/8e74e652494d0010bbfbd108876695e9ff4eba58bd54dd299e746dc3879900e6
-2026-03-18 10:49:59,Unknown malware,domain,punchcoin.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770683/
-2026-03-18 17:25:16,Unknown malware,domain,punchsol.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770971/
-2026-03-18 17:21:44,Unknown malware,domain,punchtoken.live,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770966/
-2026-03-18 17:14:08,Unknown malware,domain,punchtoken.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770957/
+2026-03-19 07:12:16,ClearFake,domain,pricescene.vouayger.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771302/
+2026-03-19 12:33:35,ClearFake,domain,proto-4dapter.dartvar.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771423/
+2026-03-19 07:35:13,ClearFake,domain,publishbrigh.devopsn.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771306/
+2026-03-19 17:09:04,Unknown malware,domain,q9dpwljfqt9qh4v.bounceme.net,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,q9dpwljfqt9qh4v.cc,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,q9dpwljfqt9qh4v.freedynamicdns.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,q9dpwljfqt9qh4v.gotdns.ch,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:07,Unknown malware,domain,q9dpwljfqt9qh4v.myftp.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,q9dpwljfqt9qh4v.top,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:05,Unknown malware,domain,q9dpwljfqt9qh4v.webhop.me,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 12:22:35,ClearFake,domain,quot-neu.sanfloor.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771417/
+2026-03-19 10:39:30,ClearFake,domain,qzrxbp.bejont.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771377/
+2026-03-19 09:09:56,ClearFake,domain,r1ver-mark.fotestat.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771343/
+2026-03-19 14:54:04,ClearFake,domain,r4v3-beam.closell.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771487/
 2026-03-19 06:50:18,ClearFake,domain,railcon.woodflo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771295/
-2026-03-18 16:07:22,Unknown malware,domain,rainbowfish.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770863/
-2026-03-18 14:44:39,ClearFake,domain,rav3n-sync.gramsup.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770796/
-2026-03-18 11:00:04,Unknown malware,domain,realbet.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770697/
-2026-03-18 14:07:22,SmartApeSG,domain,redsiout.top,#SmartApeSG,https://infosec.exchange/@monitorsg/116250343610491624
-2026-03-18 15:12:25,ClearFake,domain,repsand.runfast.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770804/
+2026-03-19 13:12:56,ClearFake,domain,rend-velve.commonit.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771458/
+2026-03-19 12:18:01,ClearFake,domain,rich-vector.farjoran.in.net,#19March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1771383/
 2026-03-18 21:56:11,ClearFake,domain,rim-k12-outer.lumen-nodo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771111/
 2026-03-18 18:06:15,ClearFake,domain,rim-k77-outer.altocentro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771013/
 2026-03-19 01:40:42,ClearFake,domain,rim1outer.altasync.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771197/
-2026-03-18 07:35:45,ClearFake,domain,rktqwhu.copyvrok.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770548/
-2026-03-18 11:12:07,ClearFake,domain,roadspring.gramsup.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770709/
-2026-03-18 14:16:58,ClearFake,domain,rock-oasis.woodflo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770790/
 2026-03-19 02:14:29,ClearFake,domain,rock3core.termocenter.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771209/
-2026-03-18 16:25:42,Unknown malware,domain,ronaldocoin.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770889/
-2026-03-18 17:44:12,ClearFake,domain,room-v12-dark.fluidonodo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770998/
 2026-03-18 21:33:29,ClearFake,domain,room-v51-dark.terra-data.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771105/
 2026-03-19 01:18:43,ClearFake,domain,room1dark.protovoda.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771191/
 2026-03-18 23:54:26,ClearFake,domain,rpc2remote.metracore.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771151/
-2026-03-18 17:12:41,Unknown malware,domain,rrchcoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770955/
-2026-03-18 17:10:20,Unknown malware,domain,rrchtoken.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770952/
-2026-03-18 15:56:44,Unknown malware,domain,rucktoken.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770838/
-2026-03-18 12:42:22,ClearFake,domain,s0ft6-line.devopsn.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770743/
+2026-03-19 16:26:05,ClearFake,domain,rpc2remote.metravolta.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771506/
+2026-03-19 14:03:15,ClearFake,domain,runwayanc.worldwde.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771471/
+2026-03-19 15:33:18,ClearFake,domain,ryv5wl.dashcloud.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771493/
+2026-03-19 11:46:58,ClearFake,domain,s71frp.stabletu.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771395/
 2026-03-19 06:25:28,EtherRAT,domain,salinasrent.com,#blockchain-C2 #DDR #Ethereum #EtherRat,https://etherscan.io/address/0xe26c57b7fa8de030238b0a71b3d063397ac127d3
-2026-03-18 15:37:49,Unknown malware,domain,samuranetwork.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770822/
-2026-03-18 15:57:17,Unknown malware,domain,sanaetoken.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770840/
 2026-03-19 02:20:07,ClearFake,domain,sat4link.termocenter.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771211/
-2026-03-18 12:30:49,ClearFake,domain,sc4r-grid.gramsup.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770741/
 2026-03-18 17:54:54,ClearFake,domain,scan-a2-point.altocentro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771003/
 2026-03-18 21:45:23,ClearFake,domain,scan-z0-point.terra-data.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771108/
 2026-03-19 01:24:07,ClearFake,domain,scan2point.protovoda.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771193/
 2026-03-19 03:37:03,ClearFake,domain,scr14-sync.vouayger.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771231/
-2026-03-18 14:34:02,ClearFake,domain,secureimport.vouayger.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770794/
+2026-03-19 13:05:35,SantaStealer,domain,seall-vernous.com,#c2 #SantaStealer,https://bazaar.abuse.ch/sample/b19e9d14ae598c8933da4a6e3d7e3be670cecaffaf9447f600eab1e70b120a19/
 2026-03-18 18:17:36,Unknown malware,domain,secureportal777.com,#ClickFix,https://threatfox.abuse.ch/ioc/1771015/
-2026-03-18 09:06:31,Unknown malware,domain,securesslconnect.cfd,#ClickFix,https://threatfox.abuse.ch/ioc/1770633/
-2026-03-18 09:07:34,ClearFake,domain,sentinsp.natneth.in.net,#18March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1770626/
+2026-03-19 13:18:36,ClearFake,domain,sercore9et.domprot.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771461/
 2026-03-19 03:05:14,ClearFake,domain,serv4base.veloxunit.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771224/
 2026-03-19 03:01:49,XWorm,domain,sex4fun.duckdns.org,#XWorm,https://tria.ge/260319-b46e9agv5r
-2026-03-18 15:42:47,Unknown malware,domain,shamsikymnogodenegdaitev4.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770831/
-2026-03-18 08:15:21,ClearFake,domain,shapedock.natneth.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770605/
-2026-03-18 08:59:53,Unknown malware,domain,shbtuyenson.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1770628/
-2026-03-18 17:27:01,ClearFake,domain,shell-t2-main.fluidonodo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770974/
+2026-03-19 13:46:48,ClearFake,domain,shad6-scope.registar.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771468/
 2026-03-18 21:16:27,ClearFake,domain,shell-v7-core.nux-systems.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771101/
 2026-03-19 01:01:41,ClearFake,domain,shell2core.luxalabs.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771188/
-2026-03-18 07:55:13,Lumma Stealer,domain,shrewzh.cyou,#c2 #domain #Lumma #stealer,https://threatfox.abuse.ch/ioc/1770574/
-2026-03-18 16:22:22,Unknown malware,domain,slurmit.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770884/
-2026-03-18 16:15:30,Unknown malware,domain,slurmitcoins.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770878/
-2026-03-18 16:18:30,Unknown malware,domain,slurmitsol.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770881/
-2026-03-18 17:23:26,Unknown malware,domain,solanamobile.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770968/
-2026-03-18 17:26:31,Unknown malware,domain,solcex.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770973/
-2026-03-18 10:54:15,Unknown malware,domain,soscoin.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770689/
-2026-03-18 07:58:26,ClearFake,domain,south1-wave.slashbak.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770579/
+2026-03-19 17:33:17,ClearFake,domain,shell2core.veloxsite.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771647/
+2026-03-19 07:29:07,ClearFake,domain,shohill.devopsn.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771305/
+2026-03-19 17:08:58,Unknown malware,domain,silentclickteam.cc,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 13:01:47,Lumma Stealer,domain,silverhost.vg,#LummaStealer,https://bazaar.abuse.ch/sample/63066d64377e314bc34b7e2257910324f8ca73dea9ef41586df6be5785ee868a/
+2026-03-19 09:26:49,ClearFake,domain,sol-tideor.fotestat.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771350/
+2026-03-19 10:06:25,ClearFake,domain,solcrest2a.scrollnft.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771369/
 2026-03-18 18:22:44,ClearFake,domain,space-x4-open.sinapsitech.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771019/
 2026-03-18 22:12:50,ClearFake,domain,space-x9-open.lumen-nodo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771115/
-2026-03-18 17:12:04,Unknown malware,domain,speedrunofficial.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770954/
-2026-03-18 17:07:53,Unknown malware,domain,speedruntoken.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770948/
+2026-03-19 08:31:18,ClearFake,domain,specime7-layer.bonflac.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771332/
 2026-03-18 19:41:13,ClearFake,domain,srv-k44-meta.faser-tech.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771047/
-2026-03-18 15:35:06,ClearFake,domain,srv-z901-node.turboflow.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770816/
+2026-03-19 15:35:42,ClearFake,domain,srv1auth.primanode.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771494/
 2026-03-18 23:03:47,ClearFake,domain,srv1node.flexonode.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771142/
+2026-03-19 13:16:01,Remcos,domain,starkmills006.duckdns.org,#remcos,https://bazaar.abuse.ch/sample/41b1d68e1aa97220d97108313d896893d7204ce935c84eb07aac1213351097e6/
+2026-03-19 13:16:16,Remcos,domain,starkmills006bk.duckdns.org,#remcos,https://bazaar.abuse.ch/sample/41b1d68e1aa97220d97108313d896893d7204ce935c84eb07aac1213351097e6/
 2026-03-18 18:03:38,Unknown malware,domain,step-secure.bibusdarken.workers.dev,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1771011/
-2026-03-18 08:03:44,ClearFake,domain,streamervial.slashbak.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770599/
-2026-03-18 11:34:29,ClearFake,domain,sub-dr1v.besthire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770715/
+2026-03-19 16:32:44,SmartApeSG,domain,swertycrety.top,#SmartApeSG,https://infosec.exchange/@monitorsg/116256230268968263
 2026-03-18 19:02:11,ClearFake,domain,sync-h4-data.curvaforte.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771036/
 2026-03-18 18:00:53,ClearFake,domain,sync-m1-vision.altocentro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771005/
 2026-03-18 19:24:30,ClearFake,domain,sync-v01-auth.optico-voda.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771044/
 2026-03-18 21:50:11,ClearFake,domain,sync-v9-vision.terra-data.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771110/
 2026-03-18 22:52:00,ClearFake,domain,sync-z9-data.vortex-lab.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771125/
 2026-03-19 01:13:02,ClearFake,domain,sync4vision.luxalabs.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771190/
+2026-03-19 17:45:00,ClearFake,domain,sync4vision.veloxsite.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771649/
 2026-03-18 20:26:10,ClearFake,domain,sys-s33-monitor.punto-viva.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771086/
-2026-03-18 16:42:02,ClearFake,domain,sys-s44-monitor.metropunto.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770914/
 2026-03-19 00:17:27,ClearFake,domain,sys2power.densapoint.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771180/
+2026-03-19 16:48:20,ClearFake,domain,sys2power.sinapsov.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771511/
 2026-03-19 06:05:13,ClearFake,domain,t1me.checkbro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771277/
-2026-03-18 09:53:25,ClearFake,domain,tal-nexos.goodwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770658/
+2026-03-19 15:05:21,ClearFake,domain,talxpn.closell.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771489/
+2026-03-19 07:23:27,ClearFake,domain,teiafnhz.gramsup.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771304/
 2026-03-19 06:38:53,ClearFake,domain,ternp3-watch.goodwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771291/
-2026-03-18 17:00:22,Unknown malware,domain,tetanuscoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770935/
-2026-03-18 17:02:46,Unknown malware,domain,tetanuscoin.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770939/
-2026-03-18 17:13:34,Unknown malware,domain,the9bit.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770956/
-2026-03-18 09:02:35,Unknown malware,domain,theperfumeguyqa.com,#ClickFix #Redirect,https://threatfox.abuse.ch/ioc/1770630/
+2026-03-19 11:24:47,ClearFake,domain,testrapid.cloudhost.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771391/
+2026-03-19 07:57:07,ClearFake,domain,theorfier.yardnext.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771314/
 2026-03-19 03:29:15,ClearFake,domain,tideruntime.checkbro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771230/
-2026-03-18 15:00:25,Quasar RAT,domain,top88fun.mobi,#quasar,https://tria.ge/260318-rpayssbv8z
-2026-03-18 10:26:55,ClearFake,domain,torrentink.checkbro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770671/
-2026-03-18 17:34:04,Unknown malware,domain,totocoin.live,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770984/
-2026-03-18 17:37:01,Unknown malware,domain,totocoin.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770989/
-2026-03-18 17:30:10,Unknown malware,domain,totomemecoin.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770979/
+2026-03-19 12:45:38,ClearFake,domain,tinfre.dartvar.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771432/
 2026-03-18 21:11:15,ClearFake,domain,trace-x11-alpha.nux-systems.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771100/
-2026-03-18 17:21:03,ClearFake,domain,trace-y7-alpha.durolocus.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770965/
 2026-03-19 00:56:25,ClearFake,domain,trace1alpha.luxalabs.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771187/
-2026-03-18 13:03:54,ClearFake,domain,trailernode.runfast.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770748/
-2026-03-18 13:31:47,ClearFake,domain,triline7en.yardnext.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770777/
+2026-03-19 17:27:24,ClearFake,domain,trace1alpha.veloxsite.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771646/
+2026-03-19 13:35:29,ClearFake,domain,trail5-trace.domprot.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771466/
+2026-03-19 13:11:14,SmartApeSG,domain,treidoveir.top,#SmartApeSG,https://infosec.exchange/@monitorsg/116256000265758603
 2026-03-19 03:44:47,ClearFake,domain,trivaleis6.gramsup.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771232/
-2026-03-18 10:49:42,ClearFake,domain,ty30.vouayger.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770682/
-2026-03-18 14:22:40,ClearFake,domain,uczgs.checkbro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770792/
-2026-03-18 10:58:17,Unknown malware,domain,ugorcoin.world,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770695/
-2026-03-18 10:56:13,Unknown malware,domain,ugoroil.world,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770692/
+2026-03-19 07:18:22,ClearFake,domain,trivaleor.gramsup.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771303/
+2026-03-19 14:59:38,ClearFake,domain,trust-deep.closell.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771488/
+2026-03-19 14:31:26,ClearFake,domain,twlbqqt.gatedale.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771483/
+2026-03-19 17:08:59,Unknown malware,domain,tyqwpnfqht82qlo.bounceme.net,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:05,Unknown malware,domain,tyqwpnfqht82qlo.ddnsking.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:03,Unknown malware,domain,tyqwpnfqht82qlo.freedynamicdns.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:07,Unknown malware,domain,tyqwpnfqht82qlo.myftp.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:07,Unknown malware,domain,tyqwpnfqht82qlo.top,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,tyqwpnfqht82qlo.webhop.me,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
 2026-03-19 02:48:16,ClearFake,domain,unit1meta.veloxunit.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771218/
-2026-03-18 10:59:13,Unknown malware,domain,unitas.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770696/
-2026-03-18 11:00:34,Unknown malware,domain,unitaso.life,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770704/
 2026-03-19 03:15:59,ClearFake,domain,unitmed.goodwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771228/
-2026-03-18 11:01:14,Unknown malware,domain,universelincome.digital,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770706/
 2026-03-18 18:45:20,ClearFake,domain,uplink-r2-sat.prismaviva.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771032/
-2026-03-18 17:15:37,ClearFake,domain,user-l0-access.durolocus.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770960/
-2026-03-18 16:03:54,Unknown malware,domain,usoronsol.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770860/
-2026-03-18 15:55:54,Unknown malware,domain,usoronsolana.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770837/
 2026-03-19 03:52:03,ClearFake,domain,uwk7hxy.devopsn.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771233/
+2026-03-19 11:08:22,ClearFake,domain,valebyte.farjoran.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771384/
 2026-03-19 01:52:02,ClearFake,domain,vast3field.altasync.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771203/
 2026-03-19 06:55:51,ClearFake,domain,vcp61.checkbro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771296/
 2026-03-19 06:24:31,SmartApeSG,domain,vcterypore.top,#SmartApeSG,https://infosec.exchange/@monitorsg/116252223708115084
-2026-03-18 10:57:30,Unknown malware,domain,veesasol.live,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770694/
+2026-03-19 13:30:49,ClearFake,domain,vellithos5.domprot.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771465/
 2026-03-19 01:30:10,ClearFake,domain,view3sync.protovoda.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771194/
-2026-03-18 17:37:50,ClearFake,domain,vision-i9-sync.fluidonodo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770991/
 2026-03-18 21:27:38,ClearFake,domain,vision-v4-sync.nux-systems.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771104/
-2026-03-18 13:04:28,ClearFake,domain,vlecktv.checkbro.in.net,#18March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1770737/
-2026-03-18 14:07:25,KongTuke,domain,voginc.com,#Kongtuke,https://infosec.exchange/@monitorsg/116250340833324648
-2026-03-18 10:32:52,ClearFake,domain,vorspire4a.checkbro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770673/
-2026-03-18 11:40:04,ClearFake,domain,vszagmsi.besthire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770717/
-2026-03-18 16:56:34,Unknown malware,domain,warcoin.world,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770929/
-2026-03-18 10:48:02,Unknown malware,domain,waroneusdt1.xyz,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770680/
+2026-03-19 09:21:39,ClearFake,domain,vorspireum1.fotestat.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771349/
+2026-03-19 17:09:05,Unknown malware,domain,vqpw74fqnzqtqe1.ddnsking.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:01,Unknown malware,domain,vqpw74fqnzqtqe1.freedynamicdns.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,vviukjdsjnj25i5.bounceme.net,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:04,Unknown malware,domain,vviukjdsjnj25i5.ddnsking.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:02,Unknown malware,domain,vviukjdsjnj25i5.gotdns.ch,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,vviukjdsjnj25i5.top,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:05,Unknown malware,domain,vvu8ghu9oij25i4.3utilities.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:04,Unknown malware,domain,vvu8ghu9oij25i4.bounceme.net,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:01,Unknown malware,domain,vvu8ghu9oij25i4.cc,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,vvu8ghu9oij25i4.ddnsking.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:04,Unknown malware,domain,vvu8ghu9oij25i4.gotdns.ch,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,vvu8ghu9oij25i4.hopto.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,vvuuunwwgyuigi2.3utilities.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:04,Unknown malware,domain,vvuuunwwgyuigi2.freedynamicdns.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:03,Unknown malware,domain,vvuuunwwgyuigi2.gotdns.ch,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:07,Unknown malware,domain,vvuuunwwgyuigi2.hopto.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,vvuuunwwgyuigi2.top,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
 2026-03-18 17:51:14,Unknown malware,domain,waronusdt1.world,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1771001/
-2026-03-18 17:20:37,Unknown malware,domain,wartoken.life,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770964/
-2026-03-18 17:37:36,Unknown malware,domain,wartoken.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770990/
-2026-03-18 17:05:15,Unknown malware,domain,wartokens.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770944/
+2026-03-19 08:14:03,ClearFake,domain,watc5-field.botslap.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771329/
 2026-03-18 19:52:46,ClearFake,domain,web-proxy-707.faser-tech.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771050/
-2026-03-18 16:08:23,ClearFake,domain,web-proxy-808.acustica-v.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770864/
 2026-03-18 18:50:41,ClearFake,domain,web-s09-infra.prismaviva.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771033/
 2026-03-18 22:40:28,ClearFake,domain,web-v03-infra.vortex-lab.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771123/
 2026-03-19 02:25:38,ClearFake,domain,web1infra.nuxbase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771213/
+2026-03-19 15:58:07,ClearFake,domain,web1meta.fluxobase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771499/
 2026-03-18 23:26:56,ClearFake,domain,web1meta.vivaflux.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771146/
-2026-03-18 16:48:40,Unknown malware,domain,whitewhalecoin.run,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770922/
-2026-03-18 16:24:07,Unknown malware,domain,wiener.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770886/
-2026-03-18 16:14:59,Unknown malware,domain,wienerhotdog.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770877/
-2026-03-18 16:04:35,Unknown malware,domain,worldpeacesolana.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770861/
-2026-03-18 16:06:04,Unknown malware,domain,ww3token.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770862/
+2026-03-19 17:09:04,Unknown malware,domain,wwuttenwgyui3s1.3utilities.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:08:59,Unknown malware,domain,wwuttenwgyui3s1.myftp.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:04,Unknown malware,domain,wwuttenwgyui3s1.top,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
 2026-03-18 23:00:04,Remcos,domain,www.crysaltimedubai.com,#remcos,https://tria.ge/260318-1swjcaet6m
 2026-03-18 23:00:04,Remcos,domain,www.crysaltimedubaibackup1.com,#remcos,https://tria.ge/260318-1swjcaet6m
 2026-03-18 23:00:04,Remcos,domain,www.crysaltimedubaibackup2.com,#remcos,https://tria.ge/260318-1swjcaet6m
-2026-03-18 16:01:10,Quasar RAT,domain,www.hjnweb8u.shop,#AS152194 #c2 #censys #CTGSERVERLIMITED-AS-AP #quasar #RAT,https://search.censys.io/hosts/118.107.47.86+www.hjnweb8u.shop
-2026-03-18 16:01:09,Quasar RAT,domain,www.kim64tvv.shop,#AS152194 #c2 #censys #CTGSERVERLIMITED-AS-AP #quasar #RAT,https://search.censys.io/hosts/118.107.47.86+www.kim64tvv.shop
-2026-03-18 16:01:08,Quasar RAT,domain,www.kmu596xe.shop,#AS152194 #c2 #censys #CTGSERVERLIMITED-AS-AP #quasar #RAT,https://search.censys.io/hosts/118.107.47.86+www.kmu596xe.shop
-2026-03-18 16:01:07,Quasar RAT,domain,www.kq1r4d68.shop,#AS152194 #c2 #censys #CTGSERVERLIMITED-AS-AP #quasar #RAT,https://search.censys.io/hosts/118.107.47.86+www.kq1r4d68.shop
-2026-03-18 16:01:06,Quasar RAT,domain,www.l0a4un8e.shop,#AS152194 #c2 #censys #CTGSERVERLIMITED-AS-AP #quasar #RAT,https://search.censys.io/hosts/118.107.47.86+www.l0a4un8e.shop
-2026-03-18 16:01:03,Quasar RAT,domain,www.l3g3tt88.shop,#AS152194 #c2 #censys #CTGSERVERLIMITED-AS-AP #quasar #RAT,https://search.censys.io/hosts/118.107.47.86+www.l3g3tt88.shop
-2026-03-18 16:01:04,Quasar RAT,domain,www.n8hpa3ie.shop,#AS152194 #c2 #censys #CTGSERVERLIMITED-AS-AP #quasar #RAT,https://search.censys.io/hosts/118.107.47.86+www.n8hpa3ie.shop
-2026-03-18 17:05:55,Unknown malware,domain,xingxigncoin.lat,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770945/
-2026-03-18 17:18:25,Unknown malware,domain,xmntoken.lol,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770962/
-2026-03-18 07:55:13,Vidar,domain,yas.shuvocomputer.org,#Vidar,https://threatfox.abuse.ch/ioc/1770570/
-2026-03-18 07:55:13,Vidar,domain,yas.ssffaa2.xyz,#Vidar,https://threatfox.abuse.ch/ioc/1770571/
-2026-03-18 08:31:55,ClearFake,domain,ynpxhbz.bokshire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770608/
-2026-03-18 16:12:15,Unknown malware,domain,zbcn.name,#BadCoin #ClickFix,https://threatfox.abuse.ch/ioc/1770873/
-2026-03-18 10:38:25,ClearFake,domain,zen-fluxon.checkbro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1770674/
+2026-03-19 10:45:46,ClearFake,domain,xedbu.bejont.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771378/
+2026-03-19 17:09:04,Unknown malware,domain,xqpw71fnqtwe81v.3utilities.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:05,Unknown malware,domain,xqpw71fnqtwe81v.cc,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,xqpw71fnqtwe81v.freedynamicdns.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:03,Unknown malware,domain,xqpw71fnqtwe81v.gotdns.ch,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:03,Unknown malware,domain,xqpw71fnqtwe81v.hopto.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:03,Unknown malware,domain,xqpw71fnqtwe81v.myftp.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:00,Unknown malware,domain,xqpw71fnqtwe81v.top,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,xqpw71fnqtwe81v.webhop.me,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 12:01:21,Quasar RAT,domain,xtiyeb.ru.com,#c2 #domain #quasar #RAT #triage,https://tria.ge/260319-nhe3dsfz8k
+2026-03-19 10:56:39,ClearFake,domain,yk97w.bejont.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771380/
+2026-03-19 17:09:03,Unknown malware,domain,z8hd74jqpxt19zq.3utilities.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:03,Unknown malware,domain,z8hd74jqpxt19zq.ddnsking.com,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:05,Unknown malware,domain,z8hd74jqpxt19zq.freedynamicdns.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:06,Unknown malware,domain,z8hd74jqpxt19zq.gotdns.ch,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:01,Unknown malware,domain,z8hd74jqpxt19zq.hopto.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 17:09:05,Unknown malware,domain,z8hd74jqpxt19zq.myftp.org,#c2,https://bazaar.abuse.ch/sample/4160a93073bd698a61c281ec4b12dbc76d708a1b8d9c074d9fe66b936d38bdaf/
+2026-03-19 13:01:55,ClearFake,domain,zenvale1ex.commonit.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771441/
 2026-03-18 22:01:21,ClearFake,domain,zone-v8-area.lumen-nodo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771112/
 2026-03-18 18:11:41,ClearFake,domain,zone-w3-area.sinapsitech.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771014/
 2026-03-19 01:46:33,ClearFake,domain,zone2area.altasync.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771202/
-2026-03-18 11:20:22,ClearFake,domain,zub5gp24.skyhub.digital,#ClearFake,https://threatfox.abuse.ch/ioc/1770712/
