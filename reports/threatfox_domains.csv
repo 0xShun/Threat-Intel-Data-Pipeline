@@ -1,145 +1,53 @@
 2026-03-20 19:18:56,Unknown malware,domain,01drive.com,#ClickFix,https://threatfox.abuse.ch/ioc/1772710/
-2026-03-20 12:55:34,BumbleBee,domain,0520t5z82ua3rkpl.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:34,BumbleBee,domain,08c7t4gox9e77iss.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:34,BumbleBee,domain,0a06h9w0icm2g5np.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:34,BumbleBee,domain,0maiqxb32q8va1yc.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:34,BumbleBee,domain,0ppl9d1q9qbk2n6h.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:34,BumbleBee,domain,0q0z5d95tkoksblm.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:34,BumbleBee,domain,0qlcn26y4f04e595.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:34,BumbleBee,domain,0y9mcana49mxyzny.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:34,BumbleBee,domain,15np8a6wpqon1pj5.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:34,BumbleBee,domain,16kg9xzz3yt30xc4.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:34,BumbleBee,domain,18cyd76liqqf196k.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:34,BumbleBee,domain,1cns9xbmq4wmh4kc.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:34,BumbleBee,domain,1ex763rkufgzrbhp.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,1k90ste9cjunii0p.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,1n9v9lsaqpuhyejq.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,1tk69jb7ilsst136.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,1wz77hcg1b5mfjdm.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,1x5jfj7vvjan121c.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,1ztyjh2vgszna2a4.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,1zuu6gbtn0w4199f.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,21wg02hmrp1ldfn7.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,228mxuu79voqll5e.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,2a7zjdey53yv3glm.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,2nbd8193f1n12cu5.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,2u8gqrbysl53oo50.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,2v8m6p00f1mdib5f.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,327e55xjgajp1rfl.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,33mool4oiqg3uok1.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,3bkfxor73bxftt27.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,3egrp88lx0oq427x.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,3kaycq1l7axxn0ci.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,3ocwyfbuhs8d8vju.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,3pbhp8fl14ycwjnb.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,3v5fav802ttakph7.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,41qwl7vpd9ejb0ee.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,48zn9jgdd1qqbnxz.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:35,BumbleBee,domain,4bpn8dqfy92gf0f2.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,4dh614i74tt8sg0s.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,4jba5qs544u416w3.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,4q85h80zn1zukidp.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,4u9vid0x0qdcp6kg.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 10:51:05,ClearFake,domain,0ak-plate.fileost.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773215/
+2026-03-21 15:01:46,XWorm,domain,12.tcp.vip.cpolar.cn,#XWorm,https://tria.ge/260321-ps571afx4r
+2026-03-21 14:14:40,ClearFake,domain,2eonfz.hugeflow.in.net,#21March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1773298/
 2026-03-21 06:34:24,ClearFake,domain,4uth-chain.goodwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773132/
-2026-03-20 12:55:36,BumbleBee,domain,4vudiyf9hkm5t5x0.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,56dby2zhp15o7g5c.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,57cf86smrrytl6ma.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,5lgg51yw04ojcsce.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,5n98upg240gl2j5r.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,5oeir6afu6pqrhxx.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,5rk90ydec03cuvo9.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,5vt3wmlqn3wgwlka.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,650uj0gitvpoulyo.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,68832xknch53xdlu.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,6brdt8i3dugvk3tq.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,6c5mg3og3misv79d.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,6ids1afs4sxugrkm.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,6lhzy7mzm0li7h83.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,6mj9lmqqnzwdmklw.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,6mpjx37pfrnswc53.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,6ojn4z16jssn2lx3.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,6z0d30vb0bo3ti25.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,7bmnh0anlltc9aa0.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:36,BumbleBee,domain,7by21bq7mjj5dia4.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,7kesckkyr9chml5g.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,7pbc4a475cajvh00.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,7pn829um339qt3q3.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,7qgxd8xtceawy4lw.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,84p8umwajq02c14b.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,87vecpio12vig9et.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,8drem3hodlss8nlu.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,9083rq75bt0um1ld.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,92ikhk8f0aseji77.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,94kahraroz816e4t.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,94sq5dqa51vku4ac.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,9722kguly9r9mu6o.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,9nqlfgulyxlggtsp.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,9qwtel99joddrzzu.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,9tdxhavjrk8xpkri.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,9uaixgzc58xdybvs.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,9vdikum9aquqoyzw.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,9yvurmkl13vly6sg.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 13:14:36,ClearFake,domain,55b1cli4.goldsys.digital,#ClearFake,https://threatfox.abuse.ch/ioc/1773243/
+2026-03-21 15:44:09,ClearFake,domain,5p4r-node.grovopen.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773321/
+2026-03-21 13:14:52,ClearFake,domain,677jb7co.goldsys.digital,#ClearFake,https://threatfox.abuse.ch/ioc/1773244/
+2026-03-21 13:19:37,Unknown malware,domain,75grados.org,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773245/
+2026-03-21 15:11:42,ClearFake,domain,9uhve7s.deepglom.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773314/
+2026-03-21 11:01:38,XWorm,domain,Dexvsy-41268.portmap.host,#XWorm,https://tria.ge/260321-h4bzzahs5w
 2026-03-20 23:00:34,Quasar RAT,domain,Lordyy-30333.portmap.host,#quasar,https://tria.ge/260320-z7n75ses9n
-2026-03-20 15:11:14,Kimwolf,domain,a.6mv1eyr328y6due83u3js6whtzuxfyhw.ru,#kimwolf,https://github.com/deepfield/public-research/blob/main/kimwolf/iocs/domains.csv
-2026-03-20 12:55:37,BumbleBee,domain,a2mth2stcu69pc8h.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 08:28:53,ClearFake,domain,adzpzg.trueslak.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771948/
+2026-03-21 15:31:49,ClearFake,domain,abhd27da.grovopen.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773318/
+2026-03-21 10:10:08,Unknown malware,domain,aetherixcore.live,,https://www.virustotal.com/gui/domain/aetherixcore.live
+2026-03-21 10:19:59,NetSupportManager RAT,domain,aff-shrd-rt.in.net,#NetSupport #RAT,https://urlhaus.abuse.ch/url/3801177/
 2026-03-20 22:48:25,Unknown malware,domain,agnikiran.in,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772914/
 2026-03-20 20:41:08,Unknown malware,domain,agromanure.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772745/
 2026-03-20 20:52:37,Unknown malware,domain,alltagsbetreuung-mitherz.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772755/
-2026-03-20 12:56:14,ClearFake,domain,anch0-bridge.withregw.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772327/
 2026-03-20 20:55:58,Unknown malware,domain,annapatriciachagas.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772758/
+2026-03-21 13:21:08,Unknown malware,domain,anthy.ch,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773247/
 2026-03-20 20:57:47,Unknown malware,domain,anvirx.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772760/
 2026-03-20 17:19:23,ClearFake,domain,app1proc.distributedmatrix.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772672/
-2026-03-20 16:12:17,ClearFake,domain,app1proc.managementgateway.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772658/
-2026-03-20 15:05:00,ClearFake,domain,app1store.telemetryservice.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772478/
-2026-03-20 16:17:41,ClearFake,domain,app2core.managementgateway.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772659/
-2026-03-20 15:10:14,ClearFake,domain,app2remote.telemetryservice.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772558/
 2026-03-20 17:24:51,ClearFake,domain,app2steel.distributedmatrix.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772673/
 2026-03-20 17:31:01,ClearFake,domain,app3core.distributedmatrix.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772674/
-2026-03-20 15:16:11,ClearFake,domain,app3dev.telemetryservice.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772605/
-2026-03-20 16:23:21,ClearFake,domain,app3ghost.managementgateway.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772660/
-2026-03-20 15:21:34,ClearFake,domain,app4link.telemetryservice.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772629/
 2026-03-20 17:36:05,ClearFake,domain,app4sat.distributedmatrix.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772675/
-2026-03-20 16:29:15,ClearFake,domain,app4view.managementgateway.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772661/
-2026-03-20 06:56:48,ClearFake,domain,area1proc.boundarygateway.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771880/
-2026-03-20 07:04:32,ClearFake,domain,area2outer.boundarygateway.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771881/
-2026-03-20 07:12:07,ClearFake,domain,area3field.boundarygateway.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771882/
-2026-03-20 07:19:52,ClearFake,domain,area4space.boundarygateway.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771891/
-2026-03-20 13:35:45,ClearFake,domain,arkcrest7is.currvers.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772363/
-2026-03-20 09:52:48,ClearFake,domain,arkcrestex4.capslock.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771973/
-2026-03-20 09:37:00,ClearFake,domain,arkspire4ex.capslock.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771971/
-2026-03-20 11:30:09,ClearFake,domain,arktideix1.dombove.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771998/
 2026-03-20 22:49:10,Unknown malware,domain,artgramasintetica.com.br,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772916/
+2026-03-21 15:01:33,XWorm,domain,asdafsdafdfa-63185.portmap.host,#XWorm,https://tria.ge/260321-qyxy9aez5z
 2026-03-20 21:00:38,Unknown malware,domain,assetsprocurements.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772763/
-2026-03-20 12:55:37,BumbleBee,domain,atdgpee4fw8ww3ce.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 21:02:58,Unknown malware,domain,athletic-boxing.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772766/
-2026-03-20 12:55:37,BumbleBee,domain,aw0uxs438tfujqb6.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 10:04:52,Luna Grabber,domain,ayhanedition.site,#Discord #java #stealer,https://threatfox.abuse.ch/ioc/1771968/
-2026-03-20 12:55:37,BumbleBee,domain,b51m21e5tvobqutc.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:37,BumbleBee,domain,bb5qdiwl479des9f.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 12:00:28,XWorm,domain,ayodhaltbohy-59438.portmap.host,#c2 #domain #triage #XWorm,https://tria.ge/260321-ng6tqabz7s
 2026-03-20 23:48:15,Unknown Stealer,domain,beltoxer.com,#c2 #domain #shub #SHubStealer #stealer,https://x.com/suyog41/status/2034847398380568799
 2026-03-20 21:04:01,Unknown malware,domain,bembee.speed.hebergement-com4design.fr,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772769/
 2026-03-20 23:58:00,Unknown Stealer,domain,benefasts-fhgs2.com,#c2 #domain #shub #SHubStealer #VirusTotal,https://www.virustotal.com/gui/file/25ad82a4733f410dc2961fbaa620f82b6917f3c88e58c4bdded789d1e40bbfad
+2026-03-21 15:49:36,ClearFake,domain,bhkpzpne.grovopen.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773322/
 2026-03-20 23:54:23,Unknown Stealer,domain,bigbossbro777.com,#c2 #domain #shub #SHubStealer #VirusTotal,https://www.virustotal.com/gui/file/26b30e505b85b71f779ea13b616098c41a6b6d99f315f16d164237fb56953439
 2026-03-20 23:55:24,Unknown Stealer,domain,bintail.com,#c2 #domain #shub #SHubStealer #stealer #VirusTotal,https://www.virustotal.com/gui/file/b728ae54999d4272a0b4163cc9b17e6935d3ecb031291bfbe8bf521b3b5e26fe
 2026-03-20 18:02:05,Quasar RAT,domain,bj88-11.com,#c2 #domain #quasar #RAT #triage,https://tria.ge/260320-tehxrsh19x
 2026-03-20 18:02:01,Quasar RAT,domain,bj88games.center,#c2 #domain #quasar #RAT #triage,https://tria.ge/260320-tehxrsh19x
-2026-03-20 12:55:37,BumbleBee,domain,bl3zq7cna5hhv28g.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 14:42:36,Unknown malware,domain,blueblackside.com,#Cecilio #Jackskid #MossadProxy,https://github.com/deepfield/public-research/blob/main/mossadproxy/iocs/domains.csv#L2
-2026-03-20 14:42:36,Unknown malware,domain,blueblackside.store,#Cecilio #Jackskid #MossadProxy,https://github.com/deepfield/public-research/blob/main/mossadproxy/iocs/domains.csv#L2
 2026-03-20 21:05:45,Unknown malware,domain,bongrodanang.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772771/
+2026-03-21 13:23:35,Unknown malware,domain,bostarpack.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773249/
 2026-03-20 22:51:29,Unknown malware,domain,botondkerekes.hu,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772917/
 2026-03-20 21:07:10,Unknown malware,domain,bourbonwhiskeyatlas.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772773/
-2026-03-20 14:36:42,SmartApeSG,domain,breitonghoul.top,#SmartApeSG,https://infosec.exchange/@monitorsg/116261759595027205
+2026-03-21 13:24:39,Unknown malware,domain,branivon.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773251/
+2026-03-21 07:08:04,ClearFake,domain,breez-mount.runfast.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773138/
 2026-03-20 21:12:06,Unknown malware,domain,brightinternationals.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772776/
-2026-03-20 12:55:38,BumbleBee,domain,bu3zei4wv7zc75eq.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 13:20:31,Unknown Stealer,domain,bulbainter.top,#c2 #domain #stealer #VirusTotal #WallStealer,https://www.virustotal.com/gui/file/4e233eea64a6d83dc893a84189b4b6e608ccee6085388a775a5b69481ac105f1
+2026-03-21 13:26:26,Unknown malware,domain,buildbettertmw.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773253/
 2026-03-20 21:13:51,Unknown malware,domain,buyagarwood.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772778/
-2026-03-20 12:55:38,BumbleBee,domain,bzl7w1xejf2px4uw.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:38,BumbleBee,domain,bzp68vd3ye5r0c1d.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:38,BumbleBee,domain,c6fm5c0sspdgs8vw.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 07:54:53,Vidar,domain,cab.ssffaa3.xyz,#Vidar,https://threatfox.abuse.ch/ioc/1771905/
-2026-03-20 07:54:53,Vidar,domain,cab.swadeshcomputer.com,#Vidar,https://threatfox.abuse.ch/ioc/1771904/
+2026-03-21 10:04:55,ClearFake,domain,by42.officeco.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773188/
+2026-03-21 07:40:42,ClearFake,domain,byte-ster.tatneft.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773144/
+2026-03-21 13:27:44,Unknown malware,domain,cambodiaangkorenglishguide.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773256/
 2026-03-20 21:15:06,Unknown malware,domain,canhociti.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772780/
 2026-03-20 21:16:50,Unknown malware,domain,cauris.store,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772783/
 2026-03-20 21:18:36,Unknown malware,domain,caxeng2.net,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772785/
@@ -155,155 +63,96 @@
 2026-03-21 02:56:54,ClearFake,domain,cfg4link.resourcebalancer.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773091/
 2026-03-21 05:13:17,ClearFake,domain,cfg4sat.networkoptimizer.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773119/
 2026-03-21 04:04:24,ClearFake,domain,cfg4view.interfacehandler.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773107/
-2026-03-20 12:55:38,BumbleBee,domain,ch2g1z0c117zztcr.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 13:30:15,Unknown malware,domain,chaibugroup.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773259/
 2026-03-20 21:19:53,Unknown malware,domain,chowdhuryassociates.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772787/
+2026-03-21 10:24:51,ClearFake,domain,cl1nic3-point.officeco.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773206/
 2026-03-20 21:21:27,Unknown malware,domain,cloudgensolutionsinc.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772789/
+2026-03-21 13:31:23,Unknown malware,domain,coiffurebysal.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773261/
+2026-03-21 11:43:56,ClearFake,domain,compr-hinge.getverif.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773228/
+2026-03-21 09:11:54,ClearFake,domain,convertdri.bravevro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773172/
 2026-03-20 22:53:03,Unknown malware,domain,coverget.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772918/
-2026-03-20 12:55:38,BumbleBee,domain,cpjfamy45b0m704c.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 08:38:36,ClearFake,domain,cpz2.way2dot.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773165/
+2026-03-21 10:10:08,Unknown malware,domain,crimsonmods.com,,https://bazaar.abuse.ch/sample/65f0b96fec639f7f63da09e221082e0898002f5e883705e773b91ab0ad62f538/
 2026-03-20 21:29:04,Unknown malware,domain,criticarepharmaceuticals.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772795/
 2026-03-20 22:53:36,Unknown malware,domain,cryptonewskenya.co.ke,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772919/
 2026-03-20 22:54:07,Unknown malware,domain,cryptstatic.com.darkersideservices.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772920/
 2026-03-20 22:54:46,Unknown malware,domain,cv.marufkash.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772921/
-2026-03-20 12:55:38,BumbleBee,domain,cvjkm2vcv3cca46b.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:38,BumbleBee,domain,d22luev1y687ml6f.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:38,BumbleBee,domain,d2566eabutwwlasb.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:38,BumbleBee,domain,d2jttqx88735eyfn.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 14:08:53,ClearFake,domain,d3fen-cache.infosafe.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772374/
-2026-03-20 12:55:38,BumbleBee,domain,d87nc0vwjcb02ln4.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 21:30:15,Unknown malware,domain,danielhomoeo.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772797/
-2026-03-20 06:49:06,ClearFake,domain,dark4path.remotediagnostic.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771879/
-2026-03-20 12:55:38,BumbleBee,domain,db1mbt6f1x50an2u.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 17:41:50,ClearFake,domain,dc1infra.applicationbuffer.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772676/
-2026-03-20 16:35:50,ClearFake,domain,dc1proc.operationalsystem.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772662/
-2026-03-20 15:27:26,ClearFake,domain,dc1proc.platformendpoint.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772641/
-2026-03-20 14:20:10,ClearFake,domain,dc1sync.analyticspoint.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772377/
-2026-03-20 14:25:50,ClearFake,domain,dc2data.analyticspoint.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772378/
-2026-03-20 16:40:22,ClearFake,domain,dc2point.operationalsystem.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772665/
-2026-03-20 15:33:22,ClearFake,domain,dc2power.platformendpoint.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772642/
 2026-03-20 17:47:17,ClearFake,domain,dc2proxy.applicationbuffer.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772679/
 2026-03-20 17:52:54,ClearFake,domain,dc3data.applicationbuffer.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772680/
-2026-03-20 14:31:34,ClearFake,domain,dc3edge.analyticspoint.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772379/
-2026-03-20 15:38:47,ClearFake,domain,dc3local.platformendpoint.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772643/
-2026-03-20 16:47:24,ClearFake,domain,dc3view.operationalsystem.in.net,#20March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1772666/
-2026-03-20 16:51:34,ClearFake,domain,dc4path.operationalsystem.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772667/
+2026-03-21 08:33:54,ClearFake,domain,dc3view.operationalsystem.in.net,#20March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1772666/
 2026-03-20 17:58:49,ClearFake,domain,dc4point.applicationbuffer.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772681/
-2026-03-20 14:36:49,ClearFake,domain,dc4static.analyticspoint.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772380/
-2026-03-20 15:44:03,ClearFake,domain,dc4work.platformendpoint.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772645/
 2026-03-20 21:31:15,Unknown malware,domain,deenstyle.shop,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772799/
-2026-03-20 11:08:43,ClearFake,domain,delivergolden.gothrough.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771993/
 2026-03-20 21:33:45,Unknown malware,domain,dghomealuminium.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772802/
 2026-03-20 17:44:17,ClearFake,domain,dgp13ezr.winddev.digital,#ClearFake,https://threatfox.abuse.ch/ioc/1772678/
-2026-03-20 12:55:38,BumbleBee,domain,do7p9rvz9yqyv8tv.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 13:33:07,Unknown malware,domain,discountwaves.online,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773263/
+2026-03-21 09:51:54,ClearFake,domain,discovership.worldcla.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773184/
+2026-03-21 11:01:36,XWorm,domain,doulovemedoudou.duckdns.org,#XWorm,https://tria.ge/260321-mcr94aaz7w
 2026-03-20 21:35:37,Unknown malware,domain,dpf-fap.co.uk,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772804/
+2026-03-21 13:33:52,Unknown malware,domain,drinknowadaysadssite.kinsta.cloud,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773265/
 2026-03-20 21:37:39,Unknown malware,domain,drudaypatel.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772806/
-2026-03-20 12:55:38,BumbleBee,domain,drxmwr8hkohmnc5x.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 14:36:40,SmartApeSG,domain,dsfeuyyd.top,#SmartApeSG,https://infosec.exchange/@monitorsg/116261659976822106
-2026-03-20 12:55:38,BumbleBee,domain,dug8pu7baulp8xey.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 11:36:42,ClearFake,domain,dusdyna.dombove.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772000/
-2026-03-20 12:55:38,BumbleBee,domain,dvkhe5mpcgius9xk.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 14:50:04,Unknown malware,domain,dvrip.6yd.ru,#Jackskid,https://github.com/deepfield/public-research/blob/main/jackskid/iocs/domains.csv
-2026-03-20 15:13:07,Aisuru,domain,dvrsupport.st,#AISURU,https://github.com/deepfield/public-research/blob/main/aisuru/iocs/domains.csv
-2026-03-20 12:55:38,BumbleBee,domain,dvteixixhs2m8ryu.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 10:45:47,ClearFake,domain,dynfluxon.plotsafe.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771990/
-2026-03-20 12:55:38,BumbleBee,domain,e0jumy88zw4oyp84.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:38,BumbleBee,domain,e1qoupg1tx5v7ath.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:38,BumbleBee,domain,e2sqtudkdkfj9k6p.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:38,BumbleBee,domain,e4hvx2nsjqekcpf5.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:38,BumbleBee,domain,ea2rvdnj3mc34d14.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:39,BumbleBee,domain,edr2jt7fgou4n2fq.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:39,BumbleBee,domain,ehwk45hafxkwxnp2.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 21:38:38,Unknown malware,domain,eistoolsuae.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772809/
-2026-03-20 12:55:39,BumbleBee,domain,ek6yagp59fuaaf97.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 21:40:18,Unknown malware,domain,elwehad.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772810/
-2026-03-20 09:44:56,ClearFake,domain,embdark.capslock.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771972/
-2026-03-20 12:55:39,BumbleBee,domain,emd54f9t5m9zne6s.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:39,BumbleBee,domain,enbw324qyli9e532.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:39,BumbleBee,domain,endcrahn7zfn58n8.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:39,BumbleBee,domain,etego9kzycirxkug.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 14:48:09,Unknown malware,domain,eth0.oceanic-node.su,#Cecilio #Jackskid #MossadProxy,https://github.com/deepfield/public-research/blob/main/cecilio/iocs/domains.csv
+2026-03-21 13:34:49,Unknown malware,domain,emeetconfex.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773267/
+2026-03-21 13:35:42,Unknown malware,domain,enottbites.co.uk,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773269/
+2026-03-21 13:36:56,Unknown malware,domain,esat-dz.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773272/
 2026-03-20 21:41:21,Unknown malware,domain,etoile-net.ch,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772811/
 2026-03-20 21:41:48,Unknown malware,domain,everploria.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772812/
-2026-03-20 12:55:39,BumbleBee,domain,ex7wv7y6uxsscpf3.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 10:29:03,Unknown Loader,domain,expertbike.xyz,#OffLoader,https://threatfox.abuse.ch/ioc/1773209/
 2026-03-20 23:22:36,ClearFake,domain,ext1infra.operationalmatrix.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772946/
 2026-03-20 22:15:21,ClearFake,domain,ext1meta.analyticalhubnode.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772861/
 2026-03-21 00:29:47,ClearFake,domain,ext1proc.coreconnectivity.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772981/
 2026-03-20 23:28:10,ClearFake,domain,ext2base.operationalmatrix.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772947/
 2026-03-21 00:35:36,ClearFake,domain,ext2outer.coreconnectivity.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772982/
-2026-03-20 22:21:33,ClearFake,domain,ext2proc.analyticalhubnode.in.net,#20March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1772870/
+2026-03-21 08:34:03,ClearFake,domain,ext2proc.analyticalhubnode.in.net,#20March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1772870/
 2026-03-21 00:41:16,ClearFake,domain,ext3field.coreconnectivity.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772983/
 2026-03-20 22:26:39,ClearFake,domain,ext3gate.analyticalhubnode.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772879/
 2026-03-20 23:33:37,ClearFake,domain,ext3user.operationalmatrix.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772948/
 2026-03-20 23:39:43,ClearFake,domain,ext4link.operationalmatrix.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772949/
 2026-03-21 00:46:55,ClearFake,domain,ext4space.coreconnectivity.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772984/
 2026-03-20 22:32:16,ClearFake,domain,ext4sync.analyticalhubnode.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772889/
-2026-03-20 12:55:39,BumbleBee,domain,ey6x23aix47wy5me.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:39,BumbleBee,domain,eyear037xe0642xm.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:39,BumbleBee,domain,f1mf3govcbv61hhi.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:39,BumbleBee,domain,fao70xbsy9gff0ll.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 08:25:16,ClearFake,domain,f1am3-sheet.way2dot.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773163/
 2026-03-20 21:42:37,Unknown malware,domain,farmhouserevilla.goldshineinstitute.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772813/
-2026-03-20 12:55:39,BumbleBee,domain,fd5rjt9slozca7la.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 15:00:22,Quasar RAT,domain,fertile-station.sa.com,#quasar,https://tria.ge/260321-p8yg4agt6l
 2026-03-20 21:43:21,Unknown malware,domain,fibo.bartosz8.linuxpl.info,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772815/
 2026-03-20 21:44:01,Unknown malware,domain,fienagroupholdings.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772816/
-2026-03-20 12:55:39,BumbleBee,domain,fjgcz52ba4y9fpeu.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 13:16:50,Unknown Stealer,domain,flashanka.icu,#c2 #domain #stealer #WallStealer,https://x.com/K_N1kolenko/status/2034508726913175924
-2026-03-20 13:22:44,ClearFake,domain,flerai.dombove.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772358/
-2026-03-20 08:22:09,Unknown malware,domain,fonts25-save.sbs,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1771946/
+2026-03-21 09:25:10,ClearFake,domain,firmwarevale.bravevro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773178/
+2026-03-21 13:38:05,Unknown malware,domain,fleeingthecomplexgame.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773285/
+2026-03-21 08:14:50,Unknown malware,domain,fontawesome-js-ico.beer,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1773160/
+2026-03-21 11:50:51,ClearFake,domain,forgeledg.clocknet.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773229/
+2026-03-21 14:48:23,ClearFake,domain,formaass.sleepbut.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773304/
 2026-03-20 21:22:42,Unknown malware,domain,forteestimating.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772792/
 2026-03-20 23:01:40,XWorm,domain,france-unsafe.gl.at.ply.gg,#XWorm,https://tria.ge/260320-z84n8aet3r
-2026-03-20 12:29:31,ClearFake,domain,frozenlayout.currvers.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772022/
-2026-03-20 12:55:39,BumbleBee,domain,fsdr7opij0qcp58d.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 11:43:04,ClearFake,domain,fsrwr05.dombove.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772003/
-2026-03-20 12:55:39,BumbleBee,domain,fuo2qz2br6p7l8lk.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 07:54:21,ClearFake,domain,freshbuil.protdast.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773147/
+2026-03-21 13:39:15,Unknown malware,domain,ftp.cajem-science.org,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773287/
+2026-03-21 13:40:03,Unknown malware,domain,fts-uae.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773289/
+2026-03-21 13:40:52,Unknown malware,domain,fungyiptoys.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1773291/
 2026-03-20 21:45:47,Unknown malware,domain,garutkab.kppd-jabar.org,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772817/
 2026-03-20 19:17:49,Unknown malware,domain,gasangmanual.com,#ClickFix,https://threatfox.abuse.ch/ioc/1772709/
 2026-03-20 19:14:17,Unknown malware,domain,gasangworld.com,#ClickFix,https://threatfox.abuse.ch/ioc/1772706/
 2026-03-20 21:46:48,Unknown malware,domain,gaurartstudio.nandrajjewelers.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772818/
-2026-03-20 13:07:17,Unknown Stealer,domain,gaurdagent.com,#c2 #domain #MacSync #stealer #VirusTotal,https://www.virustotal.com/gui/file/75a47f75799a3ef32eab1f12965ad5fa3590052484d9372da248cac25693e5d7
-2026-03-20 12:55:39,BumbleBee,domain,gebyqsk76vri0ocd.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:39,BumbleBee,domain,glt55wpds5l3ih45.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:39,BumbleBee,domain,gnaknunvbfs6n5el.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 12:51:21,ClearFake,domain,geo-4nci.packetup.in.net,#21March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1773242/
+2026-03-21 09:31:52,ClearFake,domain,gfdrj.bravevro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773179/
 2026-03-21 06:04:05,CyberGate,domain,gordian-knot.no-ip.info,#c2 #Cybergate #domain #RAT #triage,https://tria.ge/260321-dtntkafw5x
 2026-03-20 22:56:33,Unknown malware,domain,gosea.icu,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772923/
 2026-03-20 18:01:56,Quasar RAT,domain,gpseven.it.com,#c2 #domain #quasar #RAT #triage,https://tria.ge/260320-vrzlqabz8m
-2026-03-20 12:55:39,BumbleBee,domain,gqinao11n9cbfu8n.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 08:31:54,ClearFake,domain,gr4n-spool.way2dot.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773164/
 2026-03-20 21:47:37,Unknown malware,domain,greatmastertrading.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772820/
 2026-03-20 21:48:28,Unknown malware,domain,groworksolution.co.uk,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772821/
-2026-03-20 12:55:39,BumbleBee,domain,gufldb16kckedgiq.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:39,BumbleBee,domain,gvia8i29r1q0iumv.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:39,BumbleBee,domain,h55ntg8rvqy2q0s5.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:39,BumbleBee,domain,h57hojz0ap54a2li.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 15:11:14,Kimwolf,domain,hahakrebsisacrybaby.su,#kimwolf,https://github.com/deepfield/public-research/blob/main/kimwolf/iocs/domains.csv
+2026-03-21 11:04:17,ClearFake,domain,gwqs23ca.temprock.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773222/
 2026-03-20 21:48:59,Unknown malware,domain,hamanaglobalservices.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772822/
-2026-03-20 11:56:13,ClearFake,domain,harvestedit.doabove.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772005/
-2026-03-20 12:55:40,BumbleBee,domain,hcbh8ykvhlaq13ga.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:40,BumbleBee,domain,hctngeo013e5quzl.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 23:53:44,Unknown Stealer,domain,hello-brothers777.com,#c2 #domain #shub #SHubStealer #stealer #VirusTotal,https://www.virustotal.com/gui/file/22781b55ac05107ed60f4892883981c5e5e185532cd9af8c122c24c8e2bc062b
-2026-03-20 12:55:40,BumbleBee,domain,hi5oqqk18vlpj67l.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 23:56:10,Unknown Stealer,domain,hilofet.com,#c2 #domain #shub #SHubStealer,https://threatfox.abuse.ch/ioc/1772958/
 2026-03-20 21:50:02,Unknown malware,domain,hinduthvam.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772823/
-2026-03-20 12:55:40,BumbleBee,domain,hkxzb3f4w7vhvmmb.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 21:51:26,Unknown malware,domain,hostaliraq.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772824/
 2026-03-20 21:52:02,Unknown malware,domain,hotelk11.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772825/
-2026-03-20 12:55:40,BumbleBee,domain,hs10ydi9tb1vg3q5.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:40,BumbleBee,domain,hug3bi3i1yjj462i.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:40,BumbleBee,domain,hwtvxtq84vnxcw9g.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 10:00:26,ClearFake,domain,hxfpc.infosafe.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771974/
 2026-03-21 06:04:06,CyberGate,domain,hyfijhvo.podzone.org,#c2 #Cybergate #domain #RAT #triage,https://tria.ge/260321-dtntkafw5x
 2026-03-20 19:30:44,Unknown malware,domain,hylqpinportal.com,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1772716/
-2026-03-20 12:55:40,BumbleBee,domain,i6bzqc8zb4y17g2q.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:40,BumbleBee,domain,i6pkn2e2k57h35l5.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:40,BumbleBee,domain,i7joezu654tno3bz.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:40,BumbleBee,domain,ibke3ttrzqa3vbr8.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-21 06:29:05,ClearFake,domain,ic3-dock.besthire.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773131/
 2026-03-20 21:52:46,Unknown malware,domain,iceboxchallenge.lat,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772826/
-2026-03-20 14:50:04,Unknown malware,domain,ida.boatdealers.su,#Jackskid,https://github.com/deepfield/public-research/blob/main/jackskid/iocs/domains.csv
-2026-03-20 12:55:40,BumbleBee,domain,iisxl1bbbo8w0nvu.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 14:02:25,ClearFake,domain,illumewholes.capslock.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772373/
-2026-03-20 15:21:43,Unknown malware,domain,iloveyourweewee.bz,#katana,https://github.com/deepfield/public-research/blob/main/katana/iocs/domains.csv
-2026-03-20 14:36:41,FAKEUPDATES,domain,images.bluebehi.eu.org,#SocGholish,https://infosec.exchange/@monitorsg/116261912378273553
-2026-03-20 15:21:43,Unknown malware,domain,imsowiwiwiwiwi.com,#katana,https://github.com/deepfield/public-research/blob/main/katana/iocs/domains.csv
+2026-03-21 11:11:03,ClearFake,domain,ijl3voy.temprock.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773223/
 2026-03-20 21:53:36,Unknown malware,domain,inalab-exhibition.net,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772827/
-2026-03-20 10:38:28,ClearFake,domain,innultra.plotsafe.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771989/
 2026-03-21 00:52:35,ClearFake,domain,int1proc.systemicvalidator.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772985/
 2026-03-20 23:45:09,ClearFake,domain,int1proc.virtualgatekeeper.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772950/
 2026-03-20 22:37:57,ClearFake,domain,int1store.securitybackbone.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772900/
@@ -316,108 +165,64 @@
 2026-03-20 22:54:46,ClearFake,domain,int4link.securitybackbone.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772922/
 2026-03-21 01:09:01,ClearFake,domain,int4sat.systemicvalidator.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773003/
 2026-03-21 00:01:42,ClearFake,domain,int4view.virtualgatekeeper.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772975/
-2026-03-20 12:55:40,BumbleBee,domain,iodogmath7we8ukz.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:40,BumbleBee,domain,iov2e6qyiv55868a.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 22:57:32,Unknown malware,domain,itclholding.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772924/
-2026-03-20 11:23:03,ClearFake,domain,iwug.gothrough.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771997/
-2026-03-20 12:55:40,BumbleBee,domain,j0p6u8uml4dgl2zn.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:40,BumbleBee,domain,j1exctmwrq16bcm2.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:40,BumbleBee,domain,j4gmokde7kox189z.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:40,BumbleBee,domain,j57fhnp1m0p129be.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:40,BumbleBee,domain,j6izg9ohumxw8hu8.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:40,BumbleBee,domain,j6r0zwpck4a4wrz0.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:40,BumbleBee,domain,j9gq09xtixdm1iej.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 21:54:41,Unknown malware,domain,jackpromo.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772828/
 2026-03-20 21:55:21,Unknown malware,domain,jackpromosi.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772829/
-2026-03-20 12:55:40,BumbleBee,domain,jbhy4rwkl213b074.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:40,BumbleBee,domain,jeg53yavpsnrmnfc.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 22:58:02,Unknown malware,domain,jetaads.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772925/
-2026-03-20 12:55:41,BumbleBee,domain,jgsqbzgl1ee02f2l.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 22:58:50,Unknown malware,domain,jhulelalbuilders.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772926/
-2026-03-20 12:55:41,BumbleBee,domain,jimeauzjab8v5kq9.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:41,BumbleBee,domain,jkcebj7755ehg17i.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:41,BumbleBee,domain,jnwlcco8tc66ktfn.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 21:56:00,Unknown malware,domain,joellecool.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772830/
-2026-03-20 12:55:41,BumbleBee,domain,jsh8m4u66zwvpra9.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:41,BumbleBee,domain,jtj6ttsd70lpzwq8.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 06:45:55,ClearFake,domain,jq7x.checkbro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773134/
 2026-03-20 21:56:55,Unknown malware,domain,juttiluxe.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772831/
-2026-03-20 12:55:41,BumbleBee,domain,jzes4jru34lh8xn9.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:41,BumbleBee,domain,jzvqrulpebzx23vt.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:41,BumbleBee,domain,k1kfwrt0ak064dma.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:41,BumbleBee,domain,k2ob0z03yh82arid.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:41,BumbleBee,domain,k8g8zlt9uh5s7msi.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:41,BumbleBee,domain,k93mcrrnjbyrn2ce.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 17:43:47,ClearFake,domain,k9a7tswv.winddev.digital,#ClearFake,https://threatfox.abuse.ch/ioc/1772677/
-2026-03-20 12:55:41,BumbleBee,domain,k9b7c7mddsjn9007.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 06:56:41,ClearFake,domain,ka26.gramsup.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773136/
 2026-03-20 21:58:27,Unknown malware,domain,kannaashrai.in,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772833/
 2026-03-20 21:58:56,Unknown malware,domain,kaseelmgan.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772834/
 2026-03-20 22:59:19,Unknown malware,domain,kawocom.shop,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772927/
-2026-03-20 12:55:41,BumbleBee,domain,kclnaj1awwfk8u3f.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:22:56,ClearFake,domain,kel-nexis.currvers.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772021/
-2026-03-20 12:55:41,BumbleBee,domain,kfd9bkyh864k0o1y.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:41,BumbleBee,domain,kgbxugxoeds1aj6l.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 11:30:48,ClearFake,domain,kelvenum.getverif.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773226/
 2026-03-20 21:59:41,Unknown malware,domain,kgfsodafactory.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772835/
-2026-03-20 12:55:41,BumbleBee,domain,khbilua706wrezbf.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 14:50:04,Unknown malware,domain,kieranellison.cecilioc2.xyz,#Jackskid,https://github.com/deepfield/public-research/blob/main/jackskid/iocs/domains.csv
 2026-03-20 22:08:17,Unknown Stealer,domain,kogima.com,#c2 #domain #MacSync #stealer #VirusTotal,https://www.virustotal.com/gui/file/32c318c59136426bcbb9fa9b80af1073beaaf52f20cede43bb713bbd76087115
 2026-03-20 22:00:15,Unknown malware,domain,komba.online,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772836/
 2026-03-20 22:00:44,Unknown malware,domain,kudasai-lzc.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772837/
-2026-03-20 12:55:41,BumbleBee,domain,l1x12ux91zhl847t.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:41,BumbleBee,domain,l2egaugl8qs26f8e.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:41,BumbleBee,domain,l7wgh93czcwqhlyt.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:41,BumbleBee,domain,l9edbk5faege7n21.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 14:21:59,ClearFake,domain,labquick.hugeflow.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773300/
+2026-03-21 08:11:18,ClearFake,domain,laneserv.protdast.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773156/
 2026-03-20 22:01:13,Unknown malware,domain,lanshenglogistics.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772838/
 2026-03-20 22:01:59,Unknown malware,domain,lauthaitv.info,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772839/
-2026-03-20 12:55:41,BumbleBee,domain,ldyjmzcr05iw7m7d.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 10:17:52,ClearFake,domain,layer-graph.officeco.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773202/
 2026-03-20 22:02:30,Unknown malware,domain,leadershipandaccountability.org,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772840/
-2026-03-20 12:55:41,BumbleBee,domain,lixml0rmmjdevp3m.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 21:03:52,ClearFake,domain,loc1proc.distributednetwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772768/
 2026-03-20 19:56:47,ClearFake,domain,loc1proc.managementresource.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772723/
+2026-03-21 17:08:02,ClearFake,domain,loc1proc.networkcontroller.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773340/
 2026-03-20 18:49:22,ClearFake,domain,loc1store.telemetryinterface.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772699/
+2026-03-21 16:00:30,ClearFake,domain,loc1sync.streamdatahandler.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773325/
 2026-03-20 20:02:30,ClearFake,domain,loc2core.managementresource.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772738/
+2026-03-21 16:06:29,ClearFake,domain,loc2data.streamdatahandler.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773328/
+2026-03-21 17:13:21,ClearFake,domain,loc2power.networkcontroller.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773341/
 2026-03-20 18:55:00,ClearFake,domain,loc2remote.telemetryinterface.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772700/
 2026-03-20 21:09:31,ClearFake,domain,loc2steel.distributednetwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772775/
 2026-03-20 21:15:20,ClearFake,domain,loc3core.distributednetwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772781/
 2026-03-20 19:00:46,ClearFake,domain,loc3dev.telemetryinterface.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772701/
+2026-03-21 16:11:53,ClearFake,domain,loc3edge.streamdatahandler.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773329/
 2026-03-20 20:08:14,ClearFake,domain,loc3ghost.managementresource.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772739/
 2026-03-20 19:06:28,ClearFake,domain,loc4link.telemetryinterface.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772704/
 2026-03-20 21:21:52,ClearFake,domain,loc4sat.distributednetwork.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772791/
+2026-03-21 16:17:23,ClearFake,domain,loc4static.streamdatahandler.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773330/
 2026-03-20 20:14:02,ClearFake,domain,loc4view.managementresource.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772740/
 2026-03-20 22:03:01,Unknown malware,domain,localy.ai,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772841/
-2026-03-20 14:50:05,Unknown malware,domain,log.6yd.ru,#Jackskid,https://github.com/deepfield/public-research/blob/main/jackskid/iocs/domains.csv
 2026-03-20 22:03:34,Unknown malware,domain,lora-marbre.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772842/
-2026-03-20 12:55:42,BumbleBee,domain,lqcyrc07p4qbblay.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:42,BumbleBee,domain,lwngj5cw8x7mfwon.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 11:18:35,ClearFake,domain,m2exc84b.oaknet.digital,#ClearFake,https://threatfox.abuse.ch/ioc/1771995/
-2026-03-20 12:55:42,BumbleBee,domain,m4rrefmo0pemjgio.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:42,BumbleBee,domain,m6ybn2a9c2upn2pw.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 14:50:05,Unknown malware,domain,mail.gokart.su,#Jackskid,https://github.com/deepfield/public-research/blob/main/jackskid/iocs/domains.csv
-2026-03-20 07:58:06,ClearFake,domain,main1infra.metrichandler.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771909/
-2026-03-20 08:06:00,ClearFake,domain,main2proxy.metrichandler.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771920/
-2026-03-20 08:13:24,ClearFake,domain,main3data.metrichandler.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771944/
-2026-03-20 08:20:36,ClearFake,domain,main4point.metrichandler.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771945/
 2026-03-20 23:52:06,Unknown Stealer,domain,malkim.com,#c2 #domain #shub #SHubStealer #stealer #VirusTotal,https://www.virustotal.com/gui/file/1645b76dd3ca77394e7293b6daf795170f923d8fee33f65372ce97a86c8be128
 2026-03-20 22:04:34,Unknown malware,domain,marigoldtuktukandcartours.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772844/
 2026-03-20 22:05:03,Unknown malware,domain,marwadentalhospital.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772845/
 2026-03-20 22:06:10,Unknown malware,domain,masjidislamiccentrejateng.id,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772846/
 2026-03-20 22:06:55,Unknown malware,domain,mataharikeadilannusantara.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772847/
-2026-03-20 12:55:42,BumbleBee,domain,mb8p3w1hsbdun26d.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 22:07:32,Unknown malware,domain,mbbsconsultants.in,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772850/
-2026-03-20 12:55:42,BumbleBee,domain,me9ves1uohydo9ps.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:09:40,ClearFake,domain,mercoreet5.doabove.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772019/
-2026-03-20 08:36:03,ClearFake,domain,merlithar1.trueslak.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771949/
-2026-03-20 09:21:59,ClearFake,domain,meta-sh0re.trueflow.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771966/
 2026-03-20 22:08:22,Unknown malware,domain,metagenixtechnologies.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772852/
-2026-03-20 13:55:51,ClearFake,domain,mewmm.trueflow.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772368/
-2026-03-20 12:55:42,BumbleBee,domain,mfhr90cqdq9ydbp0.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:42,BumbleBee,domain,mg3luabr3k3mi96a.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 13:12:33,VShell,domain,microsoft-symantec.art,#c2 #domain #VirusTotal #Vshell,https://www.virustotal.com/gui/file/0f04b091eb533d7c4d1aaf3230844d55e21dc69d94d3bacbba998c9fcdffb2fc
 2026-03-20 23:00:22,Unknown malware,domain,midiakit.gracioli.com.br,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772928/
 2026-03-20 23:59:00,Unknown Stealer,domain,mikulatur.com,#c2 #domain #shub #SHubStealer #VirusTotal,https://threatfox.abuse.ch/ioc/1772961/
 2026-03-21 00:00:08,Unknown Stealer,domain,milbiorb.com,#c2 #domain #shub #SHubStealer #VirusTotal,https://www.virustotal.com/gui/file/456429027ea732f51488ad68c02bff8d8d6d7f958d359153a6fcd020fc967e62
+2026-03-21 12:31:32,ClearFake,domain,module9-line.wifclock.in.net,#21March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1773240/
 2026-03-20 22:08:52,Unknown malware,domain,momentum-photographie.ch,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772853/
-2026-03-20 14:50:05,Unknown malware,domain,moo.6yd.ru,#Jackskid,https://github.com/deepfield/public-research/blob/main/jackskid/iocs/domains.csv
 2026-03-20 22:09:46,Unknown malware,domain,morgvenn.store,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772855/
+2026-03-21 13:28:38,Vidar,domain,msi.ssffaa3.xyz,#c2 #Vidar,https://bazaar.abuse.ch/sample/bb5ef7c60e6687d4175130216c0ea72f1d83e211d79c9c9e08882643419ea6c5/
 2026-03-21 05:19:53,ClearFake,domain,msk1infra.datacenterstream.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773120/
 2026-03-21 03:02:29,ClearFake,domain,msk1proc.endpointvalidator.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773092/
 2026-03-21 04:10:39,ClearFake,domain,msk1proc.gatewayprocessor.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773108/
@@ -434,55 +239,33 @@
 2026-03-21 05:35:44,ClearFake,domain,msk4point.datacenterstream.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773123/
 2026-03-21 02:12:38,ClearFake,domain,msk4static.distributedledger.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773049/
 2026-03-21 03:19:29,ClearFake,domain,msk4work.endpointvalidator.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773095/
-2026-03-20 12:55:42,BumbleBee,domain,mwq84th6aesixtr8.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:42,BumbleBee,domain,mxfkbjxw8ngh4dtk.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:42,BumbleBee,domain,n6s11tx9k5z7obni.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 13:36:06,SantaStealer,domain,multi-lumpur.com,#c2 #SantaStealer,https://bazaar.abuse.ch/sample/b11edd3a24a964f69149b91de17ca089c6b013865493b8955a045475e6805b7a/
 2026-03-20 23:00:55,Unknown malware,domain,napa.aumark.lt,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772931/
-2026-03-20 12:36:06,ClearFake,domain,ndakntj.currvers.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772024/
-2026-03-20 10:07:46,ClearFake,domain,nefnpr.infosafe.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771975/
-2026-03-20 08:43:47,ClearFake,domain,neo-c1iff.trueslak.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771953/
-2026-03-20 13:02:39,ClearFake,domain,neo-rnount.withregw.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772336/
+2026-03-21 08:45:19,ClearFake,domain,needlegene.respecti.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773166/
+2026-03-21 13:54:49,ClearFake,domain,neo-ch0ru5.fastchck.in.net,#21March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1773296/
+2026-03-21 14:55:02,ClearFake,domain,neuralagen.sleepbut.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773305/
 2026-03-20 22:10:45,Unknown malware,domain,newchoicecleaning.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772856/
 2026-03-20 22:11:19,Unknown malware,domain,newsglobalarena.online,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772857/
 2026-03-20 22:12:24,Unknown malware,domain,nexalab.site,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772858/
-2026-03-20 14:50:05,Unknown malware,domain,nineeleven.gokart.su,#Jackskid,https://github.com/deepfield/public-research/blob/main/jackskid/iocs/domains.csv
-2026-03-20 12:55:42,BumbleBee,domain,nj77rzyff6jp3ahe.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 13:42:08,ClearFake,domain,nlcygd.withregw.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772364/
-2026-03-20 14:50:05,Unknown malware,domain,nodes.ipmoyu.xyz,#Jackskid,https://github.com/deepfield/public-research/blob/main/jackskid/iocs/domains.csv
+2026-03-21 16:45:48,ClearFake,domain,node1store.securityframework.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773335/
+2026-03-21 16:50:57,ClearFake,domain,node2remote.securityframework.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773336/
+2026-03-21 16:56:42,ClearFake,domain,node3dev.securityframework.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773338/
+2026-03-21 17:02:05,ClearFake,domain,node4link.securityframework.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773339/
 2026-03-20 22:13:26,Unknown malware,domain,nom04.arreter.org,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772859/
-2026-03-20 13:15:47,ClearFake,domain,normarkal9.gothrough.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772354/
 2026-03-20 22:13:59,Unknown malware,domain,ns1.scienceweb.uz,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772860/
-2026-03-20 12:55:42,BumbleBee,domain,nxye7dmsdbce149s.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:42,BumbleBee,domain,o1nklafvezclxw9j.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:42,BumbleBee,domain,o1nxvlndt9056rh0.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:42,BumbleBee,domain,o9s8mm43ar94f985.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 23:50:15,Unknown Stealer,domain,obniltail.com,#c2 #domain #shub #SHubStealer #stealer,https://threatfox.abuse.ch/ioc/1772952/
-2026-03-20 14:41:22,Kimwolf,domain,oceanic-node.su,#kimwolf,https://github.com/deepfield/public-research/blob/main/reports/2026-03-20-aisuru-ecosystem.md
-2026-03-20 12:55:42,BumbleBee,domain,od4lqvqv5fqulogb.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 22:15:46,Unknown malware,domain,odaciousweb.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772862/
 2026-03-20 22:16:38,Unknown malware,domain,officecrafts.in,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772863/
-2026-03-20 15:21:43,Unknown malware,domain,okiloveyoupleasedonttouchme.net,#katana,https://github.com/deepfield/public-research/blob/main/katana/iocs/domains.csv
-2026-03-20 12:55:42,BumbleBee,domain,op089w4ltslsdru2.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 09:29:27,ClearFake,domain,opt1c8-core.capslock.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771967/
-2026-03-20 12:49:40,ClearFake,domain,opticsval.withregw.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772026/
-2026-03-20 07:27:23,ClearFake,domain,orbit1proc.terminalvariable.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771892/
-2026-03-20 07:35:04,ClearFake,domain,orbit2steel.terminalvariable.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771893/
-2026-03-20 07:42:29,ClearFake,domain,orbit3core.terminalvariable.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771896/
-2026-03-20 07:50:12,ClearFake,domain,orbit4sat.terminalvariable.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771897/
 2026-03-20 23:01:25,Unknown malware,domain,orientwaterservices.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772932/
 2026-03-20 22:18:10,Unknown malware,domain,orthrex.co.uk,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772865/
 2026-03-21 06:39:59,ClearFake,domain,ottesurvey.woodflo.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773133/
-2026-03-20 12:55:42,BumbleBee,domain,oudl8i83dmqh92sl.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-21 05:50:37,ClearFake,domain,our.datacenterstream.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773124/
 2026-03-20 22:17:54,Unknown malware,domain,overloz.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772864/
-2026-03-20 12:55:42,BumbleBee,domain,p4by2xtgec1l6htd.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:42,BumbleBee,domain,paphsaj7ulic6nuu.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:42,BumbleBee,domain,paz2g9np1g0uxfkm.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:42,BumbleBee,domain,pchxpdrr4xknnzz0.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:42,BumbleBee,domain,pdc4bzedgs5yoqjl.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 14:50:05,Unknown malware,domain,peer.ipmoyu.xyz,#Jackskid,https://github.com/deepfield/public-research/blob/main/jackskid/iocs/domains.csv
+2026-03-21 07:49:46,ClearFake,domain,p01nt.logicflowmanager.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773146/
+2026-03-21 10:37:57,ClearFake,domain,p4st-logic.fileost.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773213/
+2026-03-21 15:55:00,ClearFake,domain,partne2-field.grovopen.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773323/
+2026-03-21 11:58:04,ClearFake,domain,ph0t7-scope.clocknet.in.net,#21March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1773231/
 2026-03-20 23:02:03,Unknown malware,domain,pizza.rakibx.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772934/
-2026-03-20 12:55:43,BumbleBee,domain,pltwl64fxtgsx0q8.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 19:34:36,ClearFake,domain,pnt1infra.diagnosticendpoint.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772719/
 2026-03-20 18:27:14,ClearFake,domain,pnt1meta.infrastructurecloud.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772691/
 2026-03-20 20:41:23,ClearFake,domain,pnt1proc.connectivitybuffer.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772746/
@@ -495,43 +278,30 @@
 2026-03-20 19:51:08,ClearFake,domain,pnt4link.diagnosticendpoint.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772722/
 2026-03-20 20:58:52,ClearFake,domain,pnt4space.connectivitybuffer.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772762/
 2026-03-20 18:44:15,ClearFake,domain,pnt4sync.infrastructurecloud.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772698/
+2026-03-21 07:24:59,ClearFake,domain,pol4-zone.botslap.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773141/
 2026-03-20 22:18:43,Unknown malware,domain,pop.acnemgu.uz,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772866/
-2026-03-20 14:36:41,SmartApeSG,domain,poqwserty.com,#SmartApeSG,https://infosec.exchange/@monitorsg/116261812465707164
-2026-03-20 13:59:59,Vidar,domain,pr1.codetohaven.com,#Vidar,https://threatfox.abuse.ch/ioc/1772371/
-2026-03-20 13:59:59,Vidar,domain,pr2.codetohaven.com,#Vidar,https://threatfox.abuse.ch/ioc/1772372/
 2026-03-20 23:02:43,Unknown malware,domain,primehireinc.in,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772935/
+2026-03-21 07:45:03,ClearFake,domain,proc.networkoptimizer.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773145/
 2026-03-20 22:19:55,Unknown malware,domain,promojackgacor.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772867/
 2026-03-20 22:20:27,Unknown malware,domain,promosijack.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772868/
-2026-03-20 13:09:18,ClearFake,domain,proto-h4ul.withregw.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772345/
-2026-03-20 10:15:27,ClearFake,domain,proto-patt3r.infosafe.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771976/
-2026-03-20 12:55:43,BumbleBee,domain,psk3r0ase4rzb50m.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 10:25:48,Unknown Loader,domain,prosetoothbrush.xyz,#OffLoader,https://threatfox.abuse.ch/ioc/1773207/
 2026-03-20 22:20:58,Unknown malware,domain,ptemanage.online,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772869/
-2026-03-20 12:55:43,BumbleBee,domain,pz58f4m1i4ljr8uv.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:43,BumbleBee,domain,pzelo55rhqhjba0p.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:43,BumbleBee,domain,q8cem5r66oiitweo.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:43,BumbleBee,domain,q8urnetyeo6es5m1.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:43,BumbleBee,domain,qaz0h1h5ug8mgdgp.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 10:31:05,ClearFake,domain,qczcgd.plotsafe.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771986/
-2026-03-20 12:55:43,BumbleBee,domain,qdg68nlrgucr6swd.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:43,BumbleBee,domain,qe2ehp8fqs8ndyd5.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:43,BumbleBee,domain,qngtmk23fjxew27p.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:43,BumbleBee,domain,qrxdkw2fmmbzda02.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:43,BumbleBee,domain,r53hilpf6h4b88r0.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:43,BumbleBee,domain,r686u6oelujdr2lv.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:43,BumbleBee,domain,r6nclg5byo5zv8of.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 10:31:30,ClearFake,domain,qu3ry-glow.fileost.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773212/
+2026-03-21 14:35:08,ClearFake,domain,quorcoreet.sleepbut.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773302/
+2026-03-21 08:03:28,ClearFake,domain,quot-hidd.protdast.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773155/
+2026-03-21 12:11:09,ClearFake,domain,ra118-beam.wifclock.in.net,#21March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1773238/
 2026-03-20 22:22:08,Unknown malware,domain,rajgharanacentral.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772871/
 2026-03-20 22:22:36,Unknown malware,domain,ramjharokhakailashdham.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772872/
 2026-03-20 22:23:09,Unknown malware,domain,rapthoitranggali.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772873/
-2026-03-20 11:16:17,ClearFake,domain,rav3n-span.gothrough.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771994/
-2026-03-20 12:43:12,ClearFake,domain,ravenreview.currvers.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772025/
 2026-03-20 22:23:46,Unknown malware,domain,raysimmigration.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772874/
-2026-03-20 12:55:43,BumbleBee,domain,rdv2slcujtsiga6c.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 12:37:46,ClearFake,domain,rbqat.packetup.in.net,#21March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1773241/
 2026-03-20 22:24:16,Unknown malware,domain,recantonovohorizonte.com.br,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772875/
-2026-03-20 12:02:51,ClearFake,domain,reef-dat.doabove.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772018/
-2026-03-20 12:55:43,BumbleBee,domain,regev2znv7dlajow.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 23:03:08,Unknown malware,domain,reklamasmaja.lv,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772936/
+2026-03-21 07:59:19,ClearFake,domain,rela-labe.protdast.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773148/
 2026-03-20 19:06:17,Unknown malware,domain,rememberer.digital,#ClickFix #macOS,https://threatfox.abuse.ch/ioc/1772703/
 2026-03-20 22:24:44,Unknown malware,domain,remoteworkadvicer.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772876/
+2026-03-21 10:44:35,ClearFake,domain,reportobserve.fileost.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773214/
+2026-03-21 10:20:01,NetSupportManager RAT,domain,repost.punto-viva.info,#dropped-by-ACRStealer,https://bazaar.abuse.ch/sample/153818521e7c5e6dd8c0b1c9f2b48e14d8634f132a57ccc7b98e881702804c20/
 2026-03-20 21:26:17,ClearFake,domain,res1infra.applicationservice.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772794/
 2026-03-20 20:19:26,ClearFake,domain,res1proc.operationalgateway.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772741/
 2026-03-20 19:12:05,ClearFake,domain,res1proc.platformcontroller.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772705/
@@ -546,14 +316,14 @@
 2026-03-20 20:30:23,ClearFake,domain,res3view.operationalgateway.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772743/
 2026-03-20 20:36:04,ClearFake,domain,res4path.operationalgateway.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772744/
 2026-03-20 21:42:47,ClearFake,domain,res4point.applicationservice.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772814/
-2026-03-20 18:22:10,ClearFake,domain,res4static.analyticsprocessing.in.net,#20March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1772690/
+2026-03-21 08:33:55,ClearFake,domain,res4static.analyticsprocessing.in.net,#20March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1772690/
 2026-03-20 19:28:57,ClearFake,domain,res4work.platformcontroller.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772715/
-2026-03-20 12:55:43,BumbleBee,domain,rf3dcvusu94bl78k.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 14:50:05,Unknown malware,domain,ricocaseagainst.rebirth.st,#Jackskid,https://github.com/deepfield/public-research/blob/main/jackskid/iocs/domains.csv
+2026-03-21 14:28:25,ClearFake,domain,riv3r-sheet.sleepbut.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773301/
 2026-03-20 22:25:52,Unknown malware,domain,rmrcleaningservices.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772877/
+2026-03-21 07:19:16,ClearFake,domain,rockreef.regwan.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773140/
 2026-03-20 22:26:38,Unknown malware,domain,rootandwisdomllc.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772878/
 2026-03-20 22:27:10,Unknown malware,domain,roundcube.hollin.es,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772880/
-2026-03-20 10:31:46,Unknown malware,domain,rpc-cloud.beer,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1771987/
+2026-03-21 15:00:22,Quasar RAT,domain,rpi.uk.com,#quasar,https://tria.ge/260321-p8yg4agt6l
 2026-03-21 03:25:12,ClearFake,domain,rt1infra.protocolanalyzer.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773096/
 2026-03-21 02:17:39,ClearFake,domain,rt1meta.integritychecker.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773050/
 2026-03-21 04:34:08,ClearFake,domain,rt1proc.terminalobserver.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773112/
@@ -566,89 +336,65 @@
 2026-03-21 03:42:04,ClearFake,domain,rt4link.protocolanalyzer.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773100/
 2026-03-21 04:51:06,ClearFake,domain,rt4space.terminalobserver.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773115/
 2026-03-21 02:34:47,ClearFake,domain,rt4sync.integritychecker.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773087/
-2026-03-20 12:55:43,BumbleBee,domain,rt642hmhgx3u6hk2.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 22:27:51,Unknown malware,domain,ruhalattar.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772881/
-2026-03-20 07:58:16,SantaStealer,domain,runniggerniggernigger.run,#SantaStealer,https://bazaar.abuse.ch/sample/825403678f778a98132341bfbac1c3c0da1ec2cc1ea1d637a253c2511c008022/
+2026-03-21 11:24:24,ClearFake,domain,runwa1-path.getverif.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773225/
 2026-03-20 18:01:53,Quasar RAT,domain,rvu.uk.com,#c2 #domain #quasar #RAT #triage,https://tria.ge/260320-vrzlqabz8m
-2026-03-20 12:55:43,BumbleBee,domain,rysx0hjsl2vpzcc7.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 14:14:10,ClearFake,domain,s1gna1-track.plotsafe.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772376/
-2026-03-20 12:55:43,BumbleBee,domain,s2s72c9n0k31rrvx.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 22:28:20,Unknown malware,domain,s8s.live,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772882/
 2026-03-20 22:28:53,Unknown malware,domain,s8y.top,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772883/
-2026-03-20 12:55:43,BumbleBee,domain,s9et2p4175pskvhb.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 23:03:39,Unknown malware,domain,satyssal.com.dentaline.mx,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772937/
+2026-03-21 11:00:22,Quasar RAT,domain,sc8888.beauty,#quasar,https://tria.ge/260321-k94y2scs5q
 2026-03-20 22:29:56,Unknown malware,domain,schreinernotdienst.de,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772884/
-2026-03-20 12:55:43,BumbleBee,domain,scpz5ztq9trm3fey.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 08:11:56,Unknown malware,domain,security-check.cloudprotectws.workers.dev,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1771942/
-2026-03-20 13:48:44,ClearFake,domain,sensorsupp.trueslak.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772365/
+2026-03-21 07:13:42,ClearFake,domain,secur-grid.yardnext.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773139/
+2026-03-21 08:58:24,ClearFake,domain,secureswift.respecti.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773169/
 2026-03-20 22:30:30,Unknown malware,domain,servicemycaruae.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772885/
-2026-03-20 12:55:43,BumbleBee,domain,sg1upflnvfvi11sp.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:43,BumbleBee,domain,sh2r4y36ka60377l.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 11:17:59,ClearFake,domain,shad-wave.temprock.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773224/
+2026-03-21 06:51:10,ClearFake,domain,shellgather.vouayger.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773135/
 2026-03-20 22:31:10,Unknown malware,domain,shiridisaibabacontractors.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772886/
+2026-03-21 15:04:51,ClearFake,domain,silenparser.deepglom.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773313/
 2026-03-20 22:31:36,Unknown malware,domain,sinobazaar.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772887/
-2026-03-20 15:01:57,XWorm,domain,sinpidorasa228nixware-44719.portmap.host,#XWorm,https://tria.ge/260320-pbad1afy5n
 2026-03-20 22:32:06,Unknown malware,domain,skbibrassvalveinternational.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772888/
 2026-03-20 22:32:36,Unknown malware,domain,skyballoondecorations.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772890/
-2026-03-20 08:53:00,Unknown Stealer,domain,sluttiest.space,#c2 #SluttyStealer,https://bazaar.abuse.ch/sample/f31dcba623e524a41cd1bcadb793601428a003e735fb47db6fa60ae3c5cd9024/
 2026-03-20 22:33:03,Unknown malware,domain,smlgardenia.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772891/
 2026-03-20 22:33:33,Unknown malware,domain,smtp.hollin.es,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772892/
+2026-03-21 12:04:56,ClearFake,domain,snap2-phase.clocknet.in.net,#21March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1773237/
+2026-03-21 13:48:09,ClearFake,domain,snow-expos.fastchck.in.net,#21March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1773295/
 2026-03-20 23:04:09,Unknown malware,domain,sojainnova.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772938/
-2026-03-20 09:06:52,ClearFake,domain,solcorea.trueflow.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771964/
+2026-03-21 09:05:11,ClearFake,domain,sollithal.respecti.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773170/
 2026-03-20 22:34:06,Unknown malware,domain,soltecinstalaciones.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772893/
-2026-03-20 10:23:12,ClearFake,domain,soltideis9.infosafe.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771977/
 2026-03-20 22:34:58,Unknown malware,domain,sotren-ci.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772894/
+2026-03-21 15:25:24,ClearFake,domain,spectrumdaemon.deepglom.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773316/
 2026-03-20 22:35:40,Unknown malware,domain,srssadan.org,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772895/
-2026-03-20 10:53:40,ClearFake,domain,streamglo.plotsafe.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771991/
-2026-03-20 11:01:39,ClearFake,domain,streamnoble.gothrough.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771992/
-2026-03-20 14:42:36,Unknown malware,domain,stun.kamru.ru,#Cecilio #Jackskid #MossadProxy,https://github.com/deepfield/public-research/blob/main/mossadproxy/iocs/domains.csv#L2
-2026-03-20 09:14:05,ClearFake,domain,summeinn.trueflow.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771965/
+2026-03-21 16:23:11,ClearFake,domain,srv1meta.cloudinfrastructure.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773331/
+2026-03-21 16:28:47,ClearFake,domain,srv2proc.cloudinfrastructure.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773332/
+2026-03-21 16:34:00,ClearFake,domain,srv3gate.cloudinfrastructure.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773333/
+2026-03-21 16:39:55,ClearFake,domain,srv4sync.cloudinfrastructure.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773334/
+2026-03-21 14:41:30,ClearFake,domain,str3-scope.sleepbut.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773303/
+2026-03-21 13:41:17,ClearFake,domain,studiocri.fastchck.in.net,#21March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1773293/
 2026-03-20 22:36:14,Unknown malware,domain,sunkorb.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772896/
 2026-03-20 22:36:57,Unknown malware,domain,suntechautoproduct.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772897/
 2026-03-20 22:37:26,Unknown malware,domain,susichems.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772898/
-2026-03-20 12:55:44,BumbleBee,domain,t59es3znyxvgm6ty.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:44,BumbleBee,domain,t85qfg8d4j25k6aa.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 08:59:13,ClearFake,domain,taldraen.trueflow.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771962/
+2026-03-21 14:59:01,ClearFake,domain,sxiy.deepglom.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773306/
+2026-03-21 14:01:25,ClearFake,domain,taltideor.fastchck.in.net,#21March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1773297/
 2026-03-20 22:37:55,Unknown malware,domain,taxingtimes.pk,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772899/
 2026-03-20 22:38:25,Unknown malware,domain,tazzafresh.shop,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772901/
 2026-03-20 22:38:52,Unknown malware,domain,tczainul.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772902/
 2026-03-20 22:39:57,Unknown malware,domain,techrify.site,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772903/
 2026-03-20 22:07:29,Unknown Stealer,domain,telpoosh.com,#c2 #domain #MacSync #stealer,https://threatfox.abuse.ch/ioc/1772849/
-2026-03-20 12:55:44,BumbleBee,domain,tfo21v2zbb3b2m2u.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:44,BumbleBee,domain,tfzikpxuwvpmb14s.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 22:40:33,Unknown malware,domain,thealeway.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772904/
 2026-03-20 22:41:55,Unknown malware,domain,timelessaperture.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772905/
-2026-03-20 12:55:44,BumbleBee,domain,tk0mqqvqzjunlyv6.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:44,BumbleBee,domain,tl55nh0nm7fznoyz.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:44,BumbleBee,domain,tmtmmhismoo8ww4h.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:44,BumbleBee,domain,tmxajy6mycdsuyx4.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 22:42:24,Unknown malware,domain,totalcured.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772906/
-2026-03-20 12:55:44,BumbleBee,domain,tqsfd610rahywd34.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:44,BumbleBee,domain,tquejdp5g289wfn7.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 13:29:14,ClearFake,domain,trac-glade.doabove.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772359/
-2026-03-20 12:16:19,ClearFake,domain,trilineix.doabove.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772020/
-2026-03-20 12:55:44,BumbleBee,domain,u0cjwwto0x0i7rpj.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:44,BumbleBee,domain,uajonkw0oop4x45q.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:44,BumbleBee,domain,uem3xffast8753gy.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 09:44:46,ClearFake,domain,trail1-grid.worldcla.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773183/
+2026-03-21 14:16:27,ClearFake,domain,trancampai.hugeflow.in.net,#21March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1773299/
+2026-03-21 09:58:30,ClearFake,domain,trivaleum7.worldcla.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773185/
+2026-03-21 10:11:30,ClearFake,domain,ts9qv.officeco.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773201/
 2026-03-21 06:13:18,ClearFake,domain,uf0t.scrollnft.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773130/
-2026-03-20 12:55:44,BumbleBee,domain,ugww0ojejof6upab.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:44,BumbleBee,domain,uiwzxer0kpdsxtyu.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:44,BumbleBee,domain,ule230o1r2kxcf2i.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 08:51:41,ClearFake,domain,umhbryzn.respecti.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773168/
 2026-03-20 22:43:01,Unknown malware,domain,uniglobeluxe.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772907/
-2026-03-20 12:55:44,BumbleBee,domain,upvk7cnfwhdb6bna.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 11:19:24,ClearFake,domain,uwor76f8.oaknet.digital,#ClearFake,https://threatfox.abuse.ch/ioc/1771996/
-2026-03-20 12:55:44,BumbleBee,domain,uzt89w0knf3hvzwp.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:44,BumbleBee,domain,v1mv41yoj46qhq9y.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:44,BumbleBee,domain,v2v55lxssl516e3n.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:44,BumbleBee,domain,v3tvcchonrbwtvw8.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:44,BumbleBee,domain,v5b5d30ubl8dd4x7.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:44,BumbleBee,domain,v6a3wgi1ho29r1yb.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 11:37:53,ClearFake,domain,unl25bit.getverif.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773227/
+2026-03-21 10:20:01,NetSupportManager RAT,domain,unwitting.fluxobase.info,#dropped-by-ACRStealer,https://bazaar.abuse.ch/sample/153818521e7c5e6dd8c0b1c9f2b48e14d8634f132a57ccc7b98e881702804c20/
+2026-03-21 07:02:42,ClearFake,domain,vale-flow.devopsn.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773137/
 2026-03-21 06:07:39,ClearFake,domain,validat-gri.tatneft.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773129/
-2026-03-20 12:55:44,BumbleBee,domain,vau4y8n8d1v8teq7.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 23:05:29,Unknown malware,domain,vestaland.vn,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772939/
-2026-03-20 11:49:55,ClearFake,domain,visualfier.dombove.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772004/
-2026-03-20 12:55:44,BumbleBee,domain,vj1g2myghuxilr93.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:45,BumbleBee,domain,vjfy2k8sf967aqf3.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:45,BumbleBee,domain,vkd21pze579othkp.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-21 01:14:31,ClearFake,domain,vld1infra.logicflowmanager.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773004/
 2026-03-20 23:00:27,ClearFake,domain,vld1proc.dataintegritynet.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772929/
 2026-03-21 00:07:25,ClearFake,domain,vld1proc.dynamictelemetry.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772977/
@@ -665,84 +411,23 @@
 2026-03-21 01:31:28,ClearFake,domain,vld4point.logicflowmanager.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773043/
 2026-03-20 22:09:44,ClearFake,domain,vld4static.cyberneticsystems.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772854/
 2026-03-20 23:16:51,ClearFake,domain,vld4work.dataintegritynet.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772945/
-2026-03-20 15:49:59,ClearFake,domain,vol1infra.diagnosticresource.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772647/
-2026-03-20 14:42:29,ClearFake,domain,vol1meta.infrastructurebase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772382/
-2026-03-20 16:57:12,ClearFake,domain,vol1proc.connectivitynode.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772668/
-2026-03-20 15:55:17,ClearFake,domain,vol2base.diagnosticresource.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772648/
-2026-03-20 17:02:38,ClearFake,domain,vol2outer.connectivitynode.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772669/
-2026-03-20 14:48:27,ClearFake,domain,vol2proc.infrastructurebase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772399/
-2026-03-20 17:08:22,ClearFake,domain,vol3field.connectivitynode.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772670/
-2026-03-20 14:53:40,ClearFake,domain,vol3gate.infrastructurebase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772418/
-2026-03-20 16:01:20,ClearFake,domain,vol3user.diagnosticresource.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772655/
-2026-03-20 16:06:25,ClearFake,domain,vol4link.diagnosticresource.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772657/
-2026-03-20 17:13:38,ClearFake,domain,vol4space.connectivitynode.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772671/
-2026-03-20 14:59:06,ClearFake,domain,vol4sync.infrastructurebase.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1772419/
-2026-03-20 12:55:45,BumbleBee,domain,vplcer6sdtgm0vhu.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:45,BumbleBee,domain,vq5x5ronelja0ilf.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:45,BumbleBee,domain,vrxmdrozbzcjjoku.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:45,BumbleBee,domain,vtjfpz12q51y4qb5.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:45,BumbleBee,domain,vvsf6fdk396ngitm.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:45,BumbleBee,domain,w00m6sh95nn7wui3.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:45,BumbleBee,domain,w1zlq6gzp6hlhnuw.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:45,BumbleBee,domain,w8rszhvj58pl5lyg.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 22:45:18,Unknown malware,domain,way2ananda.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772909/
-2026-03-20 12:55:45,BumbleBee,domain,wb9yxf1rj6zoun7w.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 23:06:04,Unknown malware,domain,wbgenterprises.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772941/
-2026-03-20 12:55:45,BumbleBee,domain,wbwg2gbw5csc8hxy.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:45,BumbleBee,domain,wcy8g0i753cd1gcg.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-21 05:56:01,ClearFake,domain,web3.terminalobserver.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773125/
 2026-03-20 22:46:03,Unknown malware,domain,webmayorbet.net,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772910/
-2026-03-20 14:42:36,Unknown malware,domain,whitebluerights.com,#Cecilio #Jackskid #MossadProxy,https://github.com/deepfield/public-research/blob/main/mossadproxy/iocs/domains.csv#L2
 2026-03-20 22:46:48,Unknown malware,domain,windinnovationcorp.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772911/
 2026-03-20 22:47:20,Unknown malware,domain,withakhi.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772912/
-2026-03-20 12:55:45,BumbleBee,domain,wjhc5uqb3nine0qv.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:45,BumbleBee,domain,woktsxabxdz5hx3f.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
 2026-03-20 22:47:50,Unknown malware,domain,wpjunior.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772913/
-2026-03-20 12:55:45,BumbleBee,domain,wrorxvg78anyad6a.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 08:53:00,Unknown Stealer,domain,ws.sluttiest.space,#c2 #SluttyStealer,https://bazaar.abuse.ch/sample/f31dcba623e524a41cd1bcadb793601428a003e735fb47db6fa60ae3c5cd9024/
-2026-03-20 14:50:05,Unknown malware,domain,www.jacob-butler.gay,#Jackskid,https://github.com/deepfield/public-research/blob/main/jackskid/iocs/domains.csv
-2026-03-20 14:50:05,Unknown malware,domain,www.plane.cat,#Jackskid,https://github.com/deepfield/public-research/blob/main/jackskid/iocs/domains.csv
-2026-03-20 14:50:05,Unknown malware,domain,www.richylam.org,#Jackskid,https://github.com/deepfield/public-research/blob/main/jackskid/iocs/domains.csv
-2026-03-20 14:50:05,Unknown malware,domain,www.sendtuna.com,#Jackskid,https://github.com/deepfield/public-research/blob/main/jackskid/iocs/domains.csv
-2026-03-20 12:55:45,BumbleBee,domain,x0p7kv4g5g27h7to.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:45,BumbleBee,domain,x0uqt2z1s1adreap.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:45,BumbleBee,domain,x1jyj3xw0pwn38fy.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:45,BumbleBee,domain,xc1u9iew5p5wwujn.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 15:13:07,Aisuru,domain,xorisapedophile.st,#AISURU,https://github.com/deepfield/public-research/blob/main/aisuru/iocs/domains.csv
-2026-03-20 12:55:45,BumbleBee,domain,xr2vok4wlfbjb4g2.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:45,BumbleBee,domain,xswip44buigglwh5.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,xupragg3oyhud518.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,xxv5x71fpix4x4n1.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,xzdi55gfty1htxws.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,y061ibgpmwll88fb.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,y3owev2nvpl43ca0.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,y6g4fzufsx0dgopg.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,y7dcrc1ssuhvpzm4.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,y9jsk67vga4hw300.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,yes32yd26zwgq812.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,yes6oiz567h91njb.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,yk584ex1o2y7fa19.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,yl3u1wwoibxg8uul.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,ylcg0lq9ocihdokp.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,ylnw5hcig43o1qqx.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,ymph3huz67v89ib6.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,ynrev2a66l0o3zaa.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
+2026-03-21 07:35:50,ClearFake,domain,xgj9.fotestat.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773143/
+2026-03-21 09:38:10,ClearFake,domain,xmr14.worldcla.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773180/
+2026-03-21 08:19:16,ClearFake,domain,xpj5ocpo.way2dot.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773162/
+2026-03-21 15:18:41,ClearFake,domain,xpm713mg.deepglom.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773315/
+2026-03-21 10:57:40,ClearFake,domain,xxkvm5.temprock.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773216/
 2026-03-20 23:07:07,Unknown malware,domain,yourquranjourney.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772942/
 2026-03-21 06:02:07,ClearFake,domain,ytp1swow.fotestat.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773126/
-2026-03-20 12:55:46,BumbleBee,domain,yx6cthzi9ohzi380.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,yyt7aj0nk2mgr81z.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,z1lmg5dds3x0lx6n.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,z26ub6kjh7u7vb13.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,z8lvnz1pecipfrk5.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,z92dh2osmlio3fxh.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,z9bpmqkhekmk2yje.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:46,BumbleBee,domain,za0994spazvcyo39.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 08:51:18,ClearFake,domain,za7lvsc.trueslak.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1771954/
+2026-03-21 07:30:20,ClearFake,domain,yu4n.bonflac.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773142/
+2026-03-21 15:37:58,ClearFake,domain,z5odl9.grovopen.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773319/
 2026-03-20 23:07:33,Unknown malware,domain,zaparovani.com,#ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1772943/
-2026-03-20 12:55:47,BumbleBee,domain,zbcsp5h72z9x1x3m.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 14:36:36,KongTuke,domain,zeftasarim.com,#Kongtuke,https://infosec.exchange/@monitorsg/116261655502680456
-2026-03-20 12:55:47,BumbleBee,domain,zkv149tv7pg40mez.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:47,BumbleBee,domain,zmcaavmjjweodvcf.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 12:55:47,BumbleBee,domain,zmzk2dyqak0lcsej.org,#BUMBLEBEE,https://bazaar.abuse.ch/sample/0c9569cf1f8592b1e60e81d2bede54ca33a228955696b6d996e8cc0f7ff09732/
-2026-03-20 07:54:53,Vidar,domain,zyp.ssffaa3.xyz,#Vidar,https://threatfox.abuse.ch/ioc/1771907/
-2026-03-20 07:54:53,Vidar,domain,zyp.swadeshcomputer.com,#Vidar,https://threatfox.abuse.ch/ioc/1771906/
+2026-03-21 09:18:32,ClearFake,domain,zen-lineis.bravevro.in.net,#ClearFake,https://threatfox.abuse.ch/ioc/1773177/
+2026-03-21 13:27:27,ClearFake,domain,zen-tideor.packetup.in.net,#21March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1773255/
+2026-03-21 12:24:48,ClearFake,domain,zenlithet.wifclock.in.net,#21March2026 #ClearFake #Commandline #Windows,https://threatfox.abuse.ch/ioc/1773239/
