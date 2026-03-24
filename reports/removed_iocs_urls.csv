@@ -1,0 +1,9 @@
+# Removed IOCs — removed_iocs_urls.csv
+# Run     : 2026-03-24 07:05:51 UTC
+# Action  : SIEM should remove these entries from database
+#
+ioc,reason
+https://fsdfsodfofofosdof.com/daskdak.js,Dropped below 1-source threshold
+https://maklomir.com,Dropped below 1-source threshold
+https://maxintora.com/lampas,Dropped below 1-source threshold
+https://shopattotalwrap.com/wp-blog-footer.php?page=,Dropped below 1-source threshold

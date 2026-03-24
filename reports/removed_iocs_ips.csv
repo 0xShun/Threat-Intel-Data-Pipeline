@@ -1,0 +1,15 @@
+# Removed IOCs — removed_iocs_ips.csv
+# Run     : 2026-03-24 07:05:51 UTC
+# Action  : SIEM should remove these entries from database
+#
+ioc,reason
+103.117.120.98,Dropped below 1-source threshold
+103.83.86.16,Dropped below 1-source threshold
+115.191.25.159,Dropped below 1-source threshold
+159.223.49.205,Dropped below 1-source threshold
+165.22.240.193,Dropped below 1-source threshold
+176.65.150.25,Dropped below 1-source threshold
+46.151.182.19,Dropped below 1-source threshold
+62.60.226.183,Dropped below 1-source threshold
+8.130.69.64,Dropped below 1-source threshold
+82.153.138.171,Dropped below 1-source threshold

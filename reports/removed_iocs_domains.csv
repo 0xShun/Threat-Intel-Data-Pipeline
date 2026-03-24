@@ -1,0 +1,14 @@
+# Removed IOCs — removed_iocs_domains.csv
+# Run     : 2026-03-24 07:05:51 UTC
+# Action  : SIEM should remove these entries from database
+#
+ioc,reason
+daemonraven.flint-haze.in.net,Dropped below 1-source threshold
+fsdfsodfofofosdof.com,Dropped below 1-source threshold
+maklomir.com,Dropped below 1-source threshold
+maxintora.com,Dropped below 1-source threshold
+normesh1ex.tr1bekit.in.net,Dropped below 1-source threshold
+qovrentina.com,Dropped below 1-source threshold
+shbets800.com,Dropped below 1-source threshold
+smarlog.vexmoor.in.net,Dropped below 1-source threshold
+wexalrivo.com,Dropped below 1-source threshold
