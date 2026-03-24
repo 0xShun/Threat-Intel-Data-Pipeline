@@ -24,14 +24,39 @@ MIN_CONFIDENCE_SOURCES = 2
 OUTPUT_DIR = "reports"
 
 iocs = {
-    "virustotal": defaultdict(set),
-    "abuseipdb":  defaultdict(set),
-    "otx":        {"ips": set(), "hashes": set(), "urls": [], "domains": []},
-    "threatfox":   {"ips": set(), "urls": [], "domains": []},
-    "shodan":     defaultdict(set),
-    "urlhaus":    {"urls": []},
+    "virustotal":    defaultdict(set),
+    "abuseipdb":     defaultdict(set),
+    "otx":           {"ips": set(), "hashes": set(), "urls": [], "domains": []},
+    "threatfox":     {"ips": set(), "urls": [], "domains": []},
+    "shodan":        defaultdict(set),
+    "urlhaus":       {"urls": []},
     "malwarebazaar": defaultdict(set),
 }
+
+# ---------------------------------------------------------------------------
+# Source-level failover tracking
+# ---------------------------------------------------------------------------
+
+# Possible statuses: "pending" | "ok" | "failed" | "skipped"
+source_status = {
+    "virustotal":    {"status": "pending", "error": None},
+    "abuseipdb":     {"status": "pending", "error": None},
+    "otx":           {"status": "pending", "error": None},
+    "shodan":        {"status": "pending", "error": None},
+    "urlhaus":       {"status": "pending", "error": None},
+    "threatfox":     {"status": "pending", "error": None},
+    "malwarebazaar": {"status": "pending", "error": None},
+}
+
+
+def mark_source(source, status, error=None):
+    """Record the outcome of a fetch attempt for a given source."""
+    source_status[source]["status"] = status
+    source_status[source]["error"]  = error
+    if status == "failed":
+        log(source.upper(), f"[FAILOVER] Source marked as FAILED — {error}")
+    elif status == "skipped":
+        log(source.upper(), f"[FAILOVER] Source marked as SKIPPED (API key not set)")
 
 def log(source, msg):
     ts = datetime.now(timezone.utc).strftime("%H:%M:%S")
@@ -123,6 +148,7 @@ def save_all():
 def fetch_virustotal():
     if not VT_API_KEY:
         log("VT", "Skipped — VT_API_KEY not set")
+        mark_source("virustotal", "skipped")
         return
 
     headers = {"x-apikey": VT_API_KEY}
@@ -133,6 +159,7 @@ def fetch_virustotal():
         ("https://www.virustotal.com/api/v3/feeds/urls",         "urls"),
     ]
 
+    feed_errors = []
     for feed_url, ioc_type in feeds:
         try:
             resp = requests.get(
@@ -149,13 +176,29 @@ def fetch_virustotal():
                     iocs["virustotal"][ioc_type].add(val)
             log("VT", f"{ioc_type} feed → {len(iocs['virustotal'][ioc_type])} IOCs")
         except requests.HTTPError as e:
-            log("VT", f"{ioc_type} HTTP {e.response.status_code}: {e.response.text[:120]}")
+            err = f"{ioc_type} HTTP {e.response.status_code}: {e.response.text[:120]}"
+            log("VT", err)
+            feed_errors.append(err)
         except Exception as e:
-            log("VT", f"{ioc_type} error: {e}")
+            err = f"{ioc_type} error: {e}"
+            log("VT", err)
+            feed_errors.append(err)
+
+    if feed_errors and len(feed_errors) == len(feeds):
+        # Every feed failed — no usable VT data at all
+        mark_source("virustotal", "failed", "; ".join(feed_errors))
+    elif feed_errors:
+        # Some feeds succeeded; collected data is still valid for scoring
+        log("VT", f"WARNING: {len(feed_errors)}/{len(feeds)} feed(s) had errors — "
+                   f"partial VT data will still be scored")
+        mark_source("virustotal", "ok")
+    else:
+        mark_source("virustotal", "ok")
 
 def fetch_abuseipdb():
     if not ABUSEIPDB_KEY:
         log("AbuseIPDB", "Skipped — ABUSEIPDB_KEY not set")
+        mark_source("abuseipdb", "skipped")
         return
 
     try:
@@ -175,14 +218,19 @@ def fetch_abuseipdb():
                 iocs["abuseipdb"]["ips"].add(ip)
         log("AbuseIPDB", f"ips → {len(iocs['abuseipdb']['ips'])} IOCs "
                          f"(confidence >= {ABUSEIPDB_MIN_CONFIDENCE})")
+        mark_source("abuseipdb", "ok")
     except requests.HTTPError as e:
-        log("AbuseIPDB", f"HTTP {e.response.status_code}: {e.response.text[:120]}")
+        err = f"HTTP {e.response.status_code}: {e.response.text[:120]}"
+        log("AbuseIPDB", err)
+        mark_source("abuseipdb", "failed", err)
     except Exception as e:
         log("AbuseIPDB", f"Error: {e}")
+        mark_source("abuseipdb", "failed", str(e))
 
 def fetch_otx():
     if not OTX_API_KEY:
         log("OTX", "Skipped — OTX_API_KEY not set")
+        mark_source("otx", "skipped")
         return
 
     OTX_TYPE_MAP = {
@@ -252,15 +300,20 @@ def fetch_otx():
         totals = {t: len(v) for t, v in iocs["otx"].items()}
         log("OTX", f"IPs={totals.get('ips',0)}  Hashes={totals.get('hashes',0)}  "
                    f"Domains={totals.get('domains',0)}  URLs={totals.get('urls',0)}")
+        mark_source("otx", "ok")
 
     except requests.HTTPError as e:
-        log("OTX", f"HTTP {e.response.status_code}: {e.response.text[:120]}")
+        err = f"HTTP {e.response.status_code}: {e.response.text[:120]}"
+        log("OTX", err)
+        mark_source("otx", "failed", err)
     except Exception as e:
         log("OTX", f"Error: {e}")
+        mark_source("otx", "failed", str(e))
 
 def fetch_shodan():
     if not SHODAN_API_KEY:
         log("Shodan", "Skipped — SHODAN_API_KEY not set")
+        mark_source("shodan", "skipped")
         return
 
     try:
@@ -279,14 +332,19 @@ def fetch_shodan():
             if ip:
                 iocs["shodan"]["ips"].add(ip)
         log("Shodan", f"ips → {len(iocs['shodan']['ips'])} IOCs (query: '{SHODAN_QUERY}')")
+        mark_source("shodan", "ok")
     except requests.HTTPError as e:
-        log("Shodan", f"HTTP {e.response.status_code}: {e.response.text[:120]}")
+        err = f"HTTP {e.response.status_code}: {e.response.text[:120]}"
+        log("Shodan", err)
+        mark_source("shodan", "failed", err)
     except Exception as e:
         log("Shodan", f"Error: {e}")
+        mark_source("shodan", "failed", str(e))
 
 def fetch_urlhaus():
     if not ABUSECH_API_KEY:
         log("URLhaus", "Skipped — ABUSECH_API_KEY not set")
+        mark_source("urlhaus", "skipped")
         return
 
     try:
@@ -338,16 +396,21 @@ def fetch_urlhaus():
             })
 
         log("URLhaus", f"urls → {len(iocs['urlhaus']['urls']) - before} malicious URLs fetched")
+        mark_source("urlhaus", "ok")
 
     except requests.HTTPError as e:
-        log("URLhaus", f"HTTP {e.response.status_code}: {e.response.text[:120]}")
+        err = f"HTTP {e.response.status_code}: {e.response.text[:120]}"
+        log("URLhaus", err)
+        mark_source("urlhaus", "failed", err)
     except Exception as e:
         log("URLhaus", f"Error: {e}")
+        mark_source("urlhaus", "failed", str(e))
 
 
 def fetch_threatfox():
     if not ABUSECH_API_KEY:
         log("ThreatFox", "Skipped — ABUSECH_API_KEY not set")
+        mark_source("threatfox", "skipped")
         return
 
     try:
@@ -360,7 +423,9 @@ def fetch_threatfox():
         resp.raise_for_status()
         payload = resp.json()
         if payload.get("query_status") != "ok":
-            log("ThreatFox", f"API returned query_status={payload.get('query_status')}")
+            err = f"API returned query_status={payload.get('query_status')}"
+            log("ThreatFox", err)
+            mark_source("threatfox", "failed", err)
             return
 
         for entry in payload.get("data", []) or []:
@@ -404,16 +469,21 @@ def fetch_threatfox():
 
         totals = {t: len(v) for t, v in iocs["threatfox"].items()}
         log("ThreatFox", f"IPs={totals.get('ips',0)}  Domains={totals.get('domains',0)}  URLs={totals.get('urls',0)}")
+        mark_source("threatfox", "ok")
 
     except requests.HTTPError as e:
-        log("ThreatFox", f"HTTP {e.response.status_code}: {e.response.text[:120]}")
+        err = f"HTTP {e.response.status_code}: {e.response.text[:120]}"
+        log("ThreatFox", err)
+        mark_source("threatfox", "failed", err)
     except Exception as e:
         log("ThreatFox", f"Error: {e}")
+        mark_source("threatfox", "failed", str(e))
 
 
 def fetch_malwarebazaar():
     if not ABUSECH_API_KEY:
         log("MalwareBazaar", "Skipped — ABUSECH_API_KEY not set")
+        mark_source("malwarebazaar", "skipped")
         return
 
     try:
@@ -426,7 +496,9 @@ def fetch_malwarebazaar():
         resp.raise_for_status()
         payload = resp.json()
         if payload.get("query_status") != "ok":
-            log("MalwareBazaar", f"API returned query_status={payload.get('query_status')}")
+            err = f"API returned query_status={payload.get('query_status')}"
+            log("MalwareBazaar", err)
+            mark_source("malwarebazaar", "failed", err)
             return
 
         for entry in payload.get("data", []) or []:
@@ -435,24 +507,62 @@ def fetch_malwarebazaar():
                 iocs["malwarebazaar"]["hashes"].add(sha256_hash)
 
         log("MalwareBazaar", f"hashes → {len(iocs['malwarebazaar']['hashes'])} IOCs")
+        mark_source("malwarebazaar", "ok")
 
     except requests.HTTPError as e:
-        log("MalwareBazaar", f"HTTP {e.response.status_code}: {e.response.text[:120]}")
+        err = f"HTTP {e.response.status_code}: {e.response.text[:120]}"
+        log("MalwareBazaar", err)
+        mark_source("malwarebazaar", "failed", err)
     except Exception as e:
         log("MalwareBazaar", f"Error: {e}")
+        mark_source("malwarebazaar", "failed", str(e))
+
+# ---------------------------------------------------------------------------
+# Source status audit report
+# ---------------------------------------------------------------------------
+
+
+def save_source_status_report():
+    """
+    Write reports/source_status.csv documenting the outcome of every source
+    fetch attempt for this run. Columns: source, status, error.
+    """
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    path = os.path.join(OUTPUT_DIR, "source_status.csv")
+    with open(path, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=["source", "status", "error"])
+        writer.writeheader()
+        for source, info in source_status.items():
+            writer.writerow({
+                "source": source,
+                "status": info["status"],
+                "error":  info["error"] or "",
+            })
+    failed  = [s for s, i in source_status.items() if i["status"] == "failed"]
+    skipped = [s for s, i in source_status.items() if i["status"] == "skipped"]
+    log("STATUS", f"source_status.csv written — "
+                  f"{len(failed)} failed, {len(skipped)} skipped")
+
 
 # ---------------------------------------------------------------------------
 # Cross-source confidence scoring
 # ---------------------------------------------------------------------------
 
-def compute_cross_source_scores():
+def compute_cross_source_scores(failed_sources=None):
     """
     After all feeds have run, build a per-IOC-type map of:
         { ioc_value: set_of_sources_that_reported_it }
 
     Returns a dict with keys: 'ips', 'hashes', 'domains', 'urls'.
     The confidence score of an IOC equals the number of sources in its set.
+
+    `failed_sources` is a set of source names whose fetch calls failed during
+    this run. These sources are NOT counted against IOCs — a failure means
+    "we don't know", not "source did not see this IOC".
     """
+    if failed_sources is None:
+        failed_sources = set()
+
     scores = {
         "ips":     defaultdict(set),
         "hashes":  defaultdict(set),
@@ -461,17 +571,18 @@ def compute_cross_source_scores():
     }
 
     for source, types in iocs.items():
+        if source in failed_sources:
+            # Do not credit or penalise IOCs for a failed source
+            continue
         for ioc_type, data in types.items():
             if ioc_type not in scores:
                 continue
             if isinstance(data, set):
-                # Plain set of IOC strings
                 for val in data:
                     val = val.strip()
                     if val:
                         scores[ioc_type][val].add(source)
             elif isinstance(data, list):
-                # Enriched list of dicts (CSV rows) — extract the 'ioc' key
                 for row in data:
                     val = row.get("ioc", "").strip()
                     if val:
@@ -480,12 +591,22 @@ def compute_cross_source_scores():
     return scores
 
 
-def save_scored_csvs(scores):
+def save_scored_csvs(scores, failed_sources=None):
     """
     Write reports/scored_{type}.csv for each IOC type.
-    Columns: ioc, score, sources
+    Columns: ioc, score, sources, available_sources, failed_sources
     Sorted by score descending, then alphabetically by IOC.
+
+    `available_sources` is the count of sources that did NOT fail this run.
+    `failed_sources` column lists failed source names for transparency.
     """
+    if failed_sources is None:
+        failed_sources = set()
+
+    total_sources     = len(source_status)
+    available_sources = total_sources - len(failed_sources)
+    failed_label      = ",".join(sorted(failed_sources)) if failed_sources else ""
+
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     for ioc_type, ioc_map in scores.items():
         if not ioc_map:
@@ -496,28 +617,258 @@ def save_scored_csvs(scores):
         rows = sorted(
             [
                 {
-                    "ioc":     k,
-                    "score":   len(v),
-                    "sources": ",".join(sorted(v)),
+                    "ioc":               k,
+                    "score":             len(v),
+                    "sources":           ",".join(sorted(v)),
+                    "available_sources": available_sources,
+                    "failed_sources":    failed_label,
                 }
                 for k, v in ioc_map.items()
             ],
             key=lambda r: (-r["score"], r["ioc"]),
         )
         with open(path, "w", newline="") as f:
-            writer = csv.DictWriter(f, fieldnames=["ioc", "score", "sources"])
+            writer = csv.DictWriter(
+                f,
+                fieldnames=["ioc", "score", "sources", "available_sources", "failed_sources"]
+            )
             writer.writeheader()
             writer.writerows(rows)
         multi = sum(1 for r in rows if r["score"] >= MIN_CONFIDENCE_SOURCES)
         log("SCORE", f"{filename} → {len(rows)} unique IOCs  "
-                     f"({multi} meet {MIN_CONFIDENCE_SOURCES}+ source threshold)")
+                     f"({multi} meet {MIN_CONFIDENCE_SOURCES}+ source threshold)  "
+                     f"[available={available_sources}/{total_sources}]")
 
 
-def save_combined_files(scores):
+def save_combined_files_incremental(scores, failed_sources=None):
+    """
+    Write reports/combined_malicious_{type}.csv containing ONLY NEW IOCs
+    (incremental mode) with source columns (1/0 markers).
+    
+    Format:
+      ioc,score,virustotal,abuseipdb,otx,shodan,threatfox,urlhaus,malwarebazaar
+      1.2.3.4,4,1,1,0,1,0,0,0
+    
+    Also tracks removed IOCs in removed_iocs_{type}.csv
+    
+    NOTE: No comment headers in combined_malicious_*.csv to ensure SIEM CSV parsers
+    can read the file without errors (CSV parsers don't auto-skip comment lines).
+    """
+    if failed_sources is None:
+        failed_sources = set()
+
+    total_sources     = len(source_status)
+    available_sources = total_sources - len(failed_sources)
+    failed_label      = ",".join(sorted(failed_sources)) if failed_sources else "none"
+    run_ts            = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    degraded          = len(failed_sources) > 0
+
+    # All possible sources in consistent order
+    all_sources = ["virustotal", "abuseipdb", "otx", "shodan", "threatfox", "urlhaus", "malwarebazaar"]
+
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    print("-" * 60)
+    
+    for ioc_type, ioc_map in scores.items():
+        # Current high-confidence IOCs
+        current_high_conf = {
+            ioc: sources for ioc, sources in ioc_map.items()
+            if len(sources) >= MIN_CONFIDENCE_SOURCES
+        }
+        
+        # IOCs from previous run
+        previous_iocs = load_previous_iocs_from_csv(ioc_type)
+        
+        # New IOCs (not in previous run)
+        new_iocs = sorted(set(current_high_conf.keys()) - previous_iocs)
+        
+        # Removed IOCs (were in previous run but no longer high-confidence)
+        removed_iocs = sorted(previous_iocs - set(current_high_conf.keys()))
+        
+        filename = f"combined_malicious_{ioc_type}.csv"
+        path     = os.path.join(OUTPUT_DIR, filename)
+        
+        # Build CSV rows for new IOCs with source markers (1/0 as integers)
+        if new_iocs:
+            rows = []
+            for ioc in new_iocs:
+                sources_set = current_high_conf[ioc]
+                score = len(sources_set)
+                row = {
+                    "ioc": ioc,
+                    "score": score,
+                }
+                # Add 1/0 as integers for each source
+                for src in all_sources:
+                    row[src] = 1 if src in sources_set else 0
+                rows.append(row)
+            
+            # Write CSV without comment headers (SIEM parseable)
+            with open(path, "w", newline="") as f:
+                writer = csv.DictWriter(
+                    f,
+                    fieldnames=["ioc", "score"] + all_sources
+                )
+                writer.writeheader()
+                writer.writerows(rows)
+            
+            log("INCREMENTAL", f"{filename} → {len(new_iocs)} NEW IOCs  "
+                              f"({len(removed_iocs)} dropped below threshold)  "
+                              f"[{'DEGRADED' if degraded else 'NORMAL'}]")
+        else:
+            # No new IOCs, write header-only file
+            with open(path, "w", newline="") as f:
+                writer = csv.DictWriter(
+                    f,
+                    fieldnames=["ioc", "score"] + all_sources
+                )
+                writer.writeheader()
+            
+            if removed_iocs:
+                log("INCREMENTAL", f"{filename} → 0 NEW IOCs  "
+                                  f"({len(removed_iocs)} dropped below threshold)")
+            else:
+                log("INCREMENTAL", f"{filename} → no changes this run")
+        
+        # Write removed IOCs CSV with metadata comments (SIEM deletion list)
+        if removed_iocs:
+            removed_filename = f"removed_iocs_{ioc_type}.csv"
+            removed_path     = os.path.join(OUTPUT_DIR, removed_filename)
+            removed_rows = [
+                {
+                    "ioc": ioc,
+                    "reason": f"Dropped below {MIN_CONFIDENCE_SOURCES}-source threshold"
+                }
+                for ioc in removed_iocs
+            ]
+            with open(removed_path, "w", newline="") as f:
+                f.write(f"# Removed IOCs — removed_iocs_{ioc_type}.csv\n")
+                f.write(f"# Run     : {run_ts}\n")
+                f.write(f"# Action  : SIEM should remove these entries from database\n")
+                f.write("#\n")
+                
+                writer = csv.DictWriter(f, fieldnames=["ioc", "reason"])
+                writer.writeheader()
+                writer.writerows(removed_rows)
+            
+            log("REMOVED", f"{removed_filename} → {len(removed_iocs)} IOCs to delete")
+    
+    print("-" * 60)
+
+
+
+def load_previous_iocs_from_csv(ioc_type):
+    """
+    Load IOCs from the previous run's combined_malicious_{ioc_type}.csv file.
+    Returns a set of IOC values, skipping comment lines.
+    """
+    filename = f"combined_malicious_{ioc_type}.csv"
+    path     = os.path.join(OUTPUT_DIR, filename)
+    
+    if not os.path.exists(path):
+        return set()
+    
+    previous = set()
+    try:
+        with open(path, "r") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                if row and "ioc" in row:
+                    ioc = row["ioc"].strip()
+                    if ioc:
+                        previous.add(ioc)
+    except Exception as e:
+        log("INCREMENTAL", f"Warning: Could not read previous {filename}: {e}")
+    
+    return previous
+
+
+def save_scored_csvs_incremental(scores, failed_sources=None):
+    """
+    Write reports/scored_{type}.csv containing ONLY NEW IOCs (incremental mode)
+    with source columns (1/0 markers as integers).
+    
+    Format:
+      ioc,score,virustotal,abuseipdb,otx,shodan,threatfox,urlhaus,malwarebazaar,first_seen_run
+      1.2.3.4,4,1,1,0,1,0,0,0,2026-03-24 15:30:45 UTC
+    
+    NOTE: No comment headers in scored_*.csv to ensure SIEM CSV parsers can read
+    the file without errors (CSV parsers don't auto-skip comment lines).
+    """
+    if failed_sources is None:
+        failed_sources = set()
+
+    total_sources     = len(source_status)
+    available_sources = total_sources - len(failed_sources)
+    failed_label      = ",".join(sorted(failed_sources)) if failed_sources else ""
+    run_ts            = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+
+    # All possible sources in consistent order
+    all_sources = ["virustotal", "abuseipdb", "otx", "shodan", "threatfox", "urlhaus", "malwarebazaar"]
+
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    
+    for ioc_type, ioc_map in scores.items():
+        if not ioc_map:
+            log("SCORE", f"scored_{ioc_type}.csv — skipped (0 IOCs)")
+            continue
+        
+        # Load previous high-confidence IOCs
+        previous_iocs = load_previous_iocs_from_csv(ioc_type)
+        
+        # Build rows only for NEW high-confidence IOCs with source markers
+        new_rows = []
+        for k, v in ioc_map.items():
+            if len(v) >= MIN_CONFIDENCE_SOURCES and k not in previous_iocs:
+                row = {
+                    "ioc": k,
+                    "score": len(v),
+                }
+                # Add 1/0 for each source
+                for src in all_sources:
+                    row[src] = 1 if src in v else 0
+                row["first_seen_run"] = run_ts
+                new_rows.append(row)
+        
+        new_rows.sort(key=lambda r: (-r["score"], r["ioc"]))
+        
+        filename = f"scored_{ioc_type}.csv"
+        path     = os.path.join(OUTPUT_DIR, filename)
+        
+        if not new_rows:
+            log("SCORE", f"{filename} (incremental) — no new IOCs this run")
+            continue
+        
+        # Write incremental CSV without comment headers (SIEM parseable)
+        with open(path, "w", newline="") as f:
+            writer = csv.DictWriter(
+                f,
+                fieldnames=["ioc", "score"] + all_sources + ["first_seen_run"]
+            )
+            writer.writeheader()
+            writer.writerows(new_rows)
+        
+        log("SCORE", f"{filename} (incremental) → {len(new_rows)} NEW IOCs")
+
+    
+
+def save_combined_files(scores, failed_sources=None):
     """
     Write reports/combined_malicious_{type}.txt containing only IOCs whose
-    confidence score (number of distinct sources) >= MIN_CONFIDENCE_SOURCES.
+    confidence score (number of distinct available sources) >= MIN_CONFIDENCE_SOURCES.
+
+    A header comment is prepended to each file indicating the run state so
+    downstream consumers are aware when the pipeline ran in degraded mode.
     """
+    if failed_sources is None:
+        failed_sources = set()
+
+    total_sources     = len(source_status)
+    available_sources = total_sources - len(failed_sources)
+    failed_label      = ",".join(sorted(failed_sources)) if failed_sources else "none"
+    run_ts            = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    degraded          = len(failed_sources) > 0
+
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     print("-" * 60)
     for ioc_type, ioc_map in scores.items():
@@ -527,14 +878,30 @@ def save_combined_files(scores):
         )
         filename = f"combined_malicious_{ioc_type}.txt"
         path     = os.path.join(OUTPUT_DIR, filename)
+
+        header_lines = [
+            f"# IOC Pipeline — combined_malicious_{ioc_type}.txt",
+            f"# Run     : {run_ts}",
+            f"# Sources : {available_sources}/{total_sources} available  |  failed: {failed_label}",
+            f"# Mode    : {'DEGRADED — confidence scores adjusted for source failures' if degraded else 'NORMAL'}",
+            f"# Threshold: {MIN_CONFIDENCE_SOURCES}+ sources required",
+            "#",
+        ]
+
         if not high_conf:
             log("COMBINED", f"{filename} — skipped "
                             f"(0 IOCs matched {MIN_CONFIDENCE_SOURCES}+ sources)")
+            # Still write the header-only file so the degraded state is recorded
+            with open(path, "w") as f:
+                f.write("\n".join(header_lines) + "\n")
             continue
+
         with open(path, "w") as f:
+            f.write("\n".join(header_lines) + "\n")
             f.write("\n".join(high_conf) + "\n")
         log("COMBINED", f"{filename} → {len(high_conf)} high-confidence IOCs "
-                        f"(seen in {MIN_CONFIDENCE_SOURCES}+ sources)")
+                        f"(seen in {MIN_CONFIDENCE_SOURCES}+ sources)  "
+                        f"[{'DEGRADED' if degraded else 'NORMAL'}]")
     print("-" * 60)
 
 
@@ -552,20 +919,41 @@ if __name__ == "__main__":
     fetch_threatfox()
     fetch_malwarebazaar()
 
+    # -----------------------------------------------------------------------
+    # Failover: identify which sources failed and surface them clearly
+    # -----------------------------------------------------------------------
+    failed_sources = {s for s, i in source_status.items() if i["status"] == "failed"}
+
+    if failed_sources:
+        print("=" * 60)
+        print(f"  ⚠  DEGRADED MODE — {len(failed_sources)} source(s) FAILED this run")
+        for s in sorted(failed_sources):
+            print(f"     • {s}: {source_status[s]['error']}")
+        print("  Confidence scores adjusted — failed sources excluded from denominator.")
+        print("=" * 60)
+    else:
+        print("-" * 60)
+        print("  All available sources completed successfully.")
+
+    # Write the per-run source audit report
+    save_source_status_report()
+
     # Print grand totals per source
     print("-" * 60)
     for source, types in iocs.items():
-        total     = sum(len(v) for v in types.values())
-        breakdown = "  ".join(f"{t}={len(v)}" for t, v in types.items())
-        print(f"  {source.upper():<12} total={total}  [{breakdown}]")
+        status_label = source_status[source]["status"].upper()
+        total        = sum(len(v) for v in types.values())
+        breakdown    = "  ".join(f"{t}={len(v)}" for t, v in types.items())
+        print(f"  {source.upper():<14} [{status_label:<7}] total={total}  [{breakdown}]")
 
     # Write per-source files (unchanged behaviour)
     save_all()
 
-    # Compute cross-source confidence scores and write combined outputs
-    scores = compute_cross_source_scores()
-    save_scored_csvs(scores)
-    save_combined_files(scores)
+    # Compute cross-source confidence scores, passing failed sources so they
+    # are excluded from the denominator (degraded-mode-aware scoring)
+    scores = compute_cross_source_scores(failed_sources=failed_sources)
+    save_scored_csvs_incremental(scores, failed_sources=failed_sources)
+    save_combined_files_incremental(scores, failed_sources=failed_sources)
 
     # Exit non-zero if absolutely nothing was collected
     grand_total = sum(len(v) for types in iocs.values() for v in types.values())
