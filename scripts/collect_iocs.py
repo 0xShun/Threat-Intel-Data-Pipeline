@@ -642,29 +642,21 @@ def save_scored_csvs(scores, failed_sources=None):
 
 def save_combined_files_incremental(scores, failed_sources=None):
     """
-    Write reports/combined_malicious_{type}.csv containing ONLY NEW IOCs
-    (incremental mode) with source columns (1/0 markers).
+    Write reports/combined_malicious_{type}.txt containing ONLY NEW IOCs
+    (incremental mode). One IOC per line, no headers or separators.
     
     Format:
-      ioc,score,virustotal,abuseipdb,otx,shodan,threatfox,urlhaus,malwarebazaar
-      1.2.3.4,4,1,1,0,1,0,0,0
+      1.2.3.4
+      5.6.7.8
+      192.168.1.1
     
-    Also tracks removed IOCs in removed_iocs_{type}.csv
-    
-    NOTE: No comment headers in combined_malicious_*.csv to ensure SIEM CSV parsers
-    can read the file without errors (CSV parsers don't auto-skip comment lines).
+    Also tracks removed IOCs in removed_iocs_{type}.txt
     """
     if failed_sources is None:
         failed_sources = set()
 
-    total_sources     = len(source_status)
-    available_sources = total_sources - len(failed_sources)
-    failed_label      = ",".join(sorted(failed_sources)) if failed_sources else "none"
-    run_ts            = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
-    degraded          = len(failed_sources) > 0
-
-    # All possible sources in consistent order
-    all_sources = ["virustotal", "abuseipdb", "otx", "shodan", "threatfox", "urlhaus", "malwarebazaar"]
+    run_ts   = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    degraded = len(failed_sources) > 0
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     print("-" * 60)
@@ -677,7 +669,7 @@ def save_combined_files_incremental(scores, failed_sources=None):
         }
         
         # IOCs from previous run
-        previous_iocs = load_previous_iocs_from_csv(ioc_type)
+        previous_iocs = load_previous_iocs_from_txt(ioc_type)
         
         # New IOCs (not in previous run)
         new_iocs = sorted(set(current_high_conf.keys()) - previous_iocs)
@@ -685,44 +677,21 @@ def save_combined_files_incremental(scores, failed_sources=None):
         # Removed IOCs (were in previous run but no longer high-confidence)
         removed_iocs = sorted(previous_iocs - set(current_high_conf.keys()))
         
-        filename = f"combined_malicious_{ioc_type}.csv"
+        filename = f"combined_malicious_{ioc_type}.txt"
         path     = os.path.join(OUTPUT_DIR, filename)
         
-        # Build CSV rows for new IOCs with source markers (1/0 as integers)
+        # Write TXT file with one IOC per line
         if new_iocs:
-            rows = []
-            for ioc in new_iocs:
-                sources_set = current_high_conf[ioc]
-                score = len(sources_set)
-                row = {
-                    "ioc": ioc,
-                    "score": score,
-                }
-                # Add 1/0 as integers for each source
-                for src in all_sources:
-                    row[src] = 1 if src in sources_set else 0
-                rows.append(row)
-            
-            # Write CSV without comment headers (SIEM parseable)
-            with open(path, "w", newline="") as f:
-                writer = csv.DictWriter(
-                    f,
-                    fieldnames=["ioc", "score"] + all_sources
-                )
-                writer.writeheader()
-                writer.writerows(rows)
+            with open(path, "w") as f:
+                f.write("\n".join(new_iocs) + "\n")
             
             log("INCREMENTAL", f"{filename} → {len(new_iocs)} NEW IOCs  "
                               f"({len(removed_iocs)} dropped below threshold)  "
                               f"[{'DEGRADED' if degraded else 'NORMAL'}]")
         else:
-            # No new IOCs, write header-only file
-            with open(path, "w", newline="") as f:
-                writer = csv.DictWriter(
-                    f,
-                    fieldnames=["ioc", "score"] + all_sources
-                )
-                writer.writeheader()
+            # No new IOCs, write empty file
+            with open(path, "w") as f:
+                pass
             
             if removed_iocs:
                 log("INCREMENTAL", f"{filename} → 0 NEW IOCs  "
@@ -730,26 +699,16 @@ def save_combined_files_incremental(scores, failed_sources=None):
             else:
                 log("INCREMENTAL", f"{filename} → no changes this run")
         
-        # Write removed IOCs CSV with metadata comments (SIEM deletion list)
+        # Write removed IOCs TXT with metadata comments (SIEM deletion list)
         if removed_iocs:
-            removed_filename = f"removed_iocs_{ioc_type}.csv"
+            removed_filename = f"removed_iocs_{ioc_type}.txt"
             removed_path     = os.path.join(OUTPUT_DIR, removed_filename)
-            removed_rows = [
-                {
-                    "ioc": ioc,
-                    "reason": f"Dropped below {MIN_CONFIDENCE_SOURCES}-source threshold"
-                }
-                for ioc in removed_iocs
-            ]
-            with open(removed_path, "w", newline="") as f:
-                f.write(f"# Removed IOCs — removed_iocs_{ioc_type}.csv\n")
+            with open(removed_path, "w") as f:
+                f.write(f"# Removed IOCs — removed_iocs_{ioc_type}.txt\n")
                 f.write(f"# Run     : {run_ts}\n")
                 f.write(f"# Action  : SIEM should remove these entries from database\n")
                 f.write("#\n")
-                
-                writer = csv.DictWriter(f, fieldnames=["ioc", "reason"])
-                writer.writeheader()
-                writer.writerows(removed_rows)
+                f.write("\n".join(removed_iocs) + "\n")
             
             log("REMOVED", f"{removed_filename} → {len(removed_iocs)} IOCs to delete")
     
@@ -757,12 +716,12 @@ def save_combined_files_incremental(scores, failed_sources=None):
 
 
 
-def load_previous_iocs_from_csv(ioc_type):
+def load_previous_iocs_from_txt(ioc_type):
     """
-    Load IOCs from the previous run's combined_malicious_{ioc_type}.csv file.
-    Returns a set of IOC values, skipping comment lines.
+    Load IOCs from the previous run's combined_malicious_{ioc_type}.txt file.
+    Returns a set of IOC values, skipping comment lines (lines starting with #).
     """
-    filename = f"combined_malicious_{ioc_type}.csv"
+    filename = f"combined_malicious_{ioc_type}.txt"
     path     = os.path.join(OUTPUT_DIR, filename)
     
     if not os.path.exists(path):
@@ -771,12 +730,10 @@ def load_previous_iocs_from_csv(ioc_type):
     previous = set()
     try:
         with open(path, "r") as f:
-            reader = csv.DictReader(f)
-            for row in reader:
-                if row and "ioc" in row:
-                    ioc = row["ioc"].strip()
-                    if ioc:
-                        previous.add(ioc)
+            for line in f:
+                ioc = line.strip()
+                if ioc and not ioc.startswith("#"):
+                    previous.add(ioc)
     except Exception as e:
         log("INCREMENTAL", f"Warning: Could not read previous {filename}: {e}")
     
