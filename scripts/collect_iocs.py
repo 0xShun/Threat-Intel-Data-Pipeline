@@ -19,7 +19,7 @@ THREATFOX_DAYS            = 1
 
 # Cross-source confidence scoring
 # An IOC must appear in this many distinct sources to be written to combined_malicious_*.txt
-MIN_CONFIDENCE_SOURCES = 2
+MIN_CONFIDENCE_SOURCES = 1
 
 OUTPUT_DIR = "reports"
 
@@ -911,7 +911,7 @@ if __name__ == "__main__":
     print(f"  IOC Collection Run — {run_ts}")
     print("=" * 60)
 
-    fetch_virustotal()
+    # fetch_virustotal()  # DISABLED: Requires paid VT Intelligence subscription
     fetch_abuseipdb()
     fetch_otx()
     fetch_shodan()
