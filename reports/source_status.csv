@@ -1,9 +1,5 @@
 source,status,error
-virustotal,failed,"ips HTTP 404: {""error"":{""code"":""NotFoundError"",""message"":""Resource not found.""}}
-; hashes HTTP 404: {""error"":{""code"":""NotFoundError"",""message"":""Resource not found.""}}
-; domains HTTP 404: {""error"":{""code"":""NotFoundError"",""message"":""Resource not found.""}}
-; urls HTTP 404: {""error"":{""code"":""NotFoundError"",""message"":""Resource not found.""}}
-"
+virustotal,pending,
 abuseipdb,ok,
 otx,ok,
 shodan,failed,"HTTP 403: {""error"": ""Requires membership or higher to access""}"
