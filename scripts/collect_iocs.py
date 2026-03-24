@@ -770,8 +770,8 @@ def save_scored_csvs_incremental(scores, failed_sources=None):
             log("SCORE", f"scored_{ioc_type}.csv — skipped (0 IOCs)")
             continue
         
-        # Load previous high-confidence IOCs
-        previous_iocs = load_previous_iocs_from_csv(ioc_type)
+        # Load previous high-confidence IOCs from combined files
+        previous_iocs = load_previous_iocs_from_txt(ioc_type)
         
         # Build rows only for NEW high-confidence IOCs with source markers
         new_rows = []
