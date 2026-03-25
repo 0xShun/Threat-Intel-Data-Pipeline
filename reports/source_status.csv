@@ -1,6 +1,6 @@
 source,status,error
 virustotal,pending,
-abuseipdb,failed,"HTTP 429: {""errors"":[{""detail"":""Daily rate limit of 5 requests exceeded for this endpoint. See headers for additional details."",""s"
+abuseipdb,ok,
 otx,ok,
 shodan,failed,"HTTP 403: {""error"": ""Requires membership or higher to access""}"
 urlhaus,ok,
