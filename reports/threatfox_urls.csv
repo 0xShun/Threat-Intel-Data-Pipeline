@@ -1,18 +1,12 @@
 2026-03-29 18:30:02,Unknown malware,url,http://167.179.66.31:8888/supershell/login/,#AS20473 #Supershell #The Constant Company  LLC,https://threatfox.abuse.ch/ioc/1778612/
-2026-03-29 12:01:11,Amadey,url,http://185.208.156.151,#Amadey #AS42624 #c2 #Loader #triage,https://tria.ge/260329-gt8erafy4v
-2026-03-29 12:06:15,Rhadamanthys,url,http://195.3.223.218/blob/owner.api,#AS201814 #c2 #Rhadamanthys #stealer #triage,https://tria.ge/260329-jfs41shv21
-2026-03-29 14:01:12,Unknown malware,url,http://45.205.2.53:8888/supershell/login/,#AS40065 #CNSERVERS LLC #Supershell,https://threatfox.abuse.ch/ioc/1778205/
-2026-03-29 09:09:42,Unknown malware,url,http://46.165.215.116/031.txt,#ClickFix,https://threatfox.abuse.ch/ioc/1778525/
-2026-03-29 09:08:57,Unknown malware,url,http://46.165.215.116/032.txt,#ClickFix,https://threatfox.abuse.ch/ioc/1778524/
-2026-03-29 14:00:13,Unknown malware,url,http://8.217.174.149:8888/supershell/login/,#Alibaba (US) Technology Co.  Ltd. #AS45102 #Supershell,https://threatfox.abuse.ch/ioc/1778554/
-2026-03-29 14:00:45,Unknown Stealer,url,http://91.92.243.119/git.ps1,#Downloader #LemonStealer #powershell #TrueForce,https://www.virustotal.com/gui/file/fb3e6d6bb2781c8a737c38f4d31beed93a89cc2ff9b8c00e7682f04c72fd9a60
-2026-03-29 14:00:42,Unknown Stealer,url,http://91.92.243.119/rat/GLOBAL.exe,#Downloader #LemonStealer #powershell #TrueForce,https://www.virustotal.com/gui/file/fb3e6d6bb2781c8a737c38f4d31beed93a89cc2ff9b8c00e7682f04c72fd9a60
-2026-03-29 14:00:43,Unknown Stealer,url,http://91.92.243.119/steam/lemon.exe,#Downloader #LemonStealer #powershell #TrueForce,https://www.virustotal.com/gui/file/fb3e6d6bb2781c8a737c38f4d31beed93a89cc2ff9b8c00e7682f04c72fd9a60
-2026-03-29 14:00:43,Unknown Stealer,url,http://91.92.243.119/stlr/git.exe,#Downloader #LemonStealer #powershell #TrueForce,https://www.virustotal.com/gui/file/fb3e6d6bb2781c8a737c38f4d31beed93a89cc2ff9b8c00e7682f04c72fd9a60
+2026-03-30 13:12:54,Vidar,url,http://179.43.176.73/,#c2 #URLscan #Vidar,https://urlscan.io/result/019d3ee0-2dfb-722c-a345-5c0fdadfc4e1
+2026-03-30 17:40:37,Unknown malware,url,http://38.83.138.59:25884/nz.sh,#honeypot,https://greedybear.honeynet.org
+2026-03-30 15:25:17,DCRat,url,http://cy97983.tw1.ru/ff413aba.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1779114/
 2026-03-30 06:54:43,Vidar,url,http://jdosu.funnythings.store/,#Vidar,https://threatfox.abuse.ch/ioc/1778927/
 2026-03-30 06:54:41,Vidar,url,https://136.244.96.112/,#Vidar,https://threatfox.abuse.ch/ioc/1778913/
 2026-03-30 06:54:44,Vidar,url,https://151.245.121.216/,#Vidar,https://threatfox.abuse.ch/ioc/1778931/
 2026-03-30 06:50:58,Vidar,url,https://188.166.10.165,#Vidar,https://bazaar.abuse.ch/sample/47fd26b0a4504fc3a363580a57e95e1a98b14f7b0066e6b97c9f4ec4ed55ff43/
+2026-03-30 17:36:17,Vidar,url,https://204.168.160.19,#Vidar,https://bazaar.abuse.ch/sample/605d3f98e1ca4015f3c1ed75e66daa17bc08f1a93d454977a6c4f888a652ebb8/
 2026-03-30 06:51:03,Vidar,url,https://49.12.3.48,#Vidar,https://bazaar.abuse.ch/sample/d4ac44b7f6db48eca45b5a6c466d32472bb55d9e90371d801dfb63c75aa61123/
 2026-03-30 06:54:44,Vidar,url,https://49.12.9.171/,#Vidar,https://threatfox.abuse.ch/ioc/1778928/
 2026-03-30 06:54:45,Vidar,url,https://91.99.183.16/,#Vidar,https://threatfox.abuse.ch/ioc/1778932/
@@ -22,29 +16,31 @@
 2026-03-30 07:06:52,Unknown malware,url,https://agdosve.com,#booking.com #ClickFix,https://threatfox.abuse.ch/ioc/1778963/
 2026-03-30 06:54:41,Vidar,url,https://agi.cargomanbd.com/,#Vidar,https://threatfox.abuse.ch/ioc/1778916/
 2026-03-30 06:54:42,Vidar,url,https://agi.elythia.online/,#Vidar,https://threatfox.abuse.ch/ioc/1778923/
-2026-03-29 08:40:41,Unknown malware,url,https://betaworkercf.org/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1778498/
-2026-03-29 09:39:05,Unknown malware,url,https://bot.pay-portal.pro,#ClickFix,https://threatfox.abuse.ch/ioc/1778533/
-2026-03-29 14:00:34,Unknown malware,url,https://dev.betway071.com/,#ClickFix,https://clickfix.carsonww.com/domains/dev.betway071.com
+2026-03-30 13:36:01,Unknown malware,url,https://allplanetssame.cfd/api/index.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1779085/
+2026-03-30 13:35:26,Unknown malware,url,https://allplanetssame.cfd/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1779084/
+2026-03-30 12:40:04,Unknown malware,url,https://brochurehub.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/brochurehub.co.uk
+2026-03-30 15:41:19,SmartApeSG,url,https://bruxelti.top/session/role-pipeline.php,#SmartApeSG,https://infosec.exchange/@monitorsg/116318762465981843
+2026-03-30 15:41:18,SmartApeSG,url,https://bruxelti.top/session/signin-component.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116318762465981843
 2026-03-30 06:50:11,IClickFix,url,https://djasdajnsdnjgjg.com/fdghdfgh.js,#ClickFix #IClickFix,https://threatfox.abuse.ch/ioc/1778908/
-2026-03-29 14:00:34,Unknown malware,url,https://during.bong889.com/,#ClickFix,https://clickfix.carsonww.com/domains/during.bong889.com
-2026-03-29 09:08:35,Unknown malware,url,https://entreprise-docs-secure.online,#ClickFix,https://threatfox.abuse.ch/ioc/1778523/
 2026-03-30 06:54:41,Vidar,url,https://epy.cargomanbd.com/,#Vidar,https://threatfox.abuse.ch/ioc/1778915/
 2026-03-30 06:54:42,Vidar,url,https://epy.elythia.online/,#Vidar,https://threatfox.abuse.ch/ioc/1778922/
-2026-03-29 10:16:07,Unknown malware,url,https://files-oss-cdn.oss-ap-southeast-1.aliyuncs.com/readme.gz,#ClickFix #payload #VBScript,https://threatfox.abuse.ch/ioc/1778547/
-2026-03-29 14:00:15,Unknown Stealer,url,https://filesand.lol,,https://www.virustotal.com/gui/file/92ad2bd320a490c54307dae1689df039c27fa122ffd2c68d52312ec8ac0a7224/detection
+2026-03-30 14:13:38,Vidar,url,https://get.cargomanbd.com/,#Vidar,https://threatfox.abuse.ch/ioc/1779093/
+2026-03-30 14:13:38,Vidar,url,https://get.elythia.ru/,#Vidar,https://threatfox.abuse.ch/ioc/1779094/
 2026-03-30 06:54:42,Vidar,url,https://ggv.cargomanbd.com/,#Vidar,https://threatfox.abuse.ch/ioc/1778918/
 2026-03-30 06:54:43,Vidar,url,https://ggv.elythia.online/,#Vidar,https://threatfox.abuse.ch/ioc/1778925/
+2026-03-30 16:50:00,Unknown RAT,url,https://github.com/charlie-60/R/raw/refs/heads/main/MasonRootkit.exe,#Github #MasonRAT #NeptuneRAT,https://www.virustotal.com/gui/file/201c7138b7860449c1fe05701a3f15dfe2339d595e33f9df7d63a80d57d3e39d
 2026-03-30 06:54:42,Vidar,url,https://gre.cargomanbd.com/,#Vidar,https://threatfox.abuse.ch/ioc/1778919/
 2026-03-30 06:54:43,Vidar,url,https://gre.elythia.online/,#Vidar,https://threatfox.abuse.ch/ioc/1778926/
 2026-03-30 06:54:42,Vidar,url,https://gre.syslic.net/,#Vidar,https://threatfox.abuse.ch/ioc/1778920/
-2026-03-29 12:46:07,Unknown malware,url,https://klikshop.buzz/YGROPRYN.msi,#ClickFix #payload,https://threatfox.abuse.ch/ioc/1778582/
-2026-03-29 12:43:17,Unknown malware,url,https://klikshop.buzz/kibo.txt,#ClickFix,https://threatfox.abuse.ch/ioc/1778580/
 2026-03-30 06:21:08,Unknown malware,url,https://kwsecurity.site/,#ClickFix,https://clickfix.carsonww.com/domains/kwsecurity.site
-2026-03-29 08:50:07,Unknown malware,url,https://microblob.bond/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1778501/
-2026-03-29 14:00:29,Unknown malware,url,https://movinty.digital/,#ClickFix,https://clickfix.carsonww.com/domains/movinty.digital
+2026-03-30 10:50:30,Unknown malware,url,https://maroc-hotel.com,#ClickFix #Zillow,https://threatfox.abuse.ch/ioc/1779022/
+2026-03-30 15:41:20,Unknown malware,url,https://maxsulcombustiveis.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/maxsulcombustiveis.com.br
+2026-03-30 11:28:18,SmartApeSG,url,https://mezcalpro.com/q,#SmartApeSG,https://infosec.exchange/@monitorsg/116317801093745038
 2026-03-30 06:43:10,Unknown malware,url,https://mybiggestjoy.bond/api/index.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1778902/
 2026-03-30 06:42:38,Unknown malware,url,https://mybiggestjoy.bond/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1778901/
 2026-03-30 06:43:42,Unknown malware,url,https://mybiggestjoy.bond/log.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1778903/
+2026-03-30 12:40:16,Unknown malware,url,https://nabil-gateway.thebetterappliances.com/,#ClickFix,https://clickfix.carsonww.com/domains/nabil-gateway.thebetterappliances.com
+2026-03-30 10:30:37,Unknown malware,url,https://opsec-cf.com/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1779017/
 2026-03-29 19:28:41,Unknown malware,url,https://optimize.lat/assets/landings/bsod/js/loader.js,#ClickFix,https://threatfox.abuse.ch/ioc/1778691/
 2026-03-29 19:29:41,Unknown malware,url,https://optimize.lat/assets/landings/cloudflare/js/loader.js,#ClickFix,https://threatfox.abuse.ch/ioc/1778692/
 2026-03-29 19:30:28,Unknown malware,url,https://optimize.lat/assets/landings/cloudflare2/js/loader.js,#ClickFix,https://threatfox.abuse.ch/ioc/1778694/
@@ -52,20 +48,18 @@
 2026-03-29 19:32:10,Unknown malware,url,https://optimize.lat/assets/landings/recaptcha2/,#ClickFix,https://threatfox.abuse.ch/ioc/1778696/
 2026-03-29 18:30:00,Unknown malware,url,https://optimize.lat/ginhwymuhputzohnzl,#ClickFix,https://clickfix.carsonww.com/domains/optimize.lat
 2026-03-29 18:01:26,Lumma Stealer,url,https://patrmpf.cyou,#c2 #Lumma #stealer #triage,https://tria.ge/260329-rvnrvacs7n
-2026-03-29 08:51:17,Unknown malware,url,https://productionmaza.bond/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1778502/
-2026-03-29 08:52:23,Unknown malware,url,https://productionmaza.cfd/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1778503/
 2026-03-30 06:54:41,Vidar,url,https://put.cargomanbd.com/,#Vidar,https://threatfox.abuse.ch/ioc/1778914/
 2026-03-30 06:54:42,Vidar,url,https://put.elythia.online/,#Vidar,https://threatfox.abuse.ch/ioc/1778921/
 2026-03-30 06:54:41,Vidar,url,https://pva.cargomanbd.com/,#Vidar,https://threatfox.abuse.ch/ioc/1778917/
 2026-03-30 06:54:43,Vidar,url,https://pva.elythia.online/,#Vidar,https://threatfox.abuse.ch/ioc/1778924/
-2026-03-29 14:00:36,Unknown malware,url,https://question-climatisation.com/,#ClickFix,https://clickfix.carsonww.com/domains/question-climatisation.com
-2026-03-29 10:10:53,Unknown malware,url,https://security-check-291.pages.dev,#ClickFix,https://threatfox.abuse.ch/ioc/1778545/
+2026-03-30 11:28:17,SmartApeSG,url,https://qanivor.top/session/endpoint-parser.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116317801093745038
+2026-03-30 11:28:19,SmartApeSG,url,https://qanivor.top/session/role-pipeline.php,#SmartApeSG,https://infosec.exchange/@monitorsg/116317801093745038
+2026-03-30 11:28:14,SmartApeSG,url,https://qanivor.top/session/signin-component.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116317801093745038
+2026-03-30 16:50:00,Unknown RAT,url,https://raw.githubusercontent.com/ninhpn1337/Disable-Windows-Defender/main/source.bat,#Github #MasonRAT #NeptuneRAT,https://www.virustotal.com/gui/file/201c7138b7860449c1fe05701a3f15dfe2339d595e33f9df7d63a80d57d3e39d
 2026-03-30 06:50:55,IClickFix,url,https://sekolahtinta.edu.my/wp-blog-footer.php,#ClickFix #IClickFix,https://threatfox.abuse.ch/ioc/1778909/
 2026-03-30 06:51:23,IClickFix,url,https://sekolahtinta.edu.my/wp-blog-footer.php?page=,#ClickFix #IClickFix,https://threatfox.abuse.ch/ioc/1778912/
 2026-03-30 07:05:39,Unknown malware,url,https://sign-in-property.com/start/,#booking.com #ClickFix,https://threatfox.abuse.ch/ioc/1778959/
-2026-03-29 11:53:49,Unknown malware,url,https://smesharik.bond/api/index.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1778566/
-2026-03-29 11:52:38,Unknown malware,url,https://smesharik.bond/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1778564/
-2026-03-29 11:54:39,Unknown malware,url,https://smesharik.bond/log.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1778567/
-2026-03-29 14:00:35,Unknown malware,url,https://suaracitizen.com/,#ClickFix,https://clickfix.carsonww.com/domains/suaracitizen.com
-2026-03-29 08:35:47,Unknown malware,url,https://web-security.beer/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1778496/
+2026-03-30 08:26:15,Vidar,url,https://steamcommunity.com/profiles/76561198721902688,#Vidar,https://bazaar.abuse.ch/sample/959cceef4f8294a4b950aa279840954d3568fb196736defd74a844897d15676a/
+2026-03-30 08:26:21,Vidar,url,https://telegram.me/p74kol,#Vidar,https://bazaar.abuse.ch/sample/959cceef4f8294a4b950aa279840954d3568fb196736defd74a844897d15676a/
 2026-03-29 19:43:45,Unknown malware,url,https://www.giulioterrinoni.it/wps.lic,#ClickFix #VBScript,https://threatfox.abuse.ch/ioc/1778699/
+2026-03-30 11:28:14,SmartApeSG,url,https://zempraxo.com/ddd/angular,#SmartApeSG,https://infosec.exchange/@monitorsg/116317801093745038
