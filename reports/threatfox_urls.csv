@@ -1,86 +1,68 @@
-2026-04-08 14:54:54,Unknown malware,url,http://142.248.80.144/lol.sh,#honeypot,https://greedybear.honeynet.org
 2026-04-08 21:01:15,Cobalt Strike,url,http://152.32.191.249:23803/YsIH,#CobaltStrike,https://bazaar.abuse.ch/sample/c512455e6c8f91b294d5a2dc6d7457bf28f2424098bd6659e157857399802f90/
 2026-04-08 21:01:09,Cobalt Strike,url,http://152.32.191.249:23803/ca,#CobaltStrike,https://bazaar.abuse.ch/sample/c512455e6c8f91b294d5a2dc6d7457bf28f2424098bd6659e157857399802f90/
-2026-04-08 11:02:13,NetSupportManager RAT,url,http://193.143.1.21/fakeurl.htm,#c2 #NetSupport #RAT,https://app.any.run/tasks/4243ed8a-b545-4564-9edb-4f269f758e23
-2026-04-08 11:02:12,NetSupportManager RAT,url,http://193.143.1.21:443/fakeurl.htm,#c2 #NetSupport #RAT,https://app.any.run/tasks/4243ed8a-b545-4564-9edb-4f269f758e23
 2026-04-09 05:18:08,GlassWorm,url,http://217.69.2.135/N0K2pzQQzJes1CvLVcxy4A%3D%3D,#glassworm #solana-c2 #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-09 12:46:28,GlassWorm,url,http://217.69.2.135/get_arhive_npm/6YQMRzWLe2Xz1cFMLFEC9Q%3D%3D,#archive #glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
 2026-04-09 05:18:02,GlassWorm,url,http://217.69.2.135/get_arhive_npm/ieBDXRPfj6hlkPCyIyrLAw%3D%3D,#archive #glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-09 12:46:31,GlassWorm,url,http://217.69.2.135/rN9%2F90aN08IATibnd7txcA%3D%3D,#glassworm #solana-c2 #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-09 12:46:30,GlassWorm,url,http://217.69.3.51/89L%2F%2B0zp1K9vaMRyLKJcwQ%3D%3D,#glassworm #solana-c2 #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
 2026-04-09 05:18:07,GlassWorm,url,http://217.69.3.51/YFyq24tpV5X3al8CthpMpQ%3D%3D,#glassworm #solana-c2 #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-09 12:46:30,GlassWorm,url,http://217.69.3.51/g/89L%2F%2B0zp1K9vaMRyLKJcwQ%3D%3D,#calendar-c2 #glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
 2026-04-09 05:18:03,GlassWorm,url,http://217.69.3.51/g/YFyq24tpV5X3al8CthpMpQ%3D%3D,#calendar-c2 #glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
 2026-04-09 05:17:59,GlassWorm,url,http://217.69.3.51/get_arhive_npm/18xAz0gOR14htecQZyzXIA%3D%3D,#archive #glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-09 12:46:28,GlassWorm,url,http://217.69.3.51/get_arhive_npm/B6krsSuUkEYBUqrxN3%2BasQ%3D%3D,#archive #glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
 2026-04-09 05:18:06,GlassWorm,url,http://45.32.150.251/1Y4WLrpIxyti%2FGLsMk%2FG5A%3D%3D,#glassworm #solana-c2 #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-09 12:46:30,GlassWorm,url,http://45.32.150.251/CuSix1P76JsOJIk7kBp9Sg%3D%3D,#glassworm #solana-c2 #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
 2026-04-09 05:18:05,GlassWorm,url,http://45.32.150.251/g/1Y4WLrpIxyti%2FGLsMk%2FG5A%3D%3D,#calendar-c2 #glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-09 12:46:31,GlassWorm,url,http://45.32.150.251/g/CuSix1P76JsOJIk7kBp9Sg%3D%3D,#calendar-c2 #glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-09 12:46:27,GlassWorm,url,http://45.32.150.251/get_arhive_npm/NbYBPxIy9ZbwhalNq5L9KA%3D%3D,#archive #glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
 2026-04-09 05:18:00,GlassWorm,url,http://45.32.150.251/get_arhive_npm/ma3yj64bgLp%2Ffuh1k0a4cA%3D%3D,#archive #glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
 2026-04-09 06:20:43,Unknown malware,url,http://91.196.32.232:8089/Files/a.txt,,https://bazaar.abuse.ch/sample/68829f1aaf370b9199d3b3ceb90ddb1516caef6582369aa4ca1740c7d617de70/
-2026-04-08 08:00:33,Unknown malware,url,http://usz00mczyiee.store/H7j3Gm9g4Jsp9/Windows/files/ZoomWorkspace.exe,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782815/
-2026-04-08 07:59:35,Unknown malware,url,http://usz00mczyiee.store/H7j3Gm9g4Jsp9/Windows/invite.php,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782813/
-2026-04-08 07:59:58,Unknown malware,url,http://usz00mczyiee.store/H7j3Gm9g4Jsp9/Windows/microsoft-store.php,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782814/
-2026-04-08 08:02:10,Unknown malware,url,http://usz00mczyiee.store/Z8hJ7sKe6L9/Windows/files/ZoomWorkspace.exe,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782818/
-2026-04-08 08:01:48,Unknown malware,url,http://usz00mczyiee.store/Z8hJ7sKe6L9/Windows/install-guide.php,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782817/
-2026-04-08 08:01:27,Unknown malware,url,http://usz00mczyiee.store/Z8hJ7sKe6L9/Windows/invite.php,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782816/
-2026-04-08 15:10:48,Vidar,url,https://135.181.233.232,#Vidar,https://bazaar.abuse.ch/sample/142fdb8fd9050a03e994ef33697c847cb64c2e2a1c822b48a32c01e2ac744149/
+2026-04-09 12:46:27,Unknown malware,url,http://94.249.230.102/pages/login.php,#AS49581 #Ferdinand Zink trading as Tube-Hosting #UNAM,https://threatfox.abuse.ch/ioc/1783319/
+2026-04-09 12:46:26,IClickFix,url,http://antongandon.club/,,https://threatfox.abuse.ch/ioc/1783335/
+2026-04-09 11:40:21,DCRat,url,http://ck563224.tw1.ru/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1783307/
 2026-04-09 05:45:41,Vidar,url,https://185.56.45.248,#Vidar,https://bazaar.abuse.ch/sample/4da1efe7994b85d1b6591c17fd223bd79486bc19570eba66c3f07012e5f6524f/
 2026-04-09 06:59:17,Vidar,url,https://74.0.42.253/,#Vidar,https://threatfox.abuse.ch/ioc/1783233/
-2026-04-08 15:20:24,Vidar,url,https://74.0.42.84,#Vidar,https://bazaar.abuse.ch/sample/2d9181af847f64ade5f31f8129fb4e29e45f569cb4e1191b0eeab31b2c1de1d6/
-2026-04-08 17:08:55,Vidar,url,https://74.0.48.39/,#Vidar,https://threatfox.abuse.ch/ioc/1782965/
 2026-04-08 21:34:16,Unknown malware,url,https://ameublement.bcd-adventures.com,#ClickFix,https://threatfox.abuse.ch/ioc/1783080/
+2026-04-09 07:35:12,Unknown malware,url,https://antongandon.club/api/index.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1783247/
+2026-04-09 07:34:42,Unknown malware,url,https://antongandon.club/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1783246/
+2026-04-09 07:35:34,Unknown malware,url,https://antongandon.club/log.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1783248/
 2026-04-09 06:02:51,Lumma Stealer,url,https://arresetrewwqo.shop/api,#c2 #Lumma #stealer #triage,https://tria.ge/260409-ar46zsf16r
-2026-04-08 14:35:15,Unknown malware,url,https://bestwebchlen.cyou/api/index.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1782920/
-2026-04-08 14:34:36,Unknown malware,url,https://bestwebchlen.cyou/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1782919/
-2026-04-08 14:35:51,Unknown malware,url,https://bestwebchlen.cyou/log.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1782921/
+2026-04-09 16:33:07,Vidar,url,https://ave.hbway.com.au/,#Vidar,https://threatfox.abuse.ch/ioc/1783469/
+2026-04-09 16:33:07,Vidar,url,https://ave.msalifenterprise.net/,#Vidar,https://threatfox.abuse.ch/ioc/1783468/
+2026-04-09 12:01:55,Quasar RAT,url,https://bajajallianz.in.net,#c2 #quasar #RAT #triage,https://tria.ge/260409-l9rjdsez6z
+2026-04-09 12:01:57,Quasar RAT,url,https://bajajallianz.in.net:4782,#c2 #quasar #RAT #triage,https://tria.ge/260409-l9rjdsez6z
+2026-04-09 14:13:40,Unknown RAT,url,https://bottlerat.site/api/v2/telemetry/,#BottleRAT #RAT,https://bazaar.abuse.ch/sample/ba4523a750e08070207256b70cbb3d096b19f711eab47eace3abf7313b377126/
 2026-04-08 21:32:14,Unknown malware,url,https://cegmester.hellodevs.dev,#ClickFix,https://threatfox.abuse.ch/ioc/1783076/
-2026-04-08 14:54:58,SmartApeSG,url,https://clfckhitriver.com/api/data,#AIMP #Aorta #ClickFix #sideload #SmartApeSG,https://github.com/Lenny-3BO/threat-hunting
-2026-04-08 14:29:25,Unknown malware,url,https://clnsdns.beer/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1782912/
 2026-04-08 21:33:13,Unknown malware,url,https://conseilsst.com,#ClickFix,https://threatfox.abuse.ch/ioc/1783078/
 2026-04-08 22:01:30,Unknown malware,url,https://deepsight.icu/ext-b.5211fbb3d30f.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1783092/
 2026-04-08 22:06:29,Unknown malware,url,https://deepsight.icu/ext.ec6c3fd8b3fb.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1783095/
 2026-04-08 22:00:56,Unknown malware,url,https://deepsight.icu/t.188cfd3975db.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1783091/
 2026-04-08 22:02:58,Unknown malware,url,https://deepsight.icu/t.js?site=,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1783093/
 2026-04-08 19:37:03,Unknown malware,url,https://download-version.1-5-8.com/claude.msixbundle,#macOS,https://threatfox.abuse.ch/ioc/1783037/
-2026-04-08 07:40:57,Unknown malware,url,https://fritchat.xyz/googlemeet/invite.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1782796/
-2026-04-08 07:41:36,Unknown malware,url,https://fritchat.xyz/googlemeet/microsoft-store.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1782797/
-2026-04-08 08:20:20,Unknown malware,url,https://ggoooglemeettinggninvit.click/meets/567/Windows/invite.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1782826/
-2026-04-08 08:20:47,Unknown malware,url,https://ggoooglemeettinggninvit.click/meets/567/Windows/microsoft-store.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1782827/
-2026-04-08 08:24:03,Unknown malware,url,https://goggllemmeettiingnc.com/join/invite.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1782833/
-2026-04-08 08:24:24,Unknown malware,url,https://goggllemmeettiingnc.com/join/microsoft-store.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1782834/
-2026-04-08 08:22:40,Unknown malware,url,https://googgleemeetinginterviiew.live/invite.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1782830/
-2026-04-08 08:23:00,Unknown malware,url,https://googgleemeetinginterviiew.live/microsoft-store.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1782831/
-2026-04-08 07:54:53,Unknown malware,url,https://googlemeet-meetings.us/update.html,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1782809/
-2026-04-08 07:30:25,Unknown malware,url,https://googlemeet.emilychart.xyz/invite.php,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782730/
-2026-04-08 07:30:51,Unknown malware,url,https://googlemeet.emilychart.xyz/microsoft-store.php,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782731/
-2026-04-08 07:45:07,Unknown malware,url,https://googlemeetinterview.help,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1782800/
-2026-04-08 07:48:37,Unknown malware,url,https://googlomeetings.com/Windows/invite.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1782803/
+2026-04-09 17:12:43,Unknown Stealer,url,https://ggooglemeettinggninvit.click/meet/files/GoogleMeet_At_work.exe,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1783486/
+2026-04-09 17:11:50,Unknown Stealer,url,https://ggooglemeettinggninvit.click/meet/invite.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1783484/
+2026-04-09 17:12:12,Unknown Stealer,url,https://ggooglemeettinggninvit.click/meet/microsoft-store.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1783485/
+2026-04-09 17:15:35,Unknown Stealer,url,https://google-meetingsnow.click/meeting.html,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1783489/
+2026-04-09 17:15:57,Unknown Stealer,url,https://google-meetingsnow.click/update.html,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1783490/
+2026-04-09 17:16:36,Unknown Stealer,url,https://google-meetingsnow.us/update/GoogleMeetInstaller.zip,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1783491/
+2026-04-09 17:21:27,Unknown Stealer,url,https://googlemeeting.click/Googlemeet/Windows/invite.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1783494/
+2026-04-09 17:30:32,Unknown Stealer,url,https://googlemeetmenow.us//update/GoogleMeetInstaller.zip,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1783499/
+2026-04-09 17:29:26,Unknown Stealer,url,https://googlemeetmenow.us/meeting.html,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1783498/
 2026-04-09 06:59:17,Vidar,url,https://hez.hbway.com.au/,#Vidar,https://threatfox.abuse.ch/ioc/1783232/
 2026-04-09 06:59:17,Vidar,url,https://hez.msalifenterprise.net/,#Vidar,https://threatfox.abuse.ch/ioc/1783231/
+2026-04-09 07:50:23,Unknown Stealer,url,https://jpbassin.com/curl/0ebf4f9b481eb31e79a09c764a277d3c73b68b548c4284be08162345716d1529,#macOS,https://threatfox.abuse.ch/ioc/1783255/
 2026-04-08 19:40:58,Unknown malware,url,https://jpbassin.com/curl/45b34232b6c839a6383c73bd2acf07117229211b67986d817a4b35b4beb73902,#macOS,https://threatfox.abuse.ch/ioc/1783039/
+2026-04-09 07:47:33,Unknown Stealer,url,https://jpbassin.com/hiddenfix/update,#macOS,https://threatfox.abuse.ch/ioc/1783253/
 2026-04-08 19:49:51,Unknown malware,url,https://jpbassin.com/n8n/update,#macOS,https://threatfox.abuse.ch/ioc/1783041/
-2026-04-08 14:30:18,Unknown malware,url,https://jsframeworkns.beer/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1782914/
 2026-04-08 22:08:21,Unknown malware,url,https://logicvault.icu/ext-b.5211fbb3d30f.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1783098/
 2026-04-08 22:07:32,Unknown malware,url,https://logicvault.icu/ext.ec6c3fd8b3fb.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1783097/
 2026-04-08 22:08:49,Unknown malware,url,https://logicvault.icu/t.js?site=,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1783099/
+2026-04-09 16:33:08,Vidar,url,https://lta.hbway.com.au/,#Vidar,https://threatfox.abuse.ch/ioc/1783471/
+2026-04-09 16:33:08,Vidar,url,https://lta.msalifenterprise.net/,#Vidar,https://threatfox.abuse.ch/ioc/1783470/
 2026-04-08 21:30:51,Unknown malware,url,https://new.importletterofcredit.com,#ClickFix,https://threatfox.abuse.ch/ioc/1783072/
-2026-04-08 14:31:19,Unknown malware,url,https://nsservclod.beer/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1782916/
-2026-04-08 12:51:25,SmartApeSG,url,https://prennixo.com/pnpm,#SmartApeSG,https://infosec.exchange/@monitorsg/116369005662143551
-2026-04-08 12:51:25,SmartApeSG,url,https://prennixo.com/react,#SmartApeSG,https://infosec.exchange/@monitorsg/116369005662143551
+2026-04-09 07:46:59,Unknown Stealer,url,https://proj-hid513291kzg.pages.dev,#macOS,https://threatfox.abuse.ch/ioc/1783252/
 2026-04-08 19:35:24,Unknown malware,url,https://project-ms50192kd15.pages.dev,#macOS,https://threatfox.abuse.ch/ioc/1783035/
-2026-04-08 07:50:31,Unknown malware,url,https://qkltt28zm3bxw.live/567/Windows/invite.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1782805/
-2026-04-08 07:50:48,Unknown malware,url,https://qkltt28zm3bxw.live/567/Windows/microsoft-store.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1782806/
-2026-04-08 17:08:55,Vidar,url,https://rbb.hbway.com.au/,#Vidar,https://threatfox.abuse.ch/ioc/1782964/
-2026-04-08 17:08:55,Vidar,url,https://rbb.msalifenterprise.net/,#Vidar,https://threatfox.abuse.ch/ioc/1782963/
-2026-04-08 07:35:22,Unknown malware,url,https://simplicity-w.pages.dev/downloads/ZoomWorkspace.ClientSetup.msi,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782734/
-2026-04-08 07:35:45,Unknown malware,url,https://simplicity-w.pages.dev/installation-guide,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782735/
-2026-04-08 14:54:56,Unknown malware,url,https://stromao.com/file.js,,https://threatfox.abuse.ch/ioc/1782890/
-2026-04-08 14:38:30,Unknown malware,url,https://stromao.com/g,#ClickFix,https://threatfox.abuse.ch/ioc/1782924/
-2026-04-08 14:38:09,Unknown malware,url,https://stromao.com/t,#ClickFix,https://threatfox.abuse.ch/ioc/1782923/
 2026-04-09 06:59:17,Vidar,url,https://tfe.hbway.com.au/,#Vidar,https://threatfox.abuse.ch/ioc/1783230/
 2026-04-09 06:59:17,Vidar,url,https://tfe.msalifenterprise.net/,#Vidar,https://threatfox.abuse.ch/ioc/1783229/
-2026-04-08 07:58:49,Unknown malware,url,https://usz00mczyiee.store/H7j3Gm9g4Jsp9/Windows/microsoft-store.php,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782811/
-2026-04-08 15:18:44,Unknown malware,url,https://vittaro.ws/1/,,https://bazaar.abuse.ch/sample/8fb1899795d8475dde4702f404a9b1682d1cbe9157cb44bf1d7221d727352e5c/
-2026-04-08 17:08:55,Vidar,url,https://xhx.expertcs.au/,#Vidar,https://threatfox.abuse.ch/ioc/1782962/
-2026-04-08 17:08:55,Vidar,url,https://xhx.msalifenterprise.net/,#Vidar,https://threatfox.abuse.ch/ioc/1782961/
-2026-04-08 07:28:16,Unknown malware,url,https://zoom-i.pages.dev/install-guide,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782727/
-2026-04-08 07:28:42,Unknown malware,url,https://zoom-i.pages.dev/microsoft-store.php,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782728/
-2026-04-08 07:25:25,Unknown malware,url,https://zoom-in.pages.dev/install-guide,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782723/
-2026-04-08 07:26:07,Unknown malware,url,https://zoom-in.pages.dev/microsoft-store.php,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782725/
-2026-04-08 07:36:41,Unknown malware,url,https://zoominviteeees.de/downloads/ZoomWorkspace.ClientSetup.msi,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782738/
-2026-04-08 07:37:04,Unknown malware,url,https://zoominviteeees.de/installation-guide,#Fake Zoom,https://threatfox.abuse.ch/ioc/1782744/
+2026-04-09 15:46:09,DarkGate,url,hxxps://download-version.1-5-8.com/claude.msixbundle,#AI-lure #claude #ClickFix #HTA #msixbundle,https://github.com/Lenny-3BO/BeepBopBoop/blob/master/hunts/clickfix/ms709-trojanized-installers/report.md
+2026-04-09 15:36:57,Lumma Stealer,url,hxxps://test-dummy-validation-99999.com/test,#test,https://example.com
