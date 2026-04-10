@@ -1,15 +1,10 @@
 # Removed IOCs — removed_iocs_urls.txt
-# Run     : 2026-04-09 07:24:33 UTC
+# Run     : 2026-04-10 07:43:36 UTC
 # Action  : SIEM should remove these entries from database
 #
-http://150.241.230.16:7777/dcinjection-send
-http://150.241.230.16:7777/debug
-http://150.241.230.16:7777/system-info
-http://193.233.113.199
-http://77.91.97.186
-https://ew-masagroup.com/invite.php
-https://ew-masagroup.com/microsoft-store.php
-https://ieedn.org/
-https://joyfulvoice.org/
-https://venergymomentum.com/calculate/
-https://vescel.es/
+http://safe-scan.info/
+http://securepass.info/
+http://www.pgaurdroute.me/
+https://antongandon.club/api/index.php
+https://antongandon.club/cf.js
+https://antongandon.club/log.php
