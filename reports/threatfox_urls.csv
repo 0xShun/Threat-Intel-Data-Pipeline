@@ -1,12 +1,15 @@
-2026-04-10 07:00:05,Unknown malware,url,http://114.132.251.233:8888/supershell/login/,#AS45090 #Shenzhen Tencent Computer Systems Company Limited #Supershell,https://threatfox.abuse.ch/ioc/1783719/
-2026-04-10 07:00:11,Unknown malware,url,http://117.24.4.124:8888/supershell/login/,#AS133776 #Quanzhou #Supershell,https://threatfox.abuse.ch/ioc/1783721/
-2026-04-09 23:15:35,Unknown malware,url,http://147.45.42.200/ce3cbfc887?force=1,#ClickFix,https://threatfox.abuse.ch/ioc/1783605/
-2026-04-10 00:06:36,AMOS,url,http://2.26.97.61/Sayipem,,https://socket.dev/blog/attackers-impersonating-linux-foundation-leaders-in-slack-targeting-oss-developers
+2026-04-10 19:08:30,Unknown Stealer,url,http://144.126.140.33:3000,#Banking Stealer #Chrome Extension #ClickFix,https://threatfox.abuse.ch/ioc/1783979/
+2026-04-10 19:17:19,GlassWorm,url,http://45.32.150.251/XKyC3JX9eluVo5oGMEXLwA%3D%3D,#glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-10 19:20:42,GlassWorm,url,http://45.32.150.251/darwin-universal/SBR1JxtWvuFVrHEtLeRDLA%3D%3D?wallet=ledger,#glassworm #wallet-trojan #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-10 19:19:58,GlassWorm,url,http://45.32.150.251/darwin-universal/SBR1JxtWvuFVrHEtLeRDLA%3D%3D?wallet=trezor,#glassworm #wallet-trojan #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-10 19:19:13,GlassWorm,url,http://45.32.150.251/get_arhive_npm/Z10KcBFWoM6mkfsrhxFK0Q%3D%3D,#glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
 2026-04-10 15:00:05,Unknown malware,url,http://45.76.156.222:8888/supershell/login/,#AS20473 #Supershell #The Constant Company  LLC,https://threatfox.abuse.ch/ioc/1783870/
-2026-04-10 01:23:15,AMOS,url,http://64.188.98.250/Hevida,,https://threatfox.abuse.ch/ioc/1783632/
-2026-04-09 21:30:04,Unknown malware,url,http://77.91.97.186/login.html,#AS205775 #NEON CORE NETWORK LLC #stub,https://threatfox.abuse.ch/ioc/1783579/
-2026-04-10 07:00:16,Unknown malware,url,http://8.137.155.113:8888/supershell/login/,#AS37963 #Hangzhou Alibaba Advertising Co. Ltd. #Supershell,https://threatfox.abuse.ch/ioc/1783722/
-2026-04-10 02:40:13,DCRat,url,http://a1135516.xsph.ru/f709da16.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1783649/
+2026-04-11 05:05:31,DCRat,url,http://a1010913.xsph.ru/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1784126/
+2026-04-11 02:35:12,DCRat,url,http://a1158201.xsph.ru/315f0279.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1784097/
+2026-04-11 04:25:22,DCRat,url,http://a1167511.xsph.ru/c22857bf.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1784118/
+2026-04-10 19:30:21,Unknown Stealer,url,http://test1.amanur.com/Confirme.html,#Banking Stealer #Chrome Extension #ClickFix,https://threatfox.abuse.ch/ioc/1783993/
+2026-04-10 22:15:05,Azorult,url,http://www.gpsindia.biz/crm/kha/32/index.php,#AZORult,https://threatfox.abuse.ch/ioc/1784033/
+2026-04-10 18:56:45,Unknown Stealer,url,http://xpie348.online/instalador/update.xml,#Banking Stealer #Chrome Extension #ClickFix,https://threatfox.abuse.ch/ioc/1783974/
 2026-04-10 13:22:28,Unknown malware,url,https://96.176.176.104:8443/application,#c2 #PureHVNC,https://bazaar.abuse.ch/sample/a64a4b5602c408bd15685dc9abb366422bddcc2b83872123445abde3cbc6290b/
 2026-04-10 13:22:29,Unknown malware,url,https://96.176.176.104:8443/browser,#c2 #PureHVNC,https://bazaar.abuse.ch/sample/a64a4b5602c408bd15685dc9abb366422bddcc2b83872123445abde3cbc6290b/
 2026-04-10 13:22:29,Unknown malware,url,https://96.176.176.104:8443/discord,#c2 #PureHVNC,https://bazaar.abuse.ch/sample/a64a4b5602c408bd15685dc9abb366422bddcc2b83872123445abde3cbc6290b/
@@ -16,8 +19,6 @@
 2026-04-10 13:22:29,Unknown malware,url,https://96.176.176.104:8443/plugin,#c2 #PureHVNC,https://bazaar.abuse.ch/sample/a64a4b5602c408bd15685dc9abb366422bddcc2b83872123445abde3cbc6290b/
 2026-04-10 13:22:28,Unknown malware,url,https://96.176.176.104:8443/userinfo,#c2 #PureHVNC,https://bazaar.abuse.ch/sample/a64a4b5602c408bd15685dc9abb366422bddcc2b83872123445abde3cbc6290b/
 2026-04-10 15:58:45,Unknown malware,url,https://aukbakery.com,#ClickFix,https://threatfox.abuse.ch/ioc/1783887/
-2026-04-10 06:43:53,Vidar,url,https://bob.hbway.com.au/,#Vidar,https://threatfox.abuse.ch/ioc/1783708/
-2026-04-10 06:43:54,Vidar,url,https://bob.msalifenterprise.net/,#Vidar,https://threatfox.abuse.ch/ioc/1783709/
 2026-04-10 16:28:41,Unknown malware,url,https://bowlask.icu/ext-b.a3c809f025fb.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1783907/
 2026-04-10 16:29:21,Unknown malware,url,https://bowlask.icu/ext.8d9da06e2a1a.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1783908/
 2026-04-10 16:29:52,Unknown malware,url,https://bowlask.icu/t.188cfd3975db.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1783909/
@@ -42,9 +43,8 @@
 2026-04-10 17:28:01,KongTuke,url,https://mermiston.com/file.js,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1783938/
 2026-04-10 17:29:05,KongTuke,url,https://mermiston.com/g,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1783940/
 2026-04-10 17:28:35,KongTuke,url,https://mermiston.com/t,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1783939/
-2026-04-10 06:43:54,Vidar,url,https://slp.hbway.com.au/,#Vidar,https://threatfox.abuse.ch/ioc/1783710/
-2026-04-10 06:43:54,Vidar,url,https://slp.msalifenterprise.net/,#Vidar,https://threatfox.abuse.ch/ioc/1783711/
-2026-04-09 18:55:49,Vidar,url,https://t.me/dzokdfz,#Vidar,https://bazaar.abuse.ch/sample/246650b4596f201ea17cd6071a96f7ab97dd62363fc206162d95c5ce8c38ea14/
+2026-04-11 06:01:34,Lumma Stealer,url,https://poxzxin.cyou,#c2 #Lumma #stealer #triage,https://tria.ge/260411-f5bpgshw2r
+2026-04-10 18:55:30,Unknown Stealer,url,https://test1.amanur.com,#Banking Stealer #Chrome Extension #ClickFix,https://threatfox.abuse.ch/ioc/1783973/
 2026-04-10 16:38:40,Unknown malware,url,https://theandes.icu/ext-b.a3c809f025fb.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1783920/
 2026-04-10 16:37:59,Unknown malware,url,https://theandes.icu/ext.8d9da06e2a1a.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1783919/
 2026-04-10 16:37:31,Unknown malware,url,https://theandes.icu/t.188cfd3975db.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1783918/
@@ -55,10 +55,9 @@
 2026-04-10 16:32:21,Unknown malware,url,https://thebigs.icu/t.js?site=,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1783911/
 2026-04-10 13:11:16,Unknown Stealer,url,https://us5123proj59891ksjn3419.pages.dev,#macOS,https://threatfox.abuse.ch/ioc/1783830/
 2026-04-10 15:27:52,Unknown malware,url,https://vsactivens.beer/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1783880/
-2026-04-09 23:33:09,Unknown malware,url,https://windlrr.com/file.js,,https://threatfox.abuse.ch/ioc/1783609/
+2026-04-10 17:58:53,Unknown malware,url,https://web-captcha.cc/verification.google,#ClickFix,https://threatfox.abuse.ch/ioc/1783948/
 2026-04-10 12:09:53,SmartApeSG,url,https://xoera.top/metrics/identity-validator.php,#SmartApeSG,https://infosec.exchange/@monitorsg/116380335306108385
 2026-04-10 12:10:06,SmartApeSG,url,https://xoera.top/metrics/permission-css.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116380335306108385
+2026-04-10 18:59:32,Unknown Stealer,url,https://xpie348.online/instalador/bcb.crx,#Banking Stealer #Chrome Extension #ClickFix #ooidffpmpnebkcjneofkaidbcafefiag,https://threatfox.abuse.ch/ioc/1783975/
 2026-04-10 13:07:00,SmartApeSG,url,https://zarrvilo.top/metrics/identity-validator.php,#SmartApeSG,https://infosec.exchange/@monitorsg/116380560057702927
 2026-04-10 13:07:08,SmartApeSG,url,https://zarrvilo.top/metrics/permission-css.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116380560057702927
-2026-04-09 21:33:02,SmartApeSG,url,https://zellvaro.top/rate/gateway-xml.php,#SmartApeSG,https://infosec.exchange/@monitorsg/116376887482804213
-2026-04-09 21:33:11,SmartApeSG,url,https://zellvaro.top/rate/throttle-component.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116376887482804213
