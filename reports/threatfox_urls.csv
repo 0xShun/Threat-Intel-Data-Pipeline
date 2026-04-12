@@ -1,4 +1,6 @@
 2026-04-11 20:01:14,Unknown malware,url,http://103.27.156.239/_/,#ClickFix #User-Agent Check #xHamster,https://threatfox.abuse.ch/ioc/1784376/
+2026-04-12 13:57:23,Unknown malware,url,http://103.75.117.209:8888/supershell/login/,#AS133752 #LEASEWEB HONG KONG LIMITED #Supershell,https://threatfox.abuse.ch/ioc/1784680/
+2026-04-12 13:57:24,SmartLoader,url,http://144.31.57.65/api/NTE3YjdjNWU1NjYzNjU2YTA1N2Y=,#SmartLoader,https://threatfox.abuse.ch/ioc/1784662/
 2026-04-11 20:27:24,Unknown malware,url,http://195.133.9.138/app/window.exe,#ClickFix #Rock4er #User-Agent Check #xHamster,https://threatfox.abuse.ch/ioc/1784384/
 2026-04-11 20:15:40,Unknown malware,url,http://195.133.9.138/at11/random.exe,#ClickFix #Rock4er #User-Agent Check #xHamster,https://threatfox.abuse.ch/ioc/1784380/
 2026-04-11 20:29:55,Unknown malware,url,http://195.133.9.138/final/random.exe,#ClickFix #Rock4er #User-Agent Check #xHamster,https://threatfox.abuse.ch/ioc/1784386/
@@ -10,25 +12,67 @@
 2026-04-11 19:37:38,GlassWorm,url,http://45.32.150.251/darwin-universal/eS7NGXnATAMvSxCvb5IR1w%3D%3D?wallet=trezor,#glassworm #wallet-trojan #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
 2026-04-11 19:37:37,GlassWorm,url,http://45.32.150.251/g/DcBgkhPhBl%2FI%2B47SkwikzA%3D%3D,#calendar-c2 #glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
 2026-04-11 19:37:38,GlassWorm,url,http://45.32.150.251/get_arhive_npm/oQrcBH156bazw%2BWDRT0eMA%3D%3D,#glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
-2026-04-11 09:45:30,DCRat,url,http://a1070666.xsph.ru/7825d1d5.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1784195/
-2026-04-11 08:45:23,DCRat,url,http://a1137286.xsph.ru/d43cbf2e.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1784192/
-2026-04-11 11:00:53,DCRat,url,http://a1155181.xsph.ru/0b4a9acb.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1784233/
-2026-04-11 13:01:38,DCRat,url,http://a1156871.xsph.ru/c693e2aa.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1784268/
-2026-04-11 16:15:51,DCRat,url,http://cz946195.tw1.ru/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1784324/
+2026-04-12 14:29:39,Unknown malware,url,http://check.nid-log.com/api/bootservice.php,,https://bazaar.abuse.ch/sample/1eff237dee95172363bfc0342d0389f809f753a6ec5e6848e57b3fd5482e9793/
 2026-04-11 20:41:54,Unknown malware,url,http://www.leberinda.pro/xamster.html,#ClickFix #xHamster,https://threatfox.abuse.ch/ioc/1784396/
+2026-04-12 14:55:38,Vidar,url,https://136.243.116.58,#Vidar,https://bazaar.abuse.ch/sample/6118a4f19816556d85e162ca237ca7ee4123bb4d0c8e5491db5527bd37ac61f3/
 2026-04-12 06:50:43,Vidar,url,https://136.243.203.97,#Vidar,https://bazaar.abuse.ch/sample/48d90beab7edee47b4c89c378cda7d0673cdfb13ae1fa30908f27c9cd8ac6834/
+2026-04-12 15:44:47,Unknown malware,url,https://auto-it.com/,#ClickFix,https://clickfix.carsonww.com/domains/auto-it.com
+2026-04-12 07:44:16,Unknown malware,url,https://cauterizespray.icu/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1784629/
+2026-04-12 07:34:26,Unknown malware,url,https://ceramicskick.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1784596/
 2026-04-11 20:58:10,Unknown Stealer,url,https://claudepage.pages.dev,#Fake Claude #macOS,https://threatfox.abuse.ch/ioc/1784405/
-2026-04-11 12:56:22,Unknown malware,url,https://dreff-nsdns.beer/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1784266/
+2026-04-12 07:40:33,Unknown malware,url,https://disallowreconfirm.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1784609/
+2026-04-12 07:41:25,Unknown malware,url,https://enslaveculprit.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1784611/
+2026-04-12 07:35:18,Unknown malware,url,https://folkunwary.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1784598/
+2026-04-12 15:44:49,magecart,url,https://fundsf.com/JWIynfdy/,#card-skimmer #eplus #hy-kit #phishing #socket-io #vue-spa #websocket-exfil,https://threatfox.abuse.ch/ioc/1784745/
+2026-04-12 15:44:49,magecart,url,https://fundsf.com/fish_ws/status,#card-skimmer #eplus #hy-kit #phishing #socket-io #vue-spa #websocket-exfil,https://threatfox.abuse.ch/ioc/1784743/
+2026-04-12 15:44:49,magecart,url,https://fundsf.com/socket.io/?EIO=4&transport=polling,#card-skimmer #eplus #hy-kit #phishing #socket-io #vue-spa #websocket-exfil,https://threatfox.abuse.ch/ioc/1784744/
 2026-04-11 22:25:00,Unknown malware,url,https://ghanioilandgas.com/ghanioilandgas.zip,#booking.com #ClickFix #payload,https://threatfox.abuse.ch/ioc/1784438/
+2026-04-12 07:43:14,Unknown malware,url,https://goalharvest.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1784627/
+2026-04-12 16:00:58,Unknown malware,url,https://hmc0.pagebestzoneread.com/?a505ebecd8850a44ab,#ClickFix,https://clickfix.carsonww.com/domains/hmc0.pagebestzoneread.com
 2026-04-11 21:26:58,Unknown malware,url,https://hotelsignbkngguest.help/booking.com_files/vp32ssdaq.html,#booking.com #ClickFix,https://threatfox.abuse.ch/ioc/1784412/
 2026-04-11 18:01:32,Lumma Stealer,url,https://ionicj.cyou,#c2 #Lumma #stealer #triage,https://tria.ge/260411-s73l7sct8k
 2026-04-12 06:34:51,Unknown malware,url,https://kurdishstudies.net/,#ClickFix,https://clickfix.carsonww.com/domains/kurdishstudies.net
+2026-04-12 07:42:23,Unknown malware,url,https://managingdeceptive.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1784624/
 2026-04-11 19:37:21,Unknown malware,url,https://minewosa.su/xamster.html,#ClickFix,https://clickfix.carsonww.com/domains/minewosa.su
+2026-04-12 07:36:13,Unknown malware,url,https://mumbleplaything.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1784600/
+2026-04-12 07:57:15,Unknown malware,url,https://mymeetgooogle.com,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1784639/
+2026-04-12 07:58:08,Unknown malware,url,https://mymeetgooogle.com/metro/download.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1784641/
+2026-04-12 07:57:27,Unknown malware,url,https://mymeetgooogle.com/microsoft-store.html,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1784640/
+2026-04-12 07:53:06,Unknown malware,url,https://mymeetingnow.com,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1784634/
+2026-04-12 07:55:29,Unknown malware,url,https://mymeetingnow.com/metro/download.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1784637/
+2026-04-12 07:53:40,Unknown malware,url,https://mymeetingnow.com/microsoft-store.html,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1784635/
+2026-04-12 07:45:04,Unknown malware,url,https://pencilduring.icu/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1784631/
+2026-04-12 15:29:11,Unknown malware,url,https://primescan.live/ext-b.8ec365dfbab5.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784753/
+2026-04-12 15:30:50,Unknown malware,url,https://primescan.live/ext.4ac6dedda6a5.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784755/
+2026-04-12 15:28:35,Unknown malware,url,https://primescan.live/t.188cfd3975db.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784752/
+2026-04-12 15:27:38,Unknown malware,url,https://primescan.live/t.js?site=,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784751/
+2026-04-12 07:26:31,Unknown malware,url,https://primetrace.cfd/ext-b.8ec365dfbab5.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784587/
+2026-04-12 07:28:29,Unknown malware,url,https://primetrace.cfd/ext.4ac6dedda6a5.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784588/
+2026-04-12 07:24:59,Unknown malware,url,https://primetrace.cfd/t.188cfd3975db.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784585/
+2026-04-12 07:24:10,Unknown malware,url,https://primetrace.cfd/t.js?site=,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784584/
+2026-04-12 07:37:13,Unknown malware,url,https://scoldingspoiled.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1784602/
+2026-04-12 07:32:29,Unknown malware,url,https://shadowlink.cyou/ext-b.8ec365dfbab5.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784593/
+2026-04-12 07:33:12,Unknown malware,url,https://shadowlink.cyou/ext.4ac6dedda6a5.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784594/
+2026-04-12 07:31:45,Unknown malware,url,https://shadowlink.cyou/t.188cfd3975db.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784591/
+2026-04-12 07:31:06,Unknown malware,url,https://shadowlink.cyou/t.js?site=,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784590/
+2026-04-12 15:33:55,Unknown malware,url,https://shadowmetric.buzz/ext-b.8ec365dfbab5.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784759/
+2026-04-12 15:34:38,Unknown malware,url,https://shadowmetric.buzz/ext.4ac6dedda6a5.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784761/
+2026-04-12 15:32:57,Unknown malware,url,https://shadowmetric.buzz/t.188cfd3975db.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784758/
+2026-04-12 15:32:21,Unknown malware,url,https://shadowmetric.buzz/t.js?site=,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1784757/
 2026-04-11 21:28:24,Unknown malware,url,https://signinapartnerextranet.com/booking.com_files/vp32ssdaq.html,#booking.com #ClickFix,https://threatfox.abuse.ch/ioc/1784413/
+2026-04-12 16:00:58,Unknown malware,url,https://t9sg.livekeynextlearn.com/?2e45ae879df914afbb78c98,#ClickFix,https://clickfix.carsonww.com/domains/t9sg.livekeynextlearn.com
+2026-04-12 16:00:58,Unknown malware,url,https://tbase.com.mx/,#ClickFix,https://clickfix.carsonww.com/domains/tbase.com.mx
 2026-04-11 21:49:57,Unknown malware,url,https://trymefislqe.com/m7qdgYFGNyuQCnCTCkmZvHfF8eukx1b6?id=,#booking.com #ClickFix,https://threatfox.abuse.ch/ioc/1784428/
+2026-04-12 07:38:55,Unknown malware,url,https://uniquelyblimp.icu/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1784607/
+2026-04-12 07:38:03,Unknown malware,url,https://unlessdiscolor.icu/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1784605/
 2026-04-11 19:37:25,Unknown malware,url,https://www.careersineyecare.org.uk/2024/06/12/six-reasons-to-be-a-vision-scientist/,#ClickFix,https://clickfix.carsonww.com/domains/www.careersineyecare.org.uk
 2026-04-11 21:31:54,Unknown malware,url,https://www.eatonnanqiaohotel.com/booking.com_files/vp32ssdaq.html,#booking.com #ClickFix,https://threatfox.abuse.ch/ioc/1784417/
 2026-04-11 21:33:03,Unknown malware,url,https://www.extranetpanepartner.com/booking.com_files/vp32ssdaq.html,#booking.com #ClickFix,https://threatfox.abuse.ch/ioc/1784419/
 2026-04-11 19:37:19,Unknown malware,url,https://www.itsgrill.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/www.itsgrill.com.br
 2026-04-11 20:44:19,Unknown malware,url,https://www.kantariki.su/xamster.html,#ClickFix #xHamster,https://threatfox.abuse.ch/ioc/1784398/
 2026-04-11 20:46:24,Unknown malware,url,https://www.mokonol.shop/xamster.html,#ClickFix #xHamster,https://threatfox.abuse.ch/ioc/1784401/
+2026-04-12 13:57:22,Unknown malware,url,https://www.simontait.com.au/,#ClickFix,https://clickfix.carsonww.com/domains/www.simontait.com.au
+2026-04-12 16:00:58,Unknown malware,url,https://www.taylornicholas.com.au/,#ClickFix,https://clickfix.carsonww.com/domains/www.taylornicholas.com.au
+2026-04-12 16:00:58,Unknown malware,url,https://www.technopole-pathologie.fr/,#ClickFix,https://clickfix.carsonww.com/domains/www.technopole-pathologie.fr
+2026-04-12 16:30:49,Unknown malware,url,https://xfwv.livekeynextlearn.com/?eef16b82f9ee0b29d,#ClickFix,https://clickfix.carsonww.com/domains/xfwv.livekeynextlearn.com
+2026-04-12 15:44:48,magecart,url,wss://fundsf.com/api/gateway/fish_ws,#card-skimmer #eplus #hy-kit #phishing #socket-io #vue-spa #websocket-exfil,https://threatfox.abuse.ch/ioc/1784746/
