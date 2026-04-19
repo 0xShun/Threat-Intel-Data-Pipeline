@@ -1,150 +1,82 @@
 2026-04-18 16:00:25,Unknown malware,url,http://176.65.132.178/run.sh,#honeypot,https://greedybear.honeynet.org
 2026-04-18 13:30:05,Unknown malware,url,http://185.211.100.50:5000/login,#AS216084 #itystealer #Kerem Uluboy,https://threatfox.abuse.ch/ioc/1794129/
 2026-04-18 14:00:04,Unknown malware,url,http://185.228.83.217:8443/login,#Access2.IT Network #AS208258 #zabbix,https://threatfox.abuse.ch/ioc/1794135/
-2026-04-17 18:15:06,Unknown malware,url,http://213.5.130.147,#c2 #REMPROXY,https://threatfox.abuse.ch/ioc/1793645/
 2026-04-18 08:56:12,Unknown malware,url,http://217.60.38.147/pages/login.php,#AS56971 #AS56971 Cloud #UNAM,https://threatfox.abuse.ch/ioc/1793939/
 2026-04-18 14:00:12,Unknown malware,url,http://94.232.46.16:8081/login,#AS64439 #borz #RocketCloud.ru,https://threatfox.abuse.ch/ioc/1794137/
-2026-04-17 17:27:03,DCRat,url,http://a0571516.xsph.ru/PythonsecureProcessorgeneratoruniversal.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1793631/
-2026-04-17 17:27:16,DCRat,url,http://cc549964.tw1.ru/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1793632/
-2026-04-17 17:27:28,DCRat,url,http://ce520737.tw1.ru/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1793633/
-2026-04-17 18:38:15,DeerStealer,url,http://quebecsereinhalcyon.com/c,#deerstealer,https://bazaar.abuse.ch/sample/9ffadd20c3946d7a635f48a91ab2ca00e6374ff05bf3ac9344e5d2758d3302ba/
 2026-04-18 08:56:16,Unknown Loader,url,http://wei8htunconq.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#ClearFake #garble #go #midie #sideload-asus #WebDav,https://threatfox.abuse.ch/ioc/1793908/
-2026-04-17 19:10:09,Vidar,url,https://136.243.203.100/,#Vidar,https://threatfox.abuse.ch/ioc/1793692/
 2026-04-18 13:15:30,Vidar,url,https://140.82.6.184/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794107/
-2026-04-17 19:10:10,Vidar,url,https://178.104.123.228/,#Vidar,https://threatfox.abuse.ch/ioc/1793693/
-2026-04-17 19:10:10,Vidar,url,https://204.168.245.13/,#Vidar,https://threatfox.abuse.ch/ioc/1793694/
-2026-04-17 21:29:47,Unknown malware,url,https://248bestmoon.click/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793767/
-2026-04-17 19:10:07,Vidar,url,https://37.27.42.210/,#Vidar,https://threatfox.abuse.ch/ioc/1793685/
-2026-04-17 19:10:07,Vidar,url,https://37.27.81.123/,#Vidar,https://threatfox.abuse.ch/ioc/1793686/
 2026-04-18 08:56:12,Unknown Loader,url,https://3qui-crest.tav4sorel.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#ClearFake #garble #go #midie #sideload-asus #WebDav,https://threatfox.abuse.ch/ioc/1793913/
-2026-04-17 19:10:08,Vidar,url,https://46.225.91.121/,#Vidar,https://threatfox.abuse.ch/ioc/1793690/
-2026-04-17 19:10:07,Vidar,url,https://46.62.144.117/,#Vidar,https://threatfox.abuse.ch/ioc/1793687/
-2026-04-17 19:10:08,Vidar,url,https://46.62.145.178/,#Vidar,https://threatfox.abuse.ch/ioc/1793688/
-2026-04-17 19:10:08,Vidar,url,https://46.62.150.177/,#Vidar,https://threatfox.abuse.ch/ioc/1793689/
 2026-04-18 13:15:31,Vidar,url,https://610sportsradio.net/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794108/
-2026-04-17 19:10:09,Vidar,url,https://62.238.14.94/,#Vidar,https://threatfox.abuse.ch/ioc/1793691/
+2026-04-19 01:22:16,Unknown Loader,url,https://71idu6.6vxere.cc/D18vwHp8is014fv5vtsp82asu/sldpivslkuewa,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794291/
 2026-04-18 08:56:15,Unknown Loader,url,https://a4lp.tov4mixel.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#ClearFake #garble #go #midie #sideload-asus #WebDav,https://threatfox.abuse.ch/ioc/1793909/
-2026-04-17 22:15:08,Vidar,url,https://ajantaappliances.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793804/
-2026-04-17 23:15:07,Vidar,url,https://ajitexport.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793862/
-2026-04-17 22:15:15,Vidar,url,https://alex.webmaze.gr/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793833/
-2026-04-17 22:15:13,Vidar,url,https://allhandsproconstruction.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793823/
+2026-04-19 01:15:05,Vidar,url,https://aikomart.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794277/
 2026-04-18 13:15:31,Vidar,url,https://allstartsealing.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794109/
 2026-04-18 08:13:56,Lumma Stealer,url,https://analipr.cyou,#Lumma,https://bazaar.abuse.ch/sample/2762f3e0a56d62e70157c398626856befead49f0926ba921f478bb599f10e2f6/
 2026-04-18 13:15:34,Vidar,url,https://app.freeconferencecall.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794122/
-2026-04-17 22:15:09,Vidar,url,https://aquainfusion.com.au/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793807/
-2026-04-17 23:15:04,Vidar,url,https://armourstrengthtraining.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793853/
-2026-04-17 22:15:13,Vidar,url,https://arredamentilorenzoni.it/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793825/
-2026-04-17 21:15:08,Vidar,url,https://asociatiaelevilor.ro/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793759/
-2026-04-17 23:15:04,Vidar,url,https://ayvazbouw.nl/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793850/
-2026-04-17 22:15:08,Vidar,url,https://babycomfy.co.il/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793805/
-2026-04-17 22:15:07,Vidar,url,https://babytown.com.bd/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793802/
+2026-04-19 01:15:07,Vidar,url,https://arabiangulffzc.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794283/
+2026-04-19 01:15:06,Vidar,url,https://armedforcessupportfoundation.org/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794281/
+2026-04-19 01:15:05,Vidar,url,https://auraaesthetics.in/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794278/
 2026-04-18 13:15:31,Vidar,url,https://barbieworldspa.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794110/
-2026-04-17 22:15:12,Vidar,url,https://baulkhamhillsphysio.com.au/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793818/
-2026-04-17 21:34:37,Unknown malware,url,https://beacon-mysummitfcu.org/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793773/
-2026-04-18 00:15:06,Vidar,url,https://beautybyghadeer.ca/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793888/
-2026-04-18 00:15:05,Vidar,url,https://bekkitchenrenovation.ca/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793887/
-2026-04-17 22:15:09,Vidar,url,https://birchdentalpractice.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793809/
-2026-04-17 22:15:07,Vidar,url,https://bluegrassrooter.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793801/
-2026-04-17 23:15:05,Vidar,url,https://bluepil.co.il/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793854/
+2026-04-19 01:15:09,Vidar,url,https://biendinhdanhmiennam.pro/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794287/
 2026-04-18 13:15:31,Vidar,url,https://bnbnow.net/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794111/
-2026-04-17 22:15:12,Vidar,url,https://buenos.com.my/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793819/
-2026-04-17 21:15:07,Vidar,url,https://camtechpotiskum.edu.ng/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793754/
+2026-04-19 00:15:03,Vidar,url,https://brooklynfamilydivorce.lawyer/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794260/
 2026-04-18 13:15:31,Vidar,url,https://canadianautodetailing.ca/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794112/
 2026-04-18 13:15:07,Vidar,url,https://canineace.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794051/
-2026-04-17 22:15:09,Vidar,url,https://capitalprint.co.za/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793806/
 2026-04-18 13:15:32,Vidar,url,https://carmaintenanceanddiymechanics.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794113/
-2026-04-17 22:15:14,Vidar,url,https://chandigarhmusicacademy.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793830/
-2026-04-17 21:15:06,Vidar,url,https://cld.ie/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793751/
+2026-04-19 00:15:05,Vidar,url,https://chargepointsolutionsoxford.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794262/
 2026-04-18 08:56:14,Unknown Loader,url,https://clipvale.dex9taren.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#ClearFake #garble #go #midie #sideload-asus #WebDav,https://threatfox.abuse.ch/ioc/1793910/
-2026-04-17 22:15:11,Vidar,url,https://commitment.org.il/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793813/
 2026-04-18 13:15:32,Vidar,url,https://cozylivingrevamp.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794114/
 2026-04-18 16:53:39,KongTuke,url,https://cwrtwright.com/file.js,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1794177/
 2026-04-18 16:54:57,KongTuke,url,https://cwrtwright.com/g,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1794179/
 2026-04-18 16:54:35,KongTuke,url,https://cwrtwright.com/t,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1794178/
 2026-04-18 14:15:06,Vidar,url,https://designdrivendaily.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794142/
-2026-04-17 21:15:05,Vidar,url,https://dnctlaw.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793749/
-2026-04-17 22:15:13,Vidar,url,https://dosonec.job-bank.co.uk/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793822/
-2026-04-17 21:15:07,Vidar,url,https://douyeebiomed.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793755/
-2026-04-17 22:15:11,Vidar,url,https://dustyductsbegone.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793814/
+2026-04-18 21:44:27,ClearFake,url,https://dynnex4on.5zoramel.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#ClearFake #ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1794229/
+2026-04-19 01:20:53,Unknown Loader,url,https://eawuf2lw.6przmf.cc/D3i1oHyede03ia15gcx88an5e/jdfxvvmdbctk,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794290/
 2026-04-18 13:15:32,Vidar,url,https://efficientlivingathome.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794115/
-2026-04-17 23:15:04,Vidar,url,https://elicia-burton.client-demo-websites.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793851/
-2026-04-17 22:15:12,Vidar,url,https://emicalculator.ai/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793821/
+2026-04-19 01:15:07,Vidar,url,https://endip.org/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794284/
 2026-04-18 13:15:32,Vidar,url,https://energyefficiencyandsmarthomes.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794116/
+2026-04-19 01:15:08,Vidar,url,https://euphorbia.co.za/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794286/
+2026-04-19 01:15:09,Vidar,url,https://euroservice-impianti.it/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794288/
+2026-04-19 01:15:06,Vidar,url,https://evaluate.ng/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794279/
 2026-04-18 13:15:08,Vidar,url,https://forumrating.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794052/
-2026-04-17 21:15:05,Vidar,url,https://freebetting.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793748/
+2026-04-18 21:44:28,ClearFake,url,https://freightframe.5zoramel.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#ClearFake #ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1794231/
 2026-04-18 13:15:08,Vidar,url,https://futureprooffixes.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794053/
-2026-04-17 22:15:07,Vidar,url,https://gelhmo.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793800/
 2026-04-18 13:15:33,Vidar,url,https://geosetmining.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794117/
-2026-04-17 18:57:55,SantaStealer,url,https://goldspins.club/gate,#SantaStealer,https://bazaar.abuse.ch/sample/bde2db917c40dba4f7d17cb508a3fe9d84e7b00453402c99db7929df7fa50e23/
+2026-04-18 21:44:27,ClearFake,url,https://ggsf.5zoramel.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#ClearFake #ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1794227/
+2026-04-19 00:15:04,Vidar,url,https://gomodular.ie/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794261/
 2026-04-18 13:15:33,Vidar,url,https://goodfamilyhometips.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794118/
+2026-04-18 20:13:22,Vidar,url,https://gor.aasscc.how/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794212/
+2026-04-18 20:13:18,Vidar,url,https://gor.cebolinhaburger.com/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794210/
 2026-04-18 13:15:08,Vidar,url,https://guidetosustainabilehomes.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794054/
 2026-04-18 08:56:12,Unknown Loader,url,https://gzvsfzls.vym7lixar.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#ClearFake #garble #go #midie #sideload-asus #WebDav,https://threatfox.abuse.ch/ioc/1793912/
+2026-04-19 01:15:08,Vidar,url,https://handymanjoes.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794285/
 2026-04-18 13:15:09,Vidar,url,https://happierhousefix.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794055/
-2026-04-17 23:15:05,Vidar,url,https://hghomeremodelingcorp.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793855/
-2026-04-17 21:15:04,Vidar,url,https://hillvillasignaturesuites.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793745/
-2026-04-17 23:15:04,Vidar,url,https://hjestates.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793852/
 2026-04-18 13:15:09,Vidar,url,https://homemasteryhub.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794056/
 2026-04-18 13:15:34,Vidar,url,https://homemuseblog.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794123/
 2026-04-18 13:15:10,Vidar,url,https://homevaluetrending.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794057/
 2026-04-18 13:15:34,Vidar,url,https://housecomfortmadeeasy.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794124/
 2026-04-18 14:15:06,Vidar,url,https://housecomfortzone.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794143/
 2026-04-18 13:15:10,Vidar,url,https://howtoestimateautobodyrepair.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794058/
-2026-04-17 22:15:12,Vidar,url,https://humanartcasting.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793820/
-2026-04-17 21:15:07,Vidar,url,https://ibeddingoutlet.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793756/
-2026-04-17 22:15:13,Vidar,url,https://ibmaaccounting.ca/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793824/
+2026-04-18 19:37:17,Unknown Loader,url,https://i-like-boys.com/tree.vbs,,https://threatfox.abuse.ch/ioc/1794204/
 2026-04-18 15:13:15,Vidar,url,https://ins.aasscc.how/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794155/
 2026-04-18 15:13:10,Vidar,url,https://ins.cebolinhaburger.com/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794153/
-2026-04-17 22:15:12,Vidar,url,https://invitefruition.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793817/
-2026-04-17 19:39:58,Unknown malware,url,https://invstampvest.com/cassi1.aspx,,https://bazaar.abuse.ch/sample/c6e203c681d5ba9786a870a67b11dd784468a640816844c197a4b5a14a9bcf81/
-2026-04-17 22:15:11,Vidar,url,https://isses-tech.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793816/
-2026-04-17 22:15:11,Vidar,url,https://jigpoly.edu.ng/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793815/
-2026-04-17 22:15:08,Vidar,url,https://keypharmacy.uk/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793803/
-2026-04-17 23:28:03,Unknown malware,url,https://kineticnode.icu/ext-b.b83518636a91.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793876/
-2026-04-17 23:28:42,Unknown malware,url,https://kineticnode.icu/ext.7386dce06075.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793877/
-2026-04-17 23:27:27,Unknown malware,url,https://kineticnode.icu/t.188cfd3975db.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793875/
-2026-04-17 23:26:46,Unknown malware,url,https://kineticnode.icu/t.js?site=,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793874/
-2026-04-17 21:15:06,Vidar,url,https://kompas24jam.id/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793753/
 2026-04-18 17:05:47,Unknown malware,url,https://korpchehn.space/login,#Amnesia Panel #Web Panel,https://threatfox.abuse.ch/ioc/1794182/
-2026-04-17 21:15:05,Vidar,url,https://lagostojozi.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793747/
-2026-04-18 00:15:05,Vidar,url,https://lapasoa.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793886/
 2026-04-18 13:15:11,Vidar,url,https://lawforallpeople.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794059/
+2026-04-18 21:44:28,ClearFake,url,https://ledgerinn.5zoramel.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#ClearFake #ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1794230/
 2026-04-18 13:15:04,Vidar,url,https://lttd40.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794050/
 2026-04-18 13:15:11,Vidar,url,https://madisoncountylibrary.org/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794060/
 2026-04-18 14:15:07,Vidar,url,https://mahabeauties.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794144/
-2026-04-17 22:15:14,Vidar,url,https://martinezmartinezconstructionllc.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793828/
-2026-04-17 21:15:09,Vidar,url,https://maverickdigital.uk/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793760/
-2026-04-17 23:15:05,Vidar,url,https://menusqr.gr/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793856/
-2026-04-17 22:15:14,Vidar,url,https://metaverse-academy.in/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793829/
-2026-04-17 22:15:13,Vidar,url,https://mhingles.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793826/
-2026-04-17 21:15:06,Vidar,url,https://moaclinic.ro/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793752/
-2026-04-17 21:24:50,Unknown malware,url,https://moldmuse.buzz/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793764/
-2026-04-17 23:15:06,Vidar,url,https://momentumphysio.co.il/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793857/
+2026-04-19 01:15:06,Vidar,url,https://mastergiftsrl.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794280/
 2026-04-18 13:15:12,Vidar,url,https://morgantownwvbusinessnews.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794061/
 2026-04-18 13:15:12,Vidar,url,https://motortalktoday.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794062/
-2026-04-17 21:15:08,Vidar,url,https://mrtwisty.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793757/
-2026-04-17 21:31:38,Unknown malware,url,https://museview.buzz/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793769/
-2026-04-17 19:17:18,Unknown malware,url,https://myblobtop.site/api/index.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793711/
-2026-04-17 19:17:36,Unknown malware,url,https://myblobtop.site/log.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793712/
-2026-04-17 23:15:03,Vidar,url,https://nbrelationshipcounselling.com.au/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793849/
 2026-04-18 13:15:13,Vidar,url,https://nebulavinyls.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794063/
 2026-04-18 08:46:10,Unknown malware,url,https://nenadopapa.cfd/api/index.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793987/
 2026-04-18 08:44:47,Unknown malware,url,https://nenadopapa.cfd/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793986/
 2026-04-18 08:46:32,Unknown malware,url,https://nenadopapa.cfd/log.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793988/
-2026-04-18 00:15:07,Vidar,url,https://newmanscontracting.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793892/
 2026-04-18 13:15:33,Vidar,url,https://nextgenmotoring.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794119/
-2026-04-17 21:32:44,Unknown malware,url,https://ns2.theokanegroup.com/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793771/
 2026-04-18 13:15:33,Vidar,url,https://objectifdktv.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794120/
-2026-04-17 21:53:05,Unknown malware,url,https://omnisearch.sbs/ext-b.b83518636a91.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793784/
-2026-04-17 21:53:48,Unknown malware,url,https://omnisearch.sbs/ext.7386dce06075.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793785/
-2026-04-17 21:52:29,Unknown malware,url,https://omnisearch.sbs/t.188cfd3975db.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793783/
-2026-04-17 21:51:26,Unknown malware,url,https://omnisearch.sbs/t.js?site=,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793782/
 2026-04-18 13:15:13,Vidar,url,https://organicfoodbenefits.co/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794064/
-2026-04-17 21:15:04,Vidar,url,https://original-antike-moebel.de/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793746/
-2026-04-18 00:15:07,Vidar,url,https://orionlodges.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793891/
 2026-04-18 13:15:35,Vidar,url,https://oshti.org/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794125/
-2026-04-18 00:15:06,Vidar,url,https://papercraftlifestyle.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793889/
-2026-04-18 00:15:06,Vidar,url,https://papurn.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793890/
-2026-04-17 22:15:14,Vidar,url,https://pauljzak.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793827/
 2026-04-18 08:56:04,Unknown Stealer,url,https://pewweepor092.com/api/debug/event,#applescript #Loader #macOS #stealer,https://threatfox.abuse.ch/ioc/1793789/
 2026-04-18 08:56:03,Unknown Stealer,url,https://pewweepor092.com/debug/payload.applescript,#applescript #Loader #macOS #stealer,https://threatfox.abuse.ch/ioc/1793788/
 2026-04-18 08:56:07,AMOS,url,https://pewweepor092.com/gate,#Amos #applescript #keystone-persistence #macOS #stealer,https://threatfox.abuse.ch/ioc/1793794/
@@ -154,94 +86,62 @@
 2026-04-18 08:56:11,AMOS,url,https://pewweepor092.com/gate/ledger-asar,#Amos #asar #atomic #macOS #stealer #wallet-injection,https://threatfox.abuse.ch/ioc/1793838/
 2026-04-18 08:56:08,AMOS,url,https://pewweepor092.com/gate/ledgerlive-asar,#Amos #asar #atomic #macOS #stealer #wallet-injection,https://threatfox.abuse.ch/ioc/1793837/
 2026-04-18 08:56:07,AMOS,url,https://pewweepor092.com/gate/trezor-asar,#Amos #asar #atomic #macOS #stealer #wallet-injection,https://threatfox.abuse.ch/ioc/1793836/
+2026-04-19 01:15:04,Vidar,url,https://pinexrecruitment.job-bank.co.uk/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794274/
 2026-04-18 13:15:13,Vidar,url,https://practicalownersguide.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794065/
 2026-04-18 13:15:14,Vidar,url,https://practicalpropertyguide.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794066/
 2026-04-18 13:15:14,Vidar,url,https://practicalpropertyhacks.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794067/
 2026-04-18 13:15:15,Vidar,url,https://practicalpropertytools.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794068/
+2026-04-18 23:15:04,Vidar,url,https://prakritiklifestyles.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794249/
+2026-04-19 02:13:19,Vidar,url,https://prc.aasscc.how/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794304/
+2026-04-19 02:13:15,Vidar,url,https://prc.cebolinhaburger.com/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794302/
 2026-04-18 13:15:15,Vidar,url,https://propertybestpractices.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794069/
 2026-04-18 13:15:15,Vidar,url,https://protectyourhomehq.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794070/
 2026-04-18 13:15:16,Vidar,url,https://pruningautomation.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794071/
 2026-04-18 13:15:16,Vidar,url,https://purposefulvisionhub.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794072/
 2026-04-18 13:15:16,Vidar,url,https://quickhomefixes.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794073/
-2026-04-17 23:15:07,Vidar,url,https://rckinnox.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793860/
-2026-04-17 22:15:14,Vidar,url,https://regent-itech.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793831/
 2026-04-18 13:15:17,Vidar,url,https://repairyournest.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794074/
 2026-04-18 13:15:17,Vidar,url,https://repurposeandrenewhomes.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794075/
 2026-04-18 13:15:17,Vidar,url,https://residentcomfort.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794076/
 2026-04-18 13:15:18,Vidar,url,https://residentefficiency.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794077/
 2026-04-18 13:15:18,Vidar,url,https://residentmanualfordesign.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794078/
 2026-04-18 13:15:18,Vidar,url,https://rideanddrivehq.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794079/
-2026-04-17 23:15:10,Vidar,url,https://rmcabinetmasters.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793866/
 2026-04-18 13:15:19,Vidar,url,https://roofrepairsolutionsandadvice.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794080/
-2026-04-17 23:15:08,Vidar,url,https://royalmansionhoian.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793863/
-2026-04-17 22:15:10,Vidar,url,https://rspromotions.co.nz/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793811/
-2026-04-17 21:15:04,Vidar,url,https://rtvturadio959.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793744/
-2026-04-17 23:15:09,Vidar,url,https://safa71.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793865/
 2026-04-18 13:15:19,Vidar,url,https://sales-planet.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794081/
 2026-04-18 13:15:19,Vidar,url,https://sandiegoroofrepairandrestoration.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794082/
-2026-04-17 23:24:38,Unknown malware,url,https://scalarview.icu/ext-b.b83518636a91.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793871/
-2026-04-17 23:25:17,Unknown malware,url,https://scalarview.icu/ext.7386dce06075.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793872/
-2026-04-17 23:23:57,Unknown malware,url,https://scalarview.icu/t.188cfd3975db.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793870/
-2026-04-17 23:23:10,Unknown malware,url,https://scalarview.icu/t.js?site=,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793869/
 2026-04-18 13:15:20,Vidar,url,https://scenicdrivelife.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794083/
-2026-04-17 22:15:05,Vidar,url,https://sharmagroup.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793796/
-2026-04-17 22:15:15,Vidar,url,https://shop.laundryservice.ae/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793832/
-2026-04-17 22:15:05,Vidar,url,https://shopfairlanevillage.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793795/
 2026-04-18 13:15:20,Vidar,url,https://shrewdhomeowneradvice.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794084/
 2026-04-18 13:15:20,Vidar,url,https://shrewdhomeownersassistant.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794085/
-2026-04-17 21:45:46,Unknown malware,url,https://silentport.cyou/ext-b.b83518636a91.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793778/
-2026-04-17 21:46:22,Unknown malware,url,https://silentport.cyou/ext.7386dce06075.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793779/
-2026-04-17 21:44:27,Unknown malware,url,https://silentport.cyou/t.188cfd3975db.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793777/
-2026-04-17 21:43:41,Unknown malware,url,https://silentport.cyou/t.js?site=,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1793776/
 2026-04-18 13:15:21,Vidar,url,https://simplifiedfamilyliving.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794086/
-2026-04-17 19:19:23,Unknown malware,url,https://sirata.asia/api/index.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793716/
-2026-04-17 19:19:43,Unknown malware,url,https://sirata.asia/api/log.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793717/
-2026-04-17 19:19:02,Unknown malware,url,https://sirata.asia/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793715/
-2026-04-17 21:15:08,Vidar,url,https://sivan-ronen.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793758/
 2026-04-18 13:15:21,Vidar,url,https://smartgadgettips.au/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794087/
 2026-04-18 13:15:21,Vidar,url,https://smartmasterystation.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794088/
 2026-04-18 13:15:22,Vidar,url,https://smbownersbizdev.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794089/
 2026-04-18 13:15:22,Vidar,url,https://smbownerssuccess.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794090/
 2026-04-18 14:15:07,Vidar,url,https://spain.savasaachimarketingagency.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794145/
 2026-04-18 08:56:14,Unknown Loader,url,https://spark0-mesh.nuv2moren.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#ClearFake #garble #go #midie #sideload-asus #WebDav,https://threatfox.abuse.ch/ioc/1793911/
-2026-04-17 19:10:05,Vidar,url,https://steamcommunity.com/profiles/76561198714231957,#Vidar,https://threatfox.abuse.ch/ioc/1793684/
+2026-04-19 01:15:04,Vidar,url,https://ssangyong-tunisie.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794275/
 2026-04-18 13:15:34,Vidar,url,https://stonepromasters.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794121/
 2026-04-18 13:15:23,Vidar,url,https://strategicclaritystation.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794091/
 2026-04-18 13:15:23,Vidar,url,https://strategicmovementdomain.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794092/
 2026-04-18 13:15:23,Vidar,url,https://strategicupskillingvault.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794093/
 2026-04-18 13:15:27,Vidar,url,https://sustainablehomefixes.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794094/
+2026-04-19 02:15:06,Vidar,url,https://swhrconsulting.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794306/
 2026-04-18 13:15:35,Vidar,url,https://swiftcoverhub.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794126/
 2026-04-18 13:15:27,Vidar,url,https://take-loan.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794095/
-2026-04-17 18:18:24,Vidar,url,https://telegram.me/ci0iiif,#r88vry #Vidar,https://bazaar.abuse.ch/sample/971fa32e2c385f679da4df0b303d2fc484b68d1a1131d77cd4815fc2285249ba/
-2026-04-17 22:15:06,Vidar,url,https://telnetsol.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793797/
+2026-04-18 21:44:27,ClearFake,url,https://temp-enc.5zoramel.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#ClearFake #ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1794228/
+2026-04-19 01:15:05,Vidar,url,https://theamari.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794276/
 2026-04-18 13:15:28,Vidar,url,https://thebusinesspathtoinnovation.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794096/
 2026-04-18 13:15:28,Vidar,url,https://thejoyfulparentinglife.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794097/
-2026-04-17 21:15:09,Vidar,url,https://therapyms.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793761/
-2026-04-17 23:15:07,Vidar,url,https://theskullandsword.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793861/
 2026-04-18 13:15:28,Vidar,url,https://thewholeyoublog.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794098/
-2026-04-17 22:15:10,Vidar,url,https://thirty1fm.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793810/
-2026-04-17 22:15:10,Vidar,url,https://thunderthemes.net/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793812/
-2026-04-17 23:15:06,Vidar,url,https://titanpool.sm/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793858/
-2026-04-17 22:15:06,Vidar,url,https://toutici.tn/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793798/
 2026-04-18 14:15:06,Vidar,url,https://trailblazermotors.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794141/
 2026-04-18 13:15:28,Vidar,url,https://trainsmartdaily.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794099/
 2026-04-18 13:15:29,Vidar,url,https://trendyhomeupgrades.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794100/
-2026-04-17 21:15:06,Vidar,url,https://trust-e-bikes.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793750/
-2026-04-17 22:15:09,Vidar,url,https://tsbazeny.cz/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793808/
+2026-04-19 01:15:07,Vidar,url,https://tuslacteos.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794282/
 2026-04-18 13:15:29,Vidar,url,https://twinsprostore.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794101/
 2026-04-18 13:15:29,Vidar,url,https://tycoonroadmaptoupskilling.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794102/
 2026-04-18 13:15:29,Vidar,url,https://tycoonstrategyforbusinesssuccess.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794103/
-2026-04-17 20:14:17,Vidar,url,https://uas.aasscc.how/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1793731/
-2026-04-17 18:58:56,Vidar,url,https://uas.cebolinhaburger.com/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1793679/
-2026-04-17 22:15:06,Vidar,url,https://unspanel.rs/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793799/
 2026-04-18 13:15:30,Vidar,url,https://upgradedhomeflow.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794104/
 2026-04-18 12:15:05,Vidar,url,https://usa-mobility.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794038/
-2026-04-17 23:15:06,Vidar,url,https://vocearomilor.ro/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793859/
 2026-04-18 11:29:36,NetSupportManager RAT,url,https://xrplnode.dev/install,#NetSupport #RAT,https://bazaar.abuse.ch/sample/267b0b1dc0a99f9f3918f24f626518d23dde5e0caf1128f128f7857906e3ebf5/
 2026-04-18 11:29:36,NetSupportManager RAT,url,https://xrplnode.dev/xrpl.php,#NetSupport #RAT,https://bazaar.abuse.ch/sample/267b0b1dc0a99f9f3918f24f626518d23dde5e0caf1128f128f7857906e3ebf5/
-2026-04-17 19:10:42,Unknown malware,url,https://yanepidor.mom/api/index.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793696/
-2026-04-17 19:10:12,Unknown malware,url,https://yanepidor.mom/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793695/
-2026-04-17 19:11:37,Unknown malware,url,https://yanepidor.mom/log.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1793709/
 2026-04-18 13:15:30,Vidar,url,https://yourcompanymanualforretention.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794105/
 2026-04-18 13:15:30,Vidar,url,https://yourscalingstrategy.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794106/
-2026-04-17 23:15:08,Vidar,url,https://zaprorenovation.ca/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1793864/
