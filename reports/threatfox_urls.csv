@@ -1,34 +1,41 @@
 2026-04-19 11:04:26,Unknown malware,url,http://176.65.132.178/run.sh,#honeypot,https://greedybear.honeynet.org
 2026-04-19 11:04:30,Unknown malware,url,http://185.211.100.50:5000/login,#AS216084 #itystealer #Kerem Uluboy,https://threatfox.abuse.ch/ioc/1794129/
 2026-04-19 11:04:29,Unknown malware,url,http://185.228.83.217:8443/login,#Access2.IT Network #AS208258 #zabbix,https://threatfox.abuse.ch/ioc/1794135/
+2026-04-19 18:25:29,Unknown malware,url,http://213.5.130.87,#c2 #REMPROXY,https://threatfox.abuse.ch/ioc/1794638/
 2026-04-19 11:04:27,Unknown malware,url,http://94.232.46.16:8081/login,#AS64439 #borz #RocketCloud.ru,https://threatfox.abuse.ch/ioc/1794137/
 2026-04-19 12:06:03,Unknown malware,url,http://pixeldrain.com/api/file/a2rPdveC,#Fake Microsoft Teams #Fake Zoom #payload,https://threatfox.abuse.ch/ioc/1794495/
+2026-04-20 06:10:22,Unknown Loader,url,https://3dty0o.6c8v35.cc/DwatoH1fih0rpng5xaf68vzeg/dvmoeiohmnbxvkpqj,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794739/
+2026-04-20 06:10:35,Unknown Loader,url,https://3jkqc5j.69mcg8.cc/D2l9tH2y6e0udga5q19m89thu/gfnqvlbndlmbmhjcex,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794683/
+2026-04-20 06:10:24,Unknown Loader,url,https://4e7.6vxere.cc/DitmyHwkoq0cauv5qx8l8kike/vjeuyfynrts,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794736/
+2026-04-20 06:10:37,Unknown Loader,url,https://4qztty.66uc4x.cc/D6bfqH2bso0o71854a2v8hsyd/fpeixmdqwpipvcrhkha,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794663/
+2026-04-20 06:10:38,Unknown Loader,url,https://6p1anuri2.6xkmet.cc/DklzrHrb2m043ko5d87o85dt6/ldtkqtglibsfudt,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794648/
+2026-04-20 06:10:35,Unknown Loader,url,https://70csneb2.6bqbxr.cc/Da7u8Halrm0emvf5p2rb8vpj4/fjvoqwttejoxdgjksbd,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794685/
 2026-04-19 11:04:18,Unknown Loader,url,https://71idu6.6vxere.cc/D18vwHp8is014fv5vtsp82asu/sldpivslkuewa,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794291/
+2026-04-20 06:10:31,Unknown Loader,url,https://7axdz.6xkmet.cc/DzkyiHs58r0ok8f5wod58ppaw/dojjndefphyampydabp,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794719/
+2026-04-20 06:10:30,Unknown Loader,url,https://8g7ggpsha.6i8htz.cc/Dy186Hlvhp021jk5krre8jqf3/esynmlvsoxsbq,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794721/
+2026-04-20 06:10:28,Unknown Loader,url,https://8h0o58b.6i2inr.cc/DhjvzHaff60clgv5viop8dryi/xjlsmekcqgdrni,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794730/
 2026-04-19 15:48:54,Unknown Loader,url,https://adobeevoiv.duckdns.org/,#DDNS #Fake Adobe Reader,https://threatfox.abuse.ch/ioc/1794575/
 2026-04-19 15:48:51,Unknown Loader,url,https://adobeevoiv.duckdns.org/download.php,#DDNS #Fake Adobe Reader,https://threatfox.abuse.ch/ioc/1794585/
-2026-04-19 01:15:05,Vidar,url,https://aikomart.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794277/
-2026-04-19 01:15:07,Vidar,url,https://arabiangulffzc.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794283/
-2026-04-19 01:15:06,Vidar,url,https://armedforcessupportfoundation.org/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794281/
+2026-04-20 06:36:38,Unknown Stealer,url,https://arkypc.com/curl/c46084d53f2256206cd2695ec998a98418969f278381b1f0cc848f21815ec543,#Fake Claude,https://threatfox.abuse.ch/ioc/1794841/
+2026-04-20 06:37:43,Unknown Stealer,url,https://arkypc.com/n8n/update,#Fake Claude,https://threatfox.abuse.ch/ioc/1794842/
 2026-04-19 15:15:04,Vidar,url,https://atlantacustomtailors.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794587/
 2026-04-19 16:15:05,Vidar,url,https://aucklandrealestateagents.co.nz/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794609/
-2026-04-19 01:15:05,Vidar,url,https://auraaesthetics.in/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794278/
-2026-04-19 01:15:09,Vidar,url,https://biendinhdanhmiennam.pro/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794287/
-2026-04-19 00:15:03,Vidar,url,https://brooklynfamilydivorce.lawyer/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794260/
+2026-04-20 06:10:22,Unknown Loader,url,https://bbbge.imjckeee.com/ffapk/2bl6eu,#DGA #RAT #stealer,https://threatfox.abuse.ch/ioc/1794742/
+2026-04-20 01:15:07,Vidar,url,https://blessstav.cz/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794749/
+2026-04-20 06:10:33,Unknown Loader,url,https://bwib.6cvjua.cc/Due43Hs6z50r5su5jf1t88e9b/vtlqavffvirkh,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794690/
 2026-04-19 15:49:02,Unknown Stealer,url,https://cake.presentlike.life/DivineX.zip,#stealer,https://threatfox.abuse.ch/ioc/1794542/
-2026-04-19 00:15:05,Vidar,url,https://chargepointsolutionsoxford.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794262/
+2026-04-20 06:32:35,Unknown Stealer,url,https://claud-new-tools591.pages.dev,#Fake Claude,https://threatfox.abuse.ch/ioc/1794837/
 2026-04-19 09:44:10,Unknown malware,url,https://cloudcdnginx.beer/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1794407/
 2026-04-19 13:23:46,Unknown malware,url,https://couldlushness.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1794543/
 2026-04-19 15:49:01,Unknown Stealer,url,https://cxwsc.videoshort.live/Cyrex.zip,#stealer,https://threatfox.abuse.ch/ioc/1794547/
 2026-04-19 17:15:06,Vidar,url,https://dailyupskillingfocus.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794628/
+2026-04-20 06:10:29,Unknown Loader,url,https://daxiwbq.6np5ya.cc/Dfyj3He9i30dnf65fkc68ism3/pxycsirihirh,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794728/
 2026-04-19 10:00:04,Unknown malware,url,https://docusign.sourcepage.click/e-sign.php,#Fake DocuSign,https://threatfox.abuse.ch/ioc/1794420/
 2026-04-19 09:59:42,Unknown malware,url,https://docusign.sourcepage.click/eDocusign.php,#Fake DocuSign,https://threatfox.abuse.ch/ioc/1794419/
+2026-04-20 06:43:01,Unknown Stealer,url,https://download.get-version.com/claude,#Fake Claude,https://threatfox.abuse.ch/ioc/1794847/
 2026-04-19 16:15:05,Vidar,url,https://dtapasexpress.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794610/
 2026-04-19 11:04:22,ClearFake,url,https://dynnex4on.5zoramel.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#ClearFake #ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1794229/
 2026-04-19 11:04:19,Unknown Loader,url,https://eawuf2lw.6przmf.cc/D3i1oHyede03ia15gcx88an5e/jdfxvvmdbctk,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794290/
-2026-04-19 01:15:07,Vidar,url,https://endip.org/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794284/
-2026-04-19 01:15:08,Vidar,url,https://euphorbia.co.za/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794286/
-2026-04-19 01:15:09,Vidar,url,https://euroservice-impianti.it/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794288/
-2026-04-19 01:15:06,Vidar,url,https://evaluate.ng/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794279/
 2026-04-19 13:41:45,Unknown malware,url,https://fathomcore.sbs/ext-b.b83518636a91.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1794559/
 2026-04-19 13:42:29,Unknown malware,url,https://fathomcore.sbs/ext.7386dce06075.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1794560/
 2026-04-19 13:40:21,Unknown malware,url,https://fathomcore.sbs/t.188cfd3975db.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1794557/
@@ -37,19 +44,24 @@
 2026-04-19 11:04:23,ClearFake,url,https://ggsf.5zoramel.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#ClearFake #ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1794227/
 2026-04-19 16:15:06,Vidar,url,https://ghebar.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794612/
 2026-04-19 16:15:07,Vidar,url,https://ghespa.pro/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794613/
-2026-04-19 00:15:04,Vidar,url,https://gomodular.ie/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794261/
-2026-04-18 20:13:22,Vidar,url,https://gor.aasscc.how/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794212/
-2026-04-18 20:13:18,Vidar,url,https://gor.cebolinhaburger.com/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794210/
+2026-04-20 07:33:31,Vidar,url,https://gin.websitearaxa.com/,#Vidar,https://threatfox.abuse.ch/ioc/1794865/
+2026-04-20 06:10:36,Unknown Loader,url,https://gzcawbchv.6i8htz.cc/Dyag6H52kn0jiyd56rm38jh3w/fphpxarswycspg,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794681/
+2026-04-20 06:10:26,Unknown Loader,url,https://h34l.627x9a.cc/Dyno6Hwdnx0fdz15y4d283x5c/wyaitrrgxlrddrgw,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794733/
 2026-04-19 15:15:06,Vidar,url,https://hamicalifornia.org/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794590/
-2026-04-19 01:15:08,Vidar,url,https://handymanjoes.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794285/
 2026-04-19 13:13:43,Vidar,url,https://hsa.aasscc.how/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794531/
 2026-04-19 13:13:37,Vidar,url,https://hsa.cebolinhaburger.com/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794529/
+2026-04-20 06:10:37,Unknown Loader,url,https://htijv.66uc4x.cc/D6omfH97p50pldw5lf158ug81/dbqobfyasmyhnpfbvm,,https://threatfox.abuse.ch/ioc/1794650/
 2026-04-19 11:04:25,Unknown Loader,url,https://i-like-boys.com/tree.vbs,,https://threatfox.abuse.ch/ioc/1794204/
+2026-04-20 06:10:34,Unknown Loader,url,https://i6k.6p2s8s.cc/D4nh6Hzxug0uvec5u4py8kit6/ehenfxlyvhuj,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794688/
+2026-04-20 06:10:32,Unknown Loader,url,https://ihsh.6w9ryj.cc/Dtv7xHxz420gwla55xrv879jp/uchuiivtytrwsvnva,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794715/
 2026-04-19 13:23:00,Unknown malware,url,https://ineptail.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1794540/
+2026-04-20 06:24:45,Unknown malware,url,https://invite.clararise.xyz/Windows/ScreenConnect.ClientSetup.exe,#Fake Zoom #ScreenConnect,https://threatfox.abuse.ch/ioc/1794832/
+2026-04-20 06:23:21,Unknown malware,url,https://invite.clararise.xyz/Windows/invite.php,#Fake Zoom #ScreenConnect,https://threatfox.abuse.ch/ioc/1794831/
+2026-04-20 06:10:36,Unknown Loader,url,https://j7m5m4k.627x9a.cc/DjripHf63d095on5i3rb8vr3p/xfxmyhapjjabpnvd,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794682/
 2026-04-19 10:06:38,Unknown malware,url,https://joiningmeetingfrt.xyz/googlemeet/invite.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1794425/
 2026-04-19 10:09:10,Unknown malware,url,https://joiningmeetingfrt.xyz/googlemeet/microsoft-store.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1794426/
+2026-04-20 06:04:12,Unknown malware,url,https://lcstdnsns.beer/api/css.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1794825/
 2026-04-19 11:04:20,ClearFake,url,https://ledgerinn.5zoramel.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#ClearFake #ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1794230/
-2026-04-19 01:15:06,Vidar,url,https://mastergiftsrl.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794280/
 2026-04-19 17:13:28,Vidar,url,https://mxm.aasscc.how/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794626/
 2026-04-19 17:13:23,Vidar,url,https://mxm.cebolinhaburger.com/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794624/
 2026-04-19 10:18:20,Unknown malware,url,https://nexttomeetiing.click/GoogleMeet/download.php,#Fake Google Meet #ScreenConnect,https://threatfox.abuse.ch/ioc/1794431/
@@ -62,35 +74,41 @@
 2026-04-19 10:24:02,Unknown malware,url,https://nexttomeetiing.click/in/invite.php,#Fake Google Meet #ScreenConnect,https://threatfox.abuse.ch/ioc/1794437/
 2026-04-19 10:25:44,Unknown malware,url,https://nexttomeetiing.click/zoom/Windows/download.php,#Fake Zoom,https://threatfox.abuse.ch/ioc/1794440/
 2026-04-19 10:25:24,Unknown malware,url,https://nexttomeetiing.click/zoom/Windows/invite.php,#Fake Zoom,https://threatfox.abuse.ch/ioc/1794439/
+2026-04-20 06:10:26,Unknown Loader,url,https://nq82x0a.69mcg8.cc/Daid9H57z60z6lm5ajkp83cjq/swknnpwogege,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794734/
 2026-04-19 15:48:57,Unknown Stealer,url,https://overdrive.ws/download.php,,https://threatfox.abuse.ch/ioc/1794562/
 2026-04-19 12:19:44,Unknown malware,url,https://papersign.top/1/Windows/install-guide.php,#Fake DocuSign,https://threatfox.abuse.ch/ioc/1794511/
 2026-04-19 12:18:02,Unknown malware,url,https://papersign.top/1/Windows/invite.php,#Fake DocuSign,https://threatfox.abuse.ch/ioc/1794508/
 2026-04-19 12:18:38,Unknown malware,url,https://papersign.top/1/Windows/ms-store.php,#Fake DocuSign,https://threatfox.abuse.ch/ioc/1794509/
 2026-04-19 12:22:09,Unknown malware,url,https://papersign.top/mdf/,#Fake DocuSign,https://threatfox.abuse.ch/ioc/1794512/
 2026-04-19 12:22:40,Unknown malware,url,https://papersign.top/mdf/download.php,#Fake DocuSign,https://threatfox.abuse.ch/ioc/1794513/
-2026-04-19 01:15:04,Vidar,url,https://pinexrecruitment.job-bank.co.uk/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794274/
+2026-04-20 06:10:37,Unknown Loader,url,https://pdmh48ixc.6oxj9t.cc/D49wjHdt530afog5sebu8chz7/uuaeljxnxqxd,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794661/
 2026-04-19 12:00:33,Unknown malware,url,https://pixeldrain.com/api/file/8y2ES1Gv,#Fake Microsoft Teams #payload,https://threatfox.abuse.ch/ioc/1794491/
 2026-04-19 12:02:29,Unknown malware,url,https://pixeldrain.com/api/file/HHQGhT3V,#Fake Microsoft Teams #payload,https://threatfox.abuse.ch/ioc/1794494/
 2026-04-19 12:13:34,Unknown malware,url,https://pixeldrain.com/api/file/S15hr7ir,#Fake Zoom #payload,https://threatfox.abuse.ch/ioc/1794503/
 2026-04-19 12:08:23,Unknown malware,url,https://pixeldrain.com/api/file/hfGPWCwH,#Fake Zoom #payload,https://threatfox.abuse.ch/ioc/1794497/
 2026-04-19 12:09:03,Unknown malware,url,https://pixeldrain.com/api/file/nH1xNnBM,#Fake Microsoft Teams #payload,https://threatfox.abuse.ch/ioc/1794498/
-2026-04-18 23:15:04,Vidar,url,https://prakritiklifestyles.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794249/
-2026-04-19 02:13:19,Vidar,url,https://prc.aasscc.how/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794304/
-2026-04-19 02:13:15,Vidar,url,https://prc.cebolinhaburger.com/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794302/
 2026-04-19 11:04:02,Unknown Loader,url,https://preenactable.com,,https://threatfox.abuse.ch/ioc/1794397/
+2026-04-20 06:59:30,Unknown malware,url,https://prismlogic.cfd/ext-b.b83518636a91.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1794856/
+2026-04-20 07:00:13,Unknown malware,url,https://prismlogic.cfd/ext.7386dce06075.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1794857/
+2026-04-20 06:57:45,Unknown malware,url,https://prismlogic.cfd/t.188cfd3975db.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1794855/
+2026-04-20 06:56:54,Unknown malware,url,https://prismlogic.cfd/t.js?site=,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1794854/
+2026-04-20 01:15:07,Vidar,url,https://radiorunacunapac.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794748/
 2026-04-19 16:15:05,Vidar,url,https://republicworld.com.au/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794608/
 2026-04-19 15:48:55,Unknown Stealer,url,https://rizvedevelop.com/%D0%92%D0%BEotstar%D1%83%D0%BEsUlx64.zip,#pw-ryos #stealer,https://threatfox.abuse.ch/ioc/1794565/
+2026-04-20 06:10:32,Unknown Loader,url,https://rlii7whf.6ifhpj.cc/DrhksHggnu0o1xk54djf8qek8/wcqdmexhavnic,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794691/
+2026-04-20 06:10:33,Unknown Loader,url,https://rqharrrm.6np5ya.cc/DvbkeHjsj307qwg5odb48qjzp/cenmhueskkouuux,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794714/
 2026-04-19 15:15:05,Vidar,url,https://saahajmilk.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794589/
+2026-04-20 01:14:29,Vidar,url,https://scd.aasscc.how/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794746/
+2026-04-20 01:14:22,Vidar,url,https://scd.cebolinhaburger.com/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1794743/
 2026-04-19 09:53:10,Unknown malware,url,https://seemeeting.net/GoogleMeet/download.php,#Fake Google Meet #ScreenConnect,https://threatfox.abuse.ch/ioc/1794412/
 2026-04-19 09:52:41,Unknown malware,url,https://seemeeting.net/GoogleMeet/invite.php,#Fake Google Meet #ScreenConnect,https://threatfox.abuse.ch/ioc/1794410/
-2026-04-19 01:15:04,Vidar,url,https://ssangyong-tunisie.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794275/
-2026-04-19 02:15:06,Vidar,url,https://swhrconsulting.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794306/
 2026-04-19 11:04:23,ClearFake,url,https://temp-enc.5zoramel.in.net/05fe317c-0981-4de2-bc8a-930d369db441/ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#ClearFake #ClickFix #WebDav,https://threatfox.abuse.ch/ioc/1794228/
-2026-04-19 01:15:05,Vidar,url,https://theamari.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794276/
 2026-04-19 16:15:06,Vidar,url,https://thietkenoithatbenhvien.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794611/
 2026-04-19 13:25:18,Unknown malware,url,https://to9vamil.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1794545/
 2026-04-19 13:22:18,Unknown malware,url,https://tribunalmotocross.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1794538/
-2026-04-19 01:15:07,Vidar,url,https://tuslacteos.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794282/
+2026-04-20 06:10:27,Vidar,url,https://ts.bhaaratkeeshakti.vip/fwefwe324234234rgeffwehtrwyrhtrhtqwfqwd31443wefefwwfer3232fewwefwefwefqgrqwtherergqefwefqweqfwqf32fefwsda/uploads/EFewefwewFEW342234423234feWEEFWWefewefweffewwefEWF.php?file=333.exe,#exe #Vidar,https://bazaar.abuse.ch/sample/673d15c65f3c65d8bf7518d2a47907a59c5f26a8dd08fb954107d162c1b3721f/
+2026-04-20 06:10:28,Unknown Loader,url,https://ub0io4.6hayo1.cc/DzovgHmxyw03d1j5d3498wov7/vhadqagyqndxv,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794731/
+2026-04-20 06:51:06,Unknown Stealer,url,https://uih9ehfbhdbfqudbfidfcikqhnegf.pages.dev,#Fake Claude,https://threatfox.abuse.ch/ioc/1794851/
 2026-04-19 12:01:57,Unknown malware,url,https://updatcloud.us/book/Windows/invite.php,#Fake Microsoft Teams,https://threatfox.abuse.ch/ioc/1794493/
 2026-04-19 11:59:24,Unknown malware,url,https://updatcloud.us/bookings/Windows/invite.php,#Fake Microsoft Teams,https://threatfox.abuse.ch/ioc/1794490/
 2026-04-19 11:58:27,Unknown malware,url,https://updatcloud.us/google/Windows/download.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1794489/
@@ -121,6 +139,7 @@
 2026-04-19 12:35:24,Unknown malware,url,https://view-cloud.com/adobe/Reader_en_install.exe,#Fake Adobe Reader,https://threatfox.abuse.ch/ioc/1794518/
 2026-04-19 11:40:39,Unknown malware,url,https://view-web.us/meet.google/store.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1794467/
 2026-04-19 11:39:56,Unknown malware,url,https://view-web.us/meet.google/update.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1794466/
+2026-04-20 06:10:30,Unknown Loader,url,https://xuu4nhf.6ifhpj.cc/DfhawHfirf0gun75s2ix8t7me/nmochieyhcgdoweg,#RAT #stealer,https://threatfox.abuse.ch/ioc/1794723/
 2026-04-19 15:15:05,Vidar,url,https://zakiamart.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1794588/
 2026-04-19 09:57:18,Unknown malware,url,https://zoommeetingg.click/zoom/Windows/download.php,#Fake Zoom,https://threatfox.abuse.ch/ioc/1794416/
 2026-04-19 09:56:43,Unknown malware,url,https://zoommeetingg.click/zoom/Windows/install-guide.php,#Fake Zoom,https://threatfox.abuse.ch/ioc/1794415/
