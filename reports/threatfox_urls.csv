@@ -1,114 +1,61 @@
-2026-04-24 06:22:28,Unknown malware,url,http://172.94.9.44/1.txt,#ClickFix,https://threatfox.abuse.ch/ioc/1797011/
-2026-04-24 06:21:49,Unknown malware,url,http://172.94.9.44/2.txt,#ClickFix,https://threatfox.abuse.ch/ioc/1797010/
-2026-04-24 06:27:06,Unknown malware,url,http://172.94.9.44/build.exe,#ClickFix,https://threatfox.abuse.ch/ioc/1797013/
-2026-04-24 06:28:16,Unknown malware,url,http://172.94.9.44/build2.exe,#ClickFix,https://threatfox.abuse.ch/ioc/1797014/
-2026-04-24 05:00:00,Unknown malware,url,http://206.82.6.110:8888/supershell/login/,#AS963 #N963 PTE. LTD. #Supershell,https://threatfox.abuse.ch/ioc/1796897/
-2026-04-23 23:42:27,Vidar,url,http://80.96.59.233/u/setup.exe,#ClickFix #Vidar,https://threatfox.abuse.ch/ioc/1796913/
+2026-04-24 20:16:55,GlassWorm,url,http://217.69.8.40/63RbXCmTBoPZhfyuqUsNdA%3D%3D,#glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-24 20:17:15,GlassWorm,url,http://217.69.8.40/darwin-universal/WJcjmFcy4f4SxNGlL5o0cQ%3D%3D?wallet=ledger,#glassworm #wallet-trojan #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-24 20:17:12,GlassWorm,url,http://217.69.8.40/darwin-universal/WJcjmFcy4f4SxNGlL5o0cQ%3D%3D?wallet=trezor,#glassworm #wallet-trojan #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-24 20:17:02,GlassWorm,url,http://217.69.8.40/get_arhive_npm/jCbp9cVu%2B%2B%2FczOTwvXfJbQ%3D%3D,#glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-24 20:17:18,GlassWorm,url,http://45.32.150.251/g/63RbXCmTBoPZhfyuqUsNdA%3D%3D,#calendar-c2 #glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-24 20:16:52,GlassWorm,url,http://45.77.60.153/%2BU2QpCWLB0TeEK0Y%2BTHl1Q%3D%3D,#glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-24 20:17:09,GlassWorm,url,http://45.77.60.153/darwin-universal/s4%2BECczuPY7jRKr7qbsMng%3D%3D?wallet=ledger,#glassworm #wallet-trojan #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-24 20:17:06,GlassWorm,url,http://45.77.60.153/darwin-universal/s4%2BECczuPY7jRKr7qbsMng%3D%3D?wallet=trezor,#glassworm #wallet-trojan #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
+2026-04-24 20:16:59,GlassWorm,url,http://45.77.60.153/get_arhive_npm/zi2WMapzCnO8eV9QY%2BQQXQ%3D%3D,#glassworm #Wave3,https://codeberg.org/tip-o-deincognito/glassworm-writeup
 2026-04-24 14:31:51,DCRat,url,http://cf396743.tw1.ru/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1797219/
+2026-04-24 19:25:27,DCRat,url,http://cj597826.tw1.ru/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1799723/
 2026-04-24 17:22:09,Unknown malware,url,http://msnf.us.com/Simpletokncar,#ClickFix #delivery-host #msiexec #path-traversal #per-victim-token,https://threatfox.abuse.ch/ioc/1797235/
 2026-04-24 17:22:02,Unknown malware,url,http://msnf.us.com/UserID48236957,#ClickFix #delivery-host #msiexec #path-traversal #per-victim-token,https://threatfox.abuse.ch/ioc/1797236/
-2026-04-24 06:58:19,Vidar,url,https://178.104.213.40/,#Vidar,https://threatfox.abuse.ch/ioc/1797034/
-2026-04-24 06:58:19,Vidar,url,https://178.105.15.180/,#Vidar,https://threatfox.abuse.ch/ioc/1797037/
-2026-04-24 06:58:19,Vidar,url,https://178.105.3.9/,#Vidar,https://threatfox.abuse.ch/ioc/1797036/
-2026-04-24 06:58:19,Vidar,url,https://185.56.45.50/,#Vidar,https://threatfox.abuse.ch/ioc/1797033/
-2026-04-24 06:58:19,Vidar,url,https://185.56.45.79/,#Vidar,https://threatfox.abuse.ch/ioc/1797035/
+2026-04-24 18:03:34,ClearFake,url,http://sonra.eutialyson.com/inst24.msi,,https://x.com/wbmmfq/status/2047737752662516186
 2026-04-24 17:22:13,KongTuke,url,https://86hg23aljj9.com/d,#Kongtuke,https://infosec.exchange/@monitorsg/116460218516316166
-2026-04-23 22:28:03,Unknown malware,url,https://addin-fita.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1796874/
+2026-04-24 22:01:17,Lumma Stealer,url,https://amphibgz.cyou,#Lumma,https://bazaar.abuse.ch/sample/b7a4969bc7371a7092120861e6c1b6c165dfccb1d8297548a239c4a847842062/
 2026-04-24 08:50:30,Shai-Hulud,url,https://api.github.com/search/commits?q=LongLiveTheResistanceAgainstMachines,,https://www.endorlabs.com/learn/shai-hulud-the-third-coming----inside-the-bitwarden-cli-2026-4-0-supply-chain-attack
 2026-04-24 08:50:30,Unknown malware,url,https://api.github.com/search/commits?q=beautifulcastle,#teampcp,https://www.mend.io/blog/compromised-bitwarden-cli-npm-worm-ai-poisoning/
+2026-04-25 05:15:05,Vidar,url,https://asoandes.org/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1799880/
 2026-04-24 08:50:30,Unknown malware,url,https://audit.checkmarx.cx/v1/telemetry,#teampcp,https://www.mend.io/blog/compromised-bitwarden-cli-npm-worm-ai-poisoning/
-2026-04-24 00:15:04,Vidar,url,https://awgwindowcleaning.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1796920/
 2026-04-24 13:30:38,Vidar,url,https://bis.dutraloc.com.br/,#Vidar,https://threatfox.abuse.ch/ioc/1797144/
 2026-04-24 13:30:55,Vidar,url,https://bis.flise-mesteren.dk/,#Vidar,https://threatfox.abuse.ch/ioc/1797146/
-2026-04-23 21:58:03,KongTuke,url,https://bradtkr.com/c,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796842/
-2026-04-23 21:56:58,KongTuke,url,https://bradtkr.com/file.js,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796839/
-2026-04-23 21:57:45,KongTuke,url,https://bradtkr.com/g,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796841/
-2026-04-23 21:57:26,KongTuke,url,https://bradtkr.com/t,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796840/
-2026-04-23 22:56:55,Unknown malware,url,https://bytewarden.cyou/ext-b.3608edcfefb6.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1796894/
-2026-04-23 22:57:50,Unknown malware,url,https://bytewarden.cyou/ext.394c7087a55b.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1796895/
-2026-04-23 22:56:27,Unknown malware,url,https://bytewarden.cyou/t.188cfd3975db.js,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1796893/
-2026-04-23 22:58:31,Unknown malware,url,https://bytewarden.cyou/t.js?site=,#ClickFix #EXT,https://threatfox.abuse.ch/ioc/1796896/
-2026-04-24 05:59:35,Unknown malware,url,https://clang-outrag.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1797003/
-2026-04-24 04:59:55,Unknown malware,url,https://claude-desktop.gitlab.io/dev/,#Fake Claude #sponsored,https://threatfox.abuse.ch/ioc/1796933/
+2026-04-25 01:51:15,Unknown malware,url,https://chimefusion.com/u/,#ClickFix #drawio-sideload #electron-loader,https://threatfox.abuse.ch/ioc/1799840/
+2026-04-25 04:15:05,Vidar,url,https://cleanpoweraustralia.com.au/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1799867/
 2026-04-24 15:15:08,Vidar,url,https://cmfilms.it/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1797243/
+2026-04-25 04:15:04,Vidar,url,https://coca.com.sg/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1799865/
+2026-04-25 04:15:05,Vidar,url,https://congresswcc.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1799868/
 2026-04-24 16:15:08,Vidar,url,https://cuttingedgeslicers.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1797264/
-2026-04-23 22:29:42,Unknown malware,url,https://de5tre.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1796876/
-2026-04-24 05:00:02,Unknown malware,url,https://dhnsdns.beer/api/7z.exe,#BW #ClearFake #ClickFix #dungeonteam #Loader,https://threatfox.abuse.ch/ioc/1796844/
-2026-04-24 05:00:03,Unknown malware,url,https://dhnsdns.beer/api/index.php,#BW #ClearFake #ClickFix #dungeonteam #Loader,https://threatfox.abuse.ch/ioc/1796843/
-2026-04-23 20:33:19,KongTuke,url,https://dialectum.com/c,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796800/
-2026-04-23 20:32:26,KongTuke,url,https://dialectum.com/file.js,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796796/
-2026-04-23 20:33:04,KongTuke,url,https://dialectum.com/g,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796799/
-2026-04-23 20:32:49,KongTuke,url,https://dialectum.com/t,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796797/
-2026-04-24 00:15:04,Vidar,url,https://dominion.pk/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1796921/
-2026-04-23 22:10:09,KongTuke,url,https://ethervane.com/c,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796859/
-2026-04-23 22:09:08,KongTuke,url,https://ethervane.com/file.js,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796856/
-2026-04-23 22:09:54,KongTuke,url,https://ethervane.com/g,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796858/
-2026-04-23 22:09:38,KongTuke,url,https://ethervane.com/t,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796857/
-2026-04-23 22:45:42,Unknown malware,url,https://etomoidomen.cfd/api/index.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1796888/
-2026-04-23 22:45:21,Unknown malware,url,https://etomoidomen.cfd/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1796887/
-2026-04-23 22:45:59,Unknown malware,url,https://etomoidomen.cfd/log.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1796889/
-2026-04-23 22:30:49,Unknown malware,url,https://fronta1maturity.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1796878/
-2026-04-23 22:13:51,KongTuke,url,https://fundivox.com/c,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796865/
-2026-04-23 22:13:00,KongTuke,url,https://fundivox.com/file.js,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796862/
-2026-04-23 22:13:36,KongTuke,url,https://fundivox.com/g,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796864/
-2026-04-23 22:13:17,KongTuke,url,https://fundivox.com/t,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796863/
-2026-04-23 23:39:30,Unknown malware,url,https://generalcleaning.ie,#ClickFix #Vidar,https://threatfox.abuse.ch/ioc/1796912/
+2026-04-25 01:51:07,Unknown malware,url,https://deepnoxa.com/q,#ClickFix #drawio-sideload #electron-loader,https://threatfox.abuse.ch/ioc/1799838/
+2026-04-25 01:51:06,Unknown malware,url,https://deepnoxa.com/update.zip,#ClickFix #drawio-sideload #electron-loader,https://threatfox.abuse.ch/ioc/1799837/
 2026-04-24 17:22:13,KongTuke,url,https://hegmaen.com/c,#Kongtuke,https://infosec.exchange/@monitorsg/116460218516316166
 2026-04-24 17:22:42,KongTuke,url,https://hegmaen.com/file.js,#Kongtuke,https://infosec.exchange/@monitorsg/116460218516316166
 2026-04-24 17:22:40,KongTuke,url,https://hegmaen.com/g,#Kongtuke,https://infosec.exchange/@monitorsg/116460218516316166
 2026-04-24 17:22:41,KongTuke,url,https://hegmaen.com/t,#Kongtuke,https://infosec.exchange/@monitorsg/116460218516316166
-2026-04-23 22:31:35,Unknown malware,url,https://hypert0atmeal.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1796880/
-2026-04-23 23:30:26,Vidar,url,https://kye.dutraloc.com.br/,#Vidar,https://threatfox.abuse.ch/ioc/1796907/
-2026-04-23 23:30:31,Vidar,url,https://kye.flise-mesteren.dk/,#Vidar,https://threatfox.abuse.ch/ioc/1796909/
+2026-04-25 05:15:05,Vidar,url,https://lauricoco.com.br/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1799882/
 2026-04-24 15:15:08,Vidar,url,https://lavie-spa.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1797244/
-2026-04-24 06:35:09,Unknown malware,url,https://livemeetgooogle.com/metro/download.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1797021/
-2026-04-24 06:34:31,Unknown malware,url,https://livemeetgooogle.com/microsoft-store.html,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1797020/
+2026-04-25 05:15:05,Vidar,url,https://leslieporterfield.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1799881/
+2026-04-25 05:15:06,Vidar,url,https://loja.lauricoco.com.br/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1799884/
 2026-04-24 17:15:08,Vidar,url,https://mundialpostos.com.br/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1797283/
-2026-04-24 06:32:50,Unknown malware,url,https://my-googlemeeting.com/download.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1797018/
-2026-04-24 06:31:27,Unknown malware,url,https://my-googlemeeting.com/microsoft-store.html,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1797016/
-2026-04-24 06:38:43,Unknown malware,url,https://mymeetinggoogle.com/download.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1797025/
-2026-04-24 06:38:05,Unknown malware,url,https://mymeetinggoogle.com/microsoft-store.html,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1797024/
-2026-04-24 06:41:59,Unknown malware,url,https://mymeetingtoday.com/download.php,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1797029/
-2026-04-24 06:41:21,Unknown malware,url,https://mymeetingtoday.com/microsoft-store.html,#Fake Google Meet,https://threatfox.abuse.ch/ioc/1797027/
-2026-04-23 20:30:55,KongTuke,url,https://nonrueden.com/c,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796794/
-2026-04-23 20:30:04,KongTuke,url,https://nonrueden.com/file.js,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796790/
-2026-04-23 20:30:38,KongTuke,url,https://nonrueden.com/g,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796792/
-2026-04-23 20:30:25,KongTuke,url,https://nonrueden.com/t,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796791/
-2026-04-23 20:28:00,KongTuke,url,https://northcombe.org/c,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796787/
-2026-04-23 20:26:24,KongTuke,url,https://northcombe.org/file.js,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796784/
-2026-04-23 20:27:44,KongTuke,url,https://northcombe.org/g,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796786/
-2026-04-23 20:28:51,KongTuke,url,https://northcombe.org/t,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796788/
-2026-04-23 20:23:53,KongTuke,url,https://oakington.org/c,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796780/
-2026-04-23 20:22:52,KongTuke,url,https://oakington.org/file.js,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796777/
-2026-04-23 20:23:39,KongTuke,url,https://oakington.org/g,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796779/
-2026-04-23 20:23:24,KongTuke,url,https://oakington.org/t,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796778/
+2026-04-24 19:43:42,Unknown malware,url,https://nuevaprodeciencia.club/br77b/iayjaskyeiagds.php,#agenteV2,https://any.run/cybersecurity-blog/brazilian-banking-phishing-campaign/
+2026-04-25 04:15:04,Vidar,url,https://nutrionline.club/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1799866/
 2026-04-24 13:29:13,PureRAT,url,https://office-lexware.org/de/,#DEU #geo #PureHVNC #PureRAT #RAT,https://bazaar.abuse.ch/sample/2f78f2820a9cf84bd99ec2af2813555586d1c463a6b73cf8635c9fe3bcdc4ea3/
 2026-04-24 13:29:14,PureRAT,url,https://office-lexware.org/de/download.php,#DEU #geo #PureHVNC #PureRAT #RAT,https://bazaar.abuse.ch/sample/2f78f2820a9cf84bd99ec2af2813555586d1c463a6b73cf8635c9fe3bcdc4ea3/
-2026-04-23 22:16:45,KongTuke,url,https://omnivectis.com/c,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796870/
-2026-04-23 22:15:56,KongTuke,url,https://omnivectis.com/file.js,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796867/
-2026-04-23 22:16:28,KongTuke,url,https://omnivectis.com/g,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796869/
-2026-04-23 22:16:12,KongTuke,url,https://omnivectis.com/t,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796868/
+2026-04-24 19:43:40,Unknown malware,url,https://pastebin.com/raw/0RmxqY57,#agenteV2,https://any.run/cybersecurity-blog/brazilian-banking-phishing-campaign/
+2026-04-25 01:26:41,Lumma Stealer,url,https://peafamqe.cyou,#Lumma,https://bazaar.abuse.ch/sample/b73edda46a91349b37f219d3056dff65a545ba458f4c4a93eddd6fae3b99c38b/
 2026-04-24 17:15:09,Vidar,url,https://pliage.ru/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1797285/
-2026-04-23 19:56:07,Unknown malware,url,https://prokladka.lol/api/index.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1796757/
-2026-04-23 19:55:36,Unknown malware,url,https://prokladka.lol/cf.js,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1796756/
-2026-04-23 19:56:37,Unknown malware,url,https://prokladka.lol/log.php,#ClickFix #ErrTraffic,https://threatfox.abuse.ch/ioc/1796758/
+2026-04-25 05:15:05,Vidar,url,https://praiahall.com.br/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1799883/
 2026-04-24 15:17:48,Vidar,url,https://psy.dutraloc.com.br/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1797245/
 2026-04-24 15:18:01,Vidar,url,https://psy.flise-mesteren.dk/,#r88vry #Vidar,https://threatfox.abuse.ch/ioc/1797247/
-2026-04-23 20:21:29,KongTuke,url,https://quorumix.com/c,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796774/
-2026-04-23 20:19:26,KongTuke,url,https://quorumix.com/file.js,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796771/
-2026-04-23 20:20:40,KongTuke,url,https://quorumix.com/g,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796773/
-2026-04-23 20:20:13,KongTuke,url,https://quorumix.com/t,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796772/
-2026-04-23 22:00:47,KongTuke,url,https://raventhorp.org/c,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796851/
-2026-04-23 21:59:46,KongTuke,url,https://raventhorp.org/file.js,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796848/
-2026-04-23 22:00:25,KongTuke,url,https://raventhorp.org/g,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796850/
-2026-04-23 22:00:09,KongTuke,url,https://raventhorp.org/t,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796849/
-2026-04-23 20:17:43,KongTuke,url,https://saxonfield.org/c,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796768/
-2026-04-23 20:15:27,KongTuke,url,https://saxonfield.org/file.js,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796765/
-2026-04-23 20:17:26,KongTuke,url,https://saxonfield.org/g,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796767/
-2026-04-23 20:16:30,KongTuke,url,https://saxonfield.org/t,#ClickFix #Kongtuke,https://threatfox.abuse.ch/ioc/1796766/
+2026-04-24 21:07:03,KongTuke,url,https://quiglgy.com/c,#Kongtuke,https://infosec.exchange/@monitorsg/116461718662848497
+2026-04-24 21:06:44,KongTuke,url,https://quiglgy.com/file.js,#Kongtuke,https://infosec.exchange/@monitorsg/116461718662848497
+2026-04-24 21:06:58,KongTuke,url,https://quiglgy.com/g,#Kongtuke,https://infosec.exchange/@monitorsg/116461718662848497
+2026-04-24 21:06:53,KongTuke,url,https://quiglgy.com/t,#Kongtuke,https://infosec.exchange/@monitorsg/116461718662848497
+2026-04-25 05:15:06,Vidar,url,https://sergemoulypeintre.fr/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1799885/
 2026-04-24 16:15:09,Vidar,url,https://smashclubburgers.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1797265/
 2026-04-24 17:15:09,Vidar,url,https://soareintl.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1797284/
-2026-04-23 22:33:08,Unknown malware,url,https://sylo3m.digital/script.sh,#macOS,https://threatfox.abuse.ch/ioc/1796882/
-2026-04-24 04:59:50,Unknown Loader,url,https://use-claude.com/install.ps1,,https://threatfox.abuse.ch/ioc/1796696/
 2026-04-24 13:29:13,PureRAT,url,https://wilconetworks.net/demo/wp-content/plugins/responsive-countdown/lib/tls/,#DEU #geo #PureHVNC #PureRAT #RAT,https://bazaar.abuse.ch/sample/2f78f2820a9cf84bd99ec2af2813555586d1c463a6b73cf8635c9fe3bcdc4ea3/
-2026-04-24 06:21:00,Unknown malware,url,https://www.document-share-id382929992933.sisregcel.com,#ClickFix,https://threatfox.abuse.ch/ioc/1797009/
+2026-04-24 22:43:36,CountLoader,url,https://windows-telemetry.cc/api/submit,#CountLoader,https://bazaar.abuse.ch/sample/f825a78f294e7296b13a590ca7c4b857f4fbe596fd1da44b4e7e4bd356abaa43/
+2026-04-24 22:31:32,Unknown malware,url,https://zenmetrics-software.com/api/devices/register,#ClickFix #FastAPI #Python-embed #RAT #rmm #zm_agent,https://github.com/Lenny-3BO/threat-intel/tree/main/clickfix/zenmetrics-luxespa-clickfix
+2026-04-24 22:31:41,Unknown malware,url,https://zenmetrics-software.com/api/telegram-loggers/mine,#ClickFix #FastAPI #Python-embed #RAT #rmm #zm_agent,https://github.com/Lenny-3BO/threat-intel/tree/main/clickfix/zenmetrics-luxespa-clickfix
+2026-04-24 22:31:37,Unknown malware,url,https://zenmetrics-software.com/api/ws/monitor/,#ClickFix #FastAPI #Python-embed #RAT #rmm #zm_agent,https://github.com/Lenny-3BO/threat-intel/tree/main/clickfix/zenmetrics-luxespa-clickfix
