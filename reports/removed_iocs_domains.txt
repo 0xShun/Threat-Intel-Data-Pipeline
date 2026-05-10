@@ -1,21 +1,5 @@
 # Removed IOCs — removed_iocs_domains.txt
-# Run     : 2026-05-10 08:08:33 UTC
+# Run     : 2026-05-10 17:40:11 UTC
 # Action  : SIEM should remove these entries from database
 #
-app.softnetlink.pics
-bin.softwincli.pics
-bitfoxcore.radio-technic.lat
-bitfoxs.comforter-panel.lat
-cli.softwincli.pics
-files.dsbaux.com
-fontanf.lol
-getcfghubs.nomination5yak.lat
-getcfgs.overdoitework.lat
-hotfixpack.nomination5yak.lat
-hotfixs.overdoitework.lat
-ipnodeclis.nomination5yak.lat
-ipnodes.overdoitework.lat
-logbin.softnetlink.pics
-mpd.hidayahnetwork.com
-topsvcs.comforter-panel.lat
-topsvcutil.radio-technic.lat
+layer.networkstackmgr.pics
