@@ -1,28 +1,68 @@
-2026-05-10 14:00:01,Unknown malware,url,http://144.48.124.90:5000/supershell/login/,#AS132839 #POWER LINE DATACENTER #Supershell,https://threatfox.abuse.ch/ioc/1810268/
-2026-05-10 16:20:54,VShell,url,http://43.142.51.69:8002,#c2 #Loader #Vshell,https://threatfox.abuse.ch/ioc/1810332/
-2026-05-10 04:00:05,Unknown malware,url,http://8.218.254.115:9999/supershell/login/,#Alibaba (US) Technology Co.  Ltd. #AS45102 #Supershell,https://threatfox.abuse.ch/ioc/1810066/
-2026-05-10 13:30:24,Unknown malware,url,https://aaml.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/aaml.co.uk
-2026-05-10 13:30:24,Unknown malware,url,https://abkhajjandumrah.com/,#ClickFix,https://clickfix.carsonww.com/domains/abkhajjandumrah.com
-2026-05-10 03:08:18,Unknown malware,url,https://archive.torproject.org/tor-package-archive/torbrowser/15.0.7/tor-expert-bundle-windows-x86_64-15.0.7.tar.gz,#banker #brazilian-banker #dotNET #hetzner #mexico #sky_blackrock #skywalker,https://threatfox.abuse.ch/ioc/1810045/
-2026-05-10 15:00:25,Unknown malware,url,https://blumennorden.cl/,#ClickFix,https://clickfix.carsonww.com/domains/blumennorden.cl
-2026-05-10 15:00:25,Unknown malware,url,https://castlebridgeng.com/,#ClickFix,https://clickfix.carsonww.com/domains/castlebridgeng.com
-2026-05-10 15:00:26,Unknown malware,url,https://centraldepropaganda.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/centraldepropaganda.com.br
-2026-05-09 18:29:45,Unknown malware,url,https://donutsmpcheat.com/,#WeedHack,https://threatfox.abuse.ch/ioc/1809711/
-2026-05-09 18:29:45,Unknown malware,url,https://donutsmpcheat.com/downloads/float-client.jar,#WeedHack,https://threatfox.abuse.ch/ioc/1809713/
-2026-05-09 18:29:45,Unknown malware,url,https://donutsmpcheat.com/downloads/kryptonite-cracked.jar,#WeedHack,https://threatfox.abuse.ch/ioc/1809712/
-2026-05-09 18:29:46,Unknown malware,url,https://donutsmpcheat.com/downloads/meteor-client.jar,#WeedHack,https://threatfox.abuse.ch/ioc/1809716/
-2026-05-09 18:29:45,Unknown malware,url,https://donutsmpcheat.com/downloads/solar-client.jar,#WeedHack,https://threatfox.abuse.ch/ioc/1809714/
-2026-05-09 18:29:45,Unknown malware,url,https://donutsmpcheat.com/downloads/xenon-cracked.jar,#WeedHack,https://threatfox.abuse.ch/ioc/1809715/
-2026-05-10 16:00:26,Unknown malware,url,https://drdservices.ca/,#ClickFix,https://clickfix.carsonww.com/domains/drdservices.ca
-2026-05-10 16:00:26,Unknown malware,url,https://eduagentic.ai/,#ClickFix,https://clickfix.carsonww.com/domains/eduagentic.ai
-2026-05-10 04:15:05,Vidar,url,https://eltahdamexploration.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1810074/
-2026-05-10 16:00:26,Unknown malware,url,https://engetrina.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/engetrina.com.br
-2026-05-10 17:30:22,Unknown malware,url,https://forttis-courtage.ch/,#ClickFix,https://clickfix.carsonww.com/domains/forttis-courtage.ch
-2026-05-10 17:30:22,Unknown malware,url,https://gimarystore.com/,#ClickFix,https://clickfix.carsonww.com/domains/gimarystore.com
-2026-05-10 01:29:22,Nanocore RAT,url,https://menangmulu.jp.net/,#exe #NanoCore #RAT,https://tria.ge/260508-es5w5agt7j
+2026-05-10 18:39:13,Stealc,url,http://108.59.252.214/9290546939c94eebbdb2.php,#c2 #Loader #modo #Stealc #stealer,https://threatfox.abuse.ch/ioc/1809572/
+2026-05-10 18:40:20,Unknown malware,url,http://144.48.124.90:5000/supershell/login/,#AS132839 #POWER LINE DATACENTER #Supershell,https://threatfox.abuse.ch/ioc/1810268/
+2026-05-10 18:38:51,Unknown malware,url,http://144.48.124.92:8888/supershell/login/,#AS132839 #POWER LINE DATACENTER #Supershell,https://threatfox.abuse.ch/ioc/1809508/
+2026-05-10 18:38:52,Unknown malware,url,http://144.48.124.94:8888/supershell/login/,#AS132839 #POWER LINE DATACENTER #Supershell,https://threatfox.abuse.ch/ioc/1809510/
+2026-05-11 05:05:30,Unknown Stealer,url,http://192.253.234.96:4040/login,,https://threatfox.abuse.ch/ioc/1810930/
+2026-05-10 18:39:50,VShell,url,http://43.142.51.69:8002,#c2 #Loader #Vshell,https://threatfox.abuse.ch/ioc/1810332/
+2026-05-11 07:00:47,Stealc,url,http://45.141.119.91/b74ec2afc8f3449ba8f9.php,#build #c2 #Loader #Stealc #stealer,https://threatfox.abuse.ch/ioc/1810937/
+2026-05-10 18:40:59,Unknown malware,url,http://8.218.254.115:9999/supershell/login/,#Alibaba (US) Technology Co.  Ltd. #AS45102 #Supershell,https://threatfox.abuse.ch/ioc/1810066/
+2026-05-10 20:20:03,Loki Password Stealer (PWS),url,http://marconiliqhting.com/emma/encode.php,#Loki,https://threatfox.abuse.ch/ioc/1810422/
+2026-05-10 18:40:26,Unknown malware,url,https://aaml.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/aaml.co.uk
+2026-05-10 18:40:27,Unknown malware,url,https://abkhajjandumrah.com/,#ClickFix,https://clickfix.carsonww.com/domains/abkhajjandumrah.com
+2026-05-11 03:15:03,Vidar,url,https://aeroflexsealing.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1810922/
+2026-05-10 22:01:09,Unknown malware,url,https://b2b.castorsunglasses.es/opciones/,#ClickFix,https://clickfix.carsonww.com/domains/b2b.castorsunglasses.es
+2026-05-10 18:40:15,Unknown malware,url,https://blumennorden.cl/,#ClickFix,https://clickfix.carsonww.com/domains/blumennorden.cl
+2026-05-10 18:40:16,Unknown malware,url,https://castlebridgeng.com/,#ClickFix,https://clickfix.carsonww.com/domains/castlebridgeng.com
+2026-05-10 18:40:17,Unknown malware,url,https://centraldepropaganda.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/centraldepropaganda.com.br
+2026-05-10 22:01:09,Unknown malware,url,https://columbusisles.com/,#ClickFix,https://clickfix.carsonww.com/domains/columbusisles.com
+2026-05-10 22:01:08,Unknown malware,url,https://compraway.com/,#ClickFix,https://clickfix.carsonww.com/domains/compraway.com
+2026-05-10 18:42:29,Unknown malware,url,https://donutsmpcheat.com/,#WeedHack,https://threatfox.abuse.ch/ioc/1809711/
+2026-05-10 18:42:27,Unknown malware,url,https://donutsmpcheat.com/downloads/float-client.jar,#WeedHack,https://threatfox.abuse.ch/ioc/1809713/
+2026-05-10 18:42:27,Unknown malware,url,https://donutsmpcheat.com/downloads/kryptonite-cracked.jar,#WeedHack,https://threatfox.abuse.ch/ioc/1809712/
+2026-05-10 18:42:24,Unknown malware,url,https://donutsmpcheat.com/downloads/meteor-client.jar,#WeedHack,https://threatfox.abuse.ch/ioc/1809716/
+2026-05-10 18:42:26,Unknown malware,url,https://donutsmpcheat.com/downloads/solar-client.jar,#WeedHack,https://threatfox.abuse.ch/ioc/1809714/
+2026-05-10 18:42:25,Unknown malware,url,https://donutsmpcheat.com/downloads/xenon-cracked.jar,#WeedHack,https://threatfox.abuse.ch/ioc/1809715/
+2026-05-10 18:40:08,Unknown malware,url,https://drdservices.ca/,#ClickFix,https://clickfix.carsonww.com/domains/drdservices.ca
+2026-05-10 18:40:09,Unknown malware,url,https://eduagentic.ai/,#ClickFix,https://clickfix.carsonww.com/domains/eduagentic.ai
+2026-05-10 18:40:10,Unknown malware,url,https://engetrina.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/engetrina.com.br
+2026-05-10 18:39:46,Unknown malware,url,https://forttis-courtage.ch/,#ClickFix,https://clickfix.carsonww.com/domains/forttis-courtage.ch
+2026-05-10 18:39:47,Unknown malware,url,https://gimarystore.com/,#ClickFix,https://clickfix.carsonww.com/domains/gimarystore.com
+2026-05-11 07:30:13,Unknown malware,url,https://greyandbold.com/,#ClickFix,https://clickfix.carsonww.com/domains/greyandbold.com
+2026-05-10 20:01:04,Unknown malware,url,https://htfautoparts.com/,#ClickFix,https://clickfix.carsonww.com/domains/htfautoparts.com
+2026-05-11 04:31:02,Unknown malware,url,https://hyper-evm.pages.dev/,#ClickFix,https://clickfix.carsonww.com/domains/hyper-evm.pages.dev
+2026-05-10 22:01:06,Unknown malware,url,https://infodehrifcam.com/,#ClickFix,https://clickfix.carsonww.com/domains/infodehrifcam.com
+2026-05-10 20:01:04,Unknown malware,url,https://jm-reformas.com/,#ClickFix,https://clickfix.carsonww.com/domains/jm-reformas.com
+2026-05-10 20:01:04,Unknown malware,url,https://jobloom.info/,#ClickFix,https://clickfix.carsonww.com/domains/jobloom.info
+2026-05-10 22:01:05,Unknown malware,url,https://kawamawidows.org/,#ClickFix,https://clickfix.carsonww.com/domains/kawamawidows.org
+2026-05-10 19:31:08,Unknown malware,url,https://kidspepe.com/,#ClickFix,https://clickfix.carsonww.com/domains/kidspepe.com
+2026-05-10 22:01:05,Unknown malware,url,https://ktgafurov.com/,#ClickFix,https://clickfix.carsonww.com/domains/ktgafurov.com
+2026-05-10 21:31:07,Unknown malware,url,https://mamaspusties.com/,#ClickFix,https://clickfix.carsonww.com/domains/mamaspusties.com
+2026-05-10 18:42:00,Nanocore RAT,url,https://menangmulu.jp.net/,#exe #NanoCore #RAT,https://tria.ge/260508-es5w5agt7j
+2026-05-10 21:31:07,Unknown malware,url,https://miariym.com/,#ClickFix,https://clickfix.carsonww.com/domains/miariym.com
 2026-05-10 17:15:06,Vidar,url,https://peoples-bridge.job-bank.co.uk/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1810355/
-2026-05-10 13:48:31,Nanocore RAT,url,https://playgamesonline.in.net:54984,#NanoCore #RAT,https://www.capesandbox.com/analysis/65405/
-2026-05-10 02:00:31,Unknown malware,url,https://transactions-service.fr/,#ClickFix,https://clickfix.carsonww.com/domains/transactions-service.fr
-2026-05-10 15:54:53,Unknown malware,url,https://usrlnk.io/XFiles,#panel,https://threatfox.abuse.ch/ioc/1810311/
-2026-05-10 17:30:22,Unknown malware,url,https://www.gmi-industries.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.gmi-industries.com
-2026-05-10 01:29:22,Nanocore RAT,url,https://www.menangmulu.jp.net/,#exe #NanoCore #RAT,https://tria.ge/260508-es5w5agt7j
+2026-05-10 18:40:24,Nanocore RAT,url,https://playgamesonline.in.net:54984,#NanoCore #RAT,https://www.capesandbox.com/analysis/65405/
+2026-05-11 00:31:05,Unknown malware,url,https://realxlbd.com/,#ClickFix,https://clickfix.carsonww.com/domains/realxlbd.com
+2026-05-10 23:31:03,Unknown malware,url,https://speedpc.info/,#ClickFix,https://clickfix.carsonww.com/domains/speedpc.info
+2026-05-10 23:31:03,Unknown malware,url,https://stgeo.org/,#ClickFix,https://clickfix.carsonww.com/domains/stgeo.org
+2026-05-10 21:31:05,Unknown malware,url,https://tramproject.com/private-page-do-not-access/,#ClickFix,https://clickfix.carsonww.com/domains/tramproject.com
+2026-05-10 18:41:58,Unknown malware,url,https://transactions-service.fr/,#ClickFix,https://clickfix.carsonww.com/domains/transactions-service.fr
+2026-05-10 21:31:05,Unknown malware,url,https://winesportbet.com/,#ClickFix,https://clickfix.carsonww.com/domains/winesportbet.com
+2026-05-10 22:01:09,Unknown malware,url,https://www.berylsegerschronicles.com.au/,#ClickFix,https://clickfix.carsonww.com/domains/www.berylsegerschronicles.com.au
+2026-05-10 22:01:07,Unknown malware,url,https://www.centralathleticfoundation.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.centralathleticfoundation.com
+2026-05-10 22:01:07,Unknown malware,url,https://www.diversidadecatolica.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/www.diversidadecatolica.com.br
+2026-05-10 22:01:07,Unknown malware,url,https://www.drisdellehomes.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.drisdellehomes.com
+2026-05-10 18:39:45,Unknown malware,url,https://www.gmi-industries.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.gmi-industries.com
+2026-05-11 01:31:05,Unknown malware,url,https://www.gustavogorriaran.com.uy/,#ClickFix,https://clickfix.carsonww.com/domains/www.gustavogorriaran.com.uy
+2026-05-10 22:01:06,Unknown malware,url,https://www.hudaaldosari.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.hudaaldosari.com
+2026-05-10 22:01:06,Unknown malware,url,https://www.ianvance.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/www.ianvance.co.uk
+2026-05-10 22:01:05,Unknown malware,url,https://www.jessicaassociates.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.jessicaassociates.com
+2026-05-10 21:31:08,Unknown malware,url,https://www.lombardoautomotive.it/,#ClickFix,https://clickfix.carsonww.com/domains/www.lombardoautomotive.it
+2026-05-10 18:41:59,Nanocore RAT,url,https://www.menangmulu.jp.net/,#exe #NanoCore #RAT,https://tria.ge/260508-es5w5agt7j
+2026-05-10 21:31:06,Unknown malware,url,https://www.mkscoffee.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/www.mkscoffee.co.uk
+2026-05-10 21:31:06,Unknown malware,url,https://www.njfamilyphotography.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.njfamilyphotography.com
+2026-05-10 18:39:01,Unknown malware,url,https://www.paperrig.store/,#WeedHack,https://threatfox.abuse.ch/ioc/1809523/
+2026-05-10 19:31:05,Unknown malware,url,https://www.proplayuk.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.proplayuk.com
+2026-05-10 19:31:07,Unknown malware,url,https://www.scalp-coiffure.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.scalp-coiffure.com
+2026-05-10 19:31:06,Unknown malware,url,https://www.shivshankarexp.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.shivshankarexp.com
+2026-05-10 19:31:05,Unknown malware,url,https://www.yogaonthewallkill.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.yogaonthewallkill.com
+2026-05-10 19:31:05,Unknown malware,url,https://zofianatra.com/,#ClickFix,https://clickfix.carsonww.com/domains/zofianatra.com
