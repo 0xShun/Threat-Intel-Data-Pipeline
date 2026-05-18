@@ -1,6 +1,9 @@
-2026-05-18 08:15:45,SmokeLoader,url,http://144.31.158.255/,#c2 #smokeloader,https://threatfox.abuse.ch/ioc/1815866/
-2026-05-18 09:15:57,SmokeLoader,url,http://144.31.203.12/,#c2 #smokeloader,https://threatfox.abuse.ch/ioc/1815913/
+2026-05-18 11:27:58,SmokeLoader,url,http://144.31.158.255/,#c2 #smokeloader,https://threatfox.abuse.ch/ioc/1815866/
+2026-05-18 11:28:05,SmokeLoader,url,http://144.31.203.12/,#c2 #smokeloader,https://threatfox.abuse.ch/ioc/1815913/
+2026-05-18 11:28:09,SmokeLoader,url,http://144.31.203.24/,#c2 #smokeloader,https://threatfox.abuse.ch/ioc/1815943/
+2026-05-18 11:58:43,Unknown malware,url,http://188.137.241.213/get.php,,https://threatfox.abuse.ch/ioc/1815974/
 2026-05-18 07:33:26,Stealc,url,http://194.33.61.179/7dc11e58e9124f1183dc.php,#c2 #Loader #Stealc #stealer #VALIK,https://threatfox.abuse.ch/ioc/1815733/
+2026-05-18 18:05:29,Unknown malware,url,http://212.11.64.45/,#ScreenConnect,https://cofense.com/blog/click-install-compromised-the-new-wave-of-zoom-themed-attacks
 2026-05-18 08:03:09,XMRIG,url,http://45.153.34.212/fakewhiteblack.sh,#docker-exploit #monero #romanian-operator #xmrig,https://threatfox.abuse.ch/ioc/1815852/
 2026-05-18 08:03:10,XMRIG,url,http://45.153.34.212:8181/.rupemnasa/.config4.json,#docker-exploit #monero #romanian-operator #xmrig,https://threatfox.abuse.ch/ioc/1815850/
 2026-05-18 08:03:11,XMRIG,url,http://45.153.34.212:8181/.rupemnasa/.system3d,#docker-exploit #monero #romanian-operator #xmrig,https://threatfox.abuse.ch/ioc/1815849/
@@ -16,16 +19,24 @@
 2026-05-18 09:15:16,Vidar,url,https://95.216.123.224/,#Vidar,https://threatfox.abuse.ch/ioc/1815894/
 2026-05-18 09:15:17,Vidar,url,https://95.217.63.87/,#Vidar,https://threatfox.abuse.ch/ioc/1815903/
 2026-05-18 07:06:04,Unknown Loader,url,https://activityof.com/datei,#ClickFix #msi #msiexec,https://threatfox.abuse.ch/ioc/1815824/
+2026-05-18 17:30:09,Vidar,url,https://bco.fazvende.com/,#Vidar,https://threatfox.abuse.ch/ioc/1816075/
+2026-05-18 17:30:08,Vidar,url,https://bco.tristans-tea.com/,#Vidar,https://threatfox.abuse.ch/ioc/1816073/
 2026-05-18 08:03:06,Unknown malware,url,https://bulletpop.cyou/,#ClickFix,https://clickfix.carsonww.com/domains/bulletpop.cyou
 2026-05-18 09:00:54,Vidar,url,https://cra.4k-stream.site/,#Vidar,https://threatfox.abuse.ch/ioc/1815878/
 2026-05-18 09:00:55,Vidar,url,https://cra.chadasvendas.com/,#Vidar,https://threatfox.abuse.ch/ioc/1815880/
 2026-05-17 18:50:47,Unknown malware,url,https://globalSstat.com/tracker.js,,https://threatfox.abuse.ch/ioc/1815711/
 2026-05-17 18:50:47,Unknown malware,url,https://globalSstat.org/tracker.js,,https://threatfox.abuse.ch/ioc/1815712/
+2026-05-18 18:05:30,Unknown malware,url,https://hebsbsbzjsjshduxbs.xyz/api/bot/heartbeat,#SHub Reaper,https://www.sentinelone.com/blog/shub-reaper-macos-stealer-spoofs-apple-google-and-microsoft-in-a-single-attack-chain/
+2026-05-18 18:05:30,Unknown malware,url,https://hebsbsbzjsjshduxbs.xyz/api/debug/event,#SHub Reaper,https://www.sentinelone.com/blog/shub-reaper-macos-stealer-spoofs-apple-google-and-microsoft-in-a-single-attack-chain/
+2026-05-18 18:05:28,Unknown malware,url,https://hebsbsbzjsjshduxbs.xyz/gate,#SHub Reaper,https://www.sentinelone.com/blog/shub-reaper-macos-stealer-spoofs-apple-google-and-microsoft-in-a-single-attack-chain/
+2026-05-18 14:00:09,Vidar,url,https://hms.4k-stream.site/,#Vidar,https://threatfox.abuse.ch/ioc/1816017/
+2026-05-18 14:00:10,Vidar,url,https://hms.chadasvendas.com/,#Vidar,https://threatfox.abuse.ch/ioc/1816019/
 2026-05-17 18:50:48,Unknown malware,url,https://infoworkerOne.com/tracker.js,,https://threatfox.abuse.ch/ioc/1815713/
 2026-05-17 18:50:48,Unknown malware,url,https://infoworkerOne.org/tracker.js,,https://threatfox.abuse.ch/ioc/1815714/
 2026-05-17 18:50:48,Unknown malware,url,https://jobworkNY.com/tracker.js,,https://threatfox.abuse.ch/ioc/1815715/
+2026-05-18 18:05:36,KongTuke,url,https://k020e5b3g0h.com/d,#Kongtuke,https://infosec.exchange/@monitorsg/116596671996392800
 2026-05-18 07:33:20,Unknown malware,url,https://linxiabeautyworks.com/,#ClickFix,https://clickfix.carsonww.com/domains/linxiabeautyworks.com
-2026-05-18 08:30:52,Unknown malware,url,https://marinaradom.cfd/,#ClickFix,https://clickfix.carsonww.com/domains/marinaradom.cfd
+2026-05-18 11:27:59,Unknown malware,url,https://marinaradom.cfd/,#ClickFix,https://clickfix.carsonww.com/domains/marinaradom.cfd
 2026-05-17 18:50:49,Unknown malware,url,https://masterklass.net/tracker.js,,https://threatfox.abuse.ch/ioc/1815722/
 2026-05-17 18:50:49,Unknown malware,url,https://maxStatesUS.ORG/tracker.js,,https://threatfox.abuse.ch/ioc/1815720/
 2026-05-17 18:50:49,Unknown malware,url,https://merkureEnv.net/tracker.js,,https://threatfox.abuse.ch/ioc/1815718/
@@ -36,6 +47,7 @@
 2026-05-18 09:15:15,Vidar,url,https://pdf.chadasvendas.com/,#Vidar,https://threatfox.abuse.ch/ioc/1815892/
 2026-05-18 09:15:15,Vidar,url,https://pgo.chadasvendas.com/,#Vidar,https://threatfox.abuse.ch/ioc/1815893/
 2026-05-18 09:15:15,Vidar,url,https://pgo.hearchrisnow.com/,#Vidar,https://threatfox.abuse.ch/ioc/1815889/
+2026-05-18 11:53:14,Unknown malware,url,https://policiacivilmg.com/zto/,,https://bazaar.abuse.ch/sample/e1f179df4b7c946e7161d61da71c136c2ddd203434f6cd926556894b48c712ea/
 2026-05-18 09:15:14,Vidar,url,https://pti.4k-stream.site/,#Vidar,https://threatfox.abuse.ch/ioc/1815886/
 2026-05-18 09:15:15,Vidar,url,https://pti.chadasvendas.com/,#Vidar,https://threatfox.abuse.ch/ioc/1815890/
 2026-05-17 18:50:49,Unknown malware,url,https://sorrystartstat1.net/tracker.js,,https://threatfox.abuse.ch/ioc/1815719/
