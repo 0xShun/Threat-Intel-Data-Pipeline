@@ -1,35 +1,61 @@
 2026-05-20 05:25:29,Unknown malware,url,http://178.16.55.153/JeffreyEpstein.zip,#ClickFix #EyePyramid #pineapple #pyramid,https://threatfox.abuse.ch/ioc/1816392/
-2026-05-19 13:59:52,Unknown malware,url,http://185.157.162.187:3176/pages/login.php,#AS42675 #Obehosting AB #UNAM,https://threatfox.abuse.ch/ioc/1816333/
+2026-05-20 11:51:37,Unknown malware,url,http://212.43.149.35/index.php,,https://threatfox.abuse.ch/ioc/1816616/
+2026-05-20 15:38:57,Stealc,url,http://31.56.209.88/c1d59c10e8d343a09790.php,#c2 #Loader #medik #Stealc #stealer,https://threatfox.abuse.ch/ioc/1816645/
+2026-05-20 17:47:58,Unknown malware,url,http://aulinked.org/infos.php?fronts=1,#ClickFix #fingerfix #ironpython #winhttp,https://threatfox.abuse.ch/ioc/1816706/
 2026-05-20 05:25:15,Unknown malware,url,http://linkedby.org/infos.php?fronts=1,#ClickFix #fingerfix #ironpython,https://threatfox.abuse.ch/ioc/1816441/
+2026-05-20 16:12:53,Vidar,url,https://136.243.232.224/,#Vidar,https://threatfox.abuse.ch/ioc/1816659/
+2026-05-20 16:12:54,Vidar,url,https://136.243.232.225/,#Vidar,https://threatfox.abuse.ch/ioc/1816663/
+2026-05-20 16:12:55,Vidar,url,https://136.243.232.227/,#Vidar,https://threatfox.abuse.ch/ioc/1816667/
+2026-05-20 16:12:54,Vidar,url,https://136.243.232.228/,#Vidar,https://threatfox.abuse.ch/ioc/1816665/
+2026-05-20 16:12:55,Vidar,url,https://136.243.232.229/,#Vidar,https://threatfox.abuse.ch/ioc/1816666/
+2026-05-20 16:12:54,Vidar,url,https://136.243.232.230/,#Vidar,https://threatfox.abuse.ch/ioc/1816660/
+2026-05-20 16:12:54,Vidar,url,https://136.243.232.231/,#Vidar,https://threatfox.abuse.ch/ioc/1816664/
+2026-05-20 11:19:29,Unknown Stealer,url,https://176.125.242.155/,#SilentStealer,https://threatfox.abuse.ch/ioc/1816605/
+2026-05-20 11:42:40,Unknown malware,url,https://176.125.242.155/admin,#SilentStealer,https://threatfox.abuse.ch/ioc/1816612/
+2026-05-20 16:12:54,Vidar,url,https://46.4.70.79/,#Vidar,https://threatfox.abuse.ch/ioc/1816662/
 2026-05-20 08:03:56,Unknown malware,url,https://91.92.240.197/download3/payload-reflective-installer-frank,,https://bazaar.abuse.ch/sample/d334056829c10a82b87ea760f536a0047c3c77718adc2cbbb861a3586af4f29b/
-2026-05-19 13:59:54,Unknown malware,url,https://aspf.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/aspf.com.br
+2026-05-20 16:12:54,Vidar,url,https://95.216.103.174/,#Vidar,https://threatfox.abuse.ch/ioc/1816661/
+2026-05-20 17:40:32,KongTuke,url,https://ackerkann.lol/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1816703/
+2026-05-20 17:40:36,KongTuke,url,https://ackerkann.lol/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1816704/
+2026-05-20 17:40:24,KongTuke,url,https://ackerkann.lol/file.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1816701/
 2026-05-20 07:00:10,Vidar,url,https://bom.fazvende.com.br/,#Vidar,https://threatfox.abuse.ch/ioc/1816547/
 2026-05-20 07:00:09,Vidar,url,https://bom.tristans-tea.com/,#Vidar,https://threatfox.abuse.ch/ioc/1816545/
 2026-05-19 21:50:40,Lumma Stealer,url,https://brownhc.cyou,#Lumma,https://bazaar.abuse.ch/sample/d4e9e7d1176b0c13f19b21e1af40d41e7049e8d000c568987709321c62a34291/
 2026-05-20 05:25:24,Unknown malware,url,https://bumblebeejaspercentre.org/,#ClickFix,https://clickfix.carsonww.com/domains/bumblebeejaspercentre.org
+2026-05-20 15:39:04,Unknown malware,url,https://cbs-tv.com.skysports1.com/,#ClickFix,https://clickfix.carsonww.com/domains/cbs-tv.com.skysports1.com
 2026-05-20 05:55:15,PureRAT,url,https://dev-tokyotechie.com/ch/,#PureHVNC #PureRAT #RAT,https://bazaar.abuse.ch/sample/2004144f6c630e44f975c24fa311c41edf228213a958b5cf4fca2140d0341a7f/
 2026-05-20 05:55:16,PureRAT,url,https://dev-tokyotechie.com/de-ch/,#PureHVNC #PureRAT #RAT,https://bazaar.abuse.ch/sample/2004144f6c630e44f975c24fa311c41edf228213a958b5cf4fca2140d0341a7f/
 2026-05-20 05:55:15,PureRAT,url,https://dev-tokyotechie.com/de/,#PureHVNC #PureRAT #RAT,https://bazaar.abuse.ch/sample/2004144f6c630e44f975c24fa311c41edf228213a958b5cf4fca2140d0341a7f/
 2026-05-20 05:55:15,PureRAT,url,https://dev-tokyotechie.com/notification/,#PureHVNC #PureRAT #RAT,https://bazaar.abuse.ch/sample/2004144f6c630e44f975c24fa311c41edf228213a958b5cf4fca2140d0341a7f/
 2026-05-20 05:55:16,PureRAT,url,https://documents-abacus.click/up/,#PureHVNC #PureRAT #RAT,https://bazaar.abuse.ch/sample/2004144f6c630e44f975c24fa311c41edf228213a958b5cf4fca2140d0341a7f/
-2026-05-19 14:36:44,Unknown malware,url,https://human-confirmation.top/m,#ClickFix #Loader #powershell,https://threatfox.abuse.ch/ioc/1816355/
-2026-05-19 14:36:44,Unknown malware,url,https://human-confirmation.top/o,#ClickFix #Loader #powershell,https://threatfox.abuse.ch/ioc/1816356/
+2026-05-20 11:42:39,Unknown malware,url,https://food-family.icu/admin,#SilentStealer,https://threatfox.abuse.ch/ioc/1816611/
+2026-05-20 11:19:39,Unknown malware,url,https://fucktermedfir.st/files/jar/Pjibf.exe,#WeedHack,https://threatfox.abuse.ch/ioc/1816591/
+2026-05-20 11:19:40,Unknown malware,url,https://fucktermedfir.st/files/jar/RuntimeBroker.exe,#WeedHack,https://threatfox.abuse.ch/ioc/1816589/
+2026-05-20 11:19:41,Unknown malware,url,https://fucktermedfir.st/files/jar/component,#WeedHack,https://threatfox.abuse.ch/ioc/1816588/
+2026-05-20 11:19:39,Unknown malware,url,https://fucktermedfir.st/files/jar/elevator,#WeedHack,https://threatfox.abuse.ch/ioc/1816593/
+2026-05-20 11:19:37,Unknown malware,url,https://fucktermedfir.st/files/jar/module,#WeedHack,https://threatfox.abuse.ch/ioc/1816594/
+2026-05-20 11:19:40,Unknown malware,url,https://fucktermedfir.st/files/jar/module2,#WeedHack,https://threatfox.abuse.ch/ioc/1816590/
+2026-05-20 11:19:38,Unknown malware,url,https://fucktermedfir.st/files/jar/security,#WeedHack,https://threatfox.abuse.ch/ioc/1816592/
 2026-05-20 05:25:32,KongTuke,url,https://keneedy.lol/api/v1/session,#Kongtuke,https://infosec.exchange/@monitorsg/116602117784339646
 2026-05-20 05:25:31,KongTuke,url,https://keneedy.lol/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116602117784339646
 2026-05-20 05:25:32,KongTuke,url,https://keneedy.lol/api/v1/verify,#Kongtuke,https://infosec.exchange/@monitorsg/116602117784339646
 2026-05-20 05:25:33,KongTuke,url,https://keneedy.lol/file.js,#Kongtuke,https://infosec.exchange/@monitorsg/116602117784339646
 2026-05-20 09:15:04,Vidar,url,https://lands-end-coastguard.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1816575/
 2026-05-20 08:54:38,Unknown malware,url,https://littlewonderseeds.com/,#ClickFix,https://clickfix.carsonww.com/domains/littlewonderseeds.com
+2026-05-20 17:39:22,KongTuke,url,https://lolfler.lol/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1816699/
+2026-05-20 17:39:25,KongTuke,url,https://lolfler.lol/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1816700/
+2026-05-20 17:39:15,KongTuke,url,https://lolfler.lol/file.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1816697/
 2026-05-20 05:25:11,Unknown malware,url,https://mjwildlife.ca/,#ClickFix,https://clickfix.carsonww.com/domains/mjwildlife.ca
 2026-05-20 05:25:14,Unknown malware,url,https://namlongland.net/ebd417db-979c-51f8-aedf-88a2bf8aa6c3/t10,#ClickFix #fingerfix #ironpython,https://threatfox.abuse.ch/ioc/1816442/
+2026-05-20 17:47:58,Unknown malware,url,https://namlongland.net/ebd417db-979c-51f8-aedf-88a2bf8aa6c3/t9,#ClickFix #fingerfix #ironpython #winhttp,https://threatfox.abuse.ch/ioc/1816707/
 2026-05-20 05:10:33,Lumma Stealer,url,https://pantofr.cyou,#Lumma,https://bazaar.abuse.ch/sample/eaf7fcd3b858888826a15098c2ebe50f71503d42883009964f0312c8b6e86ff9/
+2026-05-20 17:30:50,Unknown malware,url,https://platecrumbs.com/,#ClickFix,https://clickfix.carsonww.com/domains/platecrumbs.com
 2026-05-20 05:55:16,PureRAT,url,https://readadobe-document.click/support/,#PureHVNC #PureRAT #RAT,https://bazaar.abuse.ch/sample/2004144f6c630e44f975c24fa311c41edf228213a958b5cf4fca2140d0341a7f/
-2026-05-19 13:59:46,KongTuke,url,https://reynoldy.lol/api/v1/session,#Kongtuke,https://infosec.exchange/@monitorsg/116601402033918344
-2026-05-19 13:59:45,KongTuke,url,https://reynoldy.lol/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116601402033918344
-2026-05-19 13:59:46,KongTuke,url,https://reynoldy.lol/api/v1/verify,#Kongtuke,https://infosec.exchange/@monitorsg/116601402033918344
-2026-05-19 13:59:48,KongTuke,url,https://reynoldy.lol/file.js,#Kongtuke,https://infosec.exchange/@monitorsg/116601402033918344
-2026-05-19 19:00:09,Vidar,url,https://rpi.fazvende.com/,#Vidar,https://threatfox.abuse.ch/ioc/1816418/
-2026-05-19 19:00:08,Vidar,url,https://rpi.tristans-tea.com/,#Vidar,https://threatfox.abuse.ch/ioc/1816416/
-2026-05-19 15:53:56,Unknown malware,url,https://u3hqns4msrc4hei.top/1.php?s=580e250d-effb-401a-b981-fb7fd80635a2,#ClickFix #Loader #powershell,https://threatfox.abuse.ch/ioc/1816372/
+2026-05-20 15:39:00,Unknown malware,url,https://recaptcha.boit.cloud/,#ClickFix,https://clickfix.carsonww.com/domains/recaptcha.boit.cloud
+2026-05-20 15:38:59,Unknown malware,url,https://smackit.lat/,#ClickFix,https://clickfix.carsonww.com/domains/smackit.lat
 2026-05-19 21:30:09,Vidar,url,https://wed.fazvende.com.br/,#Vidar,https://threatfox.abuse.ch/ioc/1816454/
 2026-05-19 21:30:08,Vidar,url,https://wed.tristans-tea.com/,#Vidar,https://threatfox.abuse.ch/ioc/1816452/
+2026-05-20 15:38:55,Unknown malware,url,https://worldopportunitiesfund.com/,#ClickFix,https://clickfix.carsonww.com/domains/worldopportunitiesfund.com
+2026-05-20 16:00:50,Unknown malware,url,https://www.dunebuggydubai.ae/,#ClickFix,https://clickfix.carsonww.com/domains/www.dunebuggydubai.ae
+2026-05-20 17:30:09,Vidar,url,https://zpr.fazvende.com.br/,#Vidar,https://threatfox.abuse.ch/ioc/1816693/
+2026-05-20 17:30:08,Vidar,url,https://zpr.tristans-tea.com/,#Vidar,https://threatfox.abuse.ch/ioc/1816691/
