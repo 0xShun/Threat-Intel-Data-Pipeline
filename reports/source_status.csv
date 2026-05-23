@@ -4,5 +4,5 @@ abuseipdb,ok,
 otx,ok,
 shodan,failed,"HTTP 403: {""error"": ""Requires membership or higher to access""}"
 urlhaus,ok,
-threatfox,ok,
+threatfox,failed,Response ended prematurely
 malwarebazaar,ok,
