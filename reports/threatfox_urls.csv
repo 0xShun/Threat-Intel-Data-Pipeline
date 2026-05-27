@@ -1,25 +1,7 @@
-2026-05-25 19:39:00,Unknown malware,url,http://194.32.248.126/updates/Microsoft%20Windows%20Health%20Service%20Diagnostics.exe,#AHK #AutoHotKey #Dropper #miner #monero #sonbokli #watchdog #xmrig,https://threatfox.abuse.ch/ioc/1818406/
-2026-05-25 19:38:58,Unknown malware,url,http://194.32.248.126/updates/Microsoft%20Windows%20PnP%20Device%20Driver%20Loader.exe,#AHK #AutoHotKey #Dropper #miner #monero #sonbokli #watchdog #xmrig,https://threatfox.abuse.ch/ioc/1818410/
-2026-05-25 19:38:59,Unknown malware,url,http://194.32.248.126/updates/OneDrive%20Sync%20Shell%20Extension%20Processor.exe,#AHK #AutoHotKey #Dropper #miner #monero #sonbokli #watchdog #xmrig,https://threatfox.abuse.ch/ioc/1818411/
-2026-05-25 19:38:59,Unknown malware,url,http://194.32.248.126/updates/System%20Protection%20Background%20Task.exe,#AHK #AutoHotKey #Dropper #miner #monero #sonbokli #watchdog #xmrig,https://threatfox.abuse.ch/ioc/1818408/
-2026-05-25 19:38:58,Unknown malware,url,http://194.32.248.126/updates/Windows%20Update%20Diagnostic%20Task%20Handler.exe,#AHK #AutoHotKey #Dropper #miner #monero #sonbokli #watchdog #xmrig,https://threatfox.abuse.ch/ioc/1818409/
-2026-05-25 19:38:57,Unknown malware,url,http://194.32.248.126/updates/Windows%20Update%20Elevated%20Service.exe,#AHK #AutoHotKey #Dropper #miner #monero #sonbokli #watchdog #xmrig,https://threatfox.abuse.ch/ioc/1818412/
-2026-05-25 19:39:00,Unknown malware,url,http://194.32.248.126/updates/svchost.exe,#AHK #AutoHotKey #Dropper #miner #monero #sonbokli #watchdog #xmrig,https://threatfox.abuse.ch/ioc/1818405/
-2026-05-25 19:39:00,Unknown malware,url,http://194.32.248.126/updates/svchost_laptop.exe,#AHK #AutoHotKey #Dropper #miner #monero #sonbokli #watchdog #xmrig,https://threatfox.abuse.ch/ioc/1818407/
+2026-05-27 07:09:05,Stealc,url,http://158.94.210.59/25e3868686d747678e3b.php,#888 #c2 #Loader #Stealc #stealer,https://threatfox.abuse.ch/ioc/1818897/
 2026-05-26 14:44:27,Unknown malware,url,http://3149-coinbase.com/?shiny,#ClickFix #coinbase #FakeCaptcha #referrer-gated #typosquat,https://threatfox.abuse.ch/ioc/1818800/
 2026-05-26 13:24:08,SmartApeSG,url,http://5.161.242.221,#SmartApeSG,https://infosec.exchange/@monitorsg/116640336269594032
-2026-05-26 07:48:17,Vidar,url,https://116.202.188.183/,#Vidar,https://threatfox.abuse.ch/ioc/1818646/
-2026-05-26 07:48:16,Vidar,url,https://136.243.232.226/,#Vidar,https://threatfox.abuse.ch/ioc/1818640/
-2026-05-26 07:48:16,Vidar,url,https://176.9.142.218/,#Vidar,https://threatfox.abuse.ch/ioc/1818638/
-2026-05-26 07:48:18,Vidar,url,https://178.105.142.35/,#Vidar,https://threatfox.abuse.ch/ioc/1818647/
-2026-05-26 07:48:17,Vidar,url,https://178.105.193.37/,#Vidar,https://threatfox.abuse.ch/ioc/1818641/
-2026-05-26 07:48:18,Vidar,url,https://195.201.45.175/,#Vidar,https://threatfox.abuse.ch/ioc/1818648/
-2026-05-26 07:48:17,Vidar,url,https://46.225.248.246/,#Vidar,https://threatfox.abuse.ch/ioc/1818642/
-2026-05-26 07:48:17,Vidar,url,https://46.225.249.87/,#Vidar,https://threatfox.abuse.ch/ioc/1818643/
-2026-05-26 07:48:17,Vidar,url,https://49.13.38.126/,#Vidar,https://threatfox.abuse.ch/ioc/1818644/
-2026-05-26 07:48:16,Vidar,url,https://5.9.114.60/,#Vidar,https://threatfox.abuse.ch/ioc/1818639/
-2026-05-26 05:22:22,Vultur,url,https://62.60.226.162/rpc/,#Vultur,https://threatfox.abuse.ch/ioc/1818537/
-2026-05-26 07:48:17,Vidar,url,https://78.47.64.123/,#Vidar,https://threatfox.abuse.ch/ioc/1818645/
+2026-05-27 07:09:17,Unknown Stealer,url,http://homeinspectionsdelaware.com/curl/75ddfbae4fcacede52ef513ce634f82ad3d8358984b0bd49756cc8c50a55d501,#ClickFix,https://threatfox.abuse.ch/ioc/1818996/
 2026-05-26 17:27:45,Unknown malware,url,https://89.213.118.155:8443/browser,#c2,https://bazaar.abuse.ch/sample/0783585328aa96695c4412282b96cb03dffe79a1c5e68625bbad983ad9ef24f9/
 2026-05-26 17:27:44,Unknown malware,url,https://89.213.118.155:8443/discord,#c2,https://bazaar.abuse.ch/sample/0783585328aa96695c4412282b96cb03dffe79a1c5e68625bbad983ad9ef24f9/
 2026-05-26 17:27:43,Unknown malware,url,https://89.213.118.155:8443/filesearch/req,#c2,https://bazaar.abuse.ch/sample/0783585328aa96695c4412282b96cb03dffe79a1c5e68625bbad983ad9ef24f9/
@@ -27,8 +9,7 @@
 2026-05-26 17:27:43,Unknown malware,url,https://89.213.118.155:8443/ping,#c2,https://bazaar.abuse.ch/sample/0783585328aa96695c4412282b96cb03dffe79a1c5e68625bbad983ad9ef24f9/
 2026-05-26 17:27:48,Unknown malware,url,https://89.213.118.155:8443/plugin,#c2,https://bazaar.abuse.ch/sample/0783585328aa96695c4412282b96cb03dffe79a1c5e68625bbad983ad9ef24f9/
 2026-05-26 17:27:46,Unknown malware,url,https://89.213.118.155:8443/userinfo,#c2,https://bazaar.abuse.ch/sample/0783585328aa96695c4412282b96cb03dffe79a1c5e68625bbad983ad9ef24f9/
-2026-05-26 09:48:04,Unknown Stealer,url,https://breteamz.com/,#ClickFix,https://threatfox.abuse.ch/ioc/1818709/
-2026-05-26 07:48:16,Vidar,url,https://cap.xyzsm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1818637/
+2026-05-27 08:03:33,Unknown Stealer,url,https://bremadsf.com/,#ClickFix,https://threatfox.abuse.ch/ioc/1819016/
 2026-05-26 17:27:49,KongTuke,url,https://cdnmlmdptb.icu/d,#Kongtuke,https://infosec.exchange/@monitorsg/116641969884911535
 2026-05-26 17:30:50,Vidar,url,https://chk.awansm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1818844/
 2026-05-26 17:30:50,Vidar,url,https://chk.matriculadores.com/,#Vidar,https://threatfox.abuse.ch/ioc/1818846/
@@ -38,37 +19,26 @@
 2026-05-26 13:24:01,Unknown malware,url,https://cpcontacts.20-102-99-149.cprapid.com/app/signin?recovery,#centurylink #cprapid #cred-phish #phishing #turnstile-gated,https://threatfox.abuse.ch/ioc/1818758/
 2026-05-26 13:24:09,SmartApeSG,url,https://crystalrocketlab.top/tenant/acl-layout.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116640336269594032
 2026-05-26 13:24:10,SmartApeSG,url,https://crystalrocketlab.top/tenant/session-render,#SmartApeSG,https://infosec.exchange/@monitorsg/116640336269594032
-2026-05-26 07:48:14,Vidar,url,https://dip.akusm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1818631/
-2026-05-26 07:48:15,Vidar,url,https://dip.matriculador.digital/,#Vidar,https://threatfox.abuse.ch/ioc/1818635/
-2026-05-25 21:35:41,Lumma Stealer,url,https://diplokb.cyou,#Lumma,https://bazaar.abuse.ch/sample/e03dd36f22e24a323f8db11ba3a220786ea14c5617538b5433911e5a6d1f66a3/
+2026-05-27 08:03:34,Unknown Stealer,url,https://driftpress11.com/curl/bbaebdea08c804297a988ec4200424600767ddc94cacc38931f8c430ba93d3d0,#ClickFix,https://threatfox.abuse.ch/ioc/1819015/
 2026-05-26 13:24:03,KongTuke,url,https://eegelhardt.lol/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1818742/
 2026-05-26 13:23:56,KongTuke,url,https://eegelhardt.lol/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116641035666452119
 2026-05-26 13:24:03,KongTuke,url,https://eegelhardt.lol/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1818743/
 2026-05-26 13:24:05,KongTuke,url,https://eegelhardt.lol/file.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1818740/
-2026-05-26 07:30:50,Vidar,url,https://foe.akusm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1818621/
-2026-05-26 07:30:51,Vidar,url,https://foe.matriculador.digital/,#Vidar,https://threatfox.abuse.ch/ioc/1818623/
-2026-05-26 07:48:14,Vidar,url,https://guw.akusm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1818628/
-2026-05-26 07:48:15,Vidar,url,https://guw.matriculador.digital/,#Vidar,https://threatfox.abuse.ch/ioc/1818632/
-2026-05-26 07:48:14,Vidar,url,https://ham.akusm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1818629/
-2026-05-26 07:48:15,Vidar,url,https://ham.matriculador.digital/,#Vidar,https://threatfox.abuse.ch/ioc/1818633/
 2026-05-26 13:23:58,KongTuke,url,https://hartunh.lol/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1818765/
 2026-05-26 17:27:50,KongTuke,url,https://hartunh.lol/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116641969884911535
 2026-05-26 13:24:00,KongTuke,url,https://hartunh.lol/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1818766/
 2026-05-26 13:23:59,KongTuke,url,https://hartunh.lol/file.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1818763/
-2026-05-26 07:48:14,Vidar,url,https://hus.akusm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1818630/
-2026-05-26 07:48:15,Vidar,url,https://hus.matriculador.digital/,#Vidar,https://threatfox.abuse.ch/ioc/1818634/
-2026-05-26 04:23:28,Unknown malware,url,https://j5r3vmlyxn233qr3.xyz/,#ClickFix,https://clickfix.carsonww.com/domains/j5r3vmlyxn233qr3.xyz
-2026-05-26 09:30:50,Vidar,url,https://kbs.akusm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1818687/
-2026-05-26 09:30:51,Vidar,url,https://kbs.matriculador.digital/,#Vidar,https://threatfox.abuse.ch/ioc/1818689/
-2026-05-26 07:48:15,Vidar,url,https://msp.xyzsm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1818636/
+2026-05-26 21:15:03,Vidar,url,https://kdc-zarya.ru/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1818898/
+2026-05-27 09:30:43,Unknown malware,url,https://lenders.digital/,#ClickFix,https://clickfix.carsonww.com/domains/lenders.digital
+2026-05-27 00:15:03,Vidar,url,https://maxi-vet.ru/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1818950/
+2026-05-27 07:09:16,Unknown Stealer,url,https://payforwin.github.io/desktop.html,#ClickFix,https://threatfox.abuse.ch/ioc/1818998/
 2026-05-26 13:24:12,Unknown Stealer,url,https://pinescope11.com/curl/6315314c6956161b5907029be3bb3f11eba56a05c12d2cf3131998d9f3c4d1f1,#ClickFix #ClickFix #Claude,https://threatfox.abuse.ch/ioc/1818718/
-2026-05-26 09:48:05,Unknown Stealer,url,https://pinescope11.com/curl/80ee53d07eee377f78c6ecbc5b40b6936703eefcb6e40a79d7af80bb53d9f1a7,#ClickFix,https://threatfox.abuse.ch/ioc/1818708/
-2026-05-26 04:23:19,ACR Stealer,url,https://primemetricsa.com/1518925,#claude #ClickFix,https://fairpoint29.com/6appzbv/
 2026-05-26 17:27:51,KongTuke,url,https://ryfsowiu.icu/d,#Kongtuke,https://infosec.exchange/@monitorsg/116641743703847116
 2026-05-26 13:23:53,SmartApeSG,url,https://silentquarry.top/tenant/acl-layout.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116641037878141323
 2026-05-26 13:23:54,SmartApeSG,url,https://silentquarry.top/tenant/session-render,#SmartApeSG,https://infosec.exchange/@monitorsg/116641037878141323
 2026-05-26 13:24:11,Unknown Stealer,url,https://sites.google.com/view/claumacxvsz,#ClickFix #ClickFix #Claude,https://threatfox.abuse.ch/ioc/1818717/
-2026-05-26 09:48:06,Unknown Stealer,url,https://sites.google.com/view/xbrewmacboe,#ClickFix,https://threatfox.abuse.ch/ioc/1818707/
-2026-05-26 07:48:13,Vidar,url,https://steamcommunity.com/profiles/76561198698223785,#Vidar,https://threatfox.abuse.ch/ioc/1818626/
-2026-05-26 07:48:13,Vidar,url,https://telegram.me/g75rit,#Vidar,https://threatfox.abuse.ch/ioc/1818627/
+2026-05-27 07:09:16,Unknown Stealer,url,https://sites.google.com/view/payforwin,#ClickFix,https://threatfox.abuse.ch/ioc/1818997/
+2026-05-27 08:03:33,Unknown Stealer,url,https://sites.google.com/view/xbiernlk,#ClickFix,https://threatfox.abuse.ch/ioc/1819017/
+2026-05-26 23:30:50,Vidar,url,https://tto.awansm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1818941/
+2026-05-26 23:30:50,Vidar,url,https://tto.matriculadores.com/,#Vidar,https://threatfox.abuse.ch/ioc/1818943/
 2026-05-26 13:24:07,SmartApeSG,url,https://velvetcompassstudio.com/zip,#SmartApeSG,https://infosec.exchange/@monitorsg/116640336269594032
