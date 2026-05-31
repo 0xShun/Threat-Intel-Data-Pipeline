@@ -1,29 +1,27 @@
 2026-05-30 15:14:01,Unknown malware,url,http://31.57.109.131/scripts/4thepool_miner.sh,#CryptoMiner sh miner ubuntu,https://threatfox.abuse.ch/ioc/1820020/
-2026-05-30 15:14:01,Mirai,url,http://45.153.34.212:8181/.sugipepulesrl,,https://twitter.com/NullBlue67
-2026-05-30 15:14:03,Mirai,url,http://78.153.140.16/d.sh,,https://twitter.com/NullBlue67
-2026-05-30 15:14:05,RedTail,url,https://14.46.136.77/sh,,https://twitter.com/NullBlue67
+2026-05-31 06:48:26,Unknown malware,url,http://34.11.136.102/meow,#honeypot,https://greedybear.honeynet.org
+2026-05-31 06:48:25,Unknown malware,url,http://34.11.136.102/meowarm64,#honeypot,https://greedybear.honeynet.org
+2026-05-31 06:48:11,Unknown malware,url,http://35.231.74.47/meow,#honeypot,https://greedybear.honeynet.org
+2026-05-30 15:14:01,Mirai,url,http://45.153.34.212:8181/.sugipepulesrl,#docker-api Dropper elf Mirai,https://twitter.com/NullBlue67
+2026-05-30 15:14:03,Mirai,url,http://78.153.140.16/d.sh,#cron-persistence #docker-api #Dropper #Mirai,https://twitter.com/NullBlue67
+2026-05-31 07:05:53,Mirai,url,http://b.9-9-8.com/t.sh,#cron-persistence #fileless #python2 #TeamTNT,https://twitter.com/NullBlue67
+2026-05-30 15:14:05,RedTail,url,https://14.46.136.77/sh,#docker-api #https-c2 #libredtail-http #Redtail,https://twitter.com/NullBlue67
+2026-05-31 07:14:57,Unknown Stealer,url,https://178.105.175.202/gate?mode=beacon,,https://bazaar.abuse.ch/sample/d8a6366c9fbf5a41c82774f1e499aebe1a9bf9b078331f5a2c174ca0785c3b92/
 2026-05-30 15:14:14,Unknown malware,url,https://api.h1gh-l3v-aso-xyxi.xyz/api/downloads/filegrab-config,#c2,https://bazaar.abuse.ch/sample/c5e485d6504d04ae0b333bf37a17aa13e73e0e9ecb9f46a666f5b81243cbb401/
 2026-05-30 15:14:15,Unknown malware,url,https://api.h1gh-l3v-aso-xyxi.xyz/api/upload/files,#c2,https://bazaar.abuse.ch/sample/c5e485d6504d04ae0b333bf37a17aa13e73e0e9ecb9f46a666f5b81243cbb401/
 2026-05-30 15:14:13,Unknown malware,url,https://api.h1gh-l3v-aso-xyxi.xyz/api/upload/keys,#c2,https://bazaar.abuse.ch/sample/c5e485d6504d04ae0b333bf37a17aa13e73e0e9ecb9f46a666f5b81243cbb401/
 2026-05-30 15:14:16,Unknown malware,url,https://api.h1gh-l3v-aso-xyxi.xyz/api/upload/screenshot,#c2,https://bazaar.abuse.ch/sample/c5e485d6504d04ae0b333bf37a17aa13e73e0e9ecb9f46a666f5b81243cbb401/
 2026-05-30 15:14:13,Unknown malware,url,https://api.h1gh-l3v-aso-xyxi.xyz/api/upload/specs,#c2,https://bazaar.abuse.ch/sample/c5e485d6504d04ae0b333bf37a17aa13e73e0e9ecb9f46a666f5b81243cbb401/
 2026-05-30 15:14:14,Unknown malware,url,https://api.h1gh-l3v-aso-xyxi.xyz/api/upload/zip,#c2,https://bazaar.abuse.ch/sample/c5e485d6504d04ae0b333bf37a17aa13e73e0e9ecb9f46a666f5b81243cbb401/
+2026-05-31 06:43:39,Unknown malware,url,https://auth-captcha.click/,#ClickFix #fake-verification #safeguard-portal #social-engineering #telegram-lure,https://threatfox.abuse.ch/ioc/1820130/
 2026-05-30 17:47:23,Unknown malware,url,https://bearman.bond/,#ClickFix,https://clickfix.carsonww.com/domains/bearman.bond
 2026-05-30 17:47:29,Unknown malware,url,https://connectdplus.com/captcha.php,#ClickFix,https://clickfix.carsonww.com/domains/connectdplus.com
-2026-05-30 07:04:55,Unknown malware,url,https://error-coinbase.com/api/verify,#coinbase #credential-phish #Fake-Captcha,https://threatfox.abuse.ch/ioc/1819933/
-2026-05-30 07:04:55,Unknown malware,url,https://error-coinbase.com/captcha,#coinbase #credential-phish #Fake-Captcha,https://threatfox.abuse.ch/ioc/1819934/
-2026-05-30 07:07:26,Unknown malware,url,https://full-brown.com/json,#c2,https://app.any.run/tasks/66f0a65c-eb40-4c7a-b50b-4a687318ae2c
-2026-05-30 07:07:25,Unknown malware,url,https://full-brown.com/request-file,#c2,https://app.any.run/tasks/66f0a65c-eb40-4c7a-b50b-4a687318ae2c
-2026-05-30 07:07:26,Unknown malware,url,https://full-brown.com/screenshot,#c2,https://app.any.run/tasks/66f0a65c-eb40-4c7a-b50b-4a687318ae2c
-2026-05-30 07:07:25,Unknown malware,url,https://full-brown.com/upload,#c2,https://app.any.run/tasks/66f0a65c-eb40-4c7a-b50b-4a687318ae2c
 2026-05-30 15:14:10,Unknown malware,url,https://h1gh-l3v-aso-xyxi.xyz/api/collections/create,#c2,https://bazaar.abuse.ch/sample/c5e485d6504d04ae0b333bf37a17aa13e73e0e9ecb9f46a666f5b81243cbb401/
 2026-05-30 15:14:12,Unknown malware,url,https://h1gh-l3v-aso-xyxi.xyz/api/downloads/abe,#c2,https://bazaar.abuse.ch/sample/c5e485d6504d04ae0b333bf37a17aa13e73e0e9ecb9f46a666f5b81243cbb401/
 2026-05-30 15:14:12,Unknown malware,url,https://h1gh-l3v-aso-xyxi.xyz/api/downloads/extractor,#c2,https://bazaar.abuse.ch/sample/c5e485d6504d04ae0b333bf37a17aa13e73e0e9ecb9f46a666f5b81243cbb401/
 2026-05-30 15:14:10,Unknown malware,url,https://h1gh-l3v-aso-xyxi.xyz/api/downloads/shell,#c2,https://bazaar.abuse.ch/sample/c5e485d6504d04ae0b333bf37a17aa13e73e0e9ecb9f46a666f5b81243cbb401/
-2026-05-30 07:04:59,Unknown malware,url,https://midnightcompassengine.com/one,#ClickFix #fakecaptcha-paste #hetzner #HTA #mshta,https://threatfox.abuse.ch/ioc/1819917/
 2026-05-30 17:47:25,Unknown malware,url,https://pusanik.shop/,#ClickFix,https://clickfix.carsonww.com/domains/pusanik.shop
 2026-05-30 16:26:58,Unknown malware,url,https://secure-web.cisco.com.whm.linkedin.com.agriturismoaipiacentini.site/,#aitm #credential-theft #EvilGinx #m365 #Microsoft #phishing,https://threatfox.abuse.ch/ioc/1820108/
-2026-05-30 07:04:53,Unknown malware,url,https://send0x519c-7315d04.sbs/wc-init.html,#phishing #trust-wallet #wallet-drainer #walletconnect,https://threatfox.abuse.ch/ioc/1819936/
-2026-05-30 00:15:02,Vidar,url,https://suncoastfoundation.org/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1819945/
+2026-05-31 06:48:08,Unknown malware,url,https://www.abdgochizmetleri.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.abdgochizmetleri.com
 2026-05-30 16:26:59,Unknown malware,url,https://yp7s.lusy.ink/ppsecure/post.srf,#aitm #credential-theft #EvilGinx #m365 #Microsoft #phishing,https://threatfox.abuse.ch/ioc/1820106/
 2026-05-30 16:26:59,Unknown malware,url,https://yxc1.lusy.ink/settings-validation,#aitm #credential-theft #EvilGinx #m365 #Microsoft #phishing,https://threatfox.abuse.ch/ioc/1820107/
