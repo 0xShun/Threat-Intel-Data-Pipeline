@@ -4,14 +4,31 @@
 2026-05-31 12:29:38,Unknown malware,url,http://209.92.170.225/lmkjn.mips,#honeypot,https://greedybear.honeynet.org
 2026-05-31 12:29:40,Unknown malware,url,http://209.92.170.225/lmkjn.mpsl,#honeypot,https://greedybear.honeynet.org
 2026-05-31 12:29:39,Unknown malware,url,http://209.92.170.225/lmkjn.x86,#honeypot,https://greedybear.honeynet.org
-2026-05-31 06:48:26,Unknown malware,url,http://34.11.136.102/meow,#honeypot,https://greedybear.honeynet.org
-2026-05-31 06:48:25,Unknown malware,url,http://34.11.136.102/meowarm64,#honeypot,https://greedybear.honeynet.org
-2026-05-31 06:48:11,Unknown malware,url,http://35.231.74.47/meow,#honeypot,https://greedybear.honeynet.org
-2026-05-31 07:05:53,Mirai,url,http://b.9-9-8.com/t.sh,#cron-persistence #fileless #python2 #TeamTNT,https://twitter.com/NullBlue67
-2026-05-31 07:14:57,Unknown Stealer,url,https://178.105.175.202/gate?mode=beacon,,https://bazaar.abuse.ch/sample/d8a6366c9fbf5a41c82774f1e499aebe1a9bf9b078331f5a2c174ca0785c3b92/
-2026-05-31 06:43:39,Unknown malware,url,https://auth-captcha.click/,#ClickFix #fake-verification #safeguard-portal #social-engineering #telegram-lure,https://threatfox.abuse.ch/ioc/1820130/
+2026-06-01 07:23:42,Vidar,url,https://37.27.181.229/,#Vidar,https://threatfox.abuse.ch/ioc/1820527/
+2026-06-01 07:23:41,Vidar,url,https://46.225.253.9/,#Vidar,https://threatfox.abuse.ch/ioc/1820523/
+2026-06-01 07:23:41,Vidar,url,https://46.225.254.27/,#Vidar,https://threatfox.abuse.ch/ioc/1820524/
+2026-06-01 07:23:41,Vidar,url,https://46.225.255.99/,#Vidar,https://threatfox.abuse.ch/ioc/1820525/
+2026-06-01 07:23:42,Vidar,url,https://65.109.255.31/,#Vidar,https://threatfox.abuse.ch/ioc/1820526/
+2026-06-01 09:32:16,Unknown Stealer,url,https://anvil-89.com/curl/b2ebd894810ccc6df1fccbceeaf09f5c9be6dbf3f8386c915b26e78c28ac3563,#ClickFix,https://threatfox.abuse.ch/ioc/1820560/
+2026-06-01 09:26:28,Unknown Stealer,url,https://anvil-89.com/curl/db7bd4c559aa3fb93d63739f16264aae68c911adc95b9f97cc7529c52fd15a87,#ClickFix,https://threatfox.abuse.ch/ioc/1820551/
+2026-06-01 05:45:06,XMRIG,url,https://cdn.boyzee.xyz/086ad118cef06dd1ebe63c7b/xmrig_linux_amd64,#boyzee #cron-job #miner-payload #redis #xmrig,https://twitter.com/NullBlue67
+2026-06-01 08:46:06,Unknown malware,url,https://gauseva.life/ear/,#phishing #tg.pe,https://threatfox.abuse.ch/ioc/1820545/
 2026-05-31 13:26:09,Unknown malware,url,https://guiacuranatural.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/guiacuranatural.com.br
+2026-06-01 11:06:35,KongTuke,url,https://marqueq.lol/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1820584/
+2026-06-01 11:06:36,KongTuke,url,https://marqueq.lol/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1820585/
+2026-06-01 11:06:33,KongTuke,url,https://marqueq.lol/file.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1820582/
+2026-06-01 05:44:45,Unknown malware,url,https://moll.lanjut.in/,#ClickFix,https://clickfix.carsonww.com/domains/moll.lanjut.in
+2026-06-01 07:23:41,Vidar,url,https://mub.atvrent.com/,#Vidar,https://threatfox.abuse.ch/ioc/1820522/
+2026-06-01 07:23:41,Vidar,url,https://mub.dism188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1820521/
+2026-06-01 05:44:57,Unknown malware,url,https://performanceadvisorygroup.com/,#ClickFix,https://clickfix.carsonww.com/domains/performanceadvisorygroup.com
 2026-05-31 12:29:36,Unknown malware,url,https://portallogin.online/,#ClickFix,https://clickfix.carsonww.com/domains/portallogin.online
+2026-06-01 05:44:50,Unknown malware,url,https://proaslegal.com/,#ClickFix,https://clickfix.carsonww.com/domains/proaslegal.com
+2026-06-01 09:32:17,Unknown Stealer,url,https://purematrixa.com/1751517,#ClickFix,https://threatfox.abuse.ch/ioc/1820559/
+2026-06-01 09:32:17,Unknown Stealer,url,https://sites.google.com/newappclaude.com/clau-ver-un-30,#ClickFix,https://threatfox.abuse.ch/ioc/1820557/
+2026-06-01 09:26:29,Unknown Stealer,url,https://sites.google.com/newpayservices.com/cdx-biz-ver-un-v27,#ClickFix,https://threatfox.abuse.ch/ioc/1820549/
+2026-06-01 07:23:40,Vidar,url,https://steamcommunity.com/profiles/76561198694626397,#Vidar,https://threatfox.abuse.ch/ioc/1820519/
 2026-05-31 13:26:08,Unknown malware,url,https://steamcommunity.com/profiles/76561198724115265/,#c2 #WallStealer,https://app.any.run/tasks/385acc1e-2916-438e-b6d2-1aea39544861
+2026-06-01 07:23:40,Vidar,url,https://telegram.me/kkb31rm,#Vidar,https://threatfox.abuse.ch/ioc/1820520/
+2026-06-01 09:32:17,Unknown Stealer,url,https://turbowave45.com/,#ClickFix,https://threatfox.abuse.ch/ioc/1820558/
 2026-05-31 12:29:37,Unknown malware,url,https://ultimapharma.shop/,#ClickFix,https://clickfix.carsonww.com/domains/ultimapharma.shop
-2026-05-31 06:48:08,Unknown malware,url,https://www.abdgochizmetleri.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.abdgochizmetleri.com
+2026-06-01 09:26:29,Unknown Stealer,url,https://wiseview58.com/hjpjsp2/,#ClickFix,https://threatfox.abuse.ch/ioc/1820550/
