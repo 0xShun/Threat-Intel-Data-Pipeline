@@ -1,14 +1,13 @@
-2026-06-03 06:05:42,Unknown Stealer,url,http://136.243.152.105/api/telemetry/event,#ZuqraStealer,https://bazaar.abuse.ch/sample/8f924cf70da38face250e4058a559a05785d189713959390c31ac8ffd9c81650/
-2026-06-03 06:05:42,Unknown Stealer,url,http://136.243.152.105/api/telemetry/file-chunk,#ZuqraStealer,https://bazaar.abuse.ch/sample/8f924cf70da38face250e4058a559a05785d189713959390c31ac8ffd9c81650/
-2026-06-03 05:54:56,Unknown malware,url,http://149.104.29.201:8111/log.sh,#CVE-2025-3248 #polydrop,https://stateoftheattack.com/campaign/polydrop
-2026-06-03 05:54:55,Unknown malware,url,http://149.104.29.201:8111/set.sh,#CVE-2025-3248 #go-implant #langflow #polydrop,https://stateoftheattack.com/campaign/polydrop
-2026-06-03 05:54:55,Unknown malware,url,http://149.104.29.201:8455/slt,#CVE-2025-3248 #go-implant #langflow #polydrop,https://stateoftheattack.com/campaign/polydrop
 2026-06-03 18:58:52,Phorpiex,url,http://178.16.54.109/sodola,#Download #phorpiex,https://threatfox.abuse.ch/ioc/1821983/
-2026-06-03 06:00:22,Unknown malware,url,http://213.108.20.59/api/commands/,,https://bazaar.abuse.ch/sample/795d9ded37f82d443e68ea31d77a4f8225ebf3ddff4add3669f8185793603861/
-2026-06-03 06:00:21,Unknown malware,url,http://213.108.20.59/api/data,,https://bazaar.abuse.ch/sample/795d9ded37f82d443e68ea31d77a4f8225ebf3ddff4add3669f8185793603861/
-2026-06-03 06:00:21,Unknown malware,url,http://213.108.20.59/api/files/sync,,https://bazaar.abuse.ch/sample/795d9ded37f82d443e68ea31d77a4f8225ebf3ddff4add3669f8185793603861/
-2026-06-03 06:00:21,Unknown malware,url,http://213.108.20.59/api/register,,https://bazaar.abuse.ch/sample/795d9ded37f82d443e68ea31d77a4f8225ebf3ddff4add3669f8185793603861/
-2026-06-03 06:00:22,Unknown malware,url,http://213.108.20.59/api/results,,https://bazaar.abuse.ch/sample/795d9ded37f82d443e68ea31d77a4f8225ebf3ddff4add3669f8185793603861/
+2026-06-04 06:59:52,Unknown malware,url,http://185.228.26.16/azsxd.arm5,#honeypot,https://greedybear.honeynet.org
+2026-06-04 06:59:53,Unknown malware,url,http://185.228.26.16/azsxd.arm6,#honeypot,https://greedybear.honeynet.org
+2026-06-04 06:59:52,Unknown malware,url,http://185.228.26.16/azsxd.arm7,#honeypot,https://greedybear.honeynet.org
+2026-06-04 06:59:51,Unknown malware,url,http://185.228.26.16/azsxd.mips,#honeypot,https://greedybear.honeynet.org
+2026-06-04 06:59:43,Unknown malware,url,http://185.228.26.16/azsxd.mpsl,#honeypot,https://greedybear.honeynet.org
+2026-06-04 06:59:43,Unknown malware,url,http://185.228.26.16/azsxd.x86,#honeypot,https://greedybear.honeynet.org
+2026-06-04 07:31:56,Mirai,url,http://45.202.249.34/dck,#docker-api #Dropper #Mirai #nsenter-escape,https://twitter.com/NullBlue67
+2026-06-04 05:17:04,Unknown malware,url,http://85.239.149.78/l6WwkWNj5hC2qDlgLI,#ClickFix #fakeputty #Loader,https://www.virustotal.com/gui/file/966266fa8645650be30a6f2f38a40426251f3930a0ccbc4fd307d09cf31de736
+2026-06-04 05:17:05,Unknown malware,url,http://85.239.149.78:6600/p5m4i979/putty_c4078a0a07f68cb6.msi,#ClickFix #fakeputty #Loader,https://www.virustotal.com/gui/file/966266fa8645650be30a6f2f38a40426251f3930a0ccbc4fd307d09cf31de736
 2026-06-03 15:41:56,Vidar,url,https://116.203.3.198/,#Vidar,https://threatfox.abuse.ch/ioc/1821942/
 2026-06-03 15:41:57,Vidar,url,https://135.181.224.72/,#Vidar,https://threatfox.abuse.ch/ioc/1821945/
 2026-06-03 15:41:57,Vidar,url,https://65.21.96.128/,#Vidar,https://threatfox.abuse.ch/ioc/1821944/
@@ -25,19 +24,25 @@
 2026-06-03 16:07:49,magecart,url,https://cdnjs.cloudflire.net/ws,#jquery #Magecart #skimmer #typosquat,https://threatfox.abuse.ch/ioc/1821969/
 2026-06-03 16:07:51,magecart,url,https://code-jquery.com/ws,#jquery #Magecart #skimmer #typosquat,https://threatfox.abuse.ch/ioc/1821965/
 2026-06-03 16:07:51,magecart,url,https://code-jquery.net/ws,#jquery #Magecart #skimmer #typosquat,https://threatfox.abuse.ch/ioc/1821964/
+2026-06-04 05:17:21,Unknown malware,url,https://cosmostars.shop/api/index.php?a=dl&token=8caaf953d89478b8a7191eb32295c117a310b53ac9059d4ad69a1e397ec3b2d4&rv=17ff1b3d94f9144973b09f8064ba72f3&src=www.morecroft.co.nz&mode=cloudflare,#ClickFix #garble #go #Loader #single-fire #Vidar,https://www.virustotal.com/gui/file/dabb2cfc1da018ac3b4fd5f60f9c5e2ca096319cb67dd904ed7df7392f3d6d00
 2026-06-03 15:24:04,KongTuke,url,https://dangelo.lol/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1821803/
 2026-06-03 15:24:04,KongTuke,url,https://dangelo.lol/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1821804/
 2026-06-03 15:24:05,KongTuke,url,https://dangelo.lol/file.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1821801/
 2026-06-03 13:00:31,Vidar,url,https://dtc.canamrental.com/,#Vidar,https://threatfox.abuse.ch/ioc/1821826/
 2026-06-03 13:00:31,Vidar,url,https://dtc.duitsm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1821824/
-2026-06-03 01:00:32,Vidar,url,https://fre.canamrental.com/,#Vidar,https://threatfox.abuse.ch/ioc/1821630/
-2026-06-03 01:00:31,Vidar,url,https://fre.duitsm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1821628/
 2026-06-03 15:23:53,SmartApeSG,url,https://ironsignal.top/signup/signup-render.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116686331123691132
 2026-06-03 15:23:53,SmartApeSG,url,https://ironsignal.top/signup/version-script,#SmartApeSG,https://infosec.exchange/@monitorsg/116686331123691132
+2026-06-04 05:15:03,Vidar,url,https://jobsforteenshq.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1822143/
 2026-06-03 15:23:48,SmartApeSG,url,https://lucidgrovelab.top/tenant/handler-view,#SmartApeSG,https://infosec.exchange/@monitorsg/116686810801486417
 2026-06-03 15:23:46,SmartApeSG,url,https://lucidgrovelab.top/tenant/session-schema.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116686810801486417
 2026-06-03 16:07:46,magecart,url,https://mc.yadnex.net/ws,#jquery #Magecart #skimmer #typosquat,https://threatfox.abuse.ch/ioc/1821973/
 2026-06-03 18:25:08,Vidar,url,https://qzr.canamrental.com/,#ar3k0 #Vidar,https://threatfox.abuse.ch/ioc/1821997/
 2026-06-03 18:24:56,Vidar,url,https://qzr.duitsm188.top/,#ar3k0 #Vidar,https://threatfox.abuse.ch/ioc/1821995/
+2026-06-04 05:16:34,Unknown malware,url,https://second-confirmation.top/m,#c2 #ClickFix #Loader,https://www.virustotal.com/gui/file/06e395ff22a7d11297168375628f446b8e11b7cf8ab5ee2a82ab8de1bc6faf5a
 2026-06-03 15:23:50,KongTuke,url,https://second-confirmation.top/o,#Kongtuke,https://infosec.exchange/@monitorsg/116686752048109572
+2026-06-04 06:00:34,Vidar,url,https://set.canamrental.com/,#Vidar,https://threatfox.abuse.ch/ioc/1822172/
+2026-06-04 06:00:33,Vidar,url,https://set.dvlv88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1822170/
 2026-06-03 16:07:46,magecart,url,https://stat.keitaro.company/ws,#jquery #Magecart #skimmer #typosquat,https://threatfox.abuse.ch/ioc/1821972/
+2026-06-03 22:00:31,Vidar,url,https://web.canamrental.com/,#Vidar,https://threatfox.abuse.ch/ioc/1822050/
+2026-06-03 22:00:31,Vidar,url,https://web.duitsm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1822048/
+2026-06-04 08:40:12,AsyncRAT,url,https://wittylama.com/Stub.exe,,https://threatfox.abuse.ch/ioc/1822269/
