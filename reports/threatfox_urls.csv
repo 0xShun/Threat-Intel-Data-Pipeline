@@ -1,37 +1,31 @@
-2026-06-04 06:59:52,Unknown malware,url,http://185.228.26.16/azsxd.arm5,#honeypot,https://greedybear.honeynet.org
-2026-06-04 06:59:53,Unknown malware,url,http://185.228.26.16/azsxd.arm6,#honeypot,https://greedybear.honeynet.org
-2026-06-04 06:59:52,Unknown malware,url,http://185.228.26.16/azsxd.arm7,#honeypot,https://greedybear.honeynet.org
-2026-06-04 06:59:51,Unknown malware,url,http://185.228.26.16/azsxd.mips,#honeypot,https://greedybear.honeynet.org
-2026-06-04 06:59:43,Unknown malware,url,http://185.228.26.16/azsxd.mpsl,#honeypot,https://greedybear.honeynet.org
-2026-06-04 06:59:43,Unknown malware,url,http://185.228.26.16/azsxd.x86,#honeypot,https://greedybear.honeynet.org
-2026-06-04 07:31:56,Mirai,url,http://45.202.249.34/dck,#docker-api #Dropper #Mirai #nsenter-escape,https://twitter.com/NullBlue67
+2026-06-05 05:19:17,XMRIG,url,http://195.181.245.252:9443/xmrig,#docker-api #miner #xmrig,https://twitter.com/NullBlue67
 2026-06-04 13:03:59,SectopRAT,url,http://77.238.248.158:9000/churl,#Arechclient2 #ClickFix #FakeCloudflare #SectopRAT,https://www.virustotal.com/gui/file/556d7e26039a275f61e29165700b53574f04ca451db415d8c2b5ec1533d2094d
-2026-06-04 05:17:04,Unknown malware,url,http://85.239.149.78/l6WwkWNj5hC2qDlgLI,#ClickFix #fakeputty #Loader,https://www.virustotal.com/gui/file/966266fa8645650be30a6f2f38a40426251f3930a0ccbc4fd307d09cf31de736
-2026-06-04 05:17:05,Unknown malware,url,http://85.239.149.78:6600/p5m4i979/putty_c4078a0a07f68cb6.msi,#ClickFix #fakeputty #Loader,https://www.virustotal.com/gui/file/966266fa8645650be30a6f2f38a40426251f3930a0ccbc4fd307d09cf31de736
+2026-06-05 01:45:31,Amadey,url,http://89.124.78.101/Lsge63sd3/index.php,#Amadey,https://threatfox.abuse.ch/ioc/1822630/
+2026-06-05 05:19:09,XMRIG,url,http://92.60.77.99:8888/xmrig-x86,#docker-api #miner #moneroocean #xmrig,https://twitter.com/NullBlue67
+2026-06-05 01:45:32,ValleyRAT,url,http://gxfsxs.cn:8880/getinstall64,#RAT #ValleyRAT,https://threatfox.abuse.ch/ioc/1822631/
 2026-06-04 14:53:38,Unknown malware,url,https://45.156.87.120/sts,,https://bazaar.abuse.ch/sample/ca920cb3129949fcbca852525290a21b2d27d7659aec1654bac144fc44701644/
 2026-06-04 14:53:38,Unknown malware,url,https://45.156.87.120/vpr-OMlTVj,,https://bazaar.abuse.ch/sample/ca920cb3129949fcbca852525290a21b2d27d7659aec1654bac144fc44701644/
 2026-06-04 14:07:43,Unknown malware,url,https://asiudasoidu.90g90.com/Bin/ConnectWiseControl.ClientSetup.exe,#fakeupdate #jrtech #RMM-abuse #ScreenConnect,https://urlscan.io/result/019e9142-e88a-7063-82ef-176734fe8d88/
 2026-06-04 14:07:44,Unknown malware,url,https://asiudasoidu.90g90.com/Bin/ConnectWiseControl.ClientSetup.msi,#fakeupdate #jrtech #RMM-abuse #ScreenConnect,https://urlscan.io/result/019e9142-e88a-7063-82ef-176734fe8d88/
 2026-06-04 13:03:57,SectopRAT,url,https://cloud-flare-authenticator.link/verified.ps1,#ClickFix #FakeCloudflare #multi-os #opendir #SectopRAT,https://www.virustotal.com/gui/file/556d7e26039a275f61e29165700b53574f04ca451db415d8c2b5ec1533d2094d
 2026-06-04 14:37:35,KongTuke,url,https://confirmyouarehuman.top/o,#Kongtuke,https://infosec.exchange/@monitorsg/116692236684002982
-2026-06-04 05:17:21,Unknown malware,url,https://cosmostars.shop/api/index.php?a=dl&token=8caaf953d89478b8a7191eb32295c117a310b53ac9059d4ad69a1e397ec3b2d4&rv=17ff1b3d94f9144973b09f8064ba72f3&src=www.morecroft.co.nz&mode=cloudflare,#ClickFix #garble #go #Loader #single-fire #Vidar,https://www.virustotal.com/gui/file/dabb2cfc1da018ac3b4fd5f60f9c5e2ca096319cb67dd904ed7df7392f3d6d00
 2026-06-04 17:30:31,Vidar,url,https://dot.canamrent.com/,#Vidar,https://threatfox.abuse.ch/ioc/1822498/
 2026-06-04 17:30:31,Vidar,url,https://dot.dvlv88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1822496/
 2026-06-04 11:25:03,Vidar,url,https://elo.canamrent.com/,#ar3k0 #Vidar,https://threatfox.abuse.ch/ioc/1822341/
 2026-06-04 11:24:50,Vidar,url,https://elo.dvlv88.top/,#ar3k0 #Vidar,https://threatfox.abuse.ch/ioc/1822339/
 2026-06-04 17:58:47,Unknown malware,url,https://fluffynoodle.xyz/ash,,https://threatfox.abuse.ch/ioc/1822494/
-2026-06-04 05:15:03,Vidar,url,https://jobsforteenshq.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1822143/
 2026-06-04 14:52:25,Unknown malware,url,https://lutkdd.corpsecs.com/?id=,,https://bazaar.abuse.ch/sample/d6226ff1c96bff8cc840fb62db0a6bead9d029b7915436db87a1882332054c82/
 2026-06-04 13:04:06,KongTuke,url,https://rueckec.lol/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1822332/
 2026-06-04 14:37:36,KongTuke,url,https://rueckec.lol/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116692236684002982
 2026-06-04 13:04:05,KongTuke,url,https://rueckec.lol/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1822333/
 2026-06-04 13:04:08,KongTuke,url,https://rueckec.lol/file.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1822330/
-2026-06-04 05:16:34,Unknown malware,url,https://second-confirmation.top/m,#c2 #ClickFix #Loader,https://www.virustotal.com/gui/file/06e395ff22a7d11297168375628f446b8e11b7cf8ab5ee2a82ab8de1bc6faf5a
-2026-06-04 06:00:34,Vidar,url,https://set.canamrental.com/,#Vidar,https://threatfox.abuse.ch/ioc/1822172/
-2026-06-04 06:00:33,Vidar,url,https://set.dvlv88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1822170/
+2026-06-05 05:19:25,SmartApeSG,url,https://shadowcompass.top/public/acl-partial,#SmartApeSG,https://infosec.exchange/@monitorsg/116693416680076961
+2026-06-05 05:19:24,SmartApeSG,url,https://shadowcompass.top/public/token-json.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116693416680076961
+2026-06-05 05:10:51,Vidar,url,https://steamcommunity.com/profiles/76561198698223785/g75rit,#Vidar,https://bazaar.abuse.ch/sample/88f5b6c7f618471993adba7fbb008cb8e2cfc5ef811a5971bc6293ba7b921db3/
 2026-06-04 17:58:22,KongTuke,url,https://tiixeira.lol/m,#Kongtuke,https://bazaar.abuse.ch/sample/3591f7f0f6c977fb1a25ec33abbb79f88833e80573b134c717c1672645630a15/
 2026-06-04 13:04:06,SmartApeSG,url,https://vividtunnellab.top/public/acl-partial,#SmartApeSG,https://infosec.exchange/@monitorsg/116691531664213941
 2026-06-04 13:04:04,SmartApeSG,url,https://vividtunnellab.top/public/token-json.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116691531664213941
-2026-06-03 22:00:31,Vidar,url,https://web.canamrental.com/,#Vidar,https://threatfox.abuse.ch/ioc/1822050/
-2026-06-03 22:00:31,Vidar,url,https://web.duitsm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1822048/
-2026-06-04 08:40:12,AsyncRAT,url,https://wittylama.com/Stub.exe,,https://threatfox.abuse.ch/ioc/1822269/
+2026-06-04 22:00:32,Vidar,url,https://xmm.canamrent.com/,#Vidar,https://threatfox.abuse.ch/ioc/1822585/
+2026-06-04 22:00:31,Vidar,url,https://xmm.dvlv88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1822583/
+2026-06-05 00:24:41,Vidar,url,https://xmm.evosm188.top/,#ar3k0 #Vidar,https://threatfox.abuse.ch/ioc/1822608/
+2026-06-05 08:06:46,Berbew,url,https://zadelom.ru/auth/auth,#Berbew,https://threatfox.abuse.ch/ioc/1822719/
