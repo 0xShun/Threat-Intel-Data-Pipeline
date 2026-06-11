@@ -1,27 +1,29 @@
+2026-06-11 16:42:22,Unknown malware,url,http://104.234.18.91:3001/api/internal/log,#c2,https://www.vmray.com/analyses/_mb/9e514a2edc36/report/network.html
+2026-06-11 16:42:20,Unknown malware,url,http://104.234.18.91:3001/api/upload,#c2,https://www.vmray.com/analyses/_mb/9e514a2edc36/report/network.html
+2026-06-11 16:42:21,Unknown malware,url,http://104.234.18.91:3001/ws,#c2,https://www.vmray.com/analyses/_mb/9e514a2edc36/report/network.html
 2026-06-11 05:25:55,Stealc,url,http://151.243.18.28/4940cc4b5ddb4a2bb8f8.php,#c2 #dark #Loader #Stealc #stealer,https://threatfox.abuse.ch/ioc/1829974/
 2026-06-11 07:49:09,Unknown malware,url,http://154.198.50.76:8080/upload,,https://threatfox.abuse.ch/ioc/1830016/
 2026-06-11 05:25:52,Unknown malware,url,http://5.83.134.26/ssh,#honeypot,https://greedybear.honeynet.org
-2026-06-10 16:40:14,DCRat,url,http://a1143281.xsph.ru/fd99c1a0.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1829846/
-2026-06-10 16:40:17,DCRat,url,http://a1158594.xsph.ru/497e8ed4.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1829847/
-2026-06-10 17:40:53,Remus,url,http://daisyz.shop:4219,#Remus,https://bazaar.abuse.ch/sample/3d9ee40c6b7b67f193511b665d005945179f0d5a9870e8ecb4e4cef495213de6/
+2026-06-11 14:20:47,SmokeLoader,url,http://spasopro.at/index.php,#smokeloader,https://bazaar.abuse.ch/sample/fbb697f6ff25ac3ea01c7536945ec053406f2fdd30e802350a2c28fcb19672dd/
+2026-06-11 13:17:56,SmartApeSG,url,https://alabastermarket.top/role/health-json,#SmartApeSG,https://infosec.exchange/@monitorsg/116731645253835851
+2026-06-11 13:17:55,SmartApeSG,url,https://alabastermarket.top/role/redirect-html.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116731645253835851
 2026-06-10 23:24:41,Vidar,url,https://bat.gagahsm188.top/,#gr0u4 #Vidar,https://threatfox.abuse.ch/ioc/1829942/
 2026-06-10 23:24:53,Vidar,url,https://bat.glamisdunesrentals.com/,#gr0u4 #Vidar,https://threatfox.abuse.ch/ioc/1829944/
 2026-06-11 05:25:51,Unknown malware,url,https://bw-development.app/Antibot2,#ClickFix #Electron #github-releases #trojanized-app,https://www.virustotal.com/gui/file/13059a7cf8cc3820f5d36262c5f5d375465297a6fff8fcefc5fd8d520030ff96
-2026-06-10 16:24:26,KongTuke,url,https://captcha-code.lol/o,#Kongtuke,https://infosec.exchange/@monitorsg/116726437512709561
-2026-06-10 16:24:29,Unknown malware,url,https://carreobilder.com/vaetnwuiznatbkoa,#ClickFix,https://clickfix.carsonww.com/domains/carreobilder.com
+2026-06-11 12:00:49,Vidar,url,https://ffe.gasturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1830198/
+2026-06-11 12:00:49,Vidar,url,https://ffe.glamisdunesrentals.com/,#Vidar,https://threatfox.abuse.ch/ioc/1830200/
 2026-06-11 05:25:43,Unknown malware,url,https://ghukonhgf.com/api/,#ClickFix #Electron #remote-eval #trojanized-app,https://www.virustotal.com/gui/file/13059a7cf8cc3820f5d36262c5f5d375465297a6fff8fcefc5fd8d520030ff96
 2026-06-11 05:25:50,Unknown malware,url,https://github.com/hothehottest/Recaptcha-2/releases/download/Recaptcha-2/boost.zip,#ClickFix #Electron #github-releases #trojanized-app,https://www.virustotal.com/gui/file/13059a7cf8cc3820f5d36262c5f5d375465297a6fff8fcefc5fd8d520030ff96
-2026-06-10 18:24:40,Vidar,url,https://kik.gagahsm188.top/,#gr0u4 #Vidar,https://threatfox.abuse.ch/ioc/1829866/
-2026-06-10 18:24:52,Vidar,url,https://kik.glamisdunesrentals.com/,#gr0u4 #Vidar,https://threatfox.abuse.ch/ioc/1829868/
-2026-06-10 13:14:34,SmartApeSG,url,https://marblejunction.top/redirect/callback-effect.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116725963079422172
-2026-06-10 13:14:34,SmartApeSG,url,https://marblejunction.top/redirect/gateway-util,#SmartApeSG,https://infosec.exchange/@monitorsg/116725963079422172
-2026-06-10 13:14:33,SmartApeSG,url,https://marblejunction.top/redirect/middleware-validator.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116725963079422172
-2026-06-10 11:30:30,Vidar,url,https://sam.gagahsm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1829770/
-2026-06-10 11:30:31,Vidar,url,https://sam.glamisdunesrentals.com/,#Vidar,https://threatfox.abuse.ch/ioc/1829772/
-2026-06-10 16:24:29,Unknown malware,url,https://sharsaruba.com/,#ClickFix,https://clickfix.carsonww.com/domains/sharsaruba.com
+2026-06-11 16:24:51,Vidar,url,https://ox3.gasturbo88.top/,#gr0u4 #Vidar,https://threatfox.abuse.ch/ioc/1830351/
+2026-06-11 16:00:52,Vidar,url,https://ox3.glamisdunesrentals.com/,#Vidar,https://threatfox.abuse.ch/ioc/1830350/
+2026-06-11 16:42:28,SmartApeSG,url,https://saffronarchivehub.top/role/health-json,#SmartApeSG,https://infosec.exchange/@monitorsg/116731873205080120
+2026-06-11 16:42:29,SmartApeSG,url,https://saffronarchivehub.top/role/policy-sessionstore.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116731873205080120
+2026-06-11 16:42:27,SmartApeSG,url,https://saffronarchivehub.top/role/redirect-html.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116731873205080120
+2026-06-11 18:08:37,KongTuke,url,https://sartora.lol/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1830372/
+2026-06-11 18:08:38,KongTuke,url,https://sartora.lol/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1830373/
+2026-06-11 18:08:36,KongTuke,url,https://sartora.lol/file.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1830370/
+2026-06-11 14:20:49,SmokeLoader,url,https://spasopro.at/index.php,#smokeloader,https://bazaar.abuse.ch/sample/fbb697f6ff25ac3ea01c7536945ec053406f2fdd30e802350a2c28fcb19672dd/
 2026-06-11 05:24:45,Vidar,url,https://sup.gasturbo88.top/,#gr0u4 #Vidar,https://threatfox.abuse.ch/ioc/1829987/
-2026-06-10 16:24:28,KongTuke,url,https://vanderaeijden.lol/api/v1/session,#Kongtuke,https://infosec.exchange/@monitorsg/116726437512709561
-2026-06-10 16:24:27,KongTuke,url,https://vanderaeijden.lol/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116726437512709561
-2026-06-10 16:24:27,KongTuke,url,https://vanderaeijden.lol/api/v1/verify,#Kongtuke,https://infosec.exchange/@monitorsg/116726437512709561
-2026-06-10 16:24:29,KongTuke,url,https://vanderaeijden.lol/file.js,#Kongtuke,https://infosec.exchange/@monitorsg/116726437512709561
-2026-06-10 11:32:08,Unknown malware,url,https://www.mhsbm.gi/,#ClickFix,https://clickfix.carsonww.com/domains/www.mhsbm.gi
+2026-06-11 13:17:57,Unknown malware,url,https://testerha.com/,#ClickFix,https://clickfix.carsonww.com/domains/testerha.com
+2026-06-11 13:17:57,Unknown malware,url,https://thisismine.asia/,#ClickFix,https://clickfix.carsonww.com/domains/thisismine.asia
+2026-06-11 13:17:56,KongTuke,url,https://verif-code.lol/o,#Kongtuke,https://infosec.exchange/@monitorsg/116731405323143580

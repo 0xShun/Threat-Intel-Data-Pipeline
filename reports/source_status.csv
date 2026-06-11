@@ -1,7 +1,12 @@
 source,status,error
 virustotal,pending,
 abuseipdb,ok,
-otx,ok,
+otx,failed,"HTTP 502: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+</body>
+</html>"
 shodan,failed,"HTTP 403: {""error"": ""Requires membership or higher to access""}"
 urlhaus,ok,
 threatfox,ok,
