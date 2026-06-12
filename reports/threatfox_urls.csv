@@ -1,9 +1,6 @@
-2026-06-11 16:42:22,Unknown malware,url,http://104.234.18.91:3001/api/internal/log,#c2,https://www.vmray.com/analyses/_mb/9e514a2edc36/report/network.html
-2026-06-11 16:42:20,Unknown malware,url,http://104.234.18.91:3001/api/upload,#c2,https://www.vmray.com/analyses/_mb/9e514a2edc36/report/network.html
-2026-06-11 16:42:21,Unknown malware,url,http://104.234.18.91:3001/ws,#c2,https://www.vmray.com/analyses/_mb/9e514a2edc36/report/network.html
 2026-06-12 06:11:24,Unknown malware,url,http://5.83.134.26/z.sh,#honeypot,https://greedybear.honeynet.org
-2026-06-12 09:00:28,Unknown malware,url,http://94.183.232.247/Ciabins.sh,#honeypot,https://greedybear.honeynet.org
-2026-06-11 14:20:47,SmokeLoader,url,http://spasopro.at/index.php,#smokeloader,https://bazaar.abuse.ch/sample/fbb697f6ff25ac3ea01c7536945ec053406f2fdd30e802350a2c28fcb19672dd/
+2026-06-12 10:56:03,Unknown malware,url,http://94.183.232.247/Ciabins.sh,#honeypot,https://greedybear.honeynet.org
+2026-06-12 10:35:45,Remus,url,http://nostrendezvous.com:5789,#Remus,https://bazaar.abuse.ch/sample/c6dc62c4bad1c383518470c3156b4f38126b991450f050fb656d82db72d5c5a8/
 2026-06-12 08:24:39,Vidar,url,https://135.181.224.78/,#Vidar,https://threatfox.abuse.ch/ioc/1830665/
 2026-06-12 08:24:40,Vidar,url,https://167.233.39.81/,#Vidar,https://threatfox.abuse.ch/ioc/1830670/
 2026-06-12 08:24:40,Vidar,url,https://167.233.40.16/,#Vidar,https://threatfox.abuse.ch/ioc/1830666/
@@ -13,26 +10,30 @@
 2026-06-12 08:24:40,Vidar,url,https://46.224.173.3/,#Vidar,https://threatfox.abuse.ch/ioc/1830667/
 2026-06-12 08:24:40,Vidar,url,https://65.21.96.132/,#Vidar,https://threatfox.abuse.ch/ioc/1830668/
 2026-06-12 08:24:40,Vidar,url,https://65.21.96.134/,#Vidar,https://threatfox.abuse.ch/ioc/1830669/
-2026-06-11 13:17:56,SmartApeSG,url,https://alabastermarket.top/role/health-json,#SmartApeSG,https://infosec.exchange/@monitorsg/116731645253835851
-2026-06-11 13:17:55,SmartApeSG,url,https://alabastermarket.top/role/redirect-html.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116731645253835851
-2026-06-11 12:00:49,Vidar,url,https://ffe.gasturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1830198/
-2026-06-11 12:00:49,Vidar,url,https://ffe.glamisdunesrentals.com/,#Vidar,https://threatfox.abuse.ch/ioc/1830200/
+2026-06-12 17:30:22,Unknown malware,url,https://bge-visa.com/,#ClickFix,https://clickfix.carsonww.com/domains/bge-visa.com
+2026-06-12 16:12:17,SmartApeSG,url,https://bronzepavilion.top/signin/auth-json,#SmartApeSG,https://infosec.exchange/@monitorsg/116738004104101398
+2026-06-12 16:12:17,SmartApeSG,url,https://bronzepavilion.top/signin/route-script.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116738004104101398
+2026-06-12 15:24:41,Vidar,url,https://ggt.gerbongsm188.top/,#gr0u4 #Vidar,https://threatfox.abuse.ch/ioc/1831571/
+2026-06-12 15:24:53,Vidar,url,https://ggt.glamisrent.com/,#gr0u4 #Vidar,https://threatfox.abuse.ch/ioc/1831573/
 2026-06-12 06:11:29,KongTuke,url,https://jiminej.lol/api/v1/session,#Kongtuke,https://infosec.exchange/@monitorsg/116733276177032639
 2026-06-12 06:11:28,KongTuke,url,https://jiminej.lol/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116733276177032639
 2026-06-12 06:11:28,KongTuke,url,https://jiminej.lol/api/v1/verify,#Kongtuke,https://infosec.exchange/@monitorsg/116733276177032639
 2026-06-12 06:11:31,KongTuke,url,https://jiminej.lol/file.js,#Kongtuke,https://infosec.exchange/@monitorsg/116733276177032639
-2026-06-11 16:24:51,Vidar,url,https://ox3.gasturbo88.top/,#gr0u4 #Vidar,https://threatfox.abuse.ch/ioc/1830351/
-2026-06-11 16:00:52,Vidar,url,https://ox3.glamisdunesrentals.com/,#Vidar,https://threatfox.abuse.ch/ioc/1830350/
+2026-06-12 12:49:15,SmartApeSG,url,https://linenvoyage.top/signin/auth-json,#SmartApeSG,https://infosec.exchange/@monitorsg/116737060356279737
+2026-06-12 12:49:18,SmartApeSG,url,https://linenvoyage.top/signin/profile-parser.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116737060356279737
+2026-06-12 12:49:15,SmartApeSG,url,https://linenvoyage.top/signin/route-script.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116737060356279737
+2026-06-12 14:02:04,Unknown malware,url,https://misterslivker.asia/,#ClickFix,https://clickfix.carsonww.com/domains/misterslivker.asia
+2026-06-12 12:49:17,KongTuke,url,https://oliveiaa.icu/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1830883/
+2026-06-12 16:04:55,KongTuke,url,https://oliveiaa.icu/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116737701740565223
+2026-06-12 12:49:17,KongTuke,url,https://oliveiaa.icu/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1830884/
+2026-06-12 12:49:19,KongTuke,url,https://oliveiaa.icu/file.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1830881/
+2026-06-12 11:00:49,Vidar,url,https://puz.gerbongsm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1830866/
+2026-06-12 11:00:50,Vidar,url,https://puz.glamisrent.com/,#Vidar,https://threatfox.abuse.ch/ioc/1830868/
 2026-06-12 08:48:41,Unknown malware,url,https://riverbreezeintl.com/,#ClickFix,https://clickfix.carsonww.com/domains/riverbreezeintl.com
-2026-06-11 16:42:28,SmartApeSG,url,https://saffronarchivehub.top/role/health-json,#SmartApeSG,https://infosec.exchange/@monitorsg/116731873205080120
-2026-06-11 16:42:29,SmartApeSG,url,https://saffronarchivehub.top/role/policy-sessionstore.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116731873205080120
-2026-06-11 16:42:27,SmartApeSG,url,https://saffronarchivehub.top/role/redirect-html.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116731873205080120
 2026-06-12 06:11:31,KongTuke,url,https://sartora.lol/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1830372/
 2026-06-12 06:11:30,KongTuke,url,https://sartora.lol/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1830373/
 2026-06-12 06:11:32,KongTuke,url,https://sartora.lol/file.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1830370/
-2026-06-11 14:20:49,SmokeLoader,url,https://spasopro.at/index.php,#smokeloader,https://bazaar.abuse.ch/sample/fbb697f6ff25ac3ea01c7536945ec053406f2fdd30e802350a2c28fcb19672dd/
+2026-06-12 16:12:18,KongTuke,url,https://secure-code.lol/o,#Kongtuke,https://infosec.exchange/@monitorsg/116738002173093611
+2026-06-12 16:04:52,Unknown malware,url,https://slivkishow.asia/,#ClickFix,https://clickfix.carsonww.com/domains/slivkishow.asia
 2026-06-11 21:00:49,Vidar,url,https://srv.gasturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1830420/
 2026-06-11 21:00:49,Vidar,url,https://srv.glamisdunesrentals.com/,#Vidar,https://threatfox.abuse.ch/ioc/1830422/
-2026-06-11 13:17:57,Unknown malware,url,https://testerha.com/,#ClickFix,https://clickfix.carsonww.com/domains/testerha.com
-2026-06-11 13:17:57,Unknown malware,url,https://thisismine.asia/,#ClickFix,https://clickfix.carsonww.com/domains/thisismine.asia
-2026-06-11 13:17:56,KongTuke,url,https://verif-code.lol/o,#Kongtuke,https://infosec.exchange/@monitorsg/116731405323143580
