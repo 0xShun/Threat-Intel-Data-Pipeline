@@ -1,21 +1,327 @@
-2026-06-21 06:47:18,Mozi,url,http://110.36.86.0:55983/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/110.36.86.0
-2026-06-21 06:47:38,Mozi,url,http://110.38.254.172:58822/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/110.38.254.172
-2026-06-21 06:47:21,Mozi,url,http://110.39.255.247:35440/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/110.39.255.247
-2026-06-21 06:47:38,Mozi,url,http://119.73.19.131:53332/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/119.73.19.131
-2026-06-21 06:47:22,Mozi,url,http://153.117.15.86:42008/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.15.86
-2026-06-21 06:47:48,BeaverTail,url,http://198.105.127.210/,,https://threatfox.abuse.ch/ioc/1834486/
-2026-06-21 06:47:22,Mozi,url,http://223.123.42.235:41900/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/223.123.42.235
-2026-06-21 06:47:49,BeaverTail,url,http://23.27.13.43/,,https://threatfox.abuse.ch/ioc/1834485/
-2026-06-21 06:47:47,BeaverTail,url,http://23.27.202.27:27017/,,https://threatfox.abuse.ch/ioc/1834487/
-2026-06-21 06:47:26,RapidStealer,url,http://46.151.182.157:1337/api/discord,#RapidStealer,https://threatfox.abuse.ch/ioc/1834568/
-2026-06-21 06:47:30,RapidStealer,url,http://46.151.182.157:1337/api/ps,#RapidStealer,https://tria.ge/260620-yrwfvahs6p/behavioral2
-2026-06-21 06:47:28,RapidStealer,url,http://46.151.182.157:2008/api/forwarder,#c2 #RapidStealer,https://tria.ge/260620-yrwfvahs6p/behavioral2
-2026-06-21 06:47:28,RapidStealer,url,http://46.151.182.157:751/download,#RapidStealer,https://tria.ge/260620-yrwfvahs6p/behavioral2
-2026-06-21 06:47:39,Mozi,url,http://82.144.86.37:38207/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/82.144.86.37
-2026-06-21 06:47:22,Unknown malware,url,https://aidancollege.ac.ug/,#ClickFix,https://clickfix.carsonww.com/domains/aidancollege.ac.ug
-2026-06-21 06:47:31,KongTuke,url,https://almontm.xyz/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1834562/
-2026-06-21 06:47:32,KongTuke,url,https://almontm.xyz/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1834563/
-2026-06-20 18:42:08,KongTuke,url,https://almontm.xyz/file.js,,https://threatfox.abuse.ch/ioc/1834532/
-2026-06-20 23:53:01,ClearFake,url,https://cdn.jsdelivr.net/gh/savina-41/8a-96dfe89a4aa3/hum-id46,#ClearFake,https://threatfox.abuse.ch/ioc/1834582/
+2026-06-22 11:41:29,Unknown malware,url,http://109.107.172.164,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835645/
+2026-06-22 11:41:58,Unknown malware,url,http://144.31.181.38/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835801/
+2026-06-22 11:41:35,Unknown malware,url,http://144.31.219.13,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835676/
+2026-06-22 11:42:04,Unknown malware,url,http://144.31.57.67,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835826/
+2026-06-22 11:41:28,Unknown malware,url,http://146.103.113.235,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835643/
+2026-06-22 11:41:34,Unknown malware,url,http://151.243.113.15,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835673/
+2026-06-22 11:41:29,Unknown malware,url,http://176.46.158.51/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835646/
+2026-06-22 11:41:29,Unknown malware,url,http://176.46.158.52/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835648/
+2026-06-22 11:42:05,Unknown malware,url,http://185.10.68.98,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835829/
+2026-06-22 11:41:27,Unknown malware,url,http://185.125.50.26/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835638/
+2026-06-22 11:41:28,Unknown malware,url,http://185.170.153.173,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835641/
+2026-06-22 11:41:27,Unknown malware,url,http://185.170.153.239,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835640/
+2026-06-22 11:42:02,Unknown malware,url,http://185.199.199.159/api/endpoint.php,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835818/
+2026-06-21 21:55:41,Stealc,url,http://193.148.57.16/1109860002d645548e1b.php,#Stealc,https://bazaar.abuse.ch/sample/fdfaed3893bb2cf3ebd547c889e17c1e2f0b90208ecccc8591164bec41cfdb85/
+2026-06-22 11:41:29,Unknown malware,url,http://193.17.183.103/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835647/
+2026-06-22 11:41:28,Unknown malware,url,http://212.34.130.122:2727/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835644/
+2026-06-22 11:42:04,Unknown malware,url,http://212.34.142.111/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835824/
+2026-06-22 11:42:03,Unknown malware,url,http://213.176.72.204,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835822/
+2026-06-22 11:41:35,Unknown malware,url,http://213.176.72.209,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835677/
+2026-06-22 11:42:05,Unknown malware,url,http://213.176.73.139,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835827/
+2026-06-22 11:41:30,Unknown malware,url,http://31.172.80.212/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835650/
+2026-06-22 11:41:31,Unknown malware,url,http://45.149.235.146,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835656/
+2026-06-22 11:41:55,Unknown malware,url,http://45.155.69.156/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835778/
+2026-06-22 11:41:58,Unknown malware,url,http://45.82.13.83/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835800/
+2026-06-22 11:41:26,Unknown malware,url,http://77.105.164.45,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835637/
+2026-06-22 11:41:25,Unknown malware,url,http://77.238.246.40/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835633/
+2026-06-22 11:41:25,Unknown malware,url,http://77.239.114.101/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835635/
+2026-06-22 11:41:26,Unknown malware,url,http://77.239.114.102/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835636/
+2026-06-22 11:41:25,Unknown malware,url,http://77.239.114.108/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835634/
+2026-06-22 11:42:03,Unknown malware,url,http://78.40.209.225,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835821/
+2026-06-22 11:42:03,Unknown malware,url,http://84.21.189.135,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835820/
+2026-06-22 06:22:25,Unknown malware,url,http://85.120.255.35/ssh.sh,#honeypot,https://greedybear.honeynet.org
+2026-06-22 11:42:05,Unknown malware,url,http://85.137.52.21,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835828/
+2026-06-22 11:42:04,Unknown malware,url,http://89.169.12.140,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835825/
+2026-06-22 11:42:03,Unknown malware,url,http://89.169.12.160,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835823/
+2026-06-22 11:41:37,Unknown malware,url,http://89.169.12.173,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835691/
+2026-06-22 11:41:28,Unknown malware,url,http://91.196.33.38,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835642/
+2026-06-22 11:41:55,Unknown malware,url,http://91.92.240.204/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835777/
+2026-06-22 11:41:35,Unknown malware,url,http://93.123.39.246,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835675/
+2026-06-22 11:41:19,Unknown malware,url,http://avscan.info/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835614/
+2026-06-22 11:41:19,Unknown malware,url,http://blockchainlegion.duckdns,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835612/
+2026-06-22 11:41:19,Unknown malware,url,http://blockchainlegion.duckdns.org/api/point.php,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835613/
+2026-06-22 11:41:45,Unknown malware,url,http://bssapi.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835729/
+2026-06-22 11:41:24,Unknown malware,url,http://dev.clpcentr.world/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835626/
+2026-06-22 11:41:53,Unknown malware,url,http://dreff-nsdns.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835769/
+2026-06-22 11:41:36,Unknown malware,url,http://poygon-notifications.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835684/
+2026-06-22 07:16:18,Vidar,url,https://159.69.221.162/,#Vidar,https://threatfox.abuse.ch/ioc/1835410/
+2026-06-22 07:16:18,Vidar,url,https://167.233.112.191/,#Vidar,https://threatfox.abuse.ch/ioc/1835412/
+2026-06-22 07:16:17,Vidar,url,https://167.233.131.186/,#Vidar,https://threatfox.abuse.ch/ioc/1835407/
+2026-06-22 09:09:14,Vidar,url,https://167.233.132.8/,#Vidar,https://threatfox.abuse.ch/ioc/1835534/
+2026-06-22 07:16:18,Vidar,url,https://178.104.113.24/,#Vidar,https://threatfox.abuse.ch/ioc/1835411/
+2026-06-22 07:16:18,Vidar,url,https://178.104.255.247/,#Vidar,https://threatfox.abuse.ch/ioc/1835409/
+2026-06-22 11:41:30,Unknown malware,url,https://185.157.212.223,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835651/
+2026-06-22 06:25:51,Vidar,url,https://192.177.26.222,#Vidar,https://bazaar.abuse.ch/sample/2736f5de45c8f90998998de0ce2db18fd182df2532350c2c7a162985e2703415/
+2026-06-22 11:41:37,Unknown malware,url,https://2fa-cp.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835690/
+2026-06-22 11:41:42,Unknown malware,url,https://2fa-cp.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835708/
+2026-06-22 11:41:31,Unknown malware,url,https://2no.co/logo5484.ico,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835659/
+2026-06-22 07:16:17,Vidar,url,https://46.224.16.213/,#Vidar,https://threatfox.abuse.ch/ioc/1835405/
+2026-06-22 07:16:17,Vidar,url,https://46.62.226.239/,#Vidar,https://threatfox.abuse.ch/ioc/1835406/
+2026-06-22 09:09:14,Vidar,url,https://5.75.221.125/,#Vidar,https://threatfox.abuse.ch/ioc/1835532/
+2026-06-22 08:29:18,Vidar,url,https://65.109.246.92/,#Vidar,https://threatfox.abuse.ch/ioc/1835472/
+2026-06-22 08:29:19,Vidar,url,https://91.98.100.19/,#Vidar,https://threatfox.abuse.ch/ioc/1835478/
+2026-06-22 08:29:19,Vidar,url,https://91.98.105.63/,#Vidar,https://threatfox.abuse.ch/ioc/1835474/
+2026-06-22 08:29:19,Vidar,url,https://91.98.106.140/,#Vidar,https://threatfox.abuse.ch/ioc/1835475/
+2026-06-22 09:09:14,Vidar,url,https://91.98.109.24/,#Vidar,https://threatfox.abuse.ch/ioc/1835533/
+2026-06-22 08:29:19,Vidar,url,https://91.98.96.126/,#Vidar,https://threatfox.abuse.ch/ioc/1835473/
+2026-06-22 08:29:19,Vidar,url,https://91.98.99.76/,#Vidar,https://threatfox.abuse.ch/ioc/1835477/
+2026-06-22 07:16:18,Vidar,url,https://91.99.3.169/,#Vidar,https://threatfox.abuse.ch/ioc/1835408/
+2026-06-22 11:41:27,Unknown malware,url,https://95.164.53.153,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835639/
+2026-06-22 08:29:19,Vidar,url,https://95.217.244.13/,#Vidar,https://threatfox.abuse.ch/ioc/1835476/
+2026-06-22 08:29:19,Vidar,url,https://95.217.244.189/,#Vidar,https://threatfox.abuse.ch/ioc/1835479/
+2026-06-22 11:41:46,Unknown malware,url,https://ai-nexora.sbs,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835735/
+2026-06-22 11:41:54,Unknown malware,url,https://api-imager-host.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835771/
+2026-06-22 11:41:44,Unknown malware,url,https://asefwe.myvnc.com,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835720/
+2026-06-22 11:41:24,Unknown malware,url,https://autapigame2025.xyz/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835628/
+2026-06-22 11:41:19,Unknown malware,url,https://avscan.info/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835615/
+2026-06-22 11:41:21,Unknown malware,url,"https://avscan.info/,https://example2.com/,https://example3.com/",#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835616/
+2026-06-22 11:41:49,Unknown malware,url,https://bacloudserver.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835749/
+2026-06-22 11:41:54,Unknown malware,url,https://bbdsnssserver.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835774/
+2026-06-22 11:41:57,Unknown malware,url,https://bcncdncl-ns.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835790/
+2026-06-22 11:41:51,Unknown malware,url,https://bedcdnset.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835756/
+2026-06-22 11:41:36,Unknown malware,url,https://berlof.shop/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835682/
+2026-06-22 11:41:55,Unknown malware,url,https://best-claudns-js.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835780/
+2026-06-22 11:41:47,Unknown malware,url,https://bigsmart.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835740/
+2026-06-22 11:41:59,Unknown malware,url,https://biyaconserver.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835802/
+2026-06-22 11:41:35,Unknown malware,url,https://bootstrap-css-framework.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835678/
+2026-06-22 11:41:55,Unknown malware,url,https://bootstrup-cdn-ns.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835779/
+2026-06-22 11:41:45,Unknown malware,url,https://bssapi.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835730/
+2026-06-22 11:41:37,Unknown malware,url,https://captcha-cds.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835692/
+2026-06-22 11:41:42,Unknown malware,url,https://captcha-cds.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835707/
+2026-06-22 11:41:47,Unknown malware,url,https://cdn-2faclov.sbs,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835737/
+2026-06-22 11:41:40,Unknown malware,url,https://cdn-clodflare-fotns.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835700/
+2026-06-22 11:41:42,Unknown malware,url,https://cdn-js-conhost.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835710/
+2026-06-22 11:41:38,Unknown malware,url,https://cdn-js-conhost.icu/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835696/
+2026-06-22 11:41:36,Unknown malware,url,https://cdn-server-styles.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835686/
+2026-06-22 11:41:42,Unknown malware,url,https://cdn-server-styles.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835712/
+2026-06-22 11:41:45,Unknown malware,url,https://cdn-server.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835728/
+2026-06-22 11:41:43,Unknown malware,url,https://cdn-server.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835714/
+2026-06-22 11:41:57,Unknown malware,url,https://cdn-yethounds.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835794/
+2026-06-22 04:27:17,ClearFake,url,https://cdn.jsdelivr.net/gh/savina-41/4240-98d7-bc2c@main/fe3b,#ClearFake,https://threatfox.abuse.ch/ioc/1835365/
 2026-06-21 12:25:28,ClearFake,url,https://cdn.jsdelivr.net/gh/savina-41/d846-4abc/id-7843,#ClearFake,https://threatfox.abuse.ch/ioc/1834779/
+2026-06-22 04:24:47,ClearFake,url,https://cdn.jsdelivr.net/gh/savina-41/r4240-98d7-bc2c@main/fe3b,#ClearFake,https://threatfox.abuse.ch/ioc/1835364/
+2026-06-22 11:41:51,Unknown malware,url,https://cdnjsdelivr.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835757/
+2026-06-22 11:41:57,Unknown malware,url,https://cgfuryclaud.shop,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835791/
+2026-06-22 11:41:58,Unknown malware,url,https://chekbrow.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835798/
+2026-06-22 07:16:17,Vidar,url,https://cht.hitamsm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1835403/
+2026-06-22 07:16:17,Vidar,url,https://cht.utvrent.com/,#Vidar,https://threatfox.abuse.ch/ioc/1835404/
+2026-06-22 11:41:56,Unknown malware,url,https://clip-stash.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835785/
+2026-06-22 11:41:54,Unknown malware,url,https://clnsdns.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835775/
+2026-06-22 11:41:39,Unknown malware,url,https://cloud-safe.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835698/
+2026-06-22 11:41:43,Unknown malware,url,https://cloud-safe.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835718/
+2026-06-22 11:41:30,Unknown malware,url,https://clpcentr.world,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835649/
+2026-06-22 11:41:25,Unknown malware,url,https://clpuanmeserver.shop/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835632/
+2026-06-22 11:41:33,Unknown malware,url,https://clpuanmeserver.shop/log.php,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835665/
+2026-06-22 11:41:33,Unknown malware,url,https://clpuanmeserver.shop/rpc.php,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835666/
+2026-06-22 11:41:24,Unknown malware,url,https://clpuserabcserver.xyz/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835627/
+2026-06-22 11:41:23,Unknown malware,url,https://clpusserver.xyz/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835625/
+2026-06-22 11:42:01,Unknown malware,url,https://code-verification-js.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835814/
+2026-06-22 11:42:01,Unknown malware,url,https://codecerification.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835815/
+2026-06-22 11:42:01,Unknown malware,url,https://dark-strong.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835816/
+2026-06-22 11:41:38,Unknown malware,url,https://dev-js-cdn.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835694/
+2026-06-22 11:41:24,Unknown malware,url,https://dev.clpcentr.world/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835630/
+2026-06-22 11:41:33,Unknown malware,url,https://download.cpuid.com/cpu-z/cpu-z_2.17-en.exe,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835667/
+2026-06-22 11:41:53,Unknown malware,url,https://dreff-nsdns.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835770/
+2026-06-22 11:41:23,Unknown malware,url,https://esdfg34tg34gfggg34g34g34g.com/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835624/
+2026-06-22 11:42:00,Unknown malware,url,https://ethercdnns.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835809/
+2026-06-22 11:41:21,Unknown malware,url,"https://exagdfhrthgrthrthmple2.com/,https://ex45y45h45hhample3.com/",#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835618/
+2026-06-22 11:41:21,Unknown malware,url,"https://exam4hgh5656566hple2.com/,https://examg54g54g54gple3.com/",#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835617/
+2026-06-22 11:41:21,Unknown malware,url,"https://examdfgdfgdfggdfple2.com/,https://exasdfggegergregmple3.com/",#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835619/
+2026-06-22 11:41:23,Unknown malware,url,"https://examg54g45g54gple2.com/,https://avscan.info/,https://examrdsfg54ertgretgple3.com/",#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835623/
+2026-06-22 11:41:22,Unknown malware,url,"https://examg54g45g54gple2.com/,https://examrdsfg54ertgretgple3.com/,https://avscan.info/",#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835620/
+2026-06-22 11:41:22,Unknown malware,url,"https://examg54g45g54gple2.com/,https://examrdsfg54ertgretgple3.com/,https://www.avscan.info/",#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835622/
+2026-06-22 11:41:31,Unknown malware,url,https://ezstat.ru/1vXRw5,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835658/
+2026-06-22 11:41:36,Unknown malware,url,https://ferlik.shop/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835683/
+2026-06-22 11:41:44,Unknown malware,url,https://firazit.com/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835719/
+2026-06-22 11:41:39,Unknown malware,url,https://fontawesome-cdn.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835699/
+2026-06-22 11:41:36,Unknown malware,url,https://fontawesome-framework.sbs/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835688/
+2026-06-22 11:41:49,Unknown malware,url,https://fontawesome-js-ico.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835747/
+2026-06-22 11:41:39,Unknown malware,url,https://fonts-fontawesome.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835697/
+2026-06-22 11:41:48,Unknown malware,url,https://fonts25-save.sbs,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835745/
+2026-06-22 11:42:00,Unknown malware,url,https://framework-css-styles-js.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835810/
+2026-06-22 11:41:53,Unknown malware,url,https://ghdnsserverns.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835765/
+2026-06-22 10:00:26,Vidar,url,https://gwe.hitamsm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1835579/
+2026-06-22 10:00:27,Vidar,url,https://gwe.utvrent.com/,#Vidar,https://threatfox.abuse.ch/ioc/1835581/
+2026-06-22 11:41:49,Unknown malware,url,https://hylqpinportal.com/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835751/
+2026-06-22 11:42:01,Unknown malware,url,https://idverification-code.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835817/
+2026-06-22 11:41:48,Unknown malware,url,https://image-fonts-awesomeserver.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835744/
+2026-06-22 11:41:45,Unknown malware,url,https://image-hoster11.sbs,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835725/
+2026-06-22 11:41:38,Unknown malware,url,https://img-cdn-cloud.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835695/
+2026-06-22 11:41:41,Unknown malware,url,https://img-cdn-cloud.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835705/
+2026-06-22 11:41:59,Unknown malware,url,https://inst-bi.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835804/
+2026-06-22 11:41:34,Unknown malware,url,https://iplogger.co/1jpf05,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835671/
+2026-06-22 11:41:31,Unknown malware,url,https://iplogger.co/1v8Rw5,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835657/
+2026-06-22 11:41:34,Unknown malware,url,https://iplogger.com/1X3mH4,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835674/
+2026-06-22 11:41:36,Unknown malware,url,https://iplogger.com/RNG7Y7,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835687/
+2026-06-22 11:41:48,Unknown malware,url,https://istile-c-cloud.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835746/
+2026-06-22 06:46:32,Unknown malware,url,https://itecau.com.au/,#ClickFix,https://clickfix.carsonww.com/domains/itecau.com.au
+2026-06-22 11:41:53,Unknown malware,url,https://js-server.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835766/
+2026-06-22 11:41:54,Unknown malware,url,https://jsframeworkns.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835773/
+2026-06-22 11:41:52,Unknown malware,url,https://l3cdnns.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835761/
+2026-06-22 11:41:50,Unknown malware,url,https://lasthauszver.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835755/
+2026-06-22 11:41:46,Unknown malware,url,https://llc-image-ico.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835733/
+2026-06-22 11:41:50,Unknown malware,url,https://localcloudcss.sbs,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835753/
+2026-06-22 11:41:59,Unknown malware,url,https://lsikjsns.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835805/
+2026-06-22 11:41:59,Unknown malware,url,https://lskannsserv.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835807/
+2026-06-22 11:41:54,Unknown malware,url,https://lsnsdns.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835772/
+2026-06-22 11:41:47,Unknown malware,url,https://lstyle-sdn.sbs,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835739/
+2026-06-22 11:41:48,Unknown malware,url,https://lvlensourgat.sbs,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835742/
+2026-06-22 11:41:50,Unknown malware,url,https://macerapindasi.com/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835752/
 2026-06-21 13:05:17,AMOS,url,https://macos.certificates.ltd/apple/macos/installation/terminal/launcher,#Amos #AtomicStealer #ClickFix #Cthulhu #macOS #stealer,https://threatfox.abuse.ch/ioc/1834776/
+2026-06-22 11:41:53,Unknown malware,url,https://mainrist.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835767/
+2026-06-22 11:41:56,Unknown malware,url,https://mikelle.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835784/
+2026-06-22 11:41:31,Unknown malware,url,https://minecraft65server.3utilities.com,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835653/
+2026-06-22 11:41:24,Unknown malware,url,https://minecraftserverapigame.xyz/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835629/
+2026-06-22 11:41:46,Unknown malware,url,https://mrllvd.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835734/
+2026-06-22 11:41:41,Unknown malware,url,https://nascdn-js.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835706/
+2026-06-22 11:41:35,Unknown malware,url,https://nascdn-js.life/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835681/
+2026-06-22 11:41:47,Unknown malware,url,https://networksolutionson.sbs,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835741/
+2026-06-22 11:41:59,Unknown malware,url,https://npanssltejs.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835803/
+2026-06-22 11:41:58,Unknown malware,url,https://nsbdnscloud.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835797/
+2026-06-22 11:41:57,Unknown malware,url,https://nslsconscloud.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835795/
+2026-06-22 11:41:45,Unknown malware,url,https://nstv-css-styles-19.sbs,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835727/
+2026-06-22 11:41:54,Unknown malware,url,https://ntsnsdns.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835776/
+2026-06-22 11:41:49,Unknown malware,url,https://opserver-styles-svg.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835748/
+2026-06-22 11:41:51,Unknown malware,url,https://pastebin.com/raw/myvh5TTa,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835760/
+2026-06-22 11:41:30,Unknown malware,url,https://pastebin.com/raw/p1GBF379,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835652/
+2026-06-22 11:41:25,Unknown malware,url,https://pastebin.com/raw/ugtPeGd0,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835631/
+2026-06-22 11:41:36,Unknown malware,url,https://poygon-notifications.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835685/
+2026-06-22 11:41:42,Unknown malware,url,https://poygon-notifications.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835711/
+2026-06-22 11:41:56,Unknown malware,url,https://remotesh.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835783/
+2026-06-22 11:41:55,Unknown malware,url,https://remoteshcontrol.com,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835782/
+2026-06-22 11:41:55,Unknown malware,url,https://remoteshields.com,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835781/
+2026-06-22 11:41:45,Unknown malware,url,https://restapiserv.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835726/
+2026-06-22 11:41:49,Unknown malware,url,https://rpc-cloud.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835750/
+2026-06-22 11:41:38,Unknown malware,url,https://rpc-framework-check.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835693/
+2026-06-22 11:41:43,Unknown malware,url,https://rpc-framework-check.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835717/
+2026-06-22 11:41:46,Unknown malware,url,https://rpc-polygon.beer/api,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835732/
+2026-06-22 11:41:33,Unknown malware,url,https://ru.download.nvidia.com/Windows/581.57/581.57-desktop-win10-win11-64bit-international-dch-whql.exe,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835669/
+2026-06-22 11:41:51,Unknown malware,url,https://sdhscndnssl.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835758/
+2026-06-22 11:41:40,Unknown malware,url,https://sdn-cloudflare-js-botstrup.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835701/
+2026-06-22 11:41:41,Unknown malware,url,https://sdn-cloudflare-js-css.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835703/
+2026-06-22 11:41:42,Unknown malware,url,https://sdn-cloudflare-js-css.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835709/
+2026-06-22 11:41:40,Unknown malware,url,https://sdn-cloudflare-js.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835702/
+2026-06-22 11:41:51,Unknown malware,url,https://sdnssmdf-js.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835759/
+2026-06-22 09:06:51,Unknown malware,url,https://seedgoc.com/,#ClickFix,https://clickfix.carsonww.com/domains/seedgoc.com
+2026-06-22 09:31:38,Unknown malware,url,https://server-ke436.com/,#ClickFix,https://clickfix.carsonww.com/domains/server-ke436.com
+2026-06-22 11:41:41,Unknown malware,url,https://servupdt.com/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835704/
+2026-06-22 09:31:41,Unknown malware,url,https://shanghaiwangqing.com/,#ClickFix,https://clickfix.carsonww.com/domains/shanghaiwangqing.com
+2026-06-22 11:41:59,Unknown malware,url,https://shssshdscn.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835806/
+2026-06-22 09:31:39,Unknown malware,url,https://silanavi.com/,#ClickFix,https://clickfix.carsonww.com/domains/silanavi.com
+2026-06-22 11:41:52,Unknown malware,url,https://siteamnsserv.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835762/
+2026-06-22 11:41:34,Unknown malware,url,https://skr.sh/vYMZ8HWGID6,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835670/
+2026-06-22 11:41:52,Unknown malware,url,https://smnsdns.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835763/
+2026-06-22 11:41:58,Unknown malware,url,https://smtnscerver.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835799/
+2026-06-22 11:41:43,Unknown malware,url,https://softdoska.ru/storage/utorrent/utweb_installer.exe,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835716/
+2026-06-22 09:31:40,Unknown malware,url,https://sskfhospital.com/,#ClickFix,https://clickfix.carsonww.com/domains/sskfhospital.com
+2026-06-22 11:41:57,Unknown malware,url,https://sssndns.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835792/
+2026-06-22 07:16:17,Vidar,url,https://steamcommunity.com/profiles/76561198684471717,#Vidar,https://threatfox.abuse.ch/ioc/1835401/
+2026-06-22 07:49:46,Unknown malware,url,https://stephanygill.com/,#ClickFix,https://clickfix.carsonww.com/domains/stephanygill.com
+2026-06-22 09:31:43,Unknown malware,url,https://stichtingunityvibes.nl/,#ClickFix,https://clickfix.carsonww.com/domains/stichtingunityvibes.nl
+2026-06-22 09:31:46,Unknown malware,url,https://stonecraftfabrication.com/,#ClickFix,https://clickfix.carsonww.com/domains/stonecraftfabrication.com
+2026-06-22 11:41:46,Unknown malware,url,https://store-image.sbs,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835731/
+2026-06-22 11:41:44,Unknown malware,url,https://store-image.shop,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835723/
+2026-06-22 11:41:44,Unknown malware,url,https://str-smcontrcats.cfd,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835722/
+2026-06-22 09:31:42,Unknown malware,url,https://sttechnologie.com/,#ClickFix,https://clickfix.carsonww.com/domains/sttechnologie.com
+2026-06-22 11:41:37,Unknown malware,url,https://styles-get-img.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835689/
+2026-06-22 07:49:46,Unknown malware,url,https://suancescup.com/,#ClickFix,https://clickfix.carsonww.com/domains/suancescup.com
+2026-06-22 11:42:00,Unknown malware,url,https://svs-verificationdate.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835812/
+2026-06-22 11:41:44,Unknown malware,url,https://tag.testhotdomain.com,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835721/
+2026-06-22 09:31:42,Unknown malware,url,https://techco.ec/,#ClickFix,https://clickfix.carsonww.com/domains/techco.ec
+2026-06-22 07:16:17,Vidar,url,https://telegram.me/t0mdr,#Vidar,https://threatfox.abuse.ch/ioc/1835402/
+2026-06-22 09:31:43,Unknown malware,url,https://test-flight.de/,#ClickFix,https://clickfix.carsonww.com/domains/test-flight.de
+2026-06-22 11:41:57,Unknown malware,url,https://testerlau.lat,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835789/
+2026-06-22 11:41:31,Unknown malware,url,https://testhostrouter.onthewifi.com,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835655/
+2026-06-22 11:41:31,Unknown malware,url,https://testsoryy.hopto.org,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835654/
+2026-06-22 09:31:45,Unknown malware,url,https://thefaithlifeclub.org/,#ClickFix,https://clickfix.carsonww.com/domains/thefaithlifeclub.org
+2026-06-22 07:49:45,Unknown malware,url,https://theglobalskillshub.com/,#ClickFix,https://clickfix.carsonww.com/domains/theglobalskillshub.com
+2026-06-22 09:06:42,Unknown malware,url,https://thelightdevelopers.com/,#ClickFix,https://clickfix.carsonww.com/domains/thelightdevelopers.com
+2026-06-22 09:06:30,Unknown malware,url,https://theloanbar.co/,#ClickFix,https://clickfix.carsonww.com/domains/theloanbar.co
+2026-06-22 09:31:38,Unknown malware,url,https://thequadtec.com/,#ClickFix,https://clickfix.carsonww.com/domains/thequadtec.com
+2026-06-22 10:30:56,Unknown malware,url,https://thesagevibe.com/,#ClickFix,https://clickfix.carsonww.com/domains/thesagevibe.com
+2026-06-22 09:06:41,Unknown malware,url,https://thesq.in/,#ClickFix,https://clickfix.carsonww.com/domains/thesq.in
+2026-06-22 09:06:42,Unknown malware,url,https://tienda.lapapadulce.cl/,#ClickFix,https://clickfix.carsonww.com/domains/tienda.lapapadulce.cl
+2026-06-22 09:06:49,Unknown malware,url,https://traillecaribbean.com/,#ClickFix,https://clickfix.carsonww.com/domains/traillecaribbean.com
+2026-06-22 09:06:52,Unknown malware,url,https://triplords.in/,#ClickFix,https://clickfix.carsonww.com/domains/triplords.in
+2026-06-22 09:06:51,Unknown malware,url,https://ubytovani-hlohovec.cz/,#ClickFix,https://clickfix.carsonww.com/domains/ubytovani-hlohovec.cz
+2026-06-22 11:41:32,Unknown malware,url,https://updates.tdesktop.com/tsetup/tsetup.6.2.2.exe,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835664/
+2026-06-22 11:41:34,Unknown malware,url,https://updates.tdesktop.com/tsetup/tsetup.6.3.6.exe,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835672/
+2026-06-22 11:41:43,Unknown malware,url,https://updates.tdesktop.com/tsetup/tsetup.6.5.0.exe,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835713/
+2026-06-22 11:41:53,Unknown malware,url,https://updtruam.club,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835768/
+2026-06-22 09:06:46,Unknown malware,url,https://ur-schlecker.de/,#ClickFix,https://clickfix.carsonww.com/domains/ur-schlecker.de
+2026-06-22 09:06:47,Unknown malware,url,https://ushiroyama-koumuten.com/,#ClickFix,https://clickfix.carsonww.com/domains/ushiroyama-koumuten.com
+2026-06-22 11:41:44,Unknown malware,url,https://vaer-cdn-3.sbs,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835724/
+2026-06-22 09:06:46,Unknown malware,url,https://vaerdi.fr/,#ClickFix,https://clickfix.carsonww.com/domains/vaerdi.fr
+2026-06-22 11:41:48,Unknown malware,url,https://vblbs.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835743/
+2026-06-22 11:41:52,Unknown malware,url,https://vdsinatest.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835764/
+2026-06-22 09:06:46,Unknown malware,url,https://veducationservices.com/,#ClickFix,https://clickfix.carsonww.com/domains/veducationservices.com
+2026-06-22 09:06:41,Unknown malware,url,https://velazquezdrywall515.com/,#ClickFix,https://clickfix.carsonww.com/domains/velazquezdrywall515.com
+2026-06-22 11:42:00,Unknown malware,url,https://verification-code-js.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835813/
+2026-06-22 11:42:00,Unknown malware,url,https://verification-js-cdn.boats,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835811/
+2026-06-22 09:31:37,Unknown malware,url,https://vetenim.site/,#ClickFix,https://clickfix.carsonww.com/domains/vetenim.site
+2026-06-22 11:41:58,Unknown malware,url,https://visual-ns-portal.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835796/
+2026-06-22 10:30:57,Unknown malware,url,https://vitimadetransito.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/vitimadetransito.com.br
+2026-06-22 11:41:57,Unknown malware,url,https://vnmdnns.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835793/
+2026-06-22 11:41:32,Unknown malware,url,https://vpn.protondownload.com/download/ProtonVPN_v4.3.4_x64.exe,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835661/
+2026-06-22 09:06:48,Unknown malware,url,https://wandaspeaks.com/,#ClickFix,https://clickfix.carsonww.com/domains/wandaspeaks.com
+2026-06-22 09:06:50,Unknown malware,url,https://warriorsoftorah.com/,#ClickFix,https://clickfix.carsonww.com/domains/warriorsoftorah.com
+2026-06-22 11:41:56,Unknown malware,url,https://web-protection.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835788/
+2026-06-22 11:41:56,Unknown malware,url,https://web-safe.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835786/
+2026-06-22 11:41:56,Unknown malware,url,https://webflare.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835787/
+2026-06-22 09:31:39,Unknown malware,url,https://window-cleaner.uk/,#ClickFix,https://clickfix.carsonww.com/domains/window-cleaner.uk
+2026-06-22 11:41:47,Unknown malware,url,https://winecdn.sbs,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835736/
+2026-06-22 11:41:35,Unknown malware,url,https://winupdate.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835679/
+2026-06-22 11:41:35,Unknown malware,url,https://winupdateconf.cfd/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835680/
+2026-06-22 11:41:47,Unknown malware,url,https://wldsc-api-cloud.click,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835738/
+2026-06-22 11:41:50,Unknown malware,url,https://workcdnmass.beer,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835754/
+2026-06-22 09:31:39,Unknown malware,url,https://www.alma2019-int.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.alma2019-int.com
+2026-06-22 09:06:49,Unknown malware,url,https://www.andrewyoungkim.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.andrewyoungkim.com
+2026-06-22 09:06:23,Unknown malware,url,https://www.angryfox.it/,#ClickFix,https://clickfix.carsonww.com/domains/www.angryfox.it
+2026-06-22 09:06:22,Unknown malware,url,https://www.animaroc.ma/,#ClickFix,https://clickfix.carsonww.com/domains/www.animaroc.ma
+2026-06-22 11:41:22,Unknown malware,url,https://www.avscan.info/,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835621/
+2026-06-22 09:06:23,Unknown malware,url,https://www.comtecdev.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.comtecdev.com
+2026-06-22 09:06:21,Unknown malware,url,https://www.dciinteriors.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.dciinteriors.com
+2026-06-22 09:06:26,Unknown malware,url,https://www.egkart.co.in/,#ClickFix,https://clickfix.carsonww.com/domains/www.egkart.co.in
+2026-06-22 09:06:23,Unknown malware,url,https://www.erciyesenerji.com.tr/,#ClickFix,https://clickfix.carsonww.com/domains/www.erciyesenerji.com.tr
+2026-06-22 09:06:27,Unknown malware,url,https://www.estatelaw.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.estatelaw.com
+2026-06-22 09:06:25,Unknown malware,url,https://www.eurohub.store/,#ClickFix,https://clickfix.carsonww.com/domains/www.eurohub.store
+2026-06-22 11:41:32,Unknown malware,url,https://www.faststone.org/DN/FSViewerSetup81.exe,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835663/
+2026-06-22 11:41:43,Unknown malware,url,https://www.faststone.org/DN/FSViewerSetup83.exe,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835715/
+2026-06-22 09:06:28,Unknown malware,url,https://www.fillerwholesale.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.fillerwholesale.com
+2026-06-22 09:06:25,Unknown malware,url,https://www.fithe.es/,#ClickFix,https://clickfix.carsonww.com/domains/www.fithe.es
+2026-06-22 09:06:29,Unknown malware,url,https://www.gilles-hossepied.fr/,#ClickFix,https://clickfix.carsonww.com/domains/www.gilles-hossepied.fr
+2026-06-22 09:06:30,Unknown malware,url,https://www.gtrecording.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.gtrecording.com
+2026-06-22 09:06:28,Unknown malware,url,https://www.inside-thebox.fr/,#ClickFix,https://clickfix.carsonww.com/domains/www.inside-thebox.fr
+2026-06-22 09:06:26,Unknown malware,url,https://www.jatka.org/,#ClickFix,https://clickfix.carsonww.com/domains/www.jatka.org
+2026-06-22 09:06:29,Unknown malware,url,https://www.kotelvceneplynu.cz/,#ClickFix,https://clickfix.carsonww.com/domains/www.kotelvceneplynu.cz
+2026-06-22 09:06:31,Unknown malware,url,https://www.labormed.biz/,#ClickFix,https://clickfix.carsonww.com/domains/www.labormed.biz
+2026-06-22 09:06:31,Unknown malware,url,https://www.luppolovers.it/,#ClickFix,https://clickfix.carsonww.com/domains/www.luppolovers.it
+2026-06-22 09:06:30,Unknown malware,url,https://www.manuelav.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.manuelav.com
+2026-06-22 09:06:28,Unknown malware,url,https://www.mediamanova.se/,#ClickFix,https://clickfix.carsonww.com/domains/www.mediamanova.se
+2026-06-22 09:06:24,Unknown malware,url,https://www.mistersawmill.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.mistersawmill.com
+2026-06-22 09:06:17,Unknown malware,url,https://www.mudanzasalcorcon.es/,#ClickFix,https://clickfix.carsonww.com/domains/www.mudanzasalcorcon.es
+2026-06-22 09:31:37,Unknown malware,url,https://www.pentaconsultant.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/www.pentaconsultant.co.uk
+2026-06-22 09:06:18,Unknown malware,url,https://www.penzionzemianskydvor.sk/,#ClickFix,https://clickfix.carsonww.com/domains/www.penzionzemianskydvor.sk
+2026-06-22 10:30:57,Unknown malware,url,https://www.petektemizligifiyatlari.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.petektemizligifiyatlari.com
+2026-06-22 09:06:20,Unknown malware,url,https://www.phonerep.se/,#ClickFix,https://clickfix.carsonww.com/domains/www.phonerep.se
+2026-06-22 09:06:18,Unknown malware,url,https://www.poeles-granules-manosque.fr/,#ClickFix,https://clickfix.carsonww.com/domains/www.poeles-granules-manosque.fr
+2026-06-22 09:06:14,Unknown malware,url,https://www.rzeczoznawcaklama.pl/,#ClickFix,https://clickfix.carsonww.com/domains/www.rzeczoznawcaklama.pl
+2026-06-22 10:30:58,Unknown malware,url,https://www.seesingit.nl/,#ClickFix,https://clickfix.carsonww.com/domains/www.seesingit.nl
+2026-06-22 09:06:14,Unknown malware,url,https://www.septondespositives.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.septondespositives.com
+2026-06-22 09:06:16,Unknown malware,url,https://www.simbioseproxectos.gal/,#ClickFix,https://clickfix.carsonww.com/domains/www.simbioseproxectos.gal
+2026-06-22 11:41:32,Unknown malware,url,https://www.slo.ru/storage/hwinfo/hwi64_830.exe,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835662/
+2026-06-22 10:30:58,Unknown malware,url,https://www.sokolmarefy.cz/,#ClickFix,https://clickfix.carsonww.com/domains/www.sokolmarefy.cz
+2026-06-22 09:06:13,Unknown malware,url,https://www.spclvtflooring.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.spclvtflooring.com
+2026-06-22 09:06:17,Unknown malware,url,https://www.startupnewsindia.in/,#ClickFix,https://clickfix.carsonww.com/domains/www.startupnewsindia.in
+2026-06-22 09:06:16,Unknown malware,url,https://www.techsaeein.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.techsaeein.com
+2026-06-22 09:06:16,Unknown malware,url,https://www.themoore-group.net/,#ClickFix,https://clickfix.carsonww.com/domains/www.themoore-group.net
+2026-06-22 09:06:21,Unknown malware,url,https://www.thetimesbusiness.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.thetimesbusiness.com
+2026-06-22 09:06:20,Unknown malware,url,https://www.vlumber.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.vlumber.com
+2026-06-22 11:41:32,Unknown malware,url,https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713ru.exe,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835660/
+2026-06-22 11:41:33,Unknown malware,url,https://www.xmedia-recode.de/download/XMediaRecode3619_x64_setup.exe,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835668/
+2026-06-22 11:42:00,Unknown malware,url,https://xdavnode.pro,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835808/
+2026-06-22 09:06:19,Unknown malware,url,https://xlxlux.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/xlxlux.com.br
+2026-06-22 09:06:15,Unknown malware,url,https://xn--72cf4ba3a3f6bcbb8a5rsa7c.com/,#ClickFix,https://clickfix.carsonww.com/domains/xn--72cf4ba3a3f6bcbb8a5rsa7c.com
+2026-06-22 09:06:13,Unknown malware,url,https://xn--normobariachrzstw-vyb35a.pl/,#ClickFix,https://clickfix.carsonww.com/domains/xn--normobariachrzstw-vyb35a.pl
+2026-06-22 11:42:03,Unknown malware,url,https://yoginth.com/pfp.png,#dead-drop-c2 #polygon-deaddrop #SmartLoader #SmartLoader-MaaS,https://threatfox.abuse.ch/ioc/1835819/
+2026-06-22 09:06:12,Unknown malware,url,https://youthfulstudio.com/,#ClickFix,https://clickfix.carsonww.com/domains/youthfulstudio.com
