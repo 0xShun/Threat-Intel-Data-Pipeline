@@ -1,10 +1,9 @@
-2026-06-28 15:15:53,Cobalt Strike,url,http://103.146.231.107:80/DFne,#CobaltStrike,https://bazaar.abuse.ch/sample/536a20ad2c2de578288f060adba7ce718ca8b4ad3e9111e6e461dd482bd34cc8/
 2026-06-29 05:53:52,Mozi,url,http://103.176.16.92:42446/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.176.16.92
 2026-06-29 06:43:57,Mozi,url,http://103.213.112.214:49082/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.213.112.214
 2026-06-29 06:43:58,Mozi,url,http://103.26.86.217:52895/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.26.86.217
-2026-06-28 13:07:08,Mozi,url,http://153.117.41.29:45738/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.41.29
-2026-06-28 13:07:08,Mozi,url,http://175.107.208.203:48676/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/175.107.208.203
-2026-06-28 13:10:43,Remus,url,http://lawofi.xyz:7538,#Remus,https://bazaar.abuse.ch/sample/bb9433e362bc054482b4dda309b67271b0de66bd4facb5370d2c48c3a2f69b17/
+2026-06-29 15:50:30,Unknown malware,url,http://31.56.48.179:666/.mconf,#container-escape #credential-harvest #cryptojacking #cve-2026-31431 #docker #teampcp #TeamTNT,https://stateoftheattack.com/campaign/scattershell-teampcp-v21
+2026-06-29 15:50:30,Unknown malware,url,http://31.56.48.179:666/.real_mnd,#container-escape #credential-harvest #cryptojacking #cve-2026-31431 #docker #teampcp #TeamTNT,https://stateoftheattack.com/campaign/scattershell-teampcp-v21
+2026-06-29 15:50:30,Unknown malware,url,http://31.56.48.179:666/w,#container-escape #credential-harvest #cryptojacking #cve-2026-31431 #docker #teampcp #TeamTNT,https://stateoftheattack.com/campaign/scattershell-teampcp-v21
 2026-06-29 09:44:44,Vidar,url,https://167.233.114.81/,#Vidar,https://threatfox.abuse.ch/ioc/1839206/
 2026-06-29 09:44:44,Vidar,url,https://167.233.193.229/,#Vidar,https://threatfox.abuse.ch/ioc/1839208/
 2026-06-29 09:44:44,Vidar,url,https://167.233.198.35/,#Vidar,https://threatfox.abuse.ch/ioc/1839210/
@@ -16,25 +15,39 @@
 2026-06-29 05:53:56,Unknown malware,url,https://3king.live/,#ClickFix,https://clickfix.carsonww.com/domains/3king.live
 2026-06-29 09:44:44,Vidar,url,https://77.42.88.66/,#Vidar,https://threatfox.abuse.ch/ioc/1839205/
 2026-06-29 09:44:44,Vidar,url,https://91.98.87.85/,#Vidar,https://threatfox.abuse.ch/ioc/1839209/
+2026-06-29 17:10:49,KongTuke,url,https://ackeamann.xyz/api/v1/session,#Kongtuke,https://infosec.exchange/@monitorsg/116834503395473857
+2026-06-29 17:10:50,KongTuke,url,https://ackeamann.xyz/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116834503395473857
+2026-06-29 17:10:49,KongTuke,url,https://ackeamann.xyz/api/v1/verify,#Kongtuke,https://infosec.exchange/@monitorsg/116834503395473857
+2026-06-29 17:10:47,KongTuke,url,https://ackeamann.xyz/file.js,#Kongtuke,https://infosec.exchange/@monitorsg/116834503395473857
 2026-06-29 06:43:55,Unknown malware,url,https://aheadsupport.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/aheadsupport.co.uk
-2026-06-28 13:07:10,Unknown malware,url,https://bibliorock.lol/,#ClickFix,https://clickfix.carsonww.com/domains/bibliorock.lol
-2026-06-28 14:37:58,Unknown malware,url,https://citrusocarpetscleaning.com/,#ClickFix,https://clickfix.carsonww.com/domains/citrusocarpetscleaning.com
-2026-06-28 11:15:02,Vidar,url,https://engr-salahuddin.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1838761/
+2026-06-29 12:38:11,Unknown malware,url,https://alphakey.ae/,#ClickFix,https://clickfix.carsonww.com/domains/alphakey.ae
+2026-06-29 14:02:09,KongTuke,url,https://bogisibh.xyz/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116833554053336427
+2026-06-29 16:25:35,Vidar,url,https://bom.jangkarsm188.top/,#gw3n9 #Vidar,https://threatfox.abuse.ch/ioc/1839901/
+2026-06-29 16:25:47,Vidar,url,https://bom.psgiran.news/,#gw3n9 #Vidar,https://threatfox.abuse.ch/ioc/1839903/
+2026-06-29 14:25:39,Vidar,url,https://c1d.jangkarsm188.top/,#gw3n9 #Vidar,https://threatfox.abuse.ch/ioc/1839842/
+2026-06-29 14:25:51,Vidar,url,https://c1d.psgiran.news/,#gw3n9 #Vidar,https://threatfox.abuse.ch/ioc/1839844/
+2026-06-29 13:15:02,Vidar,url,https://caribe-lawyers.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1839257/
+2026-06-29 12:38:09,Unknown malware,url,https://crown-seema.com/,#ClickFix,https://clickfix.carsonww.com/domains/crown-seema.com
+2026-06-29 13:39:37,ClearFake,url,https://devltd.top/flomowk2.zip,#ClearFake #ClickFix #ErrTraffic #etherhiding,https://threatfox.abuse.ch/ioc/1839472/
 2026-06-29 09:44:42,Vidar,url,https://fog.jangkarsm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1839198/
 2026-06-29 09:44:43,Vidar,url,https://fog.psgiran.news/,#Vidar,https://threatfox.abuse.ch/ioc/1839201/
 2026-06-29 05:53:53,Unknown malware,url,https://genova.com.vn/,#ClickFix,https://clickfix.carsonww.com/domains/genova.com.vn
-2026-06-28 11:15:03,Vidar,url,https://geurtuin.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1838762/
-2026-06-28 14:38:00,Unknown malware,url,https://geurtuin.com/?doing_wp_cron=1782651363.9469881057739257812500,#ClickFix,https://clickfix.carsonww.com/domains/geurtuin.com
+2026-06-29 15:17:16,Unknown malware,url,https://ghoster.com.br/vendas-ghoster/,#ClickFix,https://clickfix.carsonww.com/domains/ghoster.com.br
 2026-06-29 09:44:43,Vidar,url,https://gpy.jangkarsm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1839199/
 2026-06-29 09:44:43,Vidar,url,https://gpy.psgiran.news/,#Vidar,https://threatfox.abuse.ch/ioc/1839202/
 2026-06-29 09:44:43,Vidar,url,https://iii.jangkarsm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1839200/
 2026-06-29 09:44:43,Vidar,url,https://iii.psgiran.news/,#Vidar,https://threatfox.abuse.ch/ioc/1839203/
+2026-06-29 17:01:03,Unknown malware,url,https://isabeladandaro.com.br/diagnostico-de-honorarios-convite/?src=Org_Site&utm_source=Org&utm_medium=Site&utm_content=&utm_campaign=&utm_term=,#ClickFix,https://clickfix.carsonww.com/domains/isabeladandaro.com.br
+2026-06-29 11:15:03,Vidar,url,https://jasyn.kz/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1839236/
 2026-06-29 10:00:19,Vidar,url,https://jiy.jangkarsm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1839232/
 2026-06-29 10:00:21,Vidar,url,https://jiy.psgiran.news/,#Vidar,https://threatfox.abuse.ch/ioc/1839234/
-2026-06-28 13:07:10,Unknown malware,url,https://memshowblob.forum/,#ClickFix,https://clickfix.carsonww.com/domains/memshowblob.forum
-2026-06-28 13:07:09,Unknown malware,url,https://mistertwister.sale/,#ClickFix,https://clickfix.carsonww.com/domains/mistertwister.sale
 2026-06-29 07:24:11,ClearFake,url,https://rpc-cloud.beer/api/,#ClearFake #ClickFix #etherhiding #Polygon #stealer,https://threatfox.abuse.ch/ioc/1839081/
 2026-06-29 09:44:42,Vidar,url,https://steamcommunity.com/profiles/76561198680197300,#Vidar,https://threatfox.abuse.ch/ioc/1839196/
+2026-06-29 13:37:34,ClearFake,url,https://steamcommunity.com/profiles/76561198719385745,#ClearFake #ClickFix #ErrTraffic #etherhiding,https://threatfox.abuse.ch/ioc/1839431/
+2026-06-29 14:02:09,KongTuke,url,https://synccert7665.com/update/package,#Kongtuke,https://infosec.exchange/@monitorsg/116833554053336427
 2026-06-29 09:44:42,Vidar,url,https://telegram.me/af97ri,#Vidar,https://threatfox.abuse.ch/ioc/1839197/
+2026-06-29 13:37:36,ClearFake,url,https://telegram.me/nwwfh8,#ClearFake #ClickFix #ErrTraffic #etherhiding,https://threatfox.abuse.ch/ioc/1839432/
 2026-06-29 05:53:54,Unknown malware,url,https://vacante-ieftine.ro/,#ClickFix,https://clickfix.carsonww.com/domains/vacante-ieftine.ro
 2026-06-28 21:15:03,Vidar,url,https://vihangamyoga.org/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1838806/
+2026-06-29 17:01:03,Unknown malware,url,https://www.ibogainerapiddetox.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.ibogainerapiddetox.com
+2026-06-29 12:38:08,Unknown malware,url,https://www.sosolidworld.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.sosolidworld.com
