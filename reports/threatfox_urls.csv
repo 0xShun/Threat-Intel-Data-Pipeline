@@ -1,35 +1,30 @@
-2026-07-10 03:15:48,Cobalt Strike,url,http://158.178.230.77:7443/3Jms,#CobaltStrike,https://bazaar.abuse.ch/sample/c35055499d7bf39198746a21bac07fb902e6307818898d6f961f3fdddaff5bde/
-2026-07-10 03:10:30,ValleyRAT,url,http://18.163.217.102/getinstall64,#RAT #ValleyRAT,https://threatfox.abuse.ch/ioc/1847871/
-2026-07-10 00:35:36,Cobalt Strike,url,http://62.234.54.51:443/DCqe,#CobaltStrike,https://bazaar.abuse.ch/sample/41bfb4bb51823fd994d0f34504be227ea6367c9506bb99ca0f1bef6968fd7fba/
-2026-07-10 00:35:37,Cobalt Strike,url,http://62.234.54.51:443/ga.js,#CobaltStrike,https://bazaar.abuse.ch/sample/41bfb4bb51823fd994d0f34504be227ea6367c9506bb99ca0f1bef6968fd7fba/
+2026-07-11 03:40:04,Pony,url,http://bonneli.rs/tmp/coreserver/gate.php,#Pony,https://threatfox.abuse.ch/ioc/1848442/
 2026-07-10 16:20:07,DCRat,url,http://cw212153.tw1.ru/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1848213/
 2026-07-10 13:00:58,Remus,url,http://geminyw.xyz:5003,#Remus,https://bazaar.abuse.ch/sample/ae887a7346ca3547c459962ff760fda8b221c16d96fcde758422586fe7a886e3/
-2026-07-10 07:50:03,Loki Password Stealer (PWS),url,http://techfonet.com/pw/Panel/five/fre.php,#Loki,https://threatfox.abuse.ch/ioc/1847930/
-2026-07-10 03:10:03,Houdini,url,http://wagosinga.ydns.eu:7045/is-ready,#RAT #WSHRAT,https://threatfox.abuse.ch/ioc/1847862/
+2026-07-11 05:29:31,NetSupportManager RAT,url,http://us-addnewdevice.com/Vzj72DFgvUe1Psg5,#ClickFix #cloudflare-r2 #Emmenhtal #iex-irm #NetSupport,https://www.virustotal.com/gui/file/4ef9bef04dc4ae1d85773c78249f02f739efcea500ee644e9e200c44340049c2
 2026-07-10 13:27:05,Vidar,url,https://bdm.kencangsm188.top/,#mp44s1 #Vidar,https://threatfox.abuse.ch/ioc/1848061/
 2026-07-10 13:27:18,Vidar,url,https://bdm.omni-signage.com/,#mp44s1 #Vidar,https://threatfox.abuse.ch/ioc/1848063/
-2026-07-10 05:26:57,Vidar,url,https://cft.kencangsm188.top/,#mp44s1 #Vidar,https://threatfox.abuse.ch/ioc/1847898/
-2026-07-10 05:27:09,Vidar,url,https://cft.omni-signage.com/,#mp44s1 #Vidar,https://threatfox.abuse.ch/ioc/1847900/
-2026-07-10 16:09:34,KongTuke,url,https://cloudupdate8155.com/update/package,#Kongtuke,https://infosec.exchange/@monitorsg/116896548010280712
+2026-07-11 05:29:56,KongTuke,url,https://cloudupdate8155.com/update/package,#Kongtuke,https://infosec.exchange/@monitorsg/116896548010280712
 2026-07-10 09:26:51,Vidar,url,https://dup.kencangsm188.top/,#mp44s1 #Vidar,https://threatfox.abuse.ch/ioc/1847949/
 2026-07-10 09:27:03,Vidar,url,https://dup.omni-signage.com/,#mp44s1 #Vidar,https://threatfox.abuse.ch/ioc/1847951/
+2026-07-11 05:15:03,Vidar,url,https://inoxarreda.it/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1848467/
 2026-07-10 12:19:04,KongTuke,url,https://leconto.lol/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1848028/
-2026-07-10 16:09:33,KongTuke,url,https://leconto.lol/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116896548010280712
+2026-07-11 05:29:57,KongTuke,url,https://leconto.lol/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116896548010280712
 2026-07-10 12:19:03,KongTuke,url,https://leconto.lol/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1848029/
 2026-07-10 12:19:06,KongTuke,url,https://leconto.lol/file.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1848026/
-2026-07-09 19:59:07,Satacom,url,https://littleforlot.com/nfront.php,#LegionLoader,https://bazaar.abuse.ch/sample/595e3d46169a51dcf93d15690d34508726729c6f6cdfec88b5e366070934537d/
 2026-07-10 12:19:02,SmartApeSG,url,https://marblehaven.top/claims/identity-render.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116895597480308088
 2026-07-10 12:19:03,SmartApeSG,url,https://marblehaven.top/claims/profile-view,#SmartApeSG,https://infosec.exchange/@monitorsg/116895597480308088
-2026-07-10 18:09:38,SmartApeSG,url,https://marblehaven.top/claims/refresh-cookie.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116897020394129394
-2026-07-10 16:53:46,Unknown malware,url,https://pub-73d9654eeb344c8db5408c750d655c66.r2.dev/Financial%20Transcript.vbs,#action1 #Loader #r2dev #rmm #vbs,https://www.virustotal.com/gui/file/0becac3708194f61f084acf35602644f8cef1bcb33a7bbdebbd96b0d1888bda3
-2026-07-10 16:53:46,Unknown malware,url,https://pub-b42d42acf73b4e5887636c7e58ea9500.r2.dev/msi/8724661604/20260706_033518_c703143c.msi,#action1 #Loader #r2dev #rmm #vbs,https://www.virustotal.com/gui/file/0becac3708194f61f084acf35602644f8cef1bcb33a7bbdebbd96b0d1888bda3
+2026-07-11 05:29:51,SmartApeSG,url,https://marblehaven.top/claims/refresh-cookie.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116897020394129394
+2026-07-11 05:29:46,Unknown malware,url,https://pub-73d9654eeb344c8db5408c750d655c66.r2.dev/Financial%20Transcript.vbs,#action1 #Loader #r2dev #rmm #vbs,https://www.virustotal.com/gui/file/0becac3708194f61f084acf35602644f8cef1bcb33a7bbdebbd96b0d1888bda3
+2026-07-11 05:29:45,Unknown malware,url,https://pub-b42d42acf73b4e5887636c7e58ea9500.r2.dev/msi/8724661604/20260706_033518_c703143c.msi,#action1 #Loader #r2dev #rmm #vbs,https://www.virustotal.com/gui/file/0becac3708194f61f084acf35602644f8cef1bcb33a7bbdebbd96b0d1888bda3
+2026-07-11 05:29:32,NetSupportManager RAT,url,https://pub-f2969eb764264a9280dffa75e6803e93.r2.dev/setup.msi,#ClickFix #cloudflare-r2 #Emmenhtal #iex-irm #NetSupport,https://www.virustotal.com/gui/file/4ef9bef04dc4ae1d85773c78249f02f739efcea500ee644e9e200c44340049c2
 2026-07-10 12:05:02,SmartApeSG,url,https://silverlandscape.top/claims/identity-render.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116895356240020720
 2026-07-10 12:05:02,SmartApeSG,url,https://silverlandscape.top/claims/profile-view,#SmartApeSG,https://infosec.exchange/@monitorsg/116895356240020720
 2026-07-10 12:05:03,SmartApeSG,url,https://silverlandscape.top/claims/refresh-cookie.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116895356240020720
-2026-07-09 21:00:11,Vidar,url,https://tbs.kataksm188.top/,#Vidar,https://threatfox.abuse.ch/ioc/1847774/
-2026-07-09 21:00:12,Vidar,url,https://tbs.omni-signage.com/,#Vidar,https://threatfox.abuse.ch/ioc/1847776/
-2026-07-10 18:09:22,KongTuke,url,https://thibahlt.lol/api/v1/session,#Kongtuke,https://infosec.exchange/@monitorsg/116897019304455048
-2026-07-10 18:09:23,KongTuke,url,https://thibahlt.lol/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116897019304455048
-2026-07-10 18:09:23,KongTuke,url,https://thibahlt.lol/api/v1/verify,#Kongtuke,https://infosec.exchange/@monitorsg/116897019304455048
-2026-07-10 18:09:20,KongTuke,url,https://thibahlt.lol/file.js,#Kongtuke,https://infosec.exchange/@monitorsg/116897019304455048
-2026-07-10 04:15:02,Vidar,url,https://vikingplaza.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1847884/
+2026-07-11 01:15:03,Vidar,url,https://tecnoibrid.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1848414/
+2026-07-11 05:29:53,KongTuke,url,https://thibahlt.lol/api/v1/session,#Kongtuke,https://infosec.exchange/@monitorsg/116897019304455048
+2026-07-11 05:29:52,KongTuke,url,https://thibahlt.lol/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116897019304455048
+2026-07-11 05:29:52,KongTuke,url,https://thibahlt.lol/api/v1/verify,#Kongtuke,https://infosec.exchange/@monitorsg/116897019304455048
+2026-07-11 05:29:54,KongTuke,url,https://thibahlt.lol/file.js,#Kongtuke,https://infosec.exchange/@monitorsg/116897019304455048
+2026-07-11 05:29:32,NetSupportManager RAT,url,https://us-addnewdevice.com/dl-callback/peevmnpz-psenf5s7-927uja3p-uey4ex9n/setup.msi/e5cdedc2f6f167f2bf343a5bb57aa7f6,#ClickFix #cloudflare-r2 #Emmenhtal #iex-irm #NetSupport,https://www.virustotal.com/gui/file/4ef9bef04dc4ae1d85773c78249f02f739efcea500ee644e9e200c44340049c2
+2026-07-11 03:15:02,Vidar,url,https://vivekanandapu-edu.in/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1848434/
