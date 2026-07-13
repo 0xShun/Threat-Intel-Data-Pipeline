@@ -1,17 +1,23 @@
-2026-07-12 11:40:24,Unknown malware,url,http://130.162.240.8:7317/api/hvnc/register,#317Stealer #c2,https://www.virustotal.com/gui/file/5832cb09caa91d3f3205b32b8f9fb13b9c8d79521bab33738b5f66c62f7e11cb/relations
-2026-07-12 11:40:24,Unknown malware,url,http://130.162.240.8:7317/api/register,#317Stealer #c2,https://www.virustotal.com/gui/file/5832cb09caa91d3f3205b32b8f9fb13b9c8d79521bab33738b5f66c62f7e11cb/relations
+2026-07-13 16:42:06,Unknown malware,url,http://45.61.187.50:50001/data.php,#credential-stealer #CVE-2026-10795 #EXFILTRATION #UpdraftPlus #WordPress,https://threatfox.abuse.ch/ioc/1849782/
 2026-07-12 19:45:40,Stealc,url,http://87.120.104.81/d19ca32cb5a444ac8b87.php,#Stealc,https://bazaar.abuse.ch/sample/2206ca98d1c523aa6b5fc27efd7918a596be8be6b0e8e64861977a4bc69a8d84/
 2026-07-13 01:30:12,ValleyRAT,url,http://95.40.222.37/getinstall64,#RAT #ValleyRAT,https://threatfox.abuse.ch/ioc/1849189/
 2026-07-13 01:16:19,Triada,url,http://apk.gbwhat.pro/GBWhatsApp_2.23.9.490_gw_08_09_1510_sec_sign.apk,#Android #apk #GBWhatsApp #Triada,https://threatfox.abuse.ch/ioc/1849182/
+2026-07-13 14:17:20,Kinsing,url,http://oracle.zzhreceive.top/b2f628/b.sh,#b2f628 #cryptojacking #redis #Shell,https://threatfox.abuse.ch/ioc/1849750/
+2026-07-13 14:17:21,Kinsing,url,http://s.na-cs.com/b2f628/b.sh,#b2f628 #cron #cryptojacking #redis #Shell,https://threatfox.abuse.ch/ioc/1849748/
+2026-07-13 14:17:20,Kinsing,url,http://s.na-cs.com/t.sh,#b2f628 #cron #cryptojacking #redis #Shell,https://threatfox.abuse.ch/ioc/1849749/
 2026-07-12 21:01:06,Remus,url,http://tzpx.courses:4437,#Remus,https://bazaar.abuse.ch/sample/5e815731f67cb070fb1b31272c45bd7f4ecd4a408cbbc68a9545bafc3292d72c/
-2026-07-12 17:15:04,Vidar,url,https://alumnofprojects.co.il/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1849042/
-2026-07-12 13:46:24,Unknown malware,url,https://cbsnews.date/tgv/RandApp,#ClickFix,https://threatfox.abuse.ch/ioc/1849001/
+2026-07-13 16:55:50,Remus,url,http://zelpx.garden:9895,#Remus,https://bazaar.abuse.ch/sample/0b845b890586407658a6bfcb1030b32be641760120e304bdf372a835ca5d77a4/
+2026-07-13 11:50:51,Vidar,url,https://69.164.253.21,#Vidar,https://bazaar.abuse.ch/sample/3b328b13d6925bb86cfa46b58586530dd14e6f0f627ec92a1f14ef162d5712ec/
 2026-07-13 06:00:06,Triada,url,https://cdn.gbwhatsapp.download/app/android/conf/gb_wakeup.json,#AlexMods #Android #GBWhatsApp,https://tria.ge/260712-xp8gysfx5m
 2026-07-13 06:00:07,Triada,url,https://drive.google.com/uc?export=download&id=1HcFfTSeJ59rLIfby_DJTz0sLYvQV_a7T,#AlexMods #Android #GBWhatsApp,https://tria.ge/260712-xp8gysfx5m
-2026-07-12 17:15:04,Vidar,url,https://ewbn.org/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1849041/
 2026-07-13 06:00:15,Triada,url,https://gbwaaplus.com/,#AlexMods #Android #GBWhatsApp #Triada,https://tria.ge/260712-xp8gysfx5m
 2026-07-13 06:00:15,Triada,url,https://gbwaaplus.com/download/,#AlexMods #Android #GBWhatsApp #Triada,https://tria.ge/260712-xp8gysfx5m
 2026-07-13 06:00:24,Unknown Stealer,url,https://irahook.com/get/config,#CuteCraft #Downloader #IRAHook #jar #java #minecraft #stealer,https://threatfox.abuse.ch/ioc/1849168/
 2026-07-13 06:00:24,Unknown Stealer,url,https://irahook.com/mods/api/log-download,#CuteCraft #Downloader #IRAHook #jar #java #minecraft #stealer,https://threatfox.abuse.ch/ioc/1849169/
-2026-07-12 18:15:03,Vidar,url,https://ironcladsportfishing.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1849055/
+2026-07-13 13:44:32,SmartApeSG,url,https://jadeworkshop.top/router/handler-asset.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116912346615212268
+2026-07-13 16:42:19,SmartApeSG,url,https://jadeworkshop.top/router/user-thread.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116913291339916771
+2026-07-13 13:44:34,SmartApeSG,url,https://jadeworkshop.top/router/verify-build,#SmartApeSG,https://infosec.exchange/@monitorsg/116912346615212268
+2026-07-13 16:42:02,KongTuke,url,https://schuctz.click/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1849795/
+2026-07-13 16:42:02,KongTuke,url,https://schuctz.click/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1849796/
+2026-07-13 16:42:04,KongTuke,url,https://schuctz.click/b345t329.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1849793/
 2026-07-13 06:00:07,Triada,url,https://www.whatsplus.online/gbwhatsapp.apk,#AlexMods #Android #GBWhatsApp,https://tria.ge/260712-xp8gysfx5m
