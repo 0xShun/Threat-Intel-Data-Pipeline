@@ -1,29 +1,35 @@
 2026-07-13 20:49:48,Unknown malware,url,http://159.65.201.180/hGkBCsBr/Full%20AES.pyw,#ClickFix #Clipper #pyAdmin2 #python-rat,https://threatfox.abuse.ch/ioc/1849953/
 2026-07-13 20:49:50,Unknown malware,url,http://159.65.201.180/verify/request.vbs,#ClickFix #Clipper #pyAdmin2 #python-rat,https://threatfox.abuse.ch/ioc/1849952/
+2026-07-14 17:33:32,Unknown malware,url,http://162.249.125.141/garm,#aussie #botnet #DDoS #garm #Jackskid #Mirai #rctea,https://threatfox.abuse.ch/ioc/1850651/
+2026-07-14 17:33:32,Unknown malware,url,http://162.249.125.141/garm5,#aussie #botnet #DDoS #garm #Jackskid #Mirai #rctea,https://threatfox.abuse.ch/ioc/1850652/
+2026-07-14 17:33:33,Unknown malware,url,http://162.249.125.141/garm7,#aussie #botnet #DDoS #garm #Jackskid #Mirai #rctea,https://threatfox.abuse.ch/ioc/1850653/
 2026-07-14 05:30:27,Unknown RAT,url,http://44.223.110.247:1337/?p=,#IRAHook,https://threatfox.abuse.ch/ioc/1850061/
 2026-07-14 05:30:27,Unknown RAT,url,http://44.223.110.247:1337/babayla/zor/yarisirlar/,#IRAHook,https://threatfox.abuse.ch/ioc/1850060/
 2026-07-14 05:30:29,Unknown RAT,url,http://44.223.110.247:1337/get/config,#IRAHook,https://threatfox.abuse.ch/ioc/1850058/
 2026-07-14 05:30:29,Unknown RAT,url,http://44.223.110.247:1337/mods/api/log-download,#IRAHook,https://threatfox.abuse.ch/ioc/1850059/
-2026-07-13 16:42:06,Unknown malware,url,http://45.61.187.50:50001/data.php,#credential-stealer #CVE-2026-10795 #EXFILTRATION #UpdraftPlus #WordPress,https://threatfox.abuse.ch/ioc/1849782/
-2026-07-13 14:17:20,Kinsing,url,http://oracle.zzhreceive.top/b2f628/b.sh,#b2f628 #cryptojacking #redis #Shell,https://threatfox.abuse.ch/ioc/1849750/
-2026-07-13 14:17:21,Kinsing,url,http://s.na-cs.com/b2f628/b.sh,#b2f628 #cron #cryptojacking #redis #Shell,https://threatfox.abuse.ch/ioc/1849748/
-2026-07-13 14:17:20,Kinsing,url,http://s.na-cs.com/t.sh,#b2f628 #cron #cryptojacking #redis #Shell,https://threatfox.abuse.ch/ioc/1849749/
-2026-07-13 16:55:50,Remus,url,http://zelpx.garden:9895,#Remus,https://bazaar.abuse.ch/sample/0b845b890586407658a6bfcb1030b32be641760120e304bdf372a835ca5d77a4/
-2026-07-13 11:50:51,Vidar,url,https://69.164.253.21,#Vidar,https://bazaar.abuse.ch/sample/3b328b13d6925bb86cfa46b58586530dd14e6f0f627ec92a1f14ef162d5712ec/
+2026-07-14 10:14:11,SmartApeSG,url,https://alabastercompass.top/public/refresh-cookie,#SmartApeSG,https://infosec.exchange/@monitorsg/116917791791831321
+2026-07-14 10:14:10,SmartApeSG,url,https://alabastercompass.top/public/throttle-sandbox.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116917791791831321
 2026-07-14 02:15:02,Vidar,url,https://freememusic.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1850086/
+2026-07-14 16:11:51,SmartApeSG,url,https://hazelcitadel.top/public/callback-stylesheet.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116919201106040865
+2026-07-14 14:11:37,SmartApeSG,url,https://hazelcitadel.top/public/refresh-cookie,#SmartApeSG,https://infosec.exchange/@monitorsg/116918251455503699
+2026-07-14 14:11:36,SmartApeSG,url,https://hazelcitadel.top/public/throttle-sandbox.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116918251455503699
 2026-07-14 05:30:30,Unknown RAT,url,https://irahook.com/?p=,#IRAHook,https://threatfox.abuse.ch/ioc/1850055/
 2026-07-14 05:30:30,Unknown RAT,url,https://irahook.com/babayla/zor/yarisirlar/,#IRAHook,https://threatfox.abuse.ch/ioc/1850054/
-2026-07-13 13:44:32,SmartApeSG,url,https://jadeworkshop.top/router/handler-asset.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116912346615212268
-2026-07-13 16:42:19,SmartApeSG,url,https://jadeworkshop.top/router/user-thread.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116913291339916771
-2026-07-13 13:44:34,SmartApeSG,url,https://jadeworkshop.top/router/verify-build,#SmartApeSG,https://infosec.exchange/@monitorsg/116912346615212268
 2026-07-13 20:49:35,SmartApeSG,url,https://moonlitprovince.top/router/handler-asset.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116914478797091715
 2026-07-13 20:49:36,SmartApeSG,url,https://moonlitprovince.top/router/verify-build,#SmartApeSG,https://infosec.exchange/@monitorsg/116914478797091715
+2026-07-14 14:11:32,KongTuke,url,https://ritchie.click/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1850276/
+2026-07-14 15:12:31,KongTuke,url,https://ritchie.click/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116918961825303965
+2026-07-14 14:11:32,KongTuke,url,https://ritchie.click/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1850277/
+2026-07-14 14:11:33,KongTuke,url,https://ritchie.click/cymfok8e.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850274/
+2026-07-14 15:12:31,KongTuke,url,https://ritchie.click/u4irfqiu.js,#Kongtuke,https://infosec.exchange/@monitorsg/116918961825303965
 2026-07-14 05:30:25,KongTuke,url,https://schuctz.click/2xfae91q.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850119/
-2026-07-13 16:42:02,KongTuke,url,https://schuctz.click/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1849795/
-2026-07-13 16:42:02,KongTuke,url,https://schuctz.click/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1849796/
-2026-07-13 16:42:04,KongTuke,url,https://schuctz.click/b345t329.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1849793/
 2026-07-13 21:11:57,KongTuke,url,https://schuctz.click/dfhnn6yy.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850024/
 2026-07-14 05:30:32,KongTuke,url,https://schuctz.click/e187jn2e.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850052/
+2026-07-14 09:49:54,KongTuke,url,https://schuctz.click/epx4vn8q.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850161/
 2026-07-14 05:30:27,KongTuke,url,https://schuctz.click/h5gqnaud.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850067/
 2026-07-14 05:30:26,KongTuke,url,https://schuctz.click/kkikc54m.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850095/
+2026-07-14 10:14:11,KongTuke,url,https://schuctz.click/ps8oyg4x.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850226/
+2026-07-14 09:49:50,KongTuke,url,https://schuctz.click/wvjn3nb0.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850198/
 2026-07-14 05:30:26,KongTuke,url,https://schuctz.click/xyzqcsdc.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850076/
+2026-07-14 16:15:02,Vidar,url,https://shucare.com.au/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1850422/
+2026-07-14 15:12:30,KongTuke,url,https://tommy-n.lol/f,#Kongtuke,https://infosec.exchange/@monitorsg/116918961825303965
