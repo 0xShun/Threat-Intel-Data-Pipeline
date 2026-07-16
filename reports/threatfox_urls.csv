@@ -1,94 +1,77 @@
-2026-07-14 20:48:39,Unknown malware,url,http://162.249.125.141/garm,#aussie #botnet #DDoS #garm #Jackskid #Mirai #rctea,https://threatfox.abuse.ch/ioc/1850651/
-2026-07-14 20:48:39,Unknown malware,url,http://162.249.125.141/garm5,#aussie #botnet #DDoS #garm #Jackskid #Mirai #rctea,https://threatfox.abuse.ch/ioc/1850652/
-2026-07-14 20:48:38,Unknown malware,url,http://162.249.125.141/garm7,#aussie #botnet #DDoS #garm #Jackskid #Mirai #rctea,https://threatfox.abuse.ch/ioc/1850653/
-2026-07-14 20:48:27,Unknown malware,url,http://41.216.189.157/run.sh,#honeypot,https://greedybear.honeynet.org
+2026-07-16 04:25:31,InvisibleFerret,url,http://144.172.103.226/301/301l,#ContagiousInterview #DPRK #InvisibleFerret #Lazarus,https://threatfox.abuse.ch/ioc/1851326/
+2026-07-16 04:25:32,InvisibleFerret,url,http://144.172.103.226/301/301m,#ContagiousInterview #DPRK #InvisibleFerret #Lazarus,https://threatfox.abuse.ch/ioc/1851325/
+2026-07-16 04:25:30,InvisibleFerret,url,http://144.172.103.226/301/301w,#ContagiousInterview #DPRK #InvisibleFerret #Lazarus,https://threatfox.abuse.ch/ioc/1851327/
+2026-07-16 04:25:06,Stealc,url,http://196.251.107.163/ca2f6543a0826c0f55e0.php,#build #c2 #Loader #Stealc #stealer,https://threatfox.abuse.ch/ioc/1851374/
+2026-07-16 04:25:26,InvisibleFerret,url,http://95.216.64.240:1224/client/36/700,#ContagiousInterview #DPRK #InvisibleFerret #Lazarus,https://threatfox.abuse.ch/ioc/1851330/
+2026-07-16 04:25:27,InvisibleFerret,url,http://95.216.64.240:1224/main,#ContagiousInterview #DPRK #InvisibleFerret #Lazarus,https://threatfox.abuse.ch/ioc/1851329/
+2026-07-16 04:25:29,InvisibleFerret,url,http://95.217.102.138:1144/s/30620700,#ContagiousInterview #DPRK #InvisibleFerret #Lazarus,https://threatfox.abuse.ch/ioc/1851328/
+2026-07-16 07:50:05,DCRat,url,http://ct607808.tw1.ru/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1852445/
+2026-07-16 04:25:08,AMOS,url,http://j9af4sr.guru,#Amos #c2,https://threatfox.abuse.ch/ioc/1851373/
 2026-07-15 10:01:09,Remus,url,http://syntaxj.top:6278,#Remus,https://bazaar.abuse.ch/sample/42c875dfcb47118ef39274399fca5a1a990ac8370809ba56728e84958a3f8ef4/
-2026-07-15 07:13:49,Vidar,url,https://116.202.6.159/,#Vidar,https://threatfox.abuse.ch/ioc/1850856/
-2026-07-15 07:13:50,Vidar,url,https://157.90.247.15/,#Vidar,https://threatfox.abuse.ch/ioc/1850859/
-2026-07-15 07:13:50,Vidar,url,https://159.69.204.46/,#Vidar,https://threatfox.abuse.ch/ioc/1850860/
-2026-07-15 07:13:49,Vidar,url,https://172.233.54.53/,#Vidar,https://threatfox.abuse.ch/ioc/1850855/
-2026-07-15 07:13:48,Vidar,url,https://195.201.39.59/,#Vidar,https://threatfox.abuse.ch/ioc/1850854/
-2026-07-15 07:13:49,Vidar,url,https://37.27.191.220/,#Vidar,https://threatfox.abuse.ch/ioc/1850858/
-2026-07-15 07:13:49,Vidar,url,https://46.62.203.15/,#Vidar,https://threatfox.abuse.ch/ioc/1850857/
-2026-07-14 20:48:25,SmartApeSG,url,https://alabastercompass.top/public/callback-stylesheet.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116920150032119123
+2026-07-15 18:55:51,Remus,url,http://vertefx.top:7538,#Remus,https://bazaar.abuse.ch/sample/966365f729aadfc95f0450a1a605422b63d7fc2628310108e26054ed04fbf03b/
 2026-07-15 17:08:07,Unknown malware,url,https://alianzaamericanaseguros.com/,#ClickFix,https://clickfix.carsonww.com/domains/alianzaamericanaseguros.com
 2026-07-15 17:08:03,Unknown malware,url,https://artsunfold.com/,#ClickFix,https://clickfix.carsonww.com/domains/artsunfold.com
 2026-07-15 13:26:34,Unknown malware,url,https://asioklaydpory.com/h4r2.html,#ClickFix,https://clickfix.carsonww.com/domains/asioklaydpory.com
 2026-07-15 17:08:03,Unknown malware,url,https://baumas.no/,#ClickFix,https://clickfix.carsonww.com/domains/baumas.no
-2026-07-15 07:13:47,Vidar,url,https://bdm.paptogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1850845/
+2026-07-15 20:21:28,KongTuke,url,https://bitista.icu/api/v1/session,#Kongtuke,https://infosec.exchange/@monitorsg/116925575296914356
+2026-07-15 20:21:27,KongTuke,url,https://bitista.icu/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116925575296914356
+2026-07-15 20:21:27,KongTuke,url,https://bitista.icu/api/v1/verify,#Kongtuke,https://infosec.exchange/@monitorsg/116925575296914356
+2026-07-15 20:21:29,KongTuke,url,https://bitista.icu/file.js,#Kongtuke,https://infosec.exchange/@monitorsg/116925575296914356
+2026-07-15 22:55:05,Vidar,url,https://bkv.ambiltogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1851341/
+2026-07-15 22:55:05,Vidar,url,https://bkv.kijangturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1851343/
+2026-07-15 21:02:17,Unknown malware,url,https://burutrading.com/h4r2.html,#ClickFix,https://clickfix.carsonww.com/domains/burutrading.com
 2026-07-15 17:08:06,Unknown malware,url,https://caramdistribuciones.com.ar/,#ClickFix,https://clickfix.carsonww.com/domains/caramdistribuciones.com.ar
+2026-07-16 04:25:01,Unknown malware,url,https://catholicsma.com/h4r2.html?v=mxhrbmchnv,#ClickFix,https://clickfix.carsonww.com/domains/catholicsma.com
 2026-07-15 09:42:52,Latrodectus,url,https://catholicsma.com/wp-content/uploads/2024/07/main.js,#Latrodectus #wp-victim,https://threatfox.abuse.ch/ioc/1850957/
 2026-07-15 17:08:04,Unknown malware,url,https://cmla.blog/,#ClickFix,https://clickfix.carsonww.com/domains/cmla.blog
 2026-07-15 17:07:56,Unknown malware,url,https://cydesys.com/,#ClickFix,https://clickfix.carsonww.com/domains/cydesys.com
 2026-07-15 17:08:05,Unknown malware,url,https://dokonalebydleni.cz/,#ClickFix,https://clickfix.carsonww.com/domains/dokonalebydleni.cz
-2026-07-15 07:13:46,Vidar,url,https://dtm.ambiltogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1850844/
-2026-07-15 07:13:44,Vidar,url,https://dtm.kijangturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1850835/
-2026-07-15 07:13:46,Vidar,url,https://dum.kijangturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1850841/
-2026-07-15 07:13:48,Vidar,url,https://dum.paptogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1850851/
 2026-07-15 17:08:01,KongTuke,url,https://f-codebase.lol/f,#Kongtuke,https://infosec.exchange/@monitorsg/116924384128017153
 2026-07-15 13:35:08,Vidar,url,https://fij.ambiltogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1851165/
 2026-07-15 13:35:09,Vidar,url,https://fij.kijangturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1851167/
-2026-07-15 07:13:45,Vidar,url,https://fwh.kijangturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1850837/
-2026-07-15 07:13:47,Vidar,url,https://fwh.paptogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1850847/
-2026-07-15 07:13:44,Vidar,url,https://gmn.kijangturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1850836/
-2026-07-15 07:13:47,Vidar,url,https://gmn.paptogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1850846/
 2026-07-15 09:37:11,SmartApeSG,url,https://granitehearth.top/status/health-effect.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116923209642855089
 2026-07-15 17:12:28,SmartApeSG,url,https://granitehearth.top/status/profile-runtime.js,#SmartApeSG,https://infosec.exchange/@monitorsg/116925090071596813
 2026-07-15 09:37:11,SmartApeSG,url,https://granitehearth.top/status/status-parser,#SmartApeSG,https://infosec.exchange/@monitorsg/116923209642855089
-2026-07-15 07:13:46,Vidar,url,https://hab.kijangturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1850842/
-2026-07-15 07:13:48,Vidar,url,https://hab.paptogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1850852/
-2026-07-15 05:15:03,Vidar,url,https://kcosmetics.kr/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1850804/
-2026-07-15 07:13:45,Vidar,url,https://kss.kijangturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1850838/
-2026-07-15 07:13:47,Vidar,url,https://kss.paptogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1850848/
+2026-07-15 20:21:40,SmartApeSG,url,https://kblaa.com/gfont.ttf,#SmartApeSG,https://infosec.exchange/@monitorsg/116925329131024016
 2026-07-15 08:25:45,Vidar,url,https://kwt.ambiltogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1850918/
 2026-07-15 08:25:45,Vidar,url,https://kwt.kijangturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1850920/
+2026-07-16 07:15:03,Vidar,url,https://lmstamper.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1852434/
 2026-07-15 17:40:17,Unknown malware,url,https://maialimentosreales.com/,#ClickFix,https://clickfix.carsonww.com/domains/maialimentosreales.com
 2026-07-15 09:37:10,Unknown malware,url,https://maloke.pro/,#ClickFix,https://clickfix.carsonww.com/domains/maloke.pro
-2026-07-15 06:17:44,Unknown malware,url,https://marjdl.pro/,#ClickFix,https://clickfix.carsonww.com/domains/marjdl.pro
 2026-07-15 17:07:48,Unknown malware,url,https://ngb.ro/,#ClickFix,https://clickfix.carsonww.com/domains/ngb.ro
-2026-07-15 06:17:49,Unknown malware,url,https://pbhwzixj.boro1.bet/4f9a7c78-781f-4987-9e83-e804fb9a98e2/gc.key,#ClearFake #ClickFix #gc-key #go-loader #rundll32 #WebDav #win-0x4679,https://www.virustotal.com/gui/file/04dcae7c2f31870f4a59ed6faec513a5e252491d911ae9e62b9c3026ccf598cd
 2026-07-15 17:07:46,Unknown malware,url,https://pcl.hamburg/,#ClickFix,https://clickfix.carsonww.com/domains/pcl.hamburg
-2026-07-15 06:22:08,Unknown malware,url,https://productionai-shop.pages.dev/recaptcha-verify,#ClickFix,https://threatfox.abuse.ch/ioc/1850810/
-2026-07-15 07:13:45,Vidar,url,https://pve.kijangturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1850839/
-2026-07-15 07:13:47,Vidar,url,https://pve.paptogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1850849/
+2026-07-16 04:25:16,Unknown malware,url,https://petx.vet/,#ClickFix,https://clickfix.carsonww.com/domains/petx.vet
 2026-07-15 17:07:52,Unknown malware,url,https://quaideazamcollege.com/,#ClickFix,https://clickfix.carsonww.com/domains/quaideazamcollege.com
 2026-07-15 17:07:47,Unknown malware,url,https://racingoperations.com.au/,#ClickFix,https://clickfix.carsonww.com/domains/racingoperations.com.au
 2026-07-15 17:07:54,Unknown malware,url,https://racquetclubofgastonia.com/,#ClickFix,https://clickfix.carsonww.com/domains/racquetclubofgastonia.com
+2026-07-16 04:25:02,Unknown malware,url,https://raiatec.ir/,#ClickFix,https://clickfix.carsonww.com/domains/raiatec.ir
 2026-07-15 17:07:44,KongTuke,url,https://ritchie.click/1pgdux6i.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1851222/
-2026-07-15 06:17:46,KongTuke,url,https://ritchie.click/3ypepkhb.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850771/
-2026-07-15 06:17:41,KongTuke,url,https://ritchie.click/ahbod5es.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850794/
+2026-07-15 20:21:40,KongTuke,url,https://ritchie.click/5mv24f3u.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1851241/
+2026-07-16 04:25:00,KongTuke,url,https://ritchie.click/7kv57ax9.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1851402/
+2026-07-16 07:15:04,KongTuke,url,https://ritchie.click/85iuztos.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1851419/
 2026-07-15 13:25:56,KongTuke,url,https://ritchie.click/bgmmbr3x.js,#Kongtuke,https://infosec.exchange/@monitorsg/116924139294501031
-2026-07-14 21:16:46,KongTuke,url,https://ritchie.click/cpr5bp4s.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850744/
 2026-07-15 17:07:55,KongTuke,url,https://ritchie.click/frxhgs71.js,#Kongtuke,https://infosec.exchange/@monitorsg/116924624282669491
-2026-07-15 06:17:50,KongTuke,url,https://ritchie.click/i7r4dbm3.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850751/
+2026-07-16 04:25:18,KongTuke,url,https://ritchie.click/gkbfcesb.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1851350/
 2026-07-15 09:37:12,KongTuke,url,https://ritchie.click/i7sh56je.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850946/
+2026-07-16 04:25:07,KongTuke,url,https://ritchie.click/jh2fg27r.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1851380/
 2026-07-15 17:08:02,KongTuke,url,https://ritchie.click/ksbfgehn.js,#Kongtuke,https://infosec.exchange/@monitorsg/116924384128017153
-2026-07-14 20:48:27,KongTuke,url,https://ritchie.click/rm8p5pma.js,#Kongtuke,https://infosec.exchange/@monitorsg/116920147803171511
-2026-07-15 06:17:40,KongTuke,url,https://ritchie.click/slyp1crx.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850803/
-2026-07-14 20:48:33,KongTuke,url,https://ritchie.click/t1epwgnx.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850667/
+2026-07-16 08:10:23,KongTuke,url,https://ritchie.click/lkg91c5q.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1852452/
+2026-07-15 20:21:27,KongTuke,url,https://ritchie.click/m5t9l50e.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1851270/
+2026-07-15 20:21:30,KongTuke,url,https://ritchie.click/n2bw9boq.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1851257/
+2026-07-16 04:25:11,KongTuke,url,https://ritchie.click/q7eu4gpd.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1851363/
 2026-07-15 09:03:43,KongTuke,url,https://ritchie.click/usfp4ldu.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850914/
-2026-07-15 06:17:40,KongTuke,url,https://ritchie.click/vdej742l.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850808/
 2026-07-15 17:07:45,KongTuke,url,https://ritchie.click/vyfk8uki.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1851217/
 2026-07-15 13:25:57,KongTuke,url,https://ritchie.click/y6noj7h0.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1851144/
-2026-07-15 06:17:45,KongTuke,url,https://ritchie.click/ybsunal3.js,#Kongtuke,https://threatfox.abuse.ch/ioc/1850781/
 2026-07-15 17:07:49,Unknown malware,url,https://samarkegypt.com/,#ClickFix,https://clickfix.carsonww.com/domains/samarkegypt.com
 2026-07-15 17:07:51,Unknown malware,url,https://sarahcole.com.au/,#ClickFix,https://clickfix.carsonww.com/domains/sarahcole.com.au
 2026-07-15 17:40:16,Unknown malware,url,https://sealaunchservices.com/,#ClickFix,https://clickfix.carsonww.com/domains/sealaunchservices.com
-2026-07-14 18:15:04,Vidar,url,https://silverbackchatbot.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1850668/
 2026-07-15 17:40:18,Unknown malware,url,https://softsystems.pro/,#ClickFix,https://clickfix.carsonww.com/domains/softsystems.pro
-2026-07-15 07:13:45,Vidar,url,https://sra.kijangturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1850840/
-2026-07-15 07:13:48,Vidar,url,https://sra.paptogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1850850/
-2026-07-15 07:13:44,Vidar,url,https://steamcommunity.com/profiles/76561198674661449,#Vidar,https://threatfox.abuse.ch/ioc/1850833/
-2026-07-15 07:13:46,Vidar,url,https://tdd.ambiltogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1850843/
-2026-07-15 07:13:44,Vidar,url,https://tdd.kijangturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1850834/
-2026-07-15 07:13:44,Vidar,url,https://telegram.me/r7t3at,#Vidar,https://threatfox.abuse.ch/ioc/1850832/
+2026-07-15 20:20:05,Vidar,url,https://sta.ambiltogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1851299/
+2026-07-15 20:20:06,Vidar,url,https://sta.kijangturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1851301/
+2026-07-16 07:32:33,Unknown malware,url,https://teambluewhitezuerich.ch/,#ClickFix,https://clickfix.carsonww.com/domains/teambluewhitezuerich.ch
 2026-07-15 17:07:50,Unknown malware,url,https://thebookoninvesting.com/,#ClickFix,https://clickfix.carsonww.com/domains/thebookoninvesting.com
-2026-07-14 20:48:26,KongTuke,url,https://tommy-d.lol/f,#Kongtuke,https://infosec.exchange/@monitorsg/116920147803171511
-2026-07-15 07:00:44,Vidar,url,https://tus.ambiltogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1850824/
-2026-07-15 07:00:45,Vidar,url,https://tus.kijangturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1850826/
+2026-07-15 20:21:26,Unknown malware,url,https://tscd.vn/,#ClickFix,https://clickfix.carsonww.com/domains/tscd.vn
 2026-07-15 17:07:52,Unknown malware,url,https://vin2.ro/,#ClickFix,https://clickfix.carsonww.com/domains/vin2.ro
 2026-07-15 17:40:16,Unknown malware,url,https://waltonsoftware.com/,#ClickFix,https://clickfix.carsonww.com/domains/waltonsoftware.com
-2026-07-15 06:17:44,Unknown malware,url,https://watersolutionsfl.com/,#ClickFix,https://clickfix.carsonww.com/domains/watersolutionsfl.com
 2026-07-15 17:45:07,Vidar,url,https://wpl.ambiltogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1851233/
 2026-07-15 17:45:08,Vidar,url,https://wpl.kijangturbo88.top/,#Vidar,https://threatfox.abuse.ch/ioc/1851235/
-2026-07-15 07:13:48,Vidar,url,https://xpo.paptogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1850853/
