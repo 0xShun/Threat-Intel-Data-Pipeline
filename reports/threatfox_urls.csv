@@ -1,213 +1,39 @@
+2026-07-19 07:08:37,Mirai,url,http://103.83.87.122/iran.aarch64,,https://threatfox.abuse.ch/ioc/1853576/
+2026-07-19 07:08:33,Mirai,url,http://103.83.87.122/iran.arc,,https://threatfox.abuse.ch/ioc/1853583/
+2026-07-19 07:08:32,Mirai,url,http://103.83.87.122/iran.armv4l,,https://threatfox.abuse.ch/ioc/1853585/
+2026-07-19 07:08:32,Mirai,url,http://103.83.87.122/iran.armv5l,,https://threatfox.abuse.ch/ioc/1853586/
+2026-07-19 07:08:31,Mirai,url,http://103.83.87.122/iran.armv6l,,https://threatfox.abuse.ch/ioc/1853587/
+2026-07-19 07:08:31,Mirai,url,http://103.83.87.122/iran.armv7l,,https://threatfox.abuse.ch/ioc/1853588/
+2026-07-19 07:08:32,Mirai,url,http://103.83.87.122/iran.i486,,https://threatfox.abuse.ch/ioc/1853584/
+2026-07-19 07:08:36,Mirai,url,http://103.83.87.122/iran.m68k,,https://threatfox.abuse.ch/ioc/1853577/
+2026-07-19 07:08:36,Mirai,url,http://103.83.87.122/iran.mips,,https://threatfox.abuse.ch/ioc/1853578/
+2026-07-19 07:08:35,Mirai,url,http://103.83.87.122/iran.mipsel,,https://threatfox.abuse.ch/ioc/1853579/
+2026-07-19 07:08:34,Mirai,url,http://103.83.87.122/iran.powerpc,,https://threatfox.abuse.ch/ioc/1853580/
+2026-07-19 07:08:33,Mirai,url,http://103.83.87.122/iran.sh4,,https://threatfox.abuse.ch/ioc/1853582/
+2026-07-19 07:08:33,Mirai,url,http://103.83.87.122/iran.sparc,,https://threatfox.abuse.ch/ioc/1853581/
+2026-07-19 07:08:37,Mirai,url,http://103.83.87.122/iran.x86_64,,https://threatfox.abuse.ch/ioc/1853575/
+2026-07-19 07:08:37,Mirai,url,http://103.83.87.122/telnet.sh,,https://threatfox.abuse.ch/ioc/1853574/
+2026-07-19 07:37:54,Unknown malware,url,http://178.17.59.195:5506/ll.vbs,#ClickFix,https://threatfox.abuse.ch/ioc/1853678/
 2026-07-18 17:32:56,Unknown malware,url,http://91.92.42.213/phantom.sh,#honeypot,https://greedybear.honeynet.org
+2026-07-19 07:37:54,Unknown malware,url,http://93.152.224.29/VMvDWLT7AqpC45hhHf,#ClickFix,https://threatfox.abuse.ch/ioc/1853676/
+2026-07-19 07:37:56,Unknown malware,url,http://95.164.53.115:5506/do.vbs,#ClickFix,https://threatfox.abuse.ch/ioc/1853681/
+2026-07-19 07:37:55,Unknown malware,url,http://95.164.53.214:5554/d.bat,#ClickFix,https://threatfox.abuse.ch/ioc/1853679/
+2026-07-19 04:25:06,DCRat,url,http://keutbdump3.temp.swtest.ru/pipePhpjsPacketLongpoll.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1853642/
 2026-07-18 17:33:06,Unknown malware,url,https://2hbau.com/,#ClickFix,https://clickfix.carsonww.com/domains/2hbau.com
+2026-07-19 08:15:04,Vidar,url,https://afsd.net/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1853696/
+2026-07-19 07:37:57,Unknown malware,url,https://alababababa.cloud/cVGvQio6.txt,#ClickFix,https://threatfox.abuse.ch/ioc/1853682/
 2026-07-18 17:32:55,Unknown malware,url,https://babelo.pro/,#ClickFix,https://clickfix.carsonww.com/domains/babelo.pro
-2026-07-17 20:58:25,Unknown malware,url,https://basebaistat.my/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852905/
-2026-07-17 20:57:47,Unknown malware,url,https://basebaistat.my/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852904/
-2026-07-17 20:59:05,Unknown malware,url,https://basebaistat.my/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852906/
-2026-07-17 20:56:37,Unknown malware,url,https://basebaistat.my/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852903/
-2026-07-17 21:04:15,Unknown malware,url,https://boodystat.click/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852910/
-2026-07-17 21:02:44,Unknown malware,url,https://boodystat.click/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852909/
-2026-07-17 21:05:07,Unknown malware,url,https://boodystat.click/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852911/
-2026-07-17 21:01:37,Unknown malware,url,https://boodystat.click/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852908/
-2026-07-17 21:07:42,Unknown malware,url,https://cookcoolbaistat.lol/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852916/
-2026-07-17 21:07:21,Unknown malware,url,https://cookcoolbaistat.lol/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852915/
-2026-07-17 21:08:07,Unknown malware,url,https://cookcoolbaistat.lol/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852917/
-2026-07-17 21:06:59,Unknown malware,url,https://cookcoolbaistat.lol/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852914/
-2026-07-17 21:11:26,Unknown malware,url,https://cookischase.us/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852921/
-2026-07-17 21:11:00,Unknown malware,url,https://cookischase.us/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852920/
-2026-07-17 21:11:57,Unknown malware,url,https://cookischase.us/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852922/
-2026-07-17 21:10:35,Unknown malware,url,https://cookischase.us/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852919/
-2026-07-17 23:29:43,Unknown malware,url,https://crf.masterklass.net,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853232/
-2026-07-17 21:14:26,Unknown malware,url,https://destinkol.lol/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852926/
-2026-07-17 21:14:03,Unknown malware,url,https://destinkol.lol/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852925/
-2026-07-17 21:14:48,Unknown malware,url,https://destinkol.lol/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852927/
-2026-07-17 21:13:40,Unknown malware,url,https://destinkol.lol/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852924/
-2026-07-17 21:16:42,Unknown malware,url,https://esotericpro.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852931/
-2026-07-17 21:16:21,Unknown malware,url,https://esotericpro.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852930/
-2026-07-17 21:17:02,Unknown malware,url,https://esotericpro.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852932/
-2026-07-17 21:16:00,Unknown malware,url,https://esotericpro.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852929/
-2026-07-17 21:18:46,Unknown malware,url,https://globalfiats.click/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852937/
-2026-07-17 21:18:24,Unknown malware,url,https://globalfiats.click/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852936/
-2026-07-17 21:19:07,Unknown malware,url,https://globalfiats.click/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852939/
-2026-07-17 21:18:00,Unknown malware,url,https://globalfiats.click/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852935/
-2026-07-17 21:21:32,Unknown malware,url,https://grand-tandyr.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852943/
-2026-07-17 21:21:11,Unknown malware,url,https://grand-tandyr.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852942/
-2026-07-17 21:21:50,Unknown malware,url,https://grand-tandyr.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852944/
-2026-07-17 21:20:51,Unknown malware,url,https://grand-tandyr.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852941/
-2026-07-17 21:24:37,Unknown malware,url,https://harrenshipping.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852948/
-2026-07-17 21:24:15,Unknown malware,url,https://harrenshipping.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852947/
-2026-07-17 21:25:02,Unknown malware,url,https://harrenshipping.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852949/
-2026-07-17 21:23:52,Unknown malware,url,https://harrenshipping.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852946/
-2026-07-17 21:27:05,Unknown malware,url,https://hi-tech-news.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852953/
-2026-07-17 21:26:45,Unknown malware,url,https://hi-tech-news.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852952/
-2026-07-17 21:27:24,Unknown malware,url,https://hi-tech-news.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852954/
-2026-07-17 21:26:15,Unknown malware,url,https://hi-tech-news.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852951/
-2026-07-17 21:29:20,Unknown malware,url,https://humo-liber.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852959/
-2026-07-17 21:29:00,Unknown malware,url,https://humo-liber.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852958/
-2026-07-17 21:30:07,Unknown malware,url,https://humo-liber.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852961/
-2026-07-17 21:28:39,Unknown malware,url,https://humo-liber.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852957/
-2026-07-17 21:32:28,Unknown malware,url,https://ilovetobe.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852965/
-2026-07-17 21:32:06,Unknown malware,url,https://ilovetobe.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852964/
-2026-07-17 21:34:11,Unknown malware,url,https://ilovetobe.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852966/
-2026-07-17 21:31:45,Unknown malware,url,https://ilovetobe.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852963/
-2026-07-17 21:36:01,Unknown malware,url,https://implantcentr.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852970/
-2026-07-17 21:35:40,Unknown malware,url,https://implantcentr.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852969/
-2026-07-17 21:36:23,Unknown malware,url,https://implantcentr.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852971/
-2026-07-17 21:35:20,Unknown malware,url,https://implantcentr.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852968/
-2026-07-17 21:38:24,Unknown malware,url,https://infoworkerone.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852975/
-2026-07-17 21:37:58,Unknown malware,url,https://infoworkerone.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852974/
-2026-07-17 21:38:46,Unknown malware,url,https://infoworkerone.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852976/
-2026-07-17 21:37:36,Unknown malware,url,https://infoworkerone.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852973/
-2026-07-17 21:41:30,Unknown malware,url,https://intellerium.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852980/
-2026-07-17 21:41:10,Unknown malware,url,https://intellerium.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852979/
-2026-07-17 21:41:52,Unknown malware,url,https://intellerium.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852981/
-2026-07-17 21:40:47,Unknown malware,url,https://intellerium.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852978/
+2026-07-19 07:08:21,Unknown malware,url,https://flavaradioandtv.com/,#ClickFix,https://clickfix.carsonww.com/domains/flavaradioandtv.com
+2026-07-19 07:28:19,Unknown malware,url,https://gerenland.click/api/stale.msi,#ClickFix,https://threatfox.abuse.ch/ioc/1853675/
+2026-07-19 07:37:54,Unknown malware,url,https://gerenland.click/flask/whales.msi,#ClickFix,https://threatfox.abuse.ch/ioc/1853677/
 2026-07-18 17:32:56,Unknown malware,url,https://jenniferhagen.ch/,#ClickFix,https://clickfix.carsonww.com/domains/jenniferhagen.ch
-2026-07-17 21:44:24,Unknown malware,url,https://jobworkny.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852985/
-2026-07-17 21:44:00,Unknown malware,url,https://jobworkny.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852984/
-2026-07-17 21:44:46,Unknown malware,url,https://jobworkny.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852986/
-2026-07-17 21:43:31,Unknown malware,url,https://jobworkny.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852983/
-2026-07-17 21:46:48,Unknown malware,url,https://kamyanetski.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852990/
-2026-07-17 21:46:28,Unknown malware,url,https://kamyanetski.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852989/
-2026-07-17 21:47:08,Unknown malware,url,https://kamyanetski.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852992/
-2026-07-17 21:46:08,Unknown malware,url,https://kamyanetski.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852988/
-2026-07-17 21:48:54,Unknown malware,url,https://malenko.net/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852996/
-2026-07-17 21:48:35,Unknown malware,url,https://malenko.net/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852995/
-2026-07-17 21:49:15,Unknown malware,url,https://malenko.net/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852997/
-2026-07-17 21:48:17,Unknown malware,url,https://malenko.net/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1852994/
-2026-07-17 21:54:08,Unknown malware,url,https://mariposa-wedding.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853008/
-2026-07-17 21:53:49,Unknown malware,url,https://mariposa-wedding.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853007/
-2026-07-17 21:54:32,Unknown malware,url,https://mariposa-wedding.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853009/
-2026-07-17 21:53:20,Unknown malware,url,https://mariposa-wedding.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853006/
-2026-07-17 21:51:48,Unknown malware,url,https://massstat.biz/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853003/
-2026-07-17 21:51:12,Unknown malware,url,https://massstat.biz/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853002/
-2026-07-17 21:52:09,Unknown malware,url,https://massstat.biz/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853004/
-2026-07-17 21:50:51,Unknown malware,url,https://massstat.biz/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853001/
-2026-07-17 21:56:59,Unknown malware,url,https://massstat.co/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853013/
-2026-07-17 21:56:36,Unknown malware,url,https://massstat.co/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853012/
-2026-07-17 21:57:19,Unknown malware,url,https://massstat.co/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853014/
-2026-07-17 21:56:18,Unknown malware,url,https://massstat.co/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853011/
-2026-07-17 23:01:59,Unknown malware,url,https://masterklass.net/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853192/
-2026-07-17 23:01:38,Unknown malware,url,https://masterklass.net/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853191/
-2026-07-17 23:02:27,Unknown malware,url,https://masterklass.net/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853193/
-2026-07-17 23:01:01,Unknown malware,url,https://masterklass.net/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853190/
-2026-07-17 21:59:43,Unknown malware,url,https://maxstatesus.org/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853018/
-2026-07-17 21:59:23,Unknown malware,url,https://maxstatesus.org/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853017/
-2026-07-17 22:00:05,Unknown malware,url,https://maxstatesus.org/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853019/
-2026-07-17 21:59:01,Unknown malware,url,https://maxstatesus.org/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853016/
-2026-07-17 22:01:45,Unknown malware,url,https://merkureenv.net/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853023/
-2026-07-17 22:01:23,Unknown malware,url,https://merkureenv.net/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853022/
-2026-07-17 22:02:08,Unknown malware,url,https://merkureenv.net/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853024/
-2026-07-17 22:01:01,Unknown malware,url,https://merkureenv.net/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853021/
-2026-07-17 22:04:33,Unknown malware,url,https://milkcoolbalstat.help/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853028/
-2026-07-17 22:04:12,Unknown malware,url,https://milkcoolbalstat.help/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853027/
-2026-07-17 22:04:53,Unknown malware,url,https://milkcoolbalstat.help/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853029/
-2026-07-17 22:03:52,Unknown malware,url,https://milkcoolbalstat.help/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853026/
-2026-07-17 22:06:39,Unknown malware,url,https://milkglobalstat.click/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853033/
-2026-07-17 22:06:19,Unknown malware,url,https://milkglobalstat.click/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853032/
-2026-07-17 22:07:05,Unknown malware,url,https://milkglobalstat.click/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853034/
-2026-07-17 22:05:58,Unknown malware,url,https://milkglobalstat.click/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853031/
-2026-07-17 22:11:01,Unknown malware,url,https://mogilevskaya.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853038/
-2026-07-17 22:09:12,Unknown malware,url,https://mogilevskaya.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853037/
-2026-07-17 22:11:39,Unknown malware,url,https://mogilevskaya.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853039/
-2026-07-17 22:08:41,Unknown malware,url,https://mogilevskaya.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853036/
-2026-07-17 22:14:02,Unknown malware,url,https://molterstat.xyz/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853043/
-2026-07-17 22:13:40,Unknown malware,url,https://molterstat.xyz/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853042/
-2026-07-17 22:14:32,Unknown malware,url,https://molterstat.xyz/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853044/
-2026-07-17 22:13:09,Unknown malware,url,https://molterstat.xyz/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853041/
-2026-07-17 22:16:34,Unknown malware,url,https://monsterimac.lat/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853048/
-2026-07-17 22:16:11,Unknown malware,url,https://monsterimac.lat/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853047/
-2026-07-17 22:17:02,Unknown malware,url,https://monsterimac.lat/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853049/
-2026-07-17 22:15:48,Unknown malware,url,https://monsterimac.lat/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853046/
-2026-07-17 22:19:07,Unknown malware,url,https://moonglobaliteemecool.mom/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853055/
-2026-07-17 22:18:47,Unknown malware,url,https://moonglobaliteemecool.mom/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853054/
-2026-07-17 22:19:26,Unknown malware,url,https://moonglobaliteemecool.mom/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853056/
-2026-07-17 22:18:24,Unknown malware,url,https://moonglobaliteemecool.mom/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853053/
-2026-07-17 22:21:42,Unknown malware,url,https://moonstatemecool.biz/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853060/
-2026-07-17 22:21:21,Unknown malware,url,https://moonstatemecool.biz/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853059/
-2026-07-17 22:22:04,Unknown malware,url,https://moonstatemecool.biz/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853061/
-2026-07-17 22:20:59,Unknown malware,url,https://moonstatemecool.biz/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853058/
-2026-07-17 22:23:53,Unknown malware,url,https://morganstat.sbs/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853065/
-2026-07-17 22:23:29,Unknown malware,url,https://morganstat.sbs/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853064/
-2026-07-17 22:24:18,Unknown malware,url,https://morganstat.sbs/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853066/
-2026-07-17 22:23:07,Unknown malware,url,https://morganstat.sbs/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853063/
-2026-07-17 22:26:25,Unknown malware,url,https://morsenstat.beer/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853070/
-2026-07-17 22:26:05,Unknown malware,url,https://morsenstat.beer/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853069/
-2026-07-17 22:26:48,Unknown malware,url,https://morsenstat.beer/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853071/
-2026-07-17 22:25:42,Unknown malware,url,https://morsenstat.beer/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853068/
-2026-07-17 22:29:06,Unknown malware,url,https://oac-live.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853076/
-2026-07-17 22:28:33,Unknown malware,url,https://oac-live.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853075/
-2026-07-17 22:30:00,Unknown malware,url,https://oac-live.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853077/
-2026-07-17 22:28:10,Unknown malware,url,https://oac-live.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853074/
-2026-07-17 22:32:18,Unknown malware,url,https://okliimnwq.co/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853081/
-2026-07-17 22:31:51,Unknown malware,url,https://okliimnwq.co/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853080/
-2026-07-17 22:32:37,Unknown malware,url,https://okliimnwq.co/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853082/
-2026-07-17 22:31:30,Unknown malware,url,https://okliimnwq.co/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853079/
-2026-07-17 22:34:31,Unknown malware,url,https://ololo-ufo.net/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853087/
-2026-07-17 22:34:09,Unknown malware,url,https://ololo-ufo.net/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853086/
-2026-07-17 22:34:52,Unknown malware,url,https://ololo-ufo.net/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853088/
-2026-07-17 22:33:48,Unknown malware,url,https://ololo-ufo.net/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853085/
+2026-07-19 06:15:03,Vidar,url,https://kayhector.com/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1853660/
+2026-07-19 07:37:55,Unknown malware,url,https://natural-health-news.com/Verify.msi?I,#ClickFix,https://threatfox.abuse.ch/ioc/1853680/
 2026-07-18 17:33:08,KongTuke,url,https://oosterhout.click/api/v1/session,#Kongtuke,https://infosec.exchange/@monitorsg/116935949654273518
 2026-07-18 17:33:06,KongTuke,url,https://oosterhout.click/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/116935949654273518
 2026-07-18 17:33:07,KongTuke,url,https://oosterhout.click/api/v1/verify,#Kongtuke,https://infosec.exchange/@monitorsg/116935949654273518
-2026-07-17 22:37:35,Unknown malware,url,https://optimum-online.net/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853092/
-2026-07-17 22:37:14,Unknown malware,url,https://optimum-online.net/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853091/
-2026-07-17 22:38:03,Unknown malware,url,https://optimum-online.net/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853093/
-2026-07-17 22:36:52,Unknown malware,url,https://optimum-online.net/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853090/
-2026-07-17 22:40:07,Unknown malware,url,https://ostekstatmen.net/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853097/
-2026-07-17 22:39:47,Unknown malware,url,https://ostekstatmen.net/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853096/
-2026-07-17 22:40:26,Unknown malware,url,https://ostekstatmen.net/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853112/
-2026-07-17 22:39:26,Unknown malware,url,https://ostekstatmen.net/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853095/
-2026-07-18 04:15:03,Vidar,url,https://pressurewashingsacramento.net/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1853273/
-2026-07-17 22:43:03,Unknown malware,url,https://profidiam.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853116/
-2026-07-17 22:42:42,Unknown malware,url,https://profidiam.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853115/
-2026-07-17 22:43:27,Unknown malware,url,https://profidiam.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853119/
-2026-07-17 22:42:18,Unknown malware,url,https://profidiam.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853114/
-2026-07-17 22:45:49,Unknown malware,url,https://rhumbshop.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853123/
-2026-07-17 22:45:25,Unknown malware,url,https://rhumbshop.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853122/
-2026-07-17 22:46:18,Unknown malware,url,https://rhumbshop.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853124/
-2026-07-17 22:45:06,Unknown malware,url,https://rhumbshop.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853121/
-2026-07-17 22:48:12,Unknown malware,url,https://ryazan.net/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853128/
-2026-07-17 22:47:53,Unknown malware,url,https://ryazan.net/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853127/
-2026-07-17 22:48:38,Unknown malware,url,https://ryazan.net/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853129/
-2026-07-17 22:47:29,Unknown malware,url,https://ryazan.net/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853126/
-2026-07-17 22:55:07,Vidar,url,https://sei.ambiltogel.net/,#Vidar,https://threatfox.abuse.ch/ioc/1853180/
-2026-07-17 22:50:30,Unknown malware,url,https://siteaimecool.org/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853133/
-2026-07-17 22:50:08,Unknown malware,url,https://siteaimecool.org/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853132/
-2026-07-17 22:50:48,Unknown malware,url,https://siteaimecool.org/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853147/
-2026-07-17 22:49:48,Unknown malware,url,https://siteaimecool.org/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853131/
-2026-07-17 22:53:03,Unknown malware,url,https://smarthouseapp.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853174/
-2026-07-17 22:52:42,Unknown malware,url,https://smarthouseapp.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853173/
-2026-07-17 22:53:28,Unknown malware,url,https://smarthouseapp.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853175/
-2026-07-17 22:52:20,Unknown malware,url,https://smarthouseapp.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853172/
-2026-07-17 22:55:10,Unknown malware,url,https://snowwhitefox.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853181/
-2026-07-17 22:54:48,Unknown malware,url,https://snowwhitefox.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853178/
-2026-07-17 22:55:34,Unknown malware,url,https://snowwhitefox.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853182/
-2026-07-17 22:54:27,Unknown malware,url,https://snowwhitefox.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853177/
-2026-07-17 22:58:37,Unknown malware,url,https://sorrystartstat1.net/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853187/
-2026-07-17 22:58:16,Unknown malware,url,https://sorrystartstat1.net/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853186/
-2026-07-17 22:59:00,Unknown malware,url,https://sorrystartstat1.net/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853188/
-2026-07-17 22:57:53,Unknown malware,url,https://sorrystartstat1.net/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853185/
-2026-07-17 23:04:33,Unknown malware,url,https://sosstat.beer/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853197/
-2026-07-17 23:04:12,Unknown malware,url,https://sosstat.beer/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853196/
-2026-07-17 23:04:52,Unknown malware,url,https://sosstat.beer/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853198/
-2026-07-17 23:03:50,Unknown malware,url,https://sosstat.beer/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853195/
-2026-07-17 23:06:40,Unknown malware,url,https://stek-moldova.com/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853203/
-2026-07-17 23:06:20,Unknown malware,url,https://stek-moldova.com/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853202/
-2026-07-17 23:07:05,Unknown malware,url,https://stek-moldova.com/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853204/
-2026-07-17 23:05:59,Unknown malware,url,https://stek-moldova.com/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853201/
+2026-07-19 07:37:57,Unknown malware,url,https://productionai.shop/recaptcha-verify,#ClickFix,https://threatfox.abuse.ch/ioc/1853683/
 2026-07-18 17:33:03,DCRat,url,https://store.julias.makeup/img_094957.png,,https://threatfox.abuse.ch/ioc/1853184/
-2026-07-17 23:09:23,Unknown malware,url,https://stroinnetsata.biz/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853208/
-2026-07-17 23:08:56,Unknown malware,url,https://stroinnetsata.biz/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853207/
-2026-07-17 23:09:47,Unknown malware,url,https://stroinnetsata.biz/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853209/
-2026-07-17 23:08:34,Unknown malware,url,https://stroinnetsata.biz/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853206/
-2026-07-18 06:15:02,Vidar,url,https://targe.in/,#ClickFix #compromised #etherhiding #Polygon #Vidar #WordPress,https://threatfox.abuse.ch/ioc/1853295/
-2026-07-17 23:11:52,Unknown malware,url,https://usalaborforhire.net/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853213/
-2026-07-17 23:11:31,Unknown malware,url,https://usalaborforhire.net/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853212/
-2026-07-17 23:12:45,Unknown malware,url,https://usalaborforhire.net/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853214/
-2026-07-17 23:11:10,Unknown malware,url,https://usalaborforhire.net/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853211/
+2026-07-18 20:51:07,Stealc,url,https://windows-update-local.rest,#Stealc,https://bazaar.abuse.ch/sample/5679dcddde61ea4ea8ee5199339ba059940b1257211fcf95c80d1d5b4063e85a/
+2026-07-19 07:08:21,Unknown malware,url,https://ws.upgifter.pro/c,#backdoor #mtproto #python #stealer #telegram,https://ws.upgifter.pro/c
 2026-07-18 17:32:57,Unknown malware,url,https://www.pressurewashingsacramento.net/,#ClickFix,https://clickfix.carsonww.com/domains/www.pressurewashingsacramento.net
-2026-07-17 23:14:32,Unknown malware,url,https://xverikstat.us/ccheck,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853218/
-2026-07-17 23:14:11,Unknown malware,url,https://xverikstat.us/cload,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853217/
-2026-07-17 23:14:53,Unknown malware,url,https://xverikstat.us/dl/file/,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853219/
-2026-07-17 23:13:49,Unknown malware,url,https://xverikstat.us/tracker.js,#ClickFix #JokerStat #TDS,https://threatfox.abuse.ch/ioc/1853216/
