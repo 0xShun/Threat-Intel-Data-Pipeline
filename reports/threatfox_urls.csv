@@ -1,9 +1,18 @@
 2026-08-07 13:23:32,Mozi,url,http://103.146.110.200:47709/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.146.110.200
-2026-08-07 17:00:07,AMOS,url,http://161.35.146.120/contact,#ClickFix #DANTE #EXFILTRATION #macOS,https://github.com/raimurokko/macos-threat-tracking/blob/main/campaigns/2026-08-04-cloudflare-clickfix/stage4_payload.md
+2026-08-08 06:35:40,Mozi,url,http://103.225.191.17:49732/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.225.191.17
+2026-08-07 18:20:03,Mozi,url,http://115.51.80.33:54187/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/115.51.80.33
+2026-08-07 18:20:02,Mozi,url,http://139.135.40.99:46495/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/139.135.40.99
+2026-08-08 06:35:27,Mozi,url,http://153.117.6.63:41336/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.6.63
+2026-08-07 17:54:40,AMOS,url,http://161.35.146.120/contact,#ClickFix #DANTE #EXFILTRATION #macOS,https://github.com/raimurokko/macos-threat-tracking/blob/main/campaigns/2026-08-04-cloudflare-clickfix/stage4_payload.md
 2026-08-07 07:24:51,Unknown malware,url,http://165.22.69.214/cat.sh,#honeypot,https://greedybear.honeynet.org
+2026-08-08 06:35:29,Phorpiex,url,http://178.16.54.109/molakc,#Download #phorpiex,https://threatfox.abuse.ch/ioc/1870609/
+2026-08-08 00:02:43,Unknown malware,url,http://199.217.99.6/Troubleshoot.ps1,#ClickFix,https://threatfox.abuse.ch/ioc/1870528/
+2026-08-08 06:35:26,Mozi,url,http://221.15.226.18:57698/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/221.15.226.18
+2026-08-08 06:35:27,Mozi,url,http://223.123.72.204:42931/Mozi.7,#elf #IoT #Mozi,https://honeylabs.net/lookup/223.123.72.204
 2026-08-07 13:23:32,Mozi,url,http://59.103.119.119:43992/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/59.103.119.119
+2026-08-08 06:35:28,Mozi,url,http://59.103.217.15:54294/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/59.103.217.15
+2026-08-08 06:35:43,Unknown malware,url,http://86.107.168.105/boss.tst,#ClickFix #steganography #SVG #WASM,https://threatfox.abuse.ch/ioc/1870508/
 2026-08-07 14:00:09,DCRat,url,http://cy060322.tw1.ru/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1869866/
-2026-08-07 02:24:23,Remus,url,http://touggch.click:9022,#Remus,https://threatfox.abuse.ch/ioc/1869627/
 2026-08-07 08:02:47,Vidar,url,https://167.233.125.232/,#Vidar,https://threatfox.abuse.ch/ioc/1869709/
 2026-08-07 08:02:47,Vidar,url,https://167.233.160.192/,#Vidar,https://threatfox.abuse.ch/ioc/1869707/
 2026-08-07 08:02:48,Vidar,url,https://167.233.168.67/,#Vidar,https://threatfox.abuse.ch/ioc/1869712/
@@ -16,16 +25,22 @@
 2026-08-07 09:05:05,Vidar,url,https://dfd.bayototo.org/,#Vidar,https://threatfox.abuse.ch/ioc/1869746/
 2026-08-07 07:24:59,IClickFix,url,https://fsdmkfskdojyttt.pro/uuee.js,#ClickFix #IClickFix #powershell #WordPress,https://threatfox.abuse.ch/ioc/1869675/
 2026-08-07 07:24:54,Unknown malware,url,https://generatoryieldlab.com/,#offer-proxy #TDS #Webinject,https://threatfox.abuse.ch/ioc/1869681/
+2026-08-08 06:35:30,SmartApeSG,url,https://indigocrest.top/middleware/scope-runtime.js,,https://threatfox.abuse.ch/ioc/1870601/
 2026-08-07 12:15:51,Unknown RAT,url,https://ocalp.lol/?p=,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1869820/
 2026-08-07 12:15:50,Unknown RAT,url,https://ocalp.lol/babayla/zor/yarisirlar/,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1869822/
 2026-08-07 12:15:51,Unknown RAT,url,https://ocalp.lol/get/config,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1869821/
 2026-08-07 12:15:52,Unknown RAT,url,https://ocalp.lol/mods/api/log-download,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1869818/
 2026-08-07 12:15:52,Unknown RAT,url,https://ocalp.lol/ws,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1869819/
 2026-08-07 07:24:53,Unknown malware,url,https://quietshalecompany.com/,#offer-proxy #TDS #Webinject,https://threatfox.abuse.ch/ioc/1869680/
-2026-08-06 22:45:05,Vidar,url,https://ran.bayototo.org/,#Vidar,https://threatfox.abuse.ch/ioc/1869582/
 2026-08-07 07:24:56,IClickFix,url,https://roofvo.com/wp-links-cat.php,#ClickFix #IClickFix #powershell #WordPress,https://threatfox.abuse.ch/ioc/1869674/
 2026-08-07 09:59:56,Unknown malware,url,https://serve.eastpeak.xyz/health,,https://bazaar.abuse.ch/sample/efb06d67ffdd28113cbf7bed214a7b56b0c151c9f04034052f9cc7eedeaf7a71/
+2026-08-08 06:35:55,Vidar,url,https://set.turbo88galaxy.top,#c2 #c948db7ccfb97f2f0bfa248274085e2d #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1870481/
 2026-08-07 07:24:52,Unknown malware,url,https://simplecopseholding.com/,#offer-proxy #TDS #Webinject,https://threatfox.abuse.ch/ioc/1869682/
 2026-08-07 15:26:24,Unknown malware,url,https://test-project-one-xi-63.vercel.app/api,#env-exfiltration #infostealer #NodeJS #rce #vercel,https://threatfox.abuse.ch/ioc/1869943/
 2026-08-07 15:25:05,Vidar,url,https://ttf.bayototo.org/,#Vidar,https://threatfox.abuse.ch/ioc/1869958/
 2026-08-07 15:45:05,Vidar,url,https://ttf.slotmacau188e.top/,#Vidar,https://threatfox.abuse.ch/ioc/1869964/
+2026-08-08 06:35:53,Unknown RAT,url,https://yeni.lol/?p=,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1870484/
+2026-08-08 06:35:53,Unknown RAT,url,https://yeni.lol/babayla/zor/yarisirlar/,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1870486/
+2026-08-08 06:35:52,Unknown RAT,url,https://yeni.lol/get/config,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1870485/
+2026-08-08 06:35:54,Unknown RAT,url,https://yeni.lol/mods/api/log-download,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1870482/
+2026-08-08 06:35:54,Unknown RAT,url,https://yeni.lol/ws,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1870483/
