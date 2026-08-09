@@ -1,8 +1,8 @@
 source,status,error
 virustotal,pending,
 abuseipdb,ok,
-otx,ok,
-shodan,failed,"HTTP 403: {""error"": ""Requires membership or higher to access""}"
+otx,failed,"HTTPSConnectionPool(host='otx.alienvault.com', port=443): Read timed out. (read timeout=30)"
+shodan,failed,HTTP 503: upstream connect error or disconnect/reset before headers. reset reason: connection failure
 urlhaus,ok,
 threatfox,ok,
 malwarebazaar,ok,
