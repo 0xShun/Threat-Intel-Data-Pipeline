@@ -1,127 +1,104 @@
 2026-08-19 06:05:08,Mozi,url,http://103.190.23.91:50560/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.190.23.91
-2026-08-18 12:28:32,Mozi,url,http://111.92.157.210:59265/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/111.92.157.210
+2026-08-19 09:44:59,Unknown malware,url,http://117.72.72.254:8888/supershell/login,#c2 #Supershell #URLscan,https://urlscan.io/result/01a01968-e30d-745f-b07e-8609e729e5de
+2026-08-19 08:56:58,Unknown Stealer,url,http://136.244.100.54/api/v1/agent/register,#NeedleStealer,https://bazaar.abuse.ch/sample/9768b7e31324805672cfcba91cf4d6da91494e9899db58f22da9dda6c91931d6/
+2026-08-19 08:56:58,Unknown Stealer,url,http://136.244.100.54/api/v1/agent/ws,#NeedleStealer,https://bazaar.abuse.ch/sample/9768b7e31324805672cfcba91cf4d6da91494e9899db58f22da9dda6c91931d6/
 2026-08-19 06:05:07,Mozi,url,http://153.117.13.31:50729/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.13.31
+2026-08-19 09:51:13,Unknown malware,url,http://196.251.107.186/acovp/login.php,#c2 #Diamotrix #URLscan,https://urlscan.io/result/01a0196e-970b-7389-a7a8-fecf720b7752
 2026-08-19 06:05:08,Mozi,url,http://223.123.43.192:48208/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/223.123.43.192
-2026-08-19 06:18:24,Mozi,url,http://45.120.161.86:59888/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/45.120.161.86
-2026-08-18 14:17:19,Hook,url,http://82.158.90.131:50555/,#c2 #HookBot #URLscan,https://urlscan.io/result/01a0153b-d9b1-735e-af74-6f9364a5f512
-2026-08-18 14:17:18,Hook,url,http://82.158.90.133:50555/,#c2 #HookBot #URLscan,https://urlscan.io/result/01a0153b-d761-76ae-94c6-1321e33fa9cc
-2026-08-18 14:17:20,Hook,url,http://82.158.90.134:50555/,#c2 #HookBot #URLscan,https://urlscan.io/result/01a0153b-dd26-70c9-810f-0a92da97847e
-2026-08-18 12:33:22,Remus,url,http://bravplo.click:7713/articles,#Remus,https://threatfox.abuse.ch/ioc/1880832/
+2026-08-19 11:31:01,Mozi,url,http://45.120.161.86:59888/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/45.120.161.86
+2026-08-19 09:44:53,Unknown malware,url,http://8.138.180.67:8888/supershell/login,#c2 #Supershell #URLscan,https://urlscan.io/result/01a01968-cb76-7209-b7c6-c9dfc1e5f24b
+2026-08-19 10:27:05,Unknown Stealer,url,http://allremdeskriki.com/api/v2,#NeedleStealer,https://threatfox.abuse.ch/ioc/1881970/
+2026-08-19 12:33:12,Remus,url,http://bravplo.click:7713/addresses,#Remus,https://threatfox.abuse.ch/ioc/1882273/
 2026-08-19 02:48:13,Remus,url,http://bravplo.click:7713/invoices,#Remus,https://threatfox.abuse.ch/ioc/1881588/
 2026-08-19 00:40:47,Remus,url,http://bravplo.click:7713/profiles,#Remus,https://bazaar.abuse.ch/sample/0ecbba5d1aa1cfb32e96df6d6d7854929353733668ad1134256ec0451dc1a1da/
-2026-08-18 15:50:20,DCRat,url,http://ca242145.tw1.ru/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1880988/
-2026-08-18 14:21:53,Evilginx,url,http://cdn.varrysections.digital/,#c2 #EvilGinx #URLscan,https://urlscan.io/result/01a01540-0a5f-779f-9c61-c0722357003b
-2026-08-18 15:50:16,DCRat,url,http://cm163840.tw1.ru/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1880987/
-2026-08-18 14:21:54,Evilginx,url,http://dotfoods.varrysections.digital/,#c2 #EvilGinx #URLscan,https://urlscan.io/result/01a01540-0d9d-77c1-b166-e653130406e3
-2026-08-18 14:21:56,Evilginx,url,http://eu.auth.varrysections.digital/,#c2 #EvilGinx #URLscan,https://urlscan.io/result/01a01540-1603-7265-8f1a-6a1bacb9caa3
-2026-08-18 10:32:16,Remus,url,http://fasnzect.click:4929/contacts,#Remus,https://threatfox.abuse.ch/ioc/1880259/
-2026-08-18 07:26:23,Remus,url,http://fasnzect.click:4929/events,#Remus,https://threatfox.abuse.ch/ioc/1879809/
-2026-08-18 08:41:17,Remus,url,http://fasnzect.click:4929/exports,#Remus,https://threatfox.abuse.ch/ioc/1880184/
-2026-08-18 14:21:55,Evilginx,url,http://fpt.varrysections.digital/,#c2 #EvilGinx #URLscan,https://urlscan.io/result/01a01540-0f06-741a-bffe-2ee85e355ad7
+2026-08-19 13:46:12,Remus,url,http://bravplo.click:7713/reports,#Remus,https://threatfox.abuse.ch/ioc/1882303/
+2026-08-19 14:49:23,Remus,url,http://brlogic.biz:6920,#Remus,https://threatfox.abuse.ch/ioc/1882359/
+2026-08-19 09:48:25,Evilginx,url,http://bx.varrysections.digital/,#c2 #EvilGinx #URLscan,https://urlscan.io/result/01a0196c-0490-779b-bb63-ec40c2fb4817
+2026-08-19 10:27:05,Unknown Stealer,url,http://dubl1allremriki.com/api/v2,#NeedleStealer,https://threatfox.abuse.ch/ioc/1881971/
+2026-08-19 10:27:05,Unknown Stealer,url,http://dubl2allremriki.com/api/v2,#NeedleStealer,https://threatfox.abuse.ch/ioc/1881969/
 2026-08-19 03:47:16,Remus,url,http://gofkaxz.click:8137/workspaces,#Remus,https://threatfox.abuse.ch/ioc/1881608/
-2026-08-18 13:45:51,Remus,url,http://kupzovo.shop:7567/addresses,#Remus,https://bazaar.abuse.ch/sample/c36f519a225ba04a6d463bd7f09428f695f0281fd5d8da0f6117a022b6b145aa/
-2026-08-18 08:41:18,Remus,url,http://kupzovo.shop:7567/collections,#Remus,https://threatfox.abuse.ch/ioc/1880185/
+2026-08-19 13:25:40,Remus,url,http://kupzovo.shop:7567/attachments,#Remus,https://bazaar.abuse.ch/sample/cd77dd458f512935cc8912da7964570f1efe44bb497968204877890b397bbfac/
+2026-08-19 13:30:49,Remus,url,http://kupzovo.shop:7567/contacts,#Remus,https://bazaar.abuse.ch/sample/cce3ddac2dbcaf1a4f4db50b48fcc4e65341096b51c7bc6c13e7bd98c867e1f2/
+2026-08-19 13:25:41,Remus,url,http://kupzovo.shop:7567/customers,#Remus,https://bazaar.abuse.ch/sample/7ff4fe3f3d7784da58e257cc7ea7e4f7ce63255817e4b79be123144d3027cd62/
 2026-08-19 00:25:42,Remus,url,http://kupzovo.shop:7567/imports,#Remus,https://bazaar.abuse.ch/sample/1d65b76219f184a4fc87d597b0ae50e2ef6f98a79558448b0f0868f761c5479f/
-2026-08-18 16:49:03,Remus,url,http://kupzovo.shop:7567/settings,#Remus,https://threatfox.abuse.ch/ioc/1881308/
+2026-08-19 10:47:15,Remus,url,http://kupzovo.shop:7567/products,#Remus,https://threatfox.abuse.ch/ioc/1881977/
+2026-08-19 14:00:52,Remus,url,http://kupzovo.shop:7567/projects,#Remus,https://bazaar.abuse.ch/sample/d3840bcd452fbd7df0083393d79e5848192231195a7242a018c0b8a991e3d3f8/
 2026-08-19 00:35:53,Remus,url,http://kupzovo.shop:7567/tokens,#Remus,https://bazaar.abuse.ch/sample/2ecf04b3f001039184d841dd067d6e47bf192047ffe6b92c72a9d57bda6c6afe/
-2026-08-18 14:51:22,Remus,url,http://kupzovo.shop:7567/workspaces,#Remus,https://threatfox.abuse.ch/ioc/1880941/
-2026-08-18 17:01:00,Remus,url,http://mrlketo.shop:8932/articles,#Remus,https://bazaar.abuse.ch/sample/86d57ebab870af93c1501db0a6c3404636174d0d5b5bffa493f956d77631c321/
+2026-08-19 12:33:13,Remus,url,http://kupzovo.shop:7567/users,#Remus,https://threatfox.abuse.ch/ioc/1882274/
 2026-08-19 00:35:55,Remus,url,http://poagint.click:8592/attachments,#Remus,https://bazaar.abuse.ch/sample/2ecf04b3f001039184d841dd067d6e47bf192047ffe6b92c72a9d57bda6c6afe/
-2026-08-18 13:45:54,Remus,url,http://poagint.click:8592/categories,#Remus,https://bazaar.abuse.ch/sample/c36f519a225ba04a6d463bd7f09428f695f0281fd5d8da0f6117a022b6b145aa/
-2026-08-18 16:49:03,Remus,url,http://poagint.click:8592/payments,#Remus,https://threatfox.abuse.ch/ioc/1881307/
+2026-08-19 13:30:54,Remus,url,http://poagint.click:8592/posts,#Remus,https://bazaar.abuse.ch/sample/cce3ddac2dbcaf1a4f4db50b48fcc4e65341096b51c7bc6c13e7bd98c867e1f2/
+2026-08-19 13:25:46,Remus,url,http://poagint.click:8592/reviews,#Remus,https://bazaar.abuse.ch/sample/71e5bb794cf80e7bfeae891138b6acaf5d391f75dd665d5ea7c6e024df8e2f9d/
 2026-08-18 17:20:13,Remus,url,http://poagint.click:8592/tags,#Remus,https://threatfox.abuse.ch/ioc/1881320/
+2026-08-19 13:25:47,Remus,url,http://poagint.click:8592/tasks,#Remus,https://bazaar.abuse.ch/sample/cd77dd458f512935cc8912da7964570f1efe44bb497968204877890b397bbfac/
+2026-08-19 16:54:21,IClickFix,url,http://spielportal.com/cj5JpRGuScm5B9ok7,#ClickFix #Windows,https://threatfox.abuse.ch/ioc/1882394/
 2026-08-19 00:40:51,Remus,url,http://vexdico.shop:8539/addresses,#Remus,https://bazaar.abuse.ch/sample/0ecbba5d1aa1cfb32e96df6d6d7854929353733668ad1134256ec0451dc1a1da/
-2026-08-18 06:44:13,Remus,url,http://vexdico.shop:8539/transactions,#Remus,https://threatfox.abuse.ch/ioc/1878801/
-2026-08-18 07:04:32,Vidar,url,https://178.105.46.40/,#Vidar,https://threatfox.abuse.ch/ioc/1878810/
-2026-08-18 07:04:33,Vidar,url,https://178.105.46.54/,#Vidar,https://threatfox.abuse.ch/ioc/1878813/
-2026-08-18 07:04:31,Vidar,url,https://195.201.41.237/,#Vidar,https://threatfox.abuse.ch/ioc/1878808/
-2026-08-18 07:04:34,Vidar,url,https://37.27.179.201/,#Vidar,https://threatfox.abuse.ch/ioc/1878817/
-2026-08-18 15:31:01,Unknown malware,url,https://3pattipkr.com.pk/,#ClickFix,https://clickfix.carsonww.com/domains/3pattipkr.com.pk
-2026-08-18 07:04:33,Vidar,url,https://46.62.196.164/,#Vidar,https://threatfox.abuse.ch/ioc/1878814/
-2026-08-18 07:04:31,Vidar,url,https://62.238.106.108/,#Vidar,https://threatfox.abuse.ch/ioc/1878807/
-2026-08-18 07:04:33,Vidar,url,https://62.238.107.2/,#Vidar,https://threatfox.abuse.ch/ioc/1878815/
-2026-08-18 07:04:33,Vidar,url,https://62.238.57.58/,#Vidar,https://threatfox.abuse.ch/ioc/1878812/
-2026-08-18 07:04:32,Vidar,url,https://62.238.96.179/,#Vidar,https://threatfox.abuse.ch/ioc/1878811/
+2026-08-19 13:30:57,Remus,url,http://vexdico.shop:8539/collections,#Remus,https://bazaar.abuse.ch/sample/cce3ddac2dbcaf1a4f4db50b48fcc4e65341096b51c7bc6c13e7bd98c867e1f2/
+2026-08-19 13:46:13,Remus,url,http://vexdico.shop:8539/invoices,#Remus,https://threatfox.abuse.ch/ioc/1882304/
+2026-08-19 13:25:51,Remus,url,http://vexdico.shop:8539/tags,#Remus,https://bazaar.abuse.ch/sample/71e5bb794cf80e7bfeae891138b6acaf5d391f75dd665d5ea7c6e024df8e2f9d/
+2026-08-19 10:27:04,Unknown Stealer,url,http://woolvilli.com/api/v2,#NeedleStealer,https://threatfox.abuse.ch/ioc/1881968/
+2026-08-19 15:01:04,Remus,url,http://zakuiru.shop:9048/categories,#Remus,https://bazaar.abuse.ch/sample/edb7f446f91211fcb38d3d38b69dc3e503a554a7b1399700af6aa4635266af15/
+2026-08-19 15:01:06,Remus,url,http://zakuiru.shop:9048/contacts,#Remus,https://bazaar.abuse.ch/sample/684716407fac9db2bf2540db8c7c74928b98dbfbebeae2181d7bd0aa73656a31/
+2026-08-19 15:21:23,Remus,url,http://zakuiru.shop:9048/files,#Remus,https://threatfox.abuse.ch/ioc/1882385/
+2026-08-19 15:01:10,Remus,url,http://zakuiru.shop:9048/imports,#Remus,https://bazaar.abuse.ch/sample/ab81e32fd9260645a5a4e6534a69d4a8c8db5e5c873a2a8f5aae600902bd4a8c/
+2026-08-19 14:01:09,Remus,url,http://zakuiru.shop:9048/orders,#Remus,https://bazaar.abuse.ch/sample/d3840bcd452fbd7df0083393d79e5848192231195a7242a018c0b8a991e3d3f8/
+2026-08-19 15:05:49,Remus,url,http://zakuiru.shop:9048/settings,#Remus,https://bazaar.abuse.ch/sample/94ac07fc63269ca404c5f47a8298d92a227e8da5917e6fd3f96a1f06f90572b7/
+2026-08-19 15:10:56,Remus,url,http://zakuiru.shop:9048/videos,#Remus,https://bazaar.abuse.ch/sample/8e11c717fa2e8c37b5f1ed695d8c8e1898d4e1f40a976e79ece0a8f4260fa9b4/
+2026-08-19 15:01:15,Remus,url,http://zakuiru.shop:9048/workspaces,#Remus,https://bazaar.abuse.ch/sample/d9630814908b32ab2454226015db48cc39f32f6a6fc0829367b5fe7f6db5161b/
+2026-08-19 15:01:19,Remus,url,http://zxdaone.click:6432/addresses,#Remus,https://bazaar.abuse.ch/sample/d9630814908b32ab2454226015db48cc39f32f6a6fc0829367b5fe7f6db5161b/
+2026-08-19 15:05:51,Remus,url,http://zxdaone.click:6432/categories,#Remus,https://bazaar.abuse.ch/sample/94ac07fc63269ca404c5f47a8298d92a227e8da5917e6fd3f96a1f06f90572b7/
+2026-08-19 15:01:21,Remus,url,http://zxdaone.click:6432/files,#Remus,https://bazaar.abuse.ch/sample/ab81e32fd9260645a5a4e6534a69d4a8c8db5e5c873a2a8f5aae600902bd4a8c/
+2026-08-19 15:05:53,Remus,url,http://zxdaone.click:6432/permissions,#Remus,https://bazaar.abuse.ch/sample/1d1764ee1c71dd5da7339e1ac13b84fc6d041782ba66cd310bf268184fb43951/
+2026-08-19 15:01:22,Remus,url,http://zxdaone.click:6432/subscriptions,#Remus,https://bazaar.abuse.ch/sample/684716407fac9db2bf2540db8c7c74928b98dbfbebeae2181d7bd0aa73656a31/
+2026-08-19 15:01:24,Remus,url,http://zxdaone.click:6432/tasks,#Remus,https://bazaar.abuse.ch/sample/edb7f446f91211fcb38d3d38b69dc3e503a554a7b1399700af6aa4635266af15/
 2026-08-19 06:05:25,Vidar,url,https://62.238.98.35,#592a9e009f92c0e8eaea74a337b4f67c #c2 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1881418/
-2026-08-18 07:04:31,Vidar,url,https://65.109.30.141/,#Vidar,https://threatfox.abuse.ch/ioc/1878806/
-2026-08-18 07:04:32,Vidar,url,https://77.42.126.206/,#Vidar,https://threatfox.abuse.ch/ioc/1878809/
-2026-08-18 15:31:01,Unknown malware,url,https://777szgame.pk/,#ClickFix,https://clickfix.carsonww.com/domains/777szgame.pk
-2026-08-18 07:04:34,Vidar,url,https://89.167.13.71/,#Vidar,https://threatfox.abuse.ch/ioc/1878816/
-2026-08-18 15:31:00,Unknown malware,url,https://8jjbetgame.net/,#ClickFix,https://clickfix.carsonww.com/domains/8jjbetgame.net
-2026-08-18 16:10:47,Vidar,url,https://91.92.243.51,#Vidar,https://bazaar.abuse.ch/sample/2a45e6c914ff7da1d39558fc1ffb65d2a9e4422d37352957b17f1cabfdf7130c/
-2026-08-18 15:31:00,Unknown malware,url,https://bit2solutions.com/,#ClickFix,https://clickfix.carsonww.com/domains/bit2solutions.com
-2026-08-18 14:03:07,Vidar,url,https://bob.1001gacor.org,#903ac24fcd9670b9ef2e674243d550d8 #c2 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1880849/
-2026-08-18 11:45:06,Vidar,url,https://bob.1131gg.org/,#Vidar,https://threatfox.abuse.ch/ioc/1880287/
-2026-08-18 11:45:07,Vidar,url,https://bob.sm188dadu.top/,#Vidar,https://threatfox.abuse.ch/ioc/1880289/
+2026-08-19 09:44:43,Unknown malware,url,https://admin.csep-security.dk,#c2 #GoPhish #phishing #URLscan,https://urlscan.io/result/01a01968-a213-7670-be69-b2c06baab084
+2026-08-19 09:44:47,Unknown malware,url,https://admin.perdania.co,#c2 #GoPhish #phishing #URLscan,https://urlscan.io/result/01a01968-b321-708f-a23a-b80f2192d2da
+2026-08-19 09:45:28,Unknown malware,url,https://adobeartsia.com/pages/login.php,#c2 #UNAM #URLscan,https://urlscan.io/result/01a01969-5336-708a-b813-7d1eaeea4a14
+2026-08-19 09:44:42,Unknown malware,url,https://appmail.dmsecurity.com.br,#c2 #GoPhish #phishing #URLscan,https://urlscan.io/result/01a01968-9e1a-7660-a50f-578e7113fb65
+2026-08-19 08:30:08,Unknown malware,url,https://autosolutionsconnect.com/,#ClickFix,https://clickfix.carsonww.com/domains/autosolutionsconnect.com
 2026-08-19 02:26:16,Vidar,url,https://bob.sm188daftar.mom/,#Vidar #x4tte,https://threatfox.abuse.ch/ioc/1881581/
-2026-08-18 14:23:11,SmartApeSG,url,https://briarvelarium.top/status/alias-build.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/1880885/
-2026-08-18 16:17:02,SmartApeSG,url,https://buttresshalcyon.top/policy/oauth-validator.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/1881004/
-2026-08-18 15:31:01,Unknown malware,url,https://bytesolving.info/,#ClickFix,https://clickfix.carsonww.com/domains/bytesolving.info
-2026-08-18 15:31:00,Unknown malware,url,https://caltexpoint.com/,#ClickFix,https://clickfix.carsonww.com/domains/caltexpoint.com
-2026-08-18 14:12:11,Unknown Loader,url,https://cdn.zrorolite.com/5NPL.js,#c2 #ClickFix,https://threatfox.abuse.ch/ioc/1880869/
-2026-08-18 12:28:37,KongTuke,url,https://chappan.lol/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1880277/
-2026-08-18 15:27:21,KongTuke,url,https://chappan.lol/api/v1/status,#Kongtuke,https://threatfox.abuse.ch/ioc/1880868/
-2026-08-18 12:28:36,KongTuke,url,https://chappan.lol/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1880278/
-2026-08-18 09:31:01,Unknown malware,url,https://chillifarmsukabumi.com/,#ClickFix,https://clickfix.carsonww.com/domains/chillifarmsukabumi.com
-2026-08-18 15:31:00,Unknown malware,url,https://clubpkgame.vip/,#ClickFix,https://clickfix.carsonww.com/domains/clubpkgame.vip
-2026-08-18 14:17:43,SpyNote,url,https://cs9-korea.xxchangyou.com/,#c2 #Spynote #URLscan,https://urlscan.io/result/01a0153c-39d1-76fe-bb7a-9cad63fb8d64
-2026-08-18 14:21:55,Evilginx,url,https://cyberpunk.lab.evilginx.com/,#c2 #EvilGinx #URLscan,https://urlscan.io/result/01a01540-129d-75eb-aef5-738f5db07371
-2026-08-18 14:23:11,SmartApeSG,url,https://cygnetrampart.top/policy/oauth-validator.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/1880884/
-2026-08-18 15:31:00,Unknown malware,url,https://dk999app.com.pk/,#ClickFix,https://clickfix.carsonww.com/domains/dk999app.com.pk
-2026-08-18 15:31:00,Unknown malware,url,https://galonz.com/,#ClickFix,https://clickfix.carsonww.com/domains/galonz.com
-2026-08-18 15:31:00,Unknown malware,url,https://gbazzar.in/,#ClickFix,https://clickfix.carsonww.com/domains/gbazzar.in
-2026-08-18 15:27:20,Vidar,url,https://ges.1131gg.org,#903ac24fcd9670b9ef2e674243d550d8 #c2 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1880889/
-2026-08-18 14:40:05,Vidar,url,https://ges.sm188dadu.top/,#Vidar,https://threatfox.abuse.ch/ioc/1880939/
-2026-08-18 15:01:07,Unknown malware,url,https://imworthdefending.org/,#ClickFix,https://clickfix.carsonww.com/domains/imworthdefending.org
-2026-08-18 14:14:07,SpyNote,url,https://junjun002.top/,#c2 #Spynote #URLscan,https://urlscan.io/result/01a01538-eca2-731f-b144-aa3495f014cb
-2026-08-18 14:14:05,SpyNote,url,https://junjun007.top/,#c2 #Spynote #URLscan,https://urlscan.io/result/01a01538-e5e2-71b4-b36f-40282c0d5876
-2026-08-18 15:01:06,Unknown malware,url,https://k666game.pk/,#ClickFix,https://clickfix.carsonww.com/domains/k666game.pk
-2026-08-18 15:01:06,Unknown malware,url,https://kitkateventz.com/,#ClickFix,https://clickfix.carsonww.com/domains/kitkateventz.com
-2026-08-18 17:01:03,Unknown malware,url,https://lankataxicabs.com/,#ClickFix,https://clickfix.carsonww.com/domains/lankataxicabs.com
-2026-08-18 15:01:06,Unknown malware,url,https://laprensadecojedes.com/,#ClickFix,https://clickfix.carsonww.com/domains/laprensadecojedes.com
-2026-08-18 15:01:06,Unknown malware,url,https://laverie-saint-marc.com/,#ClickFix,https://clickfix.carsonww.com/domains/laverie-saint-marc.com
-2026-08-18 15:01:06,Unknown malware,url,https://leannepearson.com/,#ClickFix,https://clickfix.carsonww.com/domains/leannepearson.com
+2026-08-19 12:47:19,KongTuke,url,https://boulangeo.lol/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1882270/
+2026-08-19 15:01:14,KongTuke,url,https://boulangeo.lol/api/v1/status,#Kongtuke,https://threatfox.abuse.ch/ioc/1882323/
+2026-08-19 12:47:19,KongTuke,url,https://boulangeo.lol/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1882271/
+2026-08-19 08:30:09,Unknown malware,url,https://casaandaimemarica.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/casaandaimemarica.com.br
+2026-08-19 13:52:18,ClearFake,url,https://cdn.jsdelivr.net/gh/stroller-del/shrouded/growl,#ClearFake,https://threatfox.abuse.ch/ioc/1882308/
+2026-08-19 09:44:48,Unknown malware,url,https://deutsche-post-info.de,#c2 #GoPhish #phishing #URLscan,https://urlscan.io/result/01a01968-b695-766b-92ad-e95c23b1341a
+2026-08-19 17:00:09,Unknown malware,url,https://dugrangranitos.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/dugrangranitos.com.br
+2026-08-19 09:44:44,Unknown malware,url,https://ec2-107-21-100-205.compute-1.amazonaws.com,#c2 #GoPhish #phishing #URLscan,https://urlscan.io/result/01a01968-a836-7291-82ef-16b53b2b4923
+2026-08-19 09:44:46,Unknown malware,url,https://ec2-43-218-88-179.ap-southeast-3.compute.amazonaws.com,#c2 #GoPhish #phishing #URLscan,https://urlscan.io/result/01a01968-ade4-7031-a496-ccadf997859c
+2026-08-19 09:44:45,Unknown malware,url,https://gophish.goin.org,#c2 #GoPhish #phishing #URLscan,https://urlscan.io/result/01a01968-abaa-7101-881d-980e5f6191e5
+2026-08-19 09:44:49,Unknown malware,url,https://hubspot-account.de,#c2 #GoPhish #phishing #URLscan,https://urlscan.io/result/01a01968-bcee-718a-9e4c-b53c75894e11
+2026-08-19 13:35:49,KongTuke,url,https://iosselin.lol/api/v1/session,#Kongtuke,https://threatfox.abuse.ch/ioc/1882288/
+2026-08-19 13:35:48,KongTuke,url,https://iosselin.lol/api/v1/verify,#Kongtuke,https://threatfox.abuse.ch/ioc/1882289/
+2026-08-19 09:00:11,Unknown malware,url,https://kakabrands.com/,#ClickFix,https://clickfix.carsonww.com/domains/kakabrands.com
+2026-08-19 11:30:08,Unknown malware,url,https://kalekos.world/,#ClickFix,https://clickfix.carsonww.com/domains/kalekos.world
+2026-08-19 09:20:05,Vidar,url,https://ket.1131gg.org/,#Vidar,https://threatfox.abuse.ch/ioc/1881817/
+2026-08-19 09:25:05,Vidar,url,https://ket.sm188dadu.top/,#Vidar,https://threatfox.abuse.ch/ioc/1881849/
+2026-08-19 09:26:26,Vidar,url,https://ket.sm188daftar.mom/,#Vidar #x4tte,https://threatfox.abuse.ch/ioc/1881850/
+2026-08-19 13:53:17,SmartApeSG,url,https://lindenplumb.top/user/health-effect.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/1882309/
+2026-08-19 13:47:53,SmartApeSG,url,https://lindenplumb.top/user/refresh-html,#SmartApeSG,https://threatfox.abuse.ch/ioc/1882306/
 2026-08-19 06:05:05,Vidar,url,https://ljr.1001gacor.org,#903ac24fcd9670b9ef2e674243d550d8 #c2 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1881592/
 2026-08-18 23:55:05,Vidar,url,https://ljr.1131gg.org/,#Vidar,https://threatfox.abuse.ch/ioc/1881513/
 2026-08-18 23:55:05,Vidar,url,https://ljr.sm188dadu.top/,#Vidar,https://threatfox.abuse.ch/ioc/1881515/
 2026-08-19 00:26:21,Vidar,url,https://ljr.sm188daftar.mom/,#Vidar #x4tte,https://threatfox.abuse.ch/ioc/1881549/
-2026-08-18 17:01:03,Unknown malware,url,https://moat55.io/,#ClickFix,https://clickfix.carsonww.com/domains/moat55.io
-2026-08-18 09:15:13,IClickFix,url,https://mortilostart.com/5qdS7Aq.js,#c2 #ClickFix,https://threatfox.abuse.ch/ioc/1880175/
+2026-08-19 09:44:49,Unknown malware,url,https://microsoft-account-service.de,#c2 #GoPhish #phishing #URLscan,https://urlscan.io/result/01a01968-b996-744c-ab29-54c66343f2fb
 2026-08-18 19:05:05,Vidar,url,https://nhg.1131gg.org/,#Vidar,https://threatfox.abuse.ch/ioc/1881341/
 2026-08-18 19:10:05,Vidar,url,https://nhg.sm188dadu.top/,#Vidar,https://threatfox.abuse.ch/ioc/1881348/
-2026-08-18 15:01:06,Unknown malware,url,https://pak365game.pk/,#ClickFix,https://clickfix.carsonww.com/domains/pak365game.pk
-2026-08-18 15:01:06,Unknown malware,url,https://pakaviatoor.com/,#ClickFix,https://clickfix.carsonww.com/domains/pakaviatoor.com
-2026-08-18 15:01:06,Unknown malware,url,https://pakaviator.net.pk/,#ClickFix,https://clickfix.carsonww.com/domains/pakaviator.net.pk
-2026-08-18 15:01:05,Unknown malware,url,https://pkcasino.org/,#ClickFix,https://clickfix.carsonww.com/domains/pkcasino.org
-2026-08-18 15:01:05,Unknown malware,url,https://purekhaddo.com/,#ClickFix,https://clickfix.carsonww.com/domains/purekhaddo.com
-2026-08-18 08:28:04,Unknown malware,url,https://qorvi.pro/fdab9755.exe,#ClickFix,https://threatfox.abuse.ch/ioc/1880182/
+2026-08-19 08:30:09,Unknown malware,url,https://one1ppp.com.pk/,#ClickFix,https://clickfix.carsonww.com/domains/one1ppp.com.pk
+2026-08-19 11:39:18,AsyncRAT,url,https://pastebin.com/raw/9stYNLmi,#asyncrat #c2,https://threatfox.abuse.ch/ioc/1882225/
+2026-08-19 13:56:17,SmartApeSG,url,https://peridotskerry.top/user/health-effect.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/1882310/
+2026-08-19 09:44:49,Unknown malware,url,https://phish.sec.endpointas.com,#c2 #GoPhish #phishing #URLscan,https://urlscan.io/result/01a01968-bb2a-772f-97fc-c5ece7061207
+2026-08-19 09:44:43,Unknown malware,url,https://ps.faircode.com,#c2 #GoPhish #phishing #URLscan,https://urlscan.io/result/01a01968-a4e1-738a-8d47-b0b5b27574b5
 2026-08-19 06:04:54,KongTuke,url,https://randenbrink.lol/api/v1/session,#Kongtuke,https://infosec.exchange/@monitorsg/117117856549686474
 2026-08-19 06:04:51,KongTuke,url,https://randenbrink.lol/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/117117856549686474
 2026-08-19 06:04:52,KongTuke,url,https://randenbrink.lol/api/v1/verify,#Kongtuke,https://infosec.exchange/@monitorsg/117117856549686474
-2026-08-18 07:04:31,Vidar,url,https://rnd.sm188daftar.cfd/,#Vidar,https://threatfox.abuse.ch/ioc/1878805/
-2026-08-18 15:01:05,Unknown malware,url,https://royalpkr.pk/,#ClickFix,https://clickfix.carsonww.com/domains/royalpkr.pk
-2026-08-18 15:01:05,Unknown malware,url,https://rr3game.com/,#ClickFix,https://clickfix.carsonww.com/domains/rr3game.com
+2026-08-19 09:45:30,Unknown malware,url,https://relay-01-static.com/pages/login.php,#c2 #UNAM #URLscan,https://urlscan.io/result/01a01969-5ab9-746e-9db5-2a93416478af
 2026-08-18 21:01:02,Unknown malware,url,https://s3hsyuj2k.sbs/,#ClickFix,https://clickfix.carsonww.com/domains/s3hsyuj2k.sbs
-2026-08-18 15:01:05,Unknown malware,url,https://s92bet.net/,#ClickFix,https://clickfix.carsonww.com/domains/s92bet.net
-2026-08-18 15:01:05,Unknown malware,url,https://spinwinpkgame.net/,#ClickFix,https://clickfix.carsonww.com/domains/spinwinpkgame.net
-2026-08-18 14:16:31,Unknown Stealer,url,https://ssj6u-6aaaa-aaaap-qsybq-cai.icp0.io/,#Byakugan #c2 #URLscan,https://urlscan.io/result/01a0153b-1ef3-77a8-a6f7-a5699de3113d
-2026-08-18 14:03:05,KongTuke,url,https://stevsns.lol/api/v1/session,#Kongtuke,https://infosec.exchange/@monitorsg/117116679039975377
-2026-08-18 14:03:04,KongTuke,url,https://stevsns.lol/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/117116679039975377
-2026-08-18 14:03:05,KongTuke,url,https://stevsns.lol/api/v1/verify,#Kongtuke,https://infosec.exchange/@monitorsg/117116679039975377
-2026-08-18 15:01:05,Unknown malware,url,https://techfixlogic.info/,#ClickFix,https://clickfix.carsonww.com/domains/techfixlogic.info
-2026-08-18 15:01:04,Unknown malware,url,https://thetechinstruct.info/,#ClickFix,https://clickfix.carsonww.com/domains/thetechinstruct.info
-2026-08-18 15:01:05,Unknown malware,url,https://unifm1027.com/,#ClickFix,https://clickfix.carsonww.com/domains/unifm1027.com
+2026-08-19 08:30:08,Unknown malware,url,https://speed.hirebiz.pro/index-classic.html,#ClickFix,https://clickfix.carsonww.com/domains/speed.hirebiz.pro
+2026-08-19 09:45:29,Unknown malware,url,https://strang-02-static.com/pages/login.php,#c2 #UNAM #URLscan,https://urlscan.io/result/01a01969-56a4-7177-848c-25f5881151bf
+2026-08-19 08:00:10,Unknown malware,url,https://topqualityroofingsolutionsltd.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/topqualityroofingsolutionsltd.co.uk
 2026-08-19 02:30:07,Unknown malware,url,https://valeroks.click/,#ClickFix,https://clickfix.carsonww.com/domains/valeroks.click
 2026-08-19 06:04:49,KongTuke,url,https://vanloon.lol/api/v1/session,#Kongtuke,https://infosec.exchange/@monitorsg/117118086922735381
 2026-08-19 06:04:45,KongTuke,url,https://vanloon.lol/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/117118086922735381
 2026-08-19 06:04:46,KongTuke,url,https://vanloon.lol/api/v1/verify,#Kongtuke,https://infosec.exchange/@monitorsg/117118086922735381
-2026-08-18 15:01:04,Unknown malware,url,https://vizanstudios.com/,#ClickFix,https://clickfix.carsonww.com/domains/vizanstudios.com
-2026-08-18 15:01:04,Unknown malware,url,https://winbdd.com/,#ClickFix,https://clickfix.carsonww.com/domains/winbdd.com
-2026-08-18 17:01:03,Unknown malware,url,https://winrupees.com.pk/,#ClickFix,https://clickfix.carsonww.com/domains/winrupees.com.pk
-2026-08-18 15:31:00,Unknown malware,url,https://www.detoxiones.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.detoxiones.com
-2026-08-18 15:01:06,Unknown malware,url,https://www.jahmadartstudio.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.jahmadartstudio.com
-2026-08-18 15:01:06,Unknown malware,url,https://www.makttravels.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.makttravels.com
-2026-08-18 07:04:30,Vidar,url,https://www.pinterest.com/m1duus/,#Vidar,https://threatfox.abuse.ch/ioc/1878804/
-2026-08-18 15:01:04,Unknown malware,url,https://www.waouhmonde.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.waouhmonde.com
 2026-08-18 21:01:03,Unknown malware,url,https://zillow-app.sbs/,#ClickFix,https://clickfix.carsonww.com/domains/zillow-app.sbs
-2026-08-18 17:01:02,Unknown malware,url,https://zs777game.net/,#ClickFix,https://clickfix.carsonww.com/domains/zs777game.net
