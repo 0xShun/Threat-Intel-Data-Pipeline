@@ -1,50 +1,54 @@
-2026-08-24 07:46:05,Mirai,url,http://150.241.65.250:889/raul.mips,#elf #IoT,https://honeylabs.net/lookup/150.241.65.250
-2026-08-24 07:46:17,Mozi,url,http://153.117.26.194:55070/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.26.194
-2026-08-25 06:19:12,Mozi,url,http://153.117.46.172:51188/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.46.172
-2026-08-24 22:50:25,Unknown malware,url,http://176.65.139.196/bins/kla.sh,#Dropper #honeypot #shell-script,https://threatfox.abuse.ch/ioc/1886475/
-2026-08-24 22:50:25,Unknown malware,url,http://176.65.139.196/bins/parm,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886476/
-2026-08-24 22:50:26,Unknown malware,url,http://176.65.139.196/bins/parm5,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886477/
-2026-08-24 22:50:26,Unknown malware,url,http://176.65.139.196/bins/parm6,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886478/
-2026-08-24 22:50:27,Unknown malware,url,http://176.65.139.196/bins/parm7,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886479/
-2026-08-24 22:50:27,Unknown malware,url,http://176.65.139.196/bins/pm68k,#elf #honeypot #m68k,https://threatfox.abuse.ch/ioc/1886480/
-2026-08-24 22:50:28,Unknown malware,url,http://176.65.139.196/bins/pmips,#elf #honeypot #MIPS,https://threatfox.abuse.ch/ioc/1886481/
-2026-08-24 22:50:28,Unknown malware,url,http://176.65.139.196/bins/pmpsl,#elf #honeypot #mipsel,https://threatfox.abuse.ch/ioc/1886482/
-2026-08-24 22:54:56,Unknown malware,url,http://176.65.139.196/bins/pppc,#elf #ppc,https://threatfox.abuse.ch/ioc/1886502/
-2026-08-24 22:54:50,Unknown malware,url,http://176.65.139.196/bins/psh4,#elf #sh4,https://threatfox.abuse.ch/ioc/1886496/
-2026-08-24 22:54:50,Unknown malware,url,http://176.65.139.196/bins/px86,#elf #x86,https://threatfox.abuse.ch/ioc/1886495/
-2026-08-24 22:54:52,Unknown malware,url,http://176.65.139.202/a.sh,#Dropper #shell-script,https://threatfox.abuse.ch/ioc/1886497/
-2026-08-24 22:50:29,Unknown malware,url,http://176.65.139.202/daredevil.arc,#elf #honeypot,https://threatfox.abuse.ch/ioc/1886483/
-2026-08-24 22:50:30,Unknown malware,url,http://176.65.139.202/daredevil.armv4l,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886484/
-2026-08-24 22:50:30,Unknown malware,url,http://176.65.139.202/daredevil.armv5l,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886485/
-2026-08-24 22:50:31,Unknown malware,url,http://176.65.139.202/daredevil.armv6l,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886486/
-2026-08-24 22:50:32,Unknown malware,url,http://176.65.139.202/daredevil.armv7l,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886487/
-2026-08-24 22:50:32,Unknown malware,url,http://176.65.139.202/daredevil.i486,#elf #honeypot #x86,https://threatfox.abuse.ch/ioc/1886488/
-2026-08-24 22:50:32,Unknown malware,url,http://176.65.139.202/daredevil.m68k,#elf #honeypot #m68k,https://threatfox.abuse.ch/ioc/1886489/
-2026-08-24 22:50:33,Unknown malware,url,http://176.65.139.202/daredevil.mips,#elf #honeypot #MIPS,https://threatfox.abuse.ch/ioc/1886490/
-2026-08-24 22:54:54,Unknown malware,url,http://176.65.139.202/daredevil.mipsel,#elf #mipsel,https://threatfox.abuse.ch/ioc/1886500/
-2026-08-24 22:55:00,Unknown malware,url,http://176.65.139.202/daredevil.powerpc,#elf #ppc,https://threatfox.abuse.ch/ioc/1886505/
-2026-08-24 22:54:49,Unknown malware,url,http://176.65.139.202/daredevil.sh4,#elf #sh4,https://threatfox.abuse.ch/ioc/1886493/
-2026-08-24 22:55:00,Unknown malware,url,http://176.65.139.202/daredevil.sparc,#elf #sparc,https://threatfox.abuse.ch/ioc/1886504/
-2026-08-24 22:54:53,Unknown malware,url,http://176.65.139.202/daredevil.x86_64,#elf #x86-64,https://threatfox.abuse.ch/ioc/1886499/
-2026-08-24 22:54:57,Unknown malware,url,http://176.65.139.202/totolink.sh,#Dropper #shell-script,https://threatfox.abuse.ch/ioc/1886503/
-2026-08-24 22:54:55,Unknown malware,url,http://176.65.139.202:80/telnet.sh,#Dropper #shell-script,https://threatfox.abuse.ch/ioc/1886501/
-2026-08-24 22:54:49,Unknown malware,url,http://176.65.139.202:80/tplinkrouter.sh,#Dropper #shell-script,https://threatfox.abuse.ch/ioc/1886494/
-2026-08-24 22:50:34,Unknown malware,url,http://198.144.179.82:80/1.sh,#Dropper #honeypot #shell-script,https://threatfox.abuse.ch/ioc/1886491/
-2026-08-24 07:45:50,Mozi,url,http://202.47.56.251:59587/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/202.47.56.251
-2026-08-24 07:46:18,Mozi,url,http://220.150.112.201:46096/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/220.150.112.201
-2026-08-25 00:19:11,Mozi,url,http://36.255.44.120:59604/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/36.255.44.120
-2026-08-25 06:19:12,Mozi,url,http://39.86.251.237:54344/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/39.86.251.237
+2026-08-25 12:20:19,Mozi,url,http://139.135.44.252:59693/Mozi.7,#elf #IoT #Mozi,https://honeylabs.net/lookup/139.135.44.252
+2026-08-25 12:20:20,Mozi,url,http://139.135.45.132:37818/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/139.135.45.132
+2026-08-25 12:20:21,Mozi,url,http://144.48.135.126:49506/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/144.48.135.126
+2026-08-25 06:48:07,Mozi,url,http://153.117.46.172:51188/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.46.172
+2026-08-25 06:49:24,Unknown malware,url,http://176.65.139.196/bins/kla.sh,#Dropper #honeypot #shell-script,https://threatfox.abuse.ch/ioc/1886475/
+2026-08-25 06:49:23,Unknown malware,url,http://176.65.139.196/bins/parm,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886476/
+2026-08-25 06:49:23,Unknown malware,url,http://176.65.139.196/bins/parm5,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886477/
+2026-08-25 06:49:22,Unknown malware,url,http://176.65.139.196/bins/parm6,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886478/
+2026-08-25 06:49:22,Unknown malware,url,http://176.65.139.196/bins/parm7,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886479/
+2026-08-25 06:49:21,Unknown malware,url,http://176.65.139.196/bins/pm68k,#elf #honeypot #m68k,https://threatfox.abuse.ch/ioc/1886480/
+2026-08-25 06:49:20,Unknown malware,url,http://176.65.139.196/bins/pmips,#elf #honeypot #MIPS,https://threatfox.abuse.ch/ioc/1886481/
+2026-08-25 06:49:20,Unknown malware,url,http://176.65.139.196/bins/pmpsl,#elf #honeypot #mipsel,https://threatfox.abuse.ch/ioc/1886482/
+2026-08-25 06:49:09,Unknown malware,url,http://176.65.139.196/bins/pppc,#elf #ppc,https://threatfox.abuse.ch/ioc/1886502/
+2026-08-25 06:49:13,Unknown malware,url,http://176.65.139.196/bins/psh4,#elf #sh4,https://threatfox.abuse.ch/ioc/1886496/
+2026-08-25 06:49:14,Unknown malware,url,http://176.65.139.196/bins/px86,#elf #x86,https://threatfox.abuse.ch/ioc/1886495/
+2026-08-25 06:49:13,Unknown malware,url,http://176.65.139.202/a.sh,#Dropper #shell-script,https://threatfox.abuse.ch/ioc/1886497/
+2026-08-25 06:49:20,Unknown malware,url,http://176.65.139.202/daredevil.arc,#elf #honeypot,https://threatfox.abuse.ch/ioc/1886483/
+2026-08-25 06:49:19,Unknown malware,url,http://176.65.139.202/daredevil.armv4l,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886484/
+2026-08-25 06:49:19,Unknown malware,url,http://176.65.139.202/daredevil.armv5l,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886485/
+2026-08-25 06:49:19,Unknown malware,url,http://176.65.139.202/daredevil.armv6l,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886486/
+2026-08-25 06:49:18,Unknown malware,url,http://176.65.139.202/daredevil.armv7l,#ARM #elf #honeypot,https://threatfox.abuse.ch/ioc/1886487/
+2026-08-25 06:49:18,Unknown malware,url,http://176.65.139.202/daredevil.i486,#elf #honeypot #x86,https://threatfox.abuse.ch/ioc/1886488/
+2026-08-25 06:49:18,Unknown malware,url,http://176.65.139.202/daredevil.m68k,#elf #honeypot #m68k,https://threatfox.abuse.ch/ioc/1886489/
+2026-08-25 06:49:16,Unknown malware,url,http://176.65.139.202/daredevil.mips,#elf #honeypot #MIPS,https://threatfox.abuse.ch/ioc/1886490/
+2026-08-25 06:49:11,Unknown malware,url,http://176.65.139.202/daredevil.mipsel,#elf #mipsel,https://threatfox.abuse.ch/ioc/1886500/
+2026-08-25 06:48:56,Unknown malware,url,http://176.65.139.202/daredevil.powerpc,#elf #ppc,https://threatfox.abuse.ch/ioc/1886505/
+2026-08-25 06:49:15,Unknown malware,url,http://176.65.139.202/daredevil.sh4,#elf #sh4,https://threatfox.abuse.ch/ioc/1886493/
+2026-08-25 06:49:08,Unknown malware,url,http://176.65.139.202/daredevil.sparc,#elf #sparc,https://threatfox.abuse.ch/ioc/1886504/
+2026-08-25 06:49:12,Unknown malware,url,http://176.65.139.202/daredevil.x86_64,#elf #x86-64,https://threatfox.abuse.ch/ioc/1886499/
+2026-08-25 06:49:09,Unknown malware,url,http://176.65.139.202/totolink.sh,#Dropper #shell-script,https://threatfox.abuse.ch/ioc/1886503/
+2026-08-25 06:49:10,Unknown malware,url,http://176.65.139.202:80/telnet.sh,#Dropper #shell-script,https://threatfox.abuse.ch/ioc/1886501/
+2026-08-25 06:49:15,Unknown malware,url,http://176.65.139.202:80/tplinkrouter.sh,#Dropper #shell-script,https://threatfox.abuse.ch/ioc/1886494/
+2026-08-25 12:20:22,Mozi,url,http://182.190.218.128:45211/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/182.190.218.128
+2026-08-25 06:49:17,Unknown malware,url,http://198.144.179.82:80/1.sh,#Dropper #honeypot #shell-script,https://threatfox.abuse.ch/ioc/1886491/
+2026-08-25 09:41:59,Stealc,url,http://31.76.30.6/,#c2 #Loader #Stealc #stealer #tst100,https://threatfox.abuse.ch/ioc/1886720/
+2026-08-25 06:48:55,Mozi,url,http://36.255.44.120:59604/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/36.255.44.120
+2026-08-25 06:48:06,Mozi,url,http://39.86.251.237:54344/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/39.86.251.237
 2026-08-24 23:32:03,Remus,url,http://bazadar.shop:5728/webhooks,#Remus,https://threatfox.abuse.ch/ioc/1886522/
+2026-08-25 15:17:22,Remus,url,http://ciffice.biz:7720/imports,#Remus,https://threatfox.abuse.ch/ioc/1887236/
 2026-08-24 22:24:32,Remus,url,http://ciffice.biz:7720/videos,#Remus,https://threatfox.abuse.ch/ioc/1886466/
+2026-08-25 12:20:23,Stealc,url,http://downloadfreemanager.com/,#2 #c2 #Loader #Stealc #stealer,https://threatfox.abuse.ch/ioc/1886835/
+2026-08-25 15:00:34,Remus,url,http://fresok.top:9048/messages,#Remus,https://bazaar.abuse.ch/sample/4c16f5ebd5c633b7a793ffa2cd96daddc5a503d82ed4fbe636109d89164ec02b/
+2026-08-25 15:17:23,Remus,url,http://fresok.top:9048/webhooks,#Remus,https://threatfox.abuse.ch/ioc/1887237/
+2026-08-25 14:40:07,Houdini,url,http://jamesmore02.work.gd:7044/is-ready,#RAT #WSHRAT,https://threatfox.abuse.ch/ioc/1887198/
 2026-08-24 19:41:22,Remus,url,http://johtyin.click:7548,#Remus,https://threatfox.abuse.ch/ioc/1886396/
 2026-08-24 19:36:10,Remus,url,http://kupzovo.shop:7567/files,#Remus,https://threatfox.abuse.ch/ioc/1886395/
 2026-08-24 18:37:17,Remus,url,http://kupzovo.shop:7567/invoices,#Remus,https://threatfox.abuse.ch/ioc/1886365/
 2026-08-24 20:23:14,Remus,url,http://kupzovo.shop:7567/messages,#Remus,https://threatfox.abuse.ch/ioc/1886416/
 2026-08-24 18:31:57,Remus,url,http://kupzovo.shop:7567/permissions,#Remus,https://threatfox.abuse.ch/ioc/1886362/
-2026-08-24 11:25:19,Remus,url,http://luwerae.click:7748/imports,#Remus,https://bazaar.abuse.ch/sample/5e12c7f4822f67723eaed1c3ded4fc8e94e576fed316a2b24b56e003bccb44e4/
-2026-08-24 12:40:20,Remus,url,http://markext.shop:4627/exports,#Remus,https://bazaar.abuse.ch/sample/79a4f6619793991c126900993a4ab516983a61ca6dddeee9f8eb4bdd3a434c5a/
 2026-08-24 22:04:04,Remus,url,http://markext.shop:4627/images,#Remus,https://threatfox.abuse.ch/ioc/1886454/
-2026-08-24 12:50:29,Remus,url,http://markext.shop:4627/sessions,#Remus,https://bazaar.abuse.ch/sample/9dba35a99fdb8ece94c944267dbfd1321101c47c650d41f94ecf7f9f283e9db1/
+2026-08-25 09:14:23,Remus,url,http://mrlketo.shop:8932/users,#Remus,https://threatfox.abuse.ch/ioc/1886733/
 2026-08-24 22:04:03,Remus,url,http://mrlketo.shop:8932/webhooks,#Remus,https://threatfox.abuse.ch/ioc/1886453/
 2026-08-25 02:25:02,Loki Password Stealer (PWS),url,http://niskioglasi.rs/test2/Panel/fre.php,#Loki,https://threatfox.abuse.ch/ioc/1886606/
 2026-08-24 22:14:23,Remus,url,http://nopxs.shop:8839/customers,#Remus,https://threatfox.abuse.ch/ioc/1886460/
@@ -54,32 +58,23 @@
 2026-08-24 22:04:03,Remus,url,http://saflite.click:3452/tasks,#Remus,https://threatfox.abuse.ch/ioc/1886452/
 2026-08-25 02:36:23,Remus,url,http://shhsift.click:7647/accounts,#Remus,https://threatfox.abuse.ch/ioc/1886610/
 2026-08-24 22:14:23,Remus,url,http://shhsift.click:7647/addresses,#Remus,https://threatfox.abuse.ch/ioc/1886461/
-2026-08-24 15:10:21,Remus,url,http://shhsift.click:7647/articles,#Remus,https://bazaar.abuse.ch/sample/e0052883762cdd3cec6ab5ebbdc0f34eb3a718d67b1a55b2717d9ae6b28944e8/
-2026-08-24 07:00:35,Remus,url,http://shhsift.click:7647/collections,#Remus,https://bazaar.abuse.ch/sample/b007e3f21dc382e21ffdc64e665444bc9494d1d67b82bc7ddf415ba2288af648/
 2026-08-24 22:14:22,Remus,url,http://shhsift.click:7647/comments,#Remus,https://threatfox.abuse.ch/ioc/1886458/
-2026-08-24 12:05:20,Remus,url,http://shhsift.click:7647/documents,#Remus,https://bazaar.abuse.ch/sample/482fa07dd6635918997e856854b64285e1a631f873cee83b9c7f92c78cb4caca/
 2026-08-24 21:42:35,Remus,url,http://shhsift.click:7647/folders,#Remus,https://threatfox.abuse.ch/ioc/1886444/
 2026-08-24 21:31:38,Remus,url,http://shhsift.click:7647/images,#Remus,https://threatfox.abuse.ch/ioc/1886435/
-2026-08-24 12:40:24,Remus,url,http://shhsift.click:7647/imports,#Remus,https://bazaar.abuse.ch/sample/6958097575474cb21149aa5e9c9dd80ed6b49c8588d963ec786caff6fac7087a/
-2026-08-24 12:35:22,Remus,url,http://shhsift.click:7647/messages,#Remus,https://bazaar.abuse.ch/sample/c68b757774aa3ed96cfff4b2a3b5bbca511c17f2bc281ce9b17f49f6831fb4b1/
-2026-08-24 12:50:33,Remus,url,http://shhsift.click:7647/payments,#Remus,https://bazaar.abuse.ch/sample/9dba35a99fdb8ece94c944267dbfd1321101c47c650d41f94ecf7f9f283e9db1/
-2026-08-24 12:40:26,Remus,url,http://shhsift.click:7647/profiles,#Remus,https://bazaar.abuse.ch/sample/79a4f6619793991c126900993a4ab516983a61ca6dddeee9f8eb4bdd3a434c5a/
+2026-08-25 16:22:23,Remus,url,http://shhsift.click:7647/invoices,#Remus,https://threatfox.abuse.ch/ioc/1887265/
+2026-08-25 15:01:03,Remus,url,http://shhsift.click:7647/sessions,#Remus,https://threatfox.abuse.ch/ioc/1887223/
 2026-08-24 22:04:05,Remus,url,http://shhsift.click:7647/subscriptions,#Remus,https://threatfox.abuse.ch/ioc/1886455/
 2026-08-25 01:33:23,Remus,url,http://shhsift.click:7647/tasks,#Remus,https://threatfox.abuse.ch/ioc/1886543/
 2026-08-24 21:48:36,Remus,url,http://shhsift.click:7647/teams,#Remus,https://threatfox.abuse.ch/ioc/1886447/
 2026-08-24 23:32:03,Remus,url,http://shhsift.click:7647/transactions,#Remus,https://threatfox.abuse.ch/ioc/1886523/
 2026-08-24 22:24:32,Remus,url,http://shhsift.click:7647/videos,#Remus,https://threatfox.abuse.ch/ioc/1886467/
-2026-08-24 13:45:27,Remus,url,http://smareach.click:6534/accounts,#Remus,https://bazaar.abuse.ch/sample/7418da8244ca828455bf41fd20be45449600ee428e1b9926d17f8230cd759429/
-2026-08-24 14:00:33,Remus,url,http://smareach.click:6534/attachments,#Remus,https://bazaar.abuse.ch/sample/f1bb5a6451b387570a4fdaf71996bbebcf931e142123ac7f673bd0b37049c26c/
-2026-08-24 13:30:45,Remus,url,http://smareach.click:6534/exports,#Remus,https://bazaar.abuse.ch/sample/4ff863b60d5d5d4fb86764e6b6bb25677d2a3086c33fccc3f09e707937b8d4a9/
 2026-08-24 21:36:56,Remus,url,http://smareach.click:6534/payments,#Remus,https://threatfox.abuse.ch/ioc/1886437/
 2026-08-24 21:31:37,Remus,url,http://smareach.click:6534/reviews,#Remus,https://threatfox.abuse.ch/ioc/1886433/
 2026-08-24 21:36:57,Remus,url,http://smareach.click:6534/sessions,#Remus,https://threatfox.abuse.ch/ioc/1886438/
 2026-08-24 21:36:57,Remus,url,http://smareach.click:6534/webhooks,#Remus,https://threatfox.abuse.ch/ioc/1886439/
+2026-08-25 06:55:23,Remus,url,http://uiccvbk.click:8839/orders,#Remus,https://threatfox.abuse.ch/ioc/1886668/
 2026-08-24 19:46:30,Remus,url,http://vcava.shop:2958/customers,#Remus,https://threatfox.abuse.ch/ioc/1886397/
-2026-08-24 11:25:23,Remus,url,http://vexdico.shop:8539/orders,#Remus,https://bazaar.abuse.ch/sample/5e12c7f4822f67723eaed1c3ded4fc8e94e576fed316a2b24b56e003bccb44e4/
 2026-08-24 20:07:32,Remus,url,http://vexdico.shop:8539/reviews,#Remus,https://threatfox.abuse.ch/ioc/1886408/
-2026-08-24 07:00:37,Remus,url,http://vexdico.shop:8539/tasks,#Remus,https://bazaar.abuse.ch/sample/b007e3f21dc382e21ffdc64e665444bc9494d1d67b82bc7ddf415ba2288af648/
 2026-08-24 22:40:14,Remus,url,http://vztax.shop:9820/folders,#Remus,https://threatfox.abuse.ch/ioc/1886470/
 2026-08-24 20:12:46,Remus,url,http://xightne.click:7242/articles,#Remus,https://threatfox.abuse.ch/ioc/1886412/
 2026-08-24 19:51:29,Remus,url,http://xightne.click:7242/comments,#Remus,https://threatfox.abuse.ch/ioc/1886398/
@@ -89,15 +84,13 @@
 2026-08-24 19:20:35,Remus,url,http://xightne.click:7242/sessions,#Remus,https://threatfox.abuse.ch/ioc/1886391/
 2026-08-24 23:26:33,Remus,url,http://zakuiru.shop:9048/addresses,#Remus,https://threatfox.abuse.ch/ioc/1886520/
 2026-08-24 22:45:28,Remus,url,http://zakuiru.shop:9048/articles,#Remus,https://threatfox.abuse.ch/ioc/1886473/
-2026-08-24 12:35:26,Remus,url,http://zakuiru.shop:9048/attachments,#Remus,https://bazaar.abuse.ch/sample/c68b757774aa3ed96cfff4b2a3b5bbca511c17f2bc281ce9b17f49f6831fb4b1/
-2026-08-24 15:10:30,Remus,url,http://zakuiru.shop:9048/collections,#Remus,https://bazaar.abuse.ch/sample/e0052883762cdd3cec6ab5ebbdc0f34eb3a718d67b1a55b2717d9ae6b28944e8/
 2026-08-24 18:37:17,Remus,url,http://zakuiru.shop:9048/notifications,#Remus,https://threatfox.abuse.ch/ioc/1886364/
 2026-08-24 21:31:38,Remus,url,http://zakuiru.shop:9048/permissions,#Remus,https://threatfox.abuse.ch/ioc/1886436/
-2026-08-24 12:50:37,Remus,url,http://zakuiru.shop:9048/projects,#Remus,https://bazaar.abuse.ch/sample/1a44bfbdd9f4bbca790207cdd75e4b263922178077d616e1905ae84d55815ea0/
 2026-08-24 22:14:22,Remus,url,http://zakuiru.shop:9048/tags,#Remus,https://threatfox.abuse.ch/ioc/1886459/
 2026-08-24 19:51:29,Remus,url,http://zakuiru.shop:9048/tasks,#Remus,https://threatfox.abuse.ch/ioc/1886399/
 2026-08-24 19:00:43,Remus,url,http://zakuiru.shop:9048/teams,#Remus,https://bazaar.abuse.ch/sample/f5b850be90148056aa4dcc36802479a73a2966a07e7e66562feeee013ed70de5/
 2026-08-24 23:26:33,Remus,url,http://zonxh.shop:7728/addresses,#Remus,https://threatfox.abuse.ch/ioc/1886519/
+2026-08-25 15:01:03,Remus,url,http://zonxh.shop:7728/articles,#Remus,https://threatfox.abuse.ch/ioc/1887222/
 2026-08-24 21:58:36,Remus,url,http://zonxh.shop:7728/collections,#Remus,https://threatfox.abuse.ch/ioc/1886450/
 2026-08-24 22:14:22,Remus,url,http://zonxh.shop:7728/documents,#Remus,https://threatfox.abuse.ch/ioc/1886457/
 2026-08-24 22:19:31,Remus,url,http://zonxh.shop:7728/imports,#Remus,https://threatfox.abuse.ch/ioc/1886463/
@@ -106,103 +99,147 @@
 2026-08-25 02:36:22,Remus,url,http://zonxh.shop:7728/reviews,#Remus,https://threatfox.abuse.ch/ioc/1886609/
 2026-08-24 20:23:16,Remus,url,http://zonxh.shop:7728/sessions,#Remus,https://threatfox.abuse.ch/ioc/1886418/
 2026-08-24 20:23:15,Remus,url,http://zonxh.shop:7728/settings,#Remus,https://threatfox.abuse.ch/ioc/1886417/
-2026-08-24 12:05:23,Remus,url,http://zonxh.shop:7728/tokens,#Remus,https://bazaar.abuse.ch/sample/482fa07dd6635918997e856854b64285e1a631f873cee83b9c7f92c78cb4caca/
 2026-08-24 21:48:35,Remus,url,http://zonxh.shop:7728/transactions,#Remus,https://threatfox.abuse.ch/ioc/1886446/
 2026-08-24 23:21:35,Remus,url,http://zonxh.shop:7728/users,#Remus,https://threatfox.abuse.ch/ioc/1886517/
 2026-08-24 21:31:38,Remus,url,http://zonxh.shop:7728/workspaces,#Remus,https://threatfox.abuse.ch/ioc/1886434/
-2026-08-24 07:42:37,Vidar,url,https://167.233.78.24/,#Vidar,https://threatfox.abuse.ch/ioc/1885949/
-2026-08-24 12:30:21,Unknown malware,url,https://171388.eu9.myftpupload.com/,#ClickFix,https://clickfix.carsonww.com/domains/171388.eu9.myftpupload.com
-2026-08-24 07:42:37,Vidar,url,https://185.100.157.8/,#Vidar,https://threatfox.abuse.ch/ioc/1885944/
-2026-08-24 14:03:39,Vidar,url,https://185.167.99.44,#adda751cfd98d4fa8c426318f05b631b #c2 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1886297/
-2026-08-24 07:42:38,Vidar,url,https://193.168.173.159/,#Vidar,https://threatfox.abuse.ch/ioc/1885950/
-2026-08-24 07:42:36,Vidar,url,https://2.29.15.189/,#Vidar,https://threatfox.abuse.ch/ioc/1885943/
-2026-08-24 07:42:37,Vidar,url,https://2.29.9.195/,#Vidar,https://threatfox.abuse.ch/ioc/1885946/
-2026-08-24 07:42:37,Vidar,url,https://45.91.169.81/,#Vidar,https://threatfox.abuse.ch/ioc/1885945/
-2026-08-24 07:42:37,Vidar,url,https://62.238.122.8/,#Vidar,https://threatfox.abuse.ch/ioc/1885948/
-2026-08-24 07:42:37,Vidar,url,https://62.238.125.82/,#Vidar,https://threatfox.abuse.ch/ioc/1885947/
-2026-08-24 07:42:36,Vidar,url,https://62.238.44.228/,#Vidar,https://threatfox.abuse.ch/ioc/1885942/
-2026-08-24 07:42:38,Vidar,url,https://62.238.46.243/,#Vidar,https://threatfox.abuse.ch/ioc/1885952/
-2026-08-24 10:30:22,Unknown malware,url,https://631679.us26.myftpupload.com/,#ClickFix,https://clickfix.carsonww.com/domains/631679.us26.myftpupload.com
-2026-08-24 07:42:38,Vidar,url,https://77.42.91.181/,#Vidar,https://threatfox.abuse.ch/ioc/1885951/
+2026-08-25 14:05:45,Overlord RAT,url,https://104.129.12.113/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:45,Overlord RAT,url,https://104.197.0.198/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:45,Overlord RAT,url,https://116.118.4.198/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:45,Overlord RAT,url,https://130.185.249.239/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:45,Overlord RAT,url,https://135.181.128.187/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:46,Overlord RAT,url,https://144.172.115.45/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:46,Overlord RAT,url,https://150.241.108.237/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:46,Overlord RAT,url,https://167.71.242.108/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 11:32:58,Vidar,url,https://168.119.61.136,#608de134a53f9215c6fa06e5a514d150 #c2 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1886747/
+2026-08-25 14:05:46,Overlord RAT,url,https://176.96.138.130/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 07:17:07,Vidar,url,https://178.104.211.128/,#Vidar,https://threatfox.abuse.ch/ioc/1886682/
+2026-08-25 14:05:47,Overlord RAT,url,https://179.43.175.47/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:47,Overlord RAT,url,https://179.43.175.48/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:47,Overlord RAT,url,https://185.254.99.58/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:47,Overlord RAT,url,https://188.235.151.232/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:47,Overlord RAT,url,https://190.97.165.62/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:47,Overlord RAT,url,https://193.181.213.156/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:48,Overlord RAT,url,https://193.26.115.45/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:48,Overlord RAT,url,https://193.26.115.59/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:48,Overlord RAT,url,https://197.237.214.209/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:48,Overlord RAT,url,https://198.37.119.55/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:48,Overlord RAT,url,https://1997gb.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:50,Overlord RAT,url,https://2.26.123.82/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:50,Overlord RAT,url,https://2.27.200.141/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:50,Overlord RAT,url,https://2.59.135.182/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:49,Overlord RAT,url,https://20.79.177.198/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:49,Overlord RAT,url,https://207.180.3.163/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:49,Overlord RAT,url,https://207.246.74.65/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:49,Overlord RAT,url,https://212.11.64.54/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:49,Overlord RAT,url,https://212.113.119.206/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:50,Overlord RAT,url,https://31.7.63.12/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:51,Overlord RAT,url,https://31.7.63.13/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:51,Overlord RAT,url,https://35.222.181.12/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:51,Overlord RAT,url,https://37.221.64.248/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:51,Overlord RAT,url,https://41.212.28.86/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:51,Overlord RAT,url,https://45.90.98.139/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:51,Overlord RAT,url,https://46.224.18.6/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 07:17:07,Vidar,url,https://62.238.36.8/,#Vidar,https://threatfox.abuse.ch/ioc/1886683/
+2026-08-25 14:05:52,Overlord RAT,url,https://66.154.103.144/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:52,Overlord RAT,url,https://67.9.20.12/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:52,Overlord RAT,url,https://74.208.238.224/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:52,Overlord RAT,url,https://77.110.110.117/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:53,Overlord RAT,url,https://80.71.235.62/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:53,Overlord RAT,url,https://80.85.146.244/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:53,Overlord RAT,url,https://85.11.167.99/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:53,Overlord RAT,url,https://88.87.85.199/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:54,Overlord RAT,url,https://91.208.206.83/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:54,Overlord RAT,url,https://94.249.230.167/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:54,Overlord RAT,url,https://94.26.83.198/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:54,Overlord RAT,url,https://95.215.32.3/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:05:54,Overlord RAT,url,https://95.217.196.165/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:45:30,Lumma Stealer,url,https://africeconc.digital/pkas,#Lumma,https://bazaar.abuse.ch/sample/f708c405d13450a3886936d68e63ad841836d0a741fb6848fd7b58c83db988d2/
 2026-08-24 23:00:22,Unknown malware,url,https://agenciaarco.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/agenciaarco.com.br
 2026-08-24 23:00:22,Unknown malware,url,https://agenciadetraduccion.net/,#ClickFix,https://clickfix.carsonww.com/domains/agenciadetraduccion.net
-2026-08-24 09:30:21,Unknown malware,url,https://atx.my/,#ClickFix,https://clickfix.carsonww.com/domains/atx.my
-2026-08-24 11:00:22,Unknown malware,url,https://authorvisionpublishing.com/,#ClickFix,https://clickfix.carsonww.com/domains/authorvisionpublishing.com
-2026-08-24 15:20:04,KongTuke,url,https://bechteltr.lol/api/v1/session,#Kongtuke,https://infosec.exchange/@monitorsg/117151120546207492
-2026-08-24 15:20:03,KongTuke,url,https://bechteltr.lol/api/v1/status,#Kongtuke,https://infosec.exchange/@monitorsg/117151120546207492
-2026-08-24 15:20:04,KongTuke,url,https://bechteltr.lol/api/v1/verify,#Kongtuke,https://infosec.exchange/@monitorsg/117151120546207492
-2026-08-24 09:30:21,Unknown malware,url,https://brandhouse.com.bo/,#ClickFix,https://clickfix.carsonww.com/domains/brandhouse.com.bo
-2026-08-24 11:00:22,Unknown malware,url,https://buildnation.com.bd/,#ClickFix,https://clickfix.carsonww.com/domains/buildnation.com.bd
-2026-08-25 06:35:03,IClickFix,url,https://cdn.jsdelivr.net/gh/Patricia-38674/ret74kfd98j/nam1o0tych,#ClearFake #ClickFix #Dropper #jsdelivr #powershell,https://threatfox.abuse.ch/ioc/1886662/
+2026-08-25 14:06:42,Overlord RAT,url,https://aotools.duckdns.org/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:06:42,Overlord RAT,url,https://autoconfig.strawxom.org/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 07:30:21,Unknown malware,url,https://balloonfest.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/balloonfest.com.br
+2026-08-25 15:00:29,Unknown malware,url,https://bitpie-ad.cc/,#ClickFix,https://clickfix.carsonww.com/domains/bitpie-ad.cc
+2026-08-25 11:57:40,ClearFake,url,https://cdn.jsdelivr.net/gh/Justin-97483/dfh45iek8/jjy44gfl7,#ClearFake,https://threatfox.abuse.ch/ioc/1886834/
+2026-08-25 06:48:08,IClickFix,url,https://cdn.jsdelivr.net/gh/Patricia-38674/ret74kfd98j/nam1o0tych,#ClearFake #ClickFix #Dropper #jsdelivr #powershell,https://threatfox.abuse.ch/ioc/1886662/
+2026-08-25 07:53:39,ClearFake,url,https://cdn.jsdelivr.net/gh/marye4562/df64gre7j/yd98gh3s,#ClearFake,https://threatfox.abuse.ch/ioc/1886704/
 2026-08-24 20:49:18,ClearFake,url,https://cdn.jsdelivr.net/gh/marye4562/fd64ur98kg/ret74mxk6,#ClearFake,https://threatfox.abuse.ch/ioc/1886424/
-2026-08-24 09:30:22,Unknown malware,url,https://cream.ac.uk/,#ClickFix,https://clickfix.carsonww.com/domains/cream.ac.uk
-2026-08-24 14:00:24,Unknown malware,url,https://creditt.com.au/,#ClickFix,https://clickfix.carsonww.com/domains/creditt.com.au
-2026-08-24 07:42:35,Vidar,url,https://dev.epicgames.com/community/api/user_profiles/profile.json?hash_id=roAjr,#Vidar,https://threatfox.abuse.ch/ioc/1885937/
-2026-08-24 07:42:35,Vidar,url,https://dez.sm188dnsx.top/,#Vidar,https://threatfox.abuse.ch/ioc/1885940/
-2026-08-24 09:30:21,Unknown malware,url,https://donavanfreberg.com/,#ClickFix,https://clickfix.carsonww.com/domains/donavanfreberg.com
-2026-08-24 11:25:47,Vidar,url,https://dor.123ful.net/,#Vidar,https://threatfox.abuse.ch/ioc/1886099/
-2026-08-24 07:46:24,KongTuke,url,https://espossto.lol/api/v1/status,#Kongtuke,https://threatfox.abuse.ch/ioc/1885441/
-2026-08-24 10:00:23,Unknown malware,url,https://eversxcellence.co.za/,#ClickFix,https://clickfix.carsonww.com/domains/eversxcellence.co.za
-2026-08-24 11:30:22,Unknown malware,url,https://fabaagencies.com/,#ClickFix,https://clickfix.carsonww.com/domains/fabaagencies.com
-2026-08-24 14:10:48,Vidar,url,https://ggk.123ful.net/,#Vidar,https://threatfox.abuse.ch/ioc/1886304/
+2026-08-25 14:06:42,Overlord RAT,url,https://cheater-scanner.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:06:43,Overlord RAT,url,https://checkdomfilellc.us/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 07:30:20,Unknown malware,url,https://dev.rushtaxresolution.com/,#ClickFix,https://clickfix.carsonww.com/domains/dev.rushtaxresolution.com
+2026-08-25 14:06:43,Overlord RAT,url,https://dilumara.fun/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 07:17:06,Vidar,url,https://dor.sm188dnsxx.top/,#Vidar,https://threatfox.abuse.ch/ioc/1886680/
+2026-08-25 14:08:19,Overlord RAT,url,https://esrpalco.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 15:19:04,Unknown malware,url,https://forms.cloud.microsoft/e/8gSWrXW3kV,#aitm #Microsoft #microsoft-forms #phishing,https://threatfox.abuse.ch/ioc/1887240/
+2026-08-25 11:30:32,Unknown malware,url,https://fourapostlesrealty.com/,#ClickFix,https://clickfix.carsonww.com/domains/fourapostlesrealty.com
+2026-08-25 07:17:06,Vidar,url,https://ggk.sm188dnsxx.top/,#Vidar,https://threatfox.abuse.ch/ioc/1886679/
 2026-08-24 23:00:23,Unknown malware,url,https://giftcardbazaar.com/,#ClickFix,https://clickfix.carsonww.com/domains/giftcardbazaar.com
-2026-08-24 11:30:22,Unknown malware,url,https://gmpmachine.com/,#ClickFix,https://clickfix.carsonww.com/domains/gmpmachine.com
+2026-08-25 14:08:19,Overlord RAT,url,https://globaldatatest.sbs/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:19,Overlord RAT,url,https://googleworkapp.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
 2026-08-24 23:00:22,Unknown malware,url,https://hashtagshopbd.com/,#ClickFix,https://clickfix.carsonww.com/domains/hashtagshopbd.com
-2026-08-25 00:31:54,Unknown malware,url,https://heroic-daffodil-432a9c.netlify.app/,#phishing #tg.pe,https://threatfox.abuse.ch/ioc/1886532/
+2026-08-25 09:05:22,SmartApeSG,url,https://hazelcolonnade.net/handler/status-hook.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/1886726/
+2026-08-25 07:17:07,Vidar,url,https://hbd.sm188dnsxx.top/,#Vidar,https://threatfox.abuse.ch/ioc/1886681/
+2026-08-25 06:48:54,Unknown malware,url,https://heroic-daffodil-432a9c.netlify.app/,#phishing #tg.pe,https://threatfox.abuse.ch/ioc/1886532/
+2026-08-25 11:25:47,Vidar,url,https://hh3.123ful.net/,#Vidar,https://threatfox.abuse.ch/ioc/1886771/
 2026-08-24 18:50:48,Vidar,url,https://hit.123ful.net/,#Vidar,https://threatfox.abuse.ch/ioc/1886368/
+2026-08-25 07:17:06,Vidar,url,https://hit.sm188dnsxx.top/,#Vidar,https://threatfox.abuse.ch/ioc/1886678/
+2026-08-25 14:08:20,Overlord RAT,url,https://hugopanel.life/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
 2026-08-24 23:45:47,Vidar,url,https://ibi.123ful.net/,#Vidar,https://threatfox.abuse.ch/ioc/1886525/
-2026-08-24 11:30:22,Unknown malware,url,https://infoblockchain.ru/,#ClickFix,https://clickfix.carsonww.com/domains/infoblockchain.ru
-2026-08-24 10:30:22,Unknown malware,url,https://justiceteamnetwork.com/,#ClickFix,https://clickfix.carsonww.com/domains/justiceteamnetwork.com
-2026-08-24 08:20:30,Unknown RAT,url,https://kingo.lol/?p=,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1885971/
-2026-08-24 08:20:28,Unknown RAT,url,https://kingo.lol/babayla/zor/yarisirlar/,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1885973/
-2026-08-24 08:20:29,Unknown RAT,url,https://kingo.lol/get/config,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1885972/
-2026-08-24 08:20:31,Unknown RAT,url,https://kingo.lol/mods/api/log-download,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1885969/
-2026-08-24 08:20:30,Unknown RAT,url,https://kingo.lol/ws,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1885970/
-2026-08-24 18:57:38,Unknown RAT,url,https://kolpa.lol/?p=,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1886373/
-2026-08-24 18:57:38,Unknown RAT,url,https://kolpa.lol/babayla/zor/yarisirlar,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1886375/
-2026-08-24 18:57:38,Unknown RAT,url,https://kolpa.lol/get/config,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1886374/
-2026-08-24 18:57:38,Unknown RAT,url,https://kolpa.lol/mods/api/log-download,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1886371/
-2026-08-24 18:57:38,Unknown RAT,url,https://kolpa.lol/ws,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1886372/
-2026-08-24 11:00:22,Unknown malware,url,https://lacelosia.es/,#ClickFix,https://clickfix.carsonww.com/domains/lacelosia.es
-2026-08-24 09:30:21,Unknown malware,url,https://larkcontrucksales.com/,#ClickFix,https://clickfix.carsonww.com/domains/larkcontrucksales.com
-2026-08-24 09:30:22,Unknown malware,url,https://luxry.silentclaim.online/,#ClickFix,https://clickfix.carsonww.com/domains/luxry.silentclaim.online
-2026-08-24 10:00:22,Unknown malware,url,https://mail.savoryit.com/,#ClickFix,https://clickfix.carsonww.com/domains/mail.savoryit.com
-2026-08-24 07:30:20,Unknown malware,url,https://mississippicannabisschool.com/,#ClickFix,https://clickfix.carsonww.com/domains/mississippicannabisschool.com
-2026-08-24 11:00:22,Unknown malware,url,https://moradadosolpraia.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/moradadosolpraia.com.br
-2026-08-24 11:30:22,Unknown malware,url,https://muhammadshakirp.com/,#ClickFix,https://clickfix.carsonww.com/domains/muhammadshakirp.com
+2026-08-25 07:17:06,Vidar,url,https://ibi.sm188dnsxx.top/,#Vidar,https://threatfox.abuse.ch/ioc/1886677/
+2026-08-25 15:00:29,Unknown malware,url,https://idealautoac.com/,#ClickFix,https://clickfix.carsonww.com/domains/idealautoac.com
+2026-08-25 15:00:29,Unknown malware,url,https://idealsu.com.tr/,#ClickFix,https://clickfix.carsonww.com/domains/idealsu.com.tr
+2026-08-25 14:08:20,Overlord RAT,url,https://ifclmarkets.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 06:49:04,Unknown RAT,url,https://kolpa.lol/?p=,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1886373/
+2026-08-25 06:49:03,Unknown RAT,url,https://kolpa.lol/babayla/zor/yarisirlar,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1886375/
+2026-08-25 06:49:04,Unknown RAT,url,https://kolpa.lol/get/config,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1886374/
+2026-08-25 06:49:05,Unknown RAT,url,https://kolpa.lol/mods/api/log-download,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1886371/
+2026-08-25 06:49:05,Unknown RAT,url,https://kolpa.lol/ws,#IRAHook #RAT #stealer,https://threatfox.abuse.ch/ioc/1886372/
+2026-08-25 14:08:20,Overlord RAT,url,https://larpingcarpet.xyz/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 08:30:21,Unknown malware,url,https://mail.quwatt.com/,#ClickFix,https://clickfix.carsonww.com/domains/mail.quwatt.com
+2026-08-25 14:08:20,Overlord RAT,url,https://mail.strawxom.org/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:20,Overlord RAT,url,https://memesensecracked.xyz/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 15:19:03,Unknown malware,url,https://nbimmo.blob.core.windows.net/nbimmo/nbimmo.html,#aitm #Microsoft #phishing #redirector #Tycoon2FA,https://threatfox.abuse.ch/ioc/1887239/
+2026-08-25 14:08:20,Overlord RAT,url,https://nttsw.cdn-support.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
 2026-08-24 23:00:22,Unknown malware,url,https://oraclepacificltd.com/,#ClickFix,https://clickfix.carsonww.com/domains/oraclepacificltd.com
-2026-08-24 10:30:22,Unknown malware,url,https://patronesalamoda.com/,#ClickFix,https://clickfix.carsonww.com/domains/patronesalamoda.com
-2026-08-24 09:30:22,Unknown malware,url,https://pbgphilanthropy.org/,#ClickFix,https://clickfix.carsonww.com/domains/pbgphilanthropy.org
+2026-08-25 14:08:21,Overlord RAT,url,https://over.casacam.net/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:21,Overlord RAT,url,https://overlord.emmi.zip/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:21,Overlord RAT,url,https://overlord.milky1337.ru/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:21,Overlord RAT,url,https://panel.ipv6app.bar/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:21,Overlord RAT,url,https://panel.tberat-vac.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:21,Overlord RAT,url,https://peakoverlord.duckdns.org/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:22,Overlord RAT,url,https://policy.igc-technologies.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
 2026-08-24 23:00:22,Unknown malware,url,https://productstudio.me/,#ClickFix,https://clickfix.carsonww.com/domains/productstudio.me
-2026-08-24 11:00:23,Unknown malware,url,https://ridgelinefit.us/,#ClickFix,https://clickfix.carsonww.com/domains/ridgelinefit.us
-2026-08-24 11:00:22,Unknown malware,url,https://roesforum.com/,#ClickFix,https://clickfix.carsonww.com/domains/roesforum.com
-2026-08-24 11:00:22,Unknown malware,url,https://ropanaho.free.nf/?i=1,#ClickFix,https://clickfix.carsonww.com/domains/ropanaho.free.nf
-2026-08-24 09:30:21,Unknown malware,url,https://rup-shor.shop.shopnoghuribd.com/,#ClickFix,https://clickfix.carsonww.com/domains/rup-shor.shop.shopnoghuribd.com
-2026-08-24 11:00:22,Unknown malware,url,https://s3o.it/,#ClickFix,https://clickfix.carsonww.com/domains/s3o.it
-2026-08-24 09:30:22,Unknown malware,url,https://savoryit.onmybday.com/,#ClickFix,https://clickfix.carsonww.com/domains/savoryit.onmybday.com
-2026-08-24 13:10:57,IClickFix,url,https://serenevacation.com/wp-links-piss.php,,https://threatfox.abuse.ch/ioc/1886023/
-2026-08-24 10:30:22,Unknown malware,url,https://shulinlakeresort.com/,#ClickFix,https://clickfix.carsonww.com/domains/shulinlakeresort.com
-2026-08-24 11:00:22,Unknown malware,url,https://sman1rengat.sch.id/,#ClickFix,https://clickfix.carsonww.com/domains/sman1rengat.sch.id
+2026-08-25 14:08:22,Overlord RAT,url,https://recordsupdate.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:22,Overlord RAT,url,https://secure.cbtrust.su/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:22,Overlord RAT,url,https://shadowteam.fun/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 15:19:04,Unknown malware,url,https://share.evernote.com/note/5c9d540b-9d53-d686-2617-95a64cfefe31,#aitm #evernote #Microsoft #phishing #redirector,https://threatfox.abuse.ch/ioc/1887241/
+2026-08-25 14:08:22,Overlord RAT,url,https://signindat.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:22,Overlord RAT,url,https://skillsworks.top/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
 2026-08-24 23:00:22,Unknown malware,url,https://smec.group/,#ClickFix,https://clickfix.carsonww.com/domains/smec.group
-2026-08-24 10:00:22,Unknown malware,url,https://standardcpc.com/,#ClickFix,https://clickfix.carsonww.com/domains/standardcpc.com
-2026-08-24 07:42:35,Vidar,url,https://steamcommunity.com/profiles/76561198652917381,#Vidar,https://threatfox.abuse.ch/ioc/1885938/
-2026-08-24 10:30:22,Unknown malware,url,https://sumacrestaurant.com/,#ClickFix,https://clickfix.carsonww.com/domains/sumacrestaurant.com
-2026-08-24 11:00:22,Unknown malware,url,https://tauruslines.com/,#ClickFix,https://clickfix.carsonww.com/domains/tauruslines.com
-2026-08-24 07:42:35,Vidar,url,https://telegram.me/s11yme,#Vidar,https://threatfox.abuse.ch/ioc/1885939/
-2026-08-24 11:30:22,Unknown malware,url,https://test.livingroomindia.com/,#ClickFix,https://clickfix.carsonww.com/domains/test.livingroomindia.com
-2026-08-24 13:10:55,IClickFix,url,https://verico-de-id.beer/api.php,,https://threatfox.abuse.ch/ioc/1886031/
-2026-08-24 10:30:23,Unknown malware,url,https://visionplanet.com.ar/,#ClickFix,https://clickfix.carsonww.com/domains/visionplanet.com.ar
-2026-08-24 10:30:21,Unknown malware,url,https://wcateasy.com/,#ClickFix,https://clickfix.carsonww.com/domains/wcateasy.com
+2026-08-25 16:30:37,Unknown malware,url,https://szallas.net/,#ClickFix,https://clickfix.carsonww.com/domains/szallas.net
+2026-08-25 14:45:41,Lumma Stealer,url,https://t.me/abebebbee,#Lumma,https://bazaar.abuse.ch/sample/f708c405d13450a3886936d68e63ad841836d0a741fb6848fd7b58c83db988d2/
+2026-08-25 14:08:23,Overlord RAT,url,https://tapsend.city/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:23,Overlord RAT,url,https://trataloratolo.lol/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:23,Overlord RAT,url,https://v46403.php-friends.de/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:23,Overlord RAT,url,https://v61182.php-friends.de/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:24,Overlord RAT,url,https://vantyx.vip/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:24,Overlord RAT,url,https://voltexa.win/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:24,Overlord RAT,url,https://wibbyzap.xyz/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:24,Overlord RAT,url,https://windevalien.ddns.net/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
 2026-08-24 23:00:22,Unknown malware,url,https://wingji.com/,#ClickFix,https://clickfix.carsonww.com/domains/wingji.com
-2026-08-24 09:30:21,Unknown malware,url,https://wordpress-498130-2172574.cloudwaysapps.com/,#ClickFix,https://clickfix.carsonww.com/domains/wordpress-498130-2172574.cloudwaysapps.com
-2026-08-24 07:40:47,Vidar,url,https://wsp.1234e.org/,#Vidar,https://threatfox.abuse.ch/ioc/1885936/
-2026-08-24 07:42:36,Vidar,url,https://wsp.sm188dnsxx.top/,#Vidar,https://threatfox.abuse.ch/ioc/1885941/
-2026-08-24 10:30:22,Unknown malware,url,https://www.micasoganado.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.micasoganado.com
-2026-08-24 10:30:22,Unknown malware,url,https://www.petiteandsowhat-blog.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.petiteandsowhat-blog.com
-2026-08-24 10:30:22,Unknown malware,url,https://www.rassegnabattiti.it/,#ClickFix,https://clickfix.carsonww.com/domains/www.rassegnabattiti.it
-2026-08-24 10:30:23,Unknown malware,url,https://www.serenadalessandro.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.serenadalessandro.com
-2026-08-24 11:30:22,Unknown malware,url,https://www.sumutpost.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.sumutpost.com
-2026-08-24 10:00:22,Unknown malware,url,https://www.wellspringworshipministries.org/,#ClickFix,https://clickfix.carsonww.com/domains/www.wellspringworshipministries.org
-2026-08-24 13:03:28,SmartApeSG,url,https://yarrowalcove.net/session/login-template.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/1886130/
-2026-08-24 07:46:22,MicroStealer,url,https://zarox.karatasyasin058.workers.dev/m/,#CirrataGame #CloudflareWorkers #Discord #Electron #MicroStealer #stealer,https://threatfox.abuse.ch/ioc/1885489/
+2026-08-25 14:08:25,Overlord RAT,url,https://www.cdn-support.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:25,Overlord RAT,url,https://www.eclypse-system-pc.co/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:25,Overlord RAT,url,https://www.esrpalco.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:25,Overlord RAT,url,https://www.globaldatatest.sbs/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:25,Overlord RAT,url,https://www.googleworkapp.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:26,Overlord RAT,url,https://www.hugopanel.life/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:26,Overlord RAT,url,https://www.ifclmarkets.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:26,Overlord RAT,url,https://www.larpingcarpet.xyz/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:26,Overlord RAT,url,https://www.recordsupdate.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:26,Overlord RAT,url,https://www.shadowteam.fun/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:27,Overlord RAT,url,https://www.signindat.com/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:27,Overlord RAT,url,https://www.skillsworks.top/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 14:08:27,Overlord RAT,url,https://www.wibbyzap.xyz/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
+2026-08-25 15:50:47,Vidar,url,https://x0x.123ful.net/,#Vidar,https://threatfox.abuse.ch/ioc/1887246/
 2026-08-24 23:00:22,Unknown malware,url,https://zoechementerprise.com/,#ClickFix,https://clickfix.carsonww.com/domains/zoechementerprise.com
+2026-08-25 14:08:27,Overlord RAT,url,https://zoomai.online/,#Overlord #RAT,https://x.com/solostalking/status/2092239178801242415
