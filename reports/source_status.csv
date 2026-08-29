@@ -1,7 +1,7 @@
 source,status,error
 virustotal,pending,
 abuseipdb,ok,
-otx,failed,"HTTPSConnectionPool(host='otx.alienvault.com', port=443): Read timed out. (read timeout=30)"
+otx,ok,
 shodan,failed,"HTTP 403: {""error"": ""Requires membership or higher to access""}"
 urlhaus,failed,"HTTPSConnectionPool(host='urlhaus-api.abuse.ch', port=443): Max retries exceeded with url: /v1/urls/recent/limit/0/?auth-key=d12520a628c8fa134642e5fc0ffe63349ecd230da9a119f4 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))"
 threatfox,ok,
