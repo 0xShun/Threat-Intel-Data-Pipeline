@@ -240,7 +240,7 @@
 2026-08-19 10:25:19,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3905747/"",""geenensp",url,http://105.184.157.90:46817/i,32-bit,arm
 2026-08-14 04:01:15,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3903400/"",""geenensp",url,http://105.184.167.215:38779/bin.sh,32-bit,arm
 2026-08-14 04:08:17,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3903403/"",""geenensp",url,http://105.184.167.215:38779/i,32-bit,arm
-2026-08-30 10:00:28,cesnet_certs,url,http://105.184.178.250:46899/bin.sh,None,https://urlhaus.abuse.ch/url/3909896/
+2026-08-30 10:00:28,cesnet_certs,url,http://105.184.178.250:46899/bin.sh,mirai,https://urlhaus.abuse.ch/url/3909896/
 2026-08-30 10:00:28,cesnet_certs,url,http://105.184.178.250:46899/i,mirai,https://urlhaus.abuse.ch/url/3909897/
 2026-08-18 10:13:24,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3905281/"",""geenensp",url,http://105.184.213.168:46781/bin.sh,32-bit,arm
 2026-08-18 10:40:21,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3905290/"",""geenensp",url,http://105.184.213.168:46781/i,32-bit,arm
@@ -743,6 +743,8 @@
 2026-08-10 22:19:29,"mirai,Mozi,ua-wget"",""https://urlhaus.abuse.ch/url/3901200/"",""botnetkiller",url,http://112.198.193.62:36489/Mozi.m,arm,elf
 2026-08-10 22:19:31,"mirai,Mozi,ua-wget"",""https://urlhaus.abuse.ch/url/3901201/"",""botnetkiller",url,http://112.198.193.62:36489/bin.sh,arm,elf
 2026-08-10 22:19:29,"mirai,Mozi,ua-wget"",""https://urlhaus.abuse.ch/url/3901199/"",""botnetkiller",url,http://112.198.193.62:36489/i,arm,elf
+2026-08-30 11:39:30,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3910100/"",""geenensp",url,http://112.198.193.62:41416/bin.sh,32-bit,arm
+2026-08-30 12:09:24,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3910104/"",""geenensp",url,http://112.198.193.62:41416/i,32-bit,arm
 2026-08-14 10:01:30,cesnet_certs,url,http://112.198.195.40:53219/bin.sh,mirai,https://urlhaus.abuse.ch/url/3903722/
 2026-08-13 10:01:37,cesnet_certs,url,http://112.198.195.40:53219/i,mirai,https://urlhaus.abuse.ch/url/3903059/
 2026-08-17 10:01:27,cesnet_certs,url,http://112.198.238.18:53312/bin.sh,mirai,https://urlhaus.abuse.ch/url/3904846/
@@ -802,7 +804,7 @@
 2026-08-18 11:12:31,GAYINT_DOT_ORG,url,http://112.242.56.39:48840/i,Mozi,https://urlhaus.abuse.ch/url/3905293/
 2026-08-14 10:01:38,cesnet_certs,url,http://112.242.62.77:52860/i,None,https://urlhaus.abuse.ch/url/3903731/
 2026-08-30 10:02:27,cesnet_certs,url,http://112.242.76.193:50743/bin.sh,mirai,https://urlhaus.abuse.ch/url/3910001/
-2026-08-30 10:02:31,cesnet_certs,url,http://112.242.76.193:50743/i,None,https://urlhaus.abuse.ch/url/3910002/
+2026-08-30 10:02:31,cesnet_certs,url,http://112.242.76.193:50743/i,mirai,https://urlhaus.abuse.ch/url/3910002/
 2026-08-12 10:00:50,cesnet_certs,url,http://112.246.20.26:46242/bin.sh,None,https://urlhaus.abuse.ch/url/3902693/
 2026-08-10 17:45:49,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3901053/"",""geenensp",url,http://112.247.84.112:59435/bin.sh,32-bit,elf
 2026-08-10 20:11:16,GAYINT_DOT_ORG,url,http://112.247.84.112:59435/i,None,https://urlhaus.abuse.ch/url/3901176/
@@ -916,6 +918,7 @@
 2026-08-26 10:01:45,cesnet_certs,url,http://113.221.74.1:57844/bin.sh,mirai,https://urlhaus.abuse.ch/url/3908425/
 2026-08-25 10:02:00,cesnet_certs,url,http://113.221.74.1:57844/i,mirai,https://urlhaus.abuse.ch/url/3908046/
 2026-08-29 10:02:40,cesnet_certs,url,http://113.221.76.194:54955/bin.sh,mirai,https://urlhaus.abuse.ch/url/3909627/
+2026-08-30 13:43:28,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3910111/"",""geenensp",url,http://113.221.76.194:54955/i,32-bit,arm
 2026-08-16 10:01:20,cesnet_certs,url,http://113.221.8.44:56847/bin.sh,mirai,https://urlhaus.abuse.ch/url/3904315/
 2026-08-15 18:46:07,GAYINT_DOT_ORG,url,http://113.221.8.44:56847/i,mirai,https://urlhaus.abuse.ch/url/3904082/
 2026-08-09 18:07:08,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3900301/"",""geenensp",url,http://113.221.9.116:54492/bin.sh,32-bit,arm
@@ -948,6 +951,8 @@
 2026-08-24 23:12:07,GAYINT_DOT_ORG,url,http://113.228.254.228:59701/bin.sh,None,https://urlhaus.abuse.ch/url/3907774/
 2026-08-24 23:37:05,GAYINT_DOT_ORG,url,http://113.228.254.228:59701/i,None,https://urlhaus.abuse.ch/url/3907779/
 2026-08-27 10:01:44,cesnet_certs,url,http://113.228.43.194:35357/i,mirai,https://urlhaus.abuse.ch/url/3908870/
+2026-08-30 14:21:28,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910116/"",""geenensp",url,http://113.228.97.87:37040/bin.sh,32-bit,elf
+2026-08-30 15:05:19,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910123/"",""geenensp",url,http://113.228.97.87:37040/i,32-bit,elf
 2026-08-28 10:00:12,cesnet_certs,url,http://113.229.117.181:42541/bin.sh,None,https://urlhaus.abuse.ch/url/3909108/
 2026-08-28 10:00:12,cesnet_certs,url,http://113.229.117.181:42541/i,None,https://urlhaus.abuse.ch/url/3909107/
 2026-08-30 10:01:56,cesnet_certs,url,http://113.229.179.183:33907/bin.sh,None,https://urlhaus.abuse.ch/url/3909992/
@@ -1252,6 +1257,7 @@
 2026-08-18 19:13:19,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3905450/"",""geenensp",url,http://115.49.7.198:54475/i,32-bit,elf
 2026-08-18 05:42:21,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3905128/"",""geenensp",url,http://115.49.73.173:58794/bin.sh,32-bit,elf
 2026-08-19 10:01:22,cesnet_certs,url,http://115.49.73.173:58794/i,Mozi,https://urlhaus.abuse.ch/url/3905681/
+2026-08-30 14:54:24,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910121/"",""geenensp",url,http://115.49.73.224:46099/bin.sh,32-bit,elf
 2026-08-30 10:01:34,cesnet_certs,url,http://115.49.73.224:46099/i,None,https://urlhaus.abuse.ch/url/3909957/
 2026-08-16 10:01:13,cesnet_certs,url,http://115.49.73.86:41886/bin.sh,None,https://urlhaus.abuse.ch/url/3904283/
 2026-08-16 10:01:28,cesnet_certs,url,http://115.49.73.86:41886/i,None,https://urlhaus.abuse.ch/url/3904347/
@@ -1260,6 +1266,7 @@
 2026-08-04 05:57:08,GAYINT_DOT_ORG,url,http://115.49.75.111:52410/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3896613/
 2026-08-04 06:27:09,GAYINT_DOT_ORG,url,http://115.49.75.111:52410/i,Mozi,https://urlhaus.abuse.ch/url/3896623/
 2026-08-03 23:37:07,GAYINT_DOT_ORG,url,http://115.49.75.168:36083/i,None,https://urlhaus.abuse.ch/url/3896435/
+2026-08-30 13:48:24,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910114/"",""geenensp",url,http://115.49.77.192:40174/i,32-bit,elf
 2026-08-19 07:45:16,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3905593/"",""geenensp",url,http://115.49.94.7:42242/bin.sh,32-bit,elf
 2026-08-19 07:57:37,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3905595/"",""geenensp",url,http://115.49.94.7:42242/i,32-bit,elf
 2026-08-17 10:01:14,cesnet_certs,url,http://115.50.0.3:52567/bin.sh,None,https://urlhaus.abuse.ch/url/3904775/
@@ -1408,7 +1415,7 @@
 2026-07-31 13:02:36,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3894726/"",""geenensp",url,http://115.53.243.202:59090/i,32-bit,elf
 2026-08-30 10:01:32,cesnet_certs,url,http://115.54.114.54:43731/bin.sh,None,https://urlhaus.abuse.ch/url/3909948/
 2026-08-30 10:01:18,cesnet_certs,url,http://115.54.114.54:43731/i,None,https://urlhaus.abuse.ch/url/3909906/
-2026-08-30 10:01:49,cesnet_certs,url,http://115.54.116.178:39450/i,None,https://urlhaus.abuse.ch/url/3909982/
+2026-08-30 10:01:49,cesnet_certs,url,http://115.54.116.178:39450/i,Mozi,https://urlhaus.abuse.ch/url/3909982/
 2026-08-17 10:01:14,cesnet_certs,url,http://115.54.117.199:59554/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3904781/
 2026-08-17 05:18:16,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3904618/"",""geenensp",url,http://115.54.117.199:59554/i,32-bit,elf
 2026-08-09 10:01:23,cesnet_certs,url,http://115.54.124.37:33179/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3900132/
@@ -1755,6 +1762,7 @@
 2026-08-25 10:01:43,cesnet_certs,url,http://115.58.181.133:33235/bin.sh,mirai,https://urlhaus.abuse.ch/url/3908015/
 2026-08-25 10:01:21,cesnet_certs,url,http://115.58.181.133:33235/i,mirai,https://urlhaus.abuse.ch/url/3907918/
 2026-08-30 10:02:10,cesnet_certs,url,http://115.58.181.180:33235/bin.sh,mirai,https://urlhaus.abuse.ch/url/3909999/
+2026-08-30 17:21:23,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3910128/"",""geenensp",url,http://115.58.181.180:33235/i,32-bit,arm
 2026-08-27 10:01:25,cesnet_certs,url,http://115.58.183.11:33235/bin.sh,mirai,https://urlhaus.abuse.ch/url/3908799/
 2026-08-28 10:01:29,cesnet_certs,url,http://115.58.183.11:33235/i,mirai,https://urlhaus.abuse.ch/url/3909161/
 2026-08-11 04:01:21,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3901245/"",""geenensp",url,http://115.58.54.222:37664/bin.sh,32-bit,elf
@@ -1800,6 +1808,8 @@
 2026-07-31 17:12:14,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3894777/"",""geenensp",url,http://115.60.222.190:34993/i,32-bit,elf
 2026-08-23 10:01:22,cesnet_certs,url,http://115.60.223.148:58418/i,Mozi,https://urlhaus.abuse.ch/url/3907208/
 2026-08-04 20:19:29,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3896997/"",""geenensp",url,http://115.61.0.203:49824/i,32-bit,elf
+2026-08-30 14:38:36,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910119/"",""geenensp",url,http://115.61.100.5:53706/bin.sh,32-bit,elf
+2026-08-30 14:58:25,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910122/"",""geenensp",url,http://115.61.100.5:53706/i,32-bit,elf
 2026-08-13 09:35:26,GAYINT_DOT_ORG,url,http://115.61.107.237:53984/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3902997/
 2026-08-13 10:01:26,cesnet_certs,url,http://115.61.107.237:53984/i,Mozi,https://urlhaus.abuse.ch/url/3903019/
 2026-08-28 10:02:24,cesnet_certs,url,http://115.61.114.25:37461/i,None,https://urlhaus.abuse.ch/url/3909262/
@@ -2037,6 +2047,7 @@
 2026-08-19 23:57:23,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3905940/"",""geenensp",url,http://119.114.59.126:36050/bin.sh,32-bit,elf
 2026-08-20 22:23:11,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3906307/"",""geenensp",url,http://119.114.63.205:38557/bin.sh,32-bit,elf
 2026-08-20 22:50:24,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3906313/"",""geenensp",url,http://119.114.63.205:38557/i,32-bit,elf
+2026-08-30 13:45:32,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910112/"",""geenensp",url,http://119.114.63.69:50707/i,32-bit,elf
 2026-08-04 07:32:08,GAYINT_DOT_ORG,url,http://119.115.177.84:57490/i,None,https://urlhaus.abuse.ch/url/3896680/
 2026-08-14 10:01:19,cesnet_certs,url,http://119.115.246.124:41208/bin.sh,None,https://urlhaus.abuse.ch/url/3903655/
 2026-08-13 10:01:26,cesnet_certs,url,http://119.115.246.124:41208/i,None,https://urlhaus.abuse.ch/url/3903018/
@@ -2131,6 +2142,8 @@
 2026-08-19 18:57:25,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3905912/"",""geenensp",url,http://119.185.241.8:42488/i,32-bit,elf
 2026-08-13 03:31:20,GAYINT_DOT_ORG,url,http://119.185.241.8:44283/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3902923/
 2026-08-13 03:56:17,GAYINT_DOT_ORG,url,http://119.185.241.8:44283/i,Mozi,https://urlhaus.abuse.ch/url/3902924/
+2026-08-30 14:27:19,GAYINT_DOT_ORG,url,http://119.185.242.125:51657/bin.sh,None,https://urlhaus.abuse.ch/url/3910117/
+2026-08-30 14:52:07,GAYINT_DOT_ORG,url,http://119.185.242.125:51657/i,None,https://urlhaus.abuse.ch/url/3910120/
 2026-08-04 19:58:23,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3896994/"",""geenensp",url,http://119.186.204.22:51908/bin.sh,32-bit,elf
 2026-08-03 10:01:12,cesnet_certs,url,http://119.186.204.22:51908/i,Mozi,https://urlhaus.abuse.ch/url/3896105/
 2026-08-08 00:36:07,GAYINT_DOT_ORG,url,http://119.186.208.189:49406/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3898701/
@@ -3313,6 +3326,8 @@
 2026-08-28 10:01:22,cesnet_certs,url,http://125.47.211.92:55433/i,Mozi,https://urlhaus.abuse.ch/url/3909142/
 2026-08-13 10:01:54,cesnet_certs,url,http://125.47.216.30:39421/i,None,https://urlhaus.abuse.ch/url/3903122/
 2026-07-31 11:18:09,adliwahid,url,http://125.47.218.95:35461/i,Mozi,https://urlhaus.abuse.ch/url/3894583/
+2026-08-30 18:52:06,GAYINT_DOT_ORG,url,http://125.47.228.36:48346/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3910150/
+2026-08-30 18:52:06,GAYINT_DOT_ORG,url,http://125.47.228.36:48346/i,Mozi,https://urlhaus.abuse.ch/url/3910149/
 2026-08-14 10:01:13,cesnet_certs,url,http://125.47.236.8:39421/i,Mozi,https://urlhaus.abuse.ch/url/3903625/
 2026-08-26 10:01:34,cesnet_certs,url,http://125.47.240.110:57502/i,Mozi,https://urlhaus.abuse.ch/url/3908394/
 2026-08-09 10:01:24,cesnet_certs,url,http://125.47.244.3:55442/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3900140/
@@ -3890,6 +3905,20 @@
 2026-08-28 15:22:25,"ua-wget"",""https://urlhaus.abuse.ch/url/3909351/"",""abuse_ch",url,http://160.119.71.134/n2/mips64b,elf,mirai
 2026-08-28 15:22:23,"ua-wget"",""https://urlhaus.abuse.ch/url/3909342/"",""abuse_ch",url,http://160.119.71.134/n2/mips64l,elf,mirai
 2026-08-13 19:21:21,"mirai,ua-wget"",""https://urlhaus.abuse.ch/url/3903293/"",""botnetkiller",url,http://160.119.71.134/n2/mpsl,elf,mips
+2026-08-30 17:41:09,tp0x,url,http://160.119.71.134/n2/nw/aarch64,mirai,https://urlhaus.abuse.ch/url/3910142/
+2026-08-30 17:40:07,tp0x,url,http://160.119.71.134/n2/nw/armv4l,mirai,https://urlhaus.abuse.ch/url/3910131/
+2026-08-30 17:41:09,tp0x,url,http://160.119.71.134/n2/nw/armv5l,mirai,https://urlhaus.abuse.ch/url/3910138/
+2026-08-30 17:41:09,tp0x,url,http://160.119.71.134/n2/nw/armv6l,mirai,https://urlhaus.abuse.ch/url/3910132/
+2026-08-30 17:41:09,tp0x,url,http://160.119.71.134/n2/nw/armv7l,mirai,https://urlhaus.abuse.ch/url/3910133/
+2026-08-30 17:41:09,tp0x,url,http://160.119.71.134/n2/nw/m68k,mirai,https://urlhaus.abuse.ch/url/3910137/
+2026-08-30 17:41:09,tp0x,url,http://160.119.71.134/n2/nw/mips,mirai,https://urlhaus.abuse.ch/url/3910143/
+2026-08-30 17:41:09,tp0x,url,http://160.119.71.134/n2/nw/mips64b,mirai,https://urlhaus.abuse.ch/url/3910134/
+2026-08-30 17:41:09,tp0x,url,http://160.119.71.134/n2/nw/mips64l,mirai,https://urlhaus.abuse.ch/url/3910135/
+2026-08-30 17:41:09,tp0x,url,http://160.119.71.134/n2/nw/mpsl,mirai,https://urlhaus.abuse.ch/url/3910136/
+2026-08-30 17:41:09,tp0x,url,http://160.119.71.134/n2/nw/ppc,mirai,https://urlhaus.abuse.ch/url/3910144/
+2026-08-30 17:41:09,tp0x,url,http://160.119.71.134/n2/nw/sh4,mirai,https://urlhaus.abuse.ch/url/3910139/
+2026-08-30 17:41:09,tp0x,url,http://160.119.71.134/n2/nw/x86,mirai,https://urlhaus.abuse.ch/url/3910140/
+2026-08-30 17:41:09,tp0x,url,http://160.119.71.134/n2/nw/x86_64,mirai,https://urlhaus.abuse.ch/url/3910141/
 2026-08-13 19:40:30,"ua-wget"",""https://urlhaus.abuse.ch/url/3903315/"",""botnetkiller",url,http://160.119.71.134/n2/ppc,elf,mirai
 2026-08-13 19:41:31,"ua-wget"",""https://urlhaus.abuse.ch/url/3903317/"",""botnetkiller",url,http://160.119.71.134/n2/sh4,elf,mirai
 2026-08-13 19:40:30,"ua-wget"",""https://urlhaus.abuse.ch/url/3903314/"",""botnetkiller",url,http://160.119.71.134/n2/sparc,elf,mirai
@@ -4058,6 +4087,7 @@
 2026-08-02 09:32:22,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3895381/"",""geenensp",url,http://163.142.86.97:35671/bin.sh,32-bit,elf
 2026-08-02 09:54:19,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3895387/"",""geenensp",url,http://163.142.86.97:35671/i,32-bit,elf
 2026-08-21 13:14:15,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3906605/"",""geenensp",url,http://163.142.87.19:46712/bin.sh,32-bit,elf
+2026-08-30 19:02:23,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910151/"",""geenensp",url,http://163.142.92.157:40373/bin.sh,32-bit,elf
 2026-08-21 08:52:10,GAYINT_DOT_ORG,url,http://163.142.92.221:44835/i,None,https://urlhaus.abuse.ch/url/3906452/
 2026-08-06 16:41:23,GAYINT_DOT_ORG,url,http://163.142.92.225:60512/bin.sh,None,https://urlhaus.abuse.ch/url/3898034/
 2026-08-06 17:06:31,GAYINT_DOT_ORG,url,http://163.142.92.225:60512/i,None,https://urlhaus.abuse.ch/url/3898053/
@@ -4108,6 +4138,8 @@
 2026-08-05 07:10:23,"ua-wget"",""https://urlhaus.abuse.ch/url/3897257/"",""abuse_ch",url,http://165.22.69.214/iran.sh4,elf,mirai
 2026-08-05 07:10:23,"ua-wget"",""https://urlhaus.abuse.ch/url/3897256/"",""abuse_ch",url,http://165.22.69.214/iran.sparc,elf,mirai
 2026-08-05 06:40:10,"mirai"",""https://urlhaus.abuse.ch/url/3897171/"",""abuserobot66609",url,http://165.22.69.214/iran.x86_64,honeypot,iot
+2026-08-30 13:46:18,GAYINT_DOT_ORG,url,http://165.98.243.83:44647/bin.sh,mirai,https://urlhaus.abuse.ch/url/3910113/
+2026-08-30 14:36:13,GAYINT_DOT_ORG,url,http://165.98.243.83:44647/i,mirai,https://urlhaus.abuse.ch/url/3910118/
 2026-07-31 17:36:08,cesnet_certs,url,http://166.0.192.57/bachekuni/ohshit.arc,mirai,https://urlhaus.abuse.ch/url/3894799/
 2026-07-31 17:36:08,cesnet_certs,url,http://166.0.192.57/bachekuni/ohshit.arm,mirai,https://urlhaus.abuse.ch/url/3894790/
 2026-07-31 17:36:08,cesnet_certs,url,http://166.0.192.57/bachekuni/ohshit.arm5,mirai,https://urlhaus.abuse.ch/url/3894797/
@@ -4341,6 +4373,8 @@
 2026-08-24 17:05:17,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3907724/"",""geenensp",url,http://175.165.122.113:34835/bin.sh,32-bit,elf
 2026-08-24 17:46:33,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3907726/"",""geenensp",url,http://175.165.122.113:34835/i,32-bit,elf
 2026-08-04 19:42:41,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3896991/"",""geenensp",url,http://175.165.132.16:50966/i,32-bit,elf
+2026-08-30 16:00:32,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910125/"",""geenensp",url,http://175.165.141.12:57080/bin.sh,32-bit,elf
+2026-08-30 16:04:31,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910126/"",""geenensp",url,http://175.165.141.12:57080/i,32-bit,elf
 2026-08-22 19:32:11,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3907043/"",""geenensp",url,http://175.165.142.110:57080/bin.sh,32-bit,elf
 2026-08-22 19:58:13,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3907048/"",""geenensp",url,http://175.165.142.110:57080/i,32-bit,elf
 2026-08-25 10:01:49,cesnet_certs,url,http://175.165.142.242:40832/bin.sh,None,https://urlhaus.abuse.ch/url/3908033/
@@ -5652,6 +5686,7 @@
 2026-08-13 10:01:49,cesnet_certs,url,http://182.117.68.26:55093/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3903097/
 2026-08-13 10:01:34,cesnet_certs,url,http://182.117.68.26:55093/i,Mozi,https://urlhaus.abuse.ch/url/3903046/
 2026-08-18 09:23:25,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3905169/"",""geenensp",url,http://182.117.68.49:47422/i,32-bit,elf
+2026-08-30 18:24:25,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910148/"",""geenensp",url,http://182.117.69.14:39814/i,32-bit,elf
 2026-08-23 18:42:18,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3907324/"",""geenensp",url,http://182.117.71.91:45847/bin.sh,32-bit,elf
 2026-08-03 03:25:29,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3895743/"",""geenensp",url,http://182.117.76.135:58019/bin.sh,32-bit,elf
 2026-08-02 11:07:08,GAYINT_DOT_ORG,url,http://182.117.76.135:58019/i,Mozi,https://urlhaus.abuse.ch/url/3895539/
@@ -5740,6 +5775,7 @@
 2026-08-15 10:01:14,cesnet_certs,url,http://182.120.10.85:50338/i,Mozi,https://urlhaus.abuse.ch/url/3903920/
 2026-08-20 20:32:07,GAYINT_DOT_ORG,url,http://182.120.13.196:55125/bin.sh,None,https://urlhaus.abuse.ch/url/3906289/
 2026-08-11 10:08:30,cesnet_certs,url,http://182.120.131.65:54677/i,Mozi,https://urlhaus.abuse.ch/url/3901662/
+2026-08-30 15:57:28,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910124/"",""geenensp",url,http://182.120.132.147:50830/bin.sh,32-bit,elf
 2026-08-30 10:01:18,cesnet_certs,url,http://182.120.132.147:50830/i,Mozi,https://urlhaus.abuse.ch/url/3909907/
 2026-08-24 10:01:18,cesnet_certs,url,http://182.120.138.14:53227/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3907487/
 2026-08-24 10:01:24,cesnet_certs,url,http://182.120.138.14:53227/i,Mozi,https://urlhaus.abuse.ch/url/3907519/
@@ -5766,6 +5802,8 @@
 2026-08-03 10:01:28,cesnet_certs,url,http://182.121.10.250:38908/i,Mozi,https://urlhaus.abuse.ch/url/3896186/
 2026-08-01 10:02:11,cesnet_certs,url,http://182.121.104.239:51878/i,Mozi,https://urlhaus.abuse.ch/url/3895017/
 2026-08-03 19:16:08,GAYINT_DOT_ORG,url,http://182.121.106.136:54481/i,Mozi,https://urlhaus.abuse.ch/url/3896365/
+2026-08-30 17:39:21,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910130/"",""geenensp",url,http://182.121.106.206:50819/bin.sh,32-bit,elf
+2026-08-30 18:05:22,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910145/"",""geenensp",url,http://182.121.106.206:50819/i,32-bit,elf
 2026-08-11 10:08:18,cesnet_certs,url,http://182.121.106.64:52025/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3901611/
 2026-08-11 10:08:12,cesnet_certs,url,http://182.121.106.64:52025/i,Mozi,https://urlhaus.abuse.ch/url/3901572/
 2026-08-26 20:58:15,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3908573/"",""geenensp",url,http://182.121.114.142:56460/bin.sh,32-bit,elf
@@ -5847,6 +5885,7 @@
 2026-08-18 10:01:23,cesnet_certs,url,http://182.121.250.74:60904/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3905243/
 2026-08-18 10:01:27,cesnet_certs,url,http://182.121.250.74:60904/i,Mozi,https://urlhaus.abuse.ch/url/3905259/
 2026-08-08 15:20:21,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3899758/"",""geenensp",url,http://182.121.253.48:55721/i,32-bit,elf
+2026-08-30 18:22:22,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910147/"",""geenensp",url,http://182.121.41.234:52522/i,32-bit,elf
 2026-08-20 21:00:31,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3906294/"",""geenensp",url,http://182.121.43.33:42422/bin.sh,32-bit,elf
 2026-08-20 21:21:24,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3906298/"",""geenensp",url,http://182.121.43.33:42422/i,32-bit,elf
 2026-08-28 10:01:22,cesnet_certs,url,http://182.121.46.187:55024/i,Mozi,https://urlhaus.abuse.ch/url/3909132/
@@ -6281,7 +6320,7 @@
 2026-08-30 10:44:26,"ua-wget"",""https://urlhaus.abuse.ch/url/3910082/"",""abuse_ch",url,http://190.123.46.208/Okami.arm4,elf,mirai
 2026-08-30 10:44:26,"ua-wget"",""https://urlhaus.abuse.ch/url/3910083/"",""abuse_ch",url,http://190.123.46.208/Okami.arm5,elf,mirai
 2026-08-30 10:44:24,"ua-wget"",""https://urlhaus.abuse.ch/url/3910073/"",""abuse_ch",url,http://190.123.46.208/Okami.arm6,elf,mirai
-2026-08-30 10:44:25,"https://urlhaus.abuse.ch/url/3910079/"",""abuse_ch",url,http://190.123.46.208/Okami.arm7,elf,ua-wget
+2026-08-30 10:44:25,"ua-wget"",""https://urlhaus.abuse.ch/url/3910079/"",""abuse_ch",url,http://190.123.46.208/Okami.arm7,elf,mirai
 2026-08-30 10:44:24,"ua-wget"",""https://urlhaus.abuse.ch/url/3910072/"",""abuse_ch",url,http://190.123.46.208/Okami.i586,elf,mirai
 2026-08-30 10:44:24,"ua-wget"",""https://urlhaus.abuse.ch/url/3910074/"",""abuse_ch",url,http://190.123.46.208/Okami.i686,elf,mirai
 2026-08-30 10:44:24,"ua-wget"",""https://urlhaus.abuse.ch/url/3910075/"",""abuse_ch",url,http://190.123.46.208/Okami.m68k,elf,mirai
@@ -6496,6 +6535,7 @@
 2026-08-26 10:01:45,cesnet_certs,url,http://196.188.75.58:49779/i,mirai,https://urlhaus.abuse.ch/url/3908416/
 2026-08-25 03:31:24,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3907813/"",""geenensp",url,http://196.188.81.68:46836/bin.sh,32-bit,arm
 2026-07-31 11:18:20,adliwahid,url,http://196.189.104.106:39665/i,None,https://urlhaus.abuse.ch/url/3894584/
+2026-08-30 12:18:24,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3910105/"",""geenensp",url,http://196.189.130.28:40073/i,32-bit,arm
 2026-08-29 05:47:13,GAYINT_DOT_ORG,url,http://196.189.130.28:42275/i,mirai,https://urlhaus.abuse.ch/url/3909507/
 2026-08-19 10:01:31,cesnet_certs,url,http://196.189.130.28:43450/i,mirai,https://urlhaus.abuse.ch/url/3905712/
 2026-08-14 00:32:19,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3903337/"",""geenensp",url,http://196.189.130.28:46269/bin.sh,32-bit,arm
@@ -6566,6 +6606,7 @@
 2026-08-17 00:32:18,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3904572/"",""geenensp",url,http://196.190.133.180:47839/i,32-bit,arm
 2026-08-04 19:07:21,GAYINT_DOT_ORG,url,http://196.190.133.180:48265/i,mirai,https://urlhaus.abuse.ch/url/3896938/
 2026-08-18 19:30:16,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3905454/"",""geenensp",url,http://196.190.133.180:50791/bin.sh,32-bit,arm
+2026-08-30 16:25:17,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3910127/"",""geenensp",url,http://196.190.133.180:53984/i,32-bit,arm
 2026-08-12 05:02:13,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3902370/"",""geenensp",url,http://196.190.224.62:36692/bin.sh,32-bit,arm
 2026-08-12 05:55:16,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3902572/"",""geenensp",url,http://196.190.224.62:36692/i,32-bit,arm
 2026-08-10 10:01:44,cesnet_certs,url,http://196.190.224.62:43470/bin.sh,None,https://urlhaus.abuse.ch/url/3900905/
@@ -7280,6 +7321,7 @@
 2026-08-02 06:17:30,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3895326/"",""geenensp",url,http://219.157.180.80:46856/i,32-bit,elf
 2026-08-25 10:01:43,cesnet_certs,url,http://219.157.182.229:47636/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3908004/
 2026-08-24 10:01:18,cesnet_certs,url,http://219.157.182.229:47636/i,Mozi,https://urlhaus.abuse.ch/url/3907488/
+2026-08-30 18:05:25,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910146/"",""geenensp",url,http://219.157.190.80:41921/i,32-bit,elf
 2026-08-26 10:01:17,cesnet_certs,url,http://219.157.20.221:44157/i,Mozi,https://urlhaus.abuse.ch/url/3908327/
 2026-08-01 01:04:20,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3894874/"",""geenensp",url,http://219.157.20.227:48254/bin.sh,32-bit,elf
 2026-08-01 01:15:09,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3894877/"",""geenensp",url,http://219.157.20.227:48254/i,32-bit,elf
@@ -7808,6 +7850,7 @@
 2026-08-16 10:01:13,cesnet_certs,url,http://222.185.199.96:32826/bin.sh,mirai,https://urlhaus.abuse.ch/url/3904282/
 2026-08-16 10:01:20,cesnet_certs,url,http://222.185.199.96:32826/i,mirai,https://urlhaus.abuse.ch/url/3904304/
 2026-08-11 12:18:24,"P2Pinfect,ua-wget"",""https://urlhaus.abuse.ch/url/3902058/"",""NDA0E",url,http://222.213.23.56:60134/linux,censys,elf
+2026-08-30 17:24:22,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3910129/"",""geenensp",url,http://222.219.25.40:41597/bin.sh,32-bit,arm
 2026-08-28 10:01:44,cesnet_certs,url,http://222.219.25.40:41597/i,mirai,https://urlhaus.abuse.ch/url/3909212/
 2026-08-09 00:14:16,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3899996/"",""geenensp",url,http://222.219.74.117:52755/bin.sh,32-bit,arm
 2026-08-10 14:44:26,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3900999/"",""geenensp",url,http://222.219.74.117:52755/i,32-bit,arm
@@ -8462,6 +8505,7 @@
 2026-08-27 10:02:32,cesnet_certs,url,http://36.70.67.235:43210/i,mirai,https://urlhaus.abuse.ch/url/3908916/
 2026-08-14 06:21:32,"mirai,Mozi"",""https://urlhaus.abuse.ch/url/3903469/"",""HoneyLabs",url,http://36.70.68.244:54909/Mozi.m,elf,iot
 2026-08-30 02:42:17,GAYINT_DOT_ORG,url,http://36.70.69.233:52578/bin.sh,mirai,https://urlhaus.abuse.ch/url/3909842/
+2026-08-30 14:00:29,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3910115/"",""geenensp",url,http://36.70.73.226:51425/bin.sh,32-bit,arm
 2026-08-30 10:03:26,cesnet_certs,url,http://36.70.73.226:51425/i,mirai,https://urlhaus.abuse.ch/url/3910031/
 2026-08-10 02:50:41,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3900383/"",""geenensp",url,http://36.71.24.56:48673/bin.sh,32-bit,arm
 2026-08-10 03:12:06,GAYINT_DOT_ORG,url,http://36.71.24.56:48673/i,mirai,https://urlhaus.abuse.ch/url/3900386/
@@ -8629,6 +8673,7 @@
 2026-08-27 02:06:16,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3908606/"",""geenensp",url,http://39.87.216.223:50774/i,32-bit,elf
 2026-08-14 12:53:22,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3903756/"",""geenensp",url,http://39.87.217.20:54835/bin.sh,32-bit,elf
 2026-08-14 13:23:18,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3903757/"",""geenensp",url,http://39.87.217.20:54835/i,32-bit,elf
+2026-08-30 11:52:35,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3910101/"",""geenensp",url,http://39.87.219.41:49431/bin.sh,32-bit,elf
 2026-08-30 10:03:26,cesnet_certs,url,http://39.87.219.41:49431/i,Mozi,https://urlhaus.abuse.ch/url/3910029/
 2026-08-24 10:01:18,cesnet_certs,url,http://39.87.22.232:59699/i,Mozi,https://urlhaus.abuse.ch/url/3907489/
 2026-08-29 09:58:22,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3909566/"",""geenensp",url,http://39.87.37.33:48218/bin.sh,32-bit,elf
@@ -11832,6 +11877,11 @@
 2026-08-06 16:46:17,GAYINT_DOT_ORG,url,http://91.108.27.91:45906/i,mirai,https://urlhaus.abuse.ch/url/3898049/
 2026-08-21 10:01:13,cesnet_certs,url,http://91.157.243.235:47252/bin.sh,mirai,https://urlhaus.abuse.ch/url/3906478/
 2026-08-28 10:00:27,cesnet_certs,url,http://91.157.243.235:47252/i,None,https://urlhaus.abuse.ch/url/3909111/
+2026-08-30 12:42:29,"ua-wget"",""https://urlhaus.abuse.ch/url/3910107/"",""ClearlyNotB",url,http://91.184.241.245/bins/parm6,elf,mirai
+2026-08-30 12:42:29,"ua-wget"",""https://urlhaus.abuse.ch/url/3910108/"",""ClearlyNotB",url,http://91.184.241.245/bins/pm68k,elf,mirai
+2026-08-30 12:42:30,"ua-wget"",""https://urlhaus.abuse.ch/url/3910109/"",""ClearlyNotB",url,http://91.184.241.245/bins/pmips,elf,mirai
+2026-08-30 12:43:24,"ua-wget"",""https://urlhaus.abuse.ch/url/3910110/"",""ClearlyNotB",url,http://91.184.241.245/bins/psh4,elf,mirai
+2026-08-30 12:42:25,"ua-wget"",""https://urlhaus.abuse.ch/url/3910106/"",""ClearlyNotB",url,http://91.184.241.245/bins/px86,elf,mirai
 2026-08-04 05:22:12,"https://urlhaus.abuse.ch/url/3896545/"",""HoneyLabs",url,http://91.188.254.188/systemd,elf,iot
 2026-08-21 07:54:05,abuse_ch,url,http://91.192.81.41:8080/arm,ua-wget,https://urlhaus.abuse.ch/url/3906395/
 2026-08-21 07:54:05,abuse_ch,url,http://91.192.81.41:8080/arm5,ua-wget,https://urlhaus.abuse.ch/url/3906396/
@@ -12082,6 +12132,7 @@
 2026-08-29 05:56:13,"https://urlhaus.abuse.ch/url/3909512/"",""c2hunter",url,http://91.92.242.236/files-129312398/files/file_e95eb484307304f7.exe,c2-monitor-auto,dropped-by-amadey
 2026-08-27 07:09:21,"https://urlhaus.abuse.ch/url/3908679/"",""c2hunter",url,http://91.92.242.236/files-129312398/files/file_e99b2c2df468a74c.exe,c2-monitor-auto,dropped-by-amadey
 2026-08-20 20:54:11,"rustystealer"",""https://urlhaus.abuse.ch/url/3906292/"",""Bitsight",url,http://91.92.242.236/files-129312398/files/file_ea0fdcdde83b1f61.exe,54e64e,dropped-by-amadey
+2026-08-30 11:56:18,"https://urlhaus.abuse.ch/url/3910102/"",""c2hunter",url,http://91.92.242.236/files-129312398/files/file_eb000b0d5ab4ad5b.exe,c2-monitor-auto,dropped-by-amadey
 2026-08-17 12:45:08,"https://urlhaus.abuse.ch/url/3904896/"",""Bitsight",url,http://91.92.242.236/files-129312398/files/file_ebb368c7ee29bd5e.exe,9d2ca3,dropped-by-amadey
 2026-08-17 14:19:07,"https://urlhaus.abuse.ch/url/3904908/"",""c2hunter",url,http://91.92.242.236/files-129312398/files/file_eead3d0c419daff9.exe,c2-monitor-auto,dropped-by-amadey
 2026-08-16 22:34:11,"https://urlhaus.abuse.ch/url/3904539/"",""Bitsight",url,http://91.92.242.236/files-129312398/files/file_ef0a1d0d3c396203.exe,9d2ca3,dropped-by-amadey
@@ -14488,6 +14539,7 @@
 2026-08-06 06:20:22,"RemcosRAT"",""https://urlhaus.abuse.ch/url/3897622/"",""abuse_ch",url,https://comumvidros.com.br/city/rcx1.exe,exe,rat
 2026-08-20 05:14:07,bombich,url,https://connectmagazineads.com/CarbonCopyCloner7.dmg,None,https://urlhaus.abuse.ch/url/3905981/
 2026-08-28 14:46:13,"stego"",""https://urlhaus.abuse.ch/url/3909326/"",""abuse_ch",url,https://coolairesgroup.com/img_051638.png,rat,RemcosRAT
+2026-08-30 12:02:15,"stego"",""https://urlhaus.abuse.ch/url/3910103/"",""abuse_ch",url,https://coolairesgroup.com/img_170820.png,rat,RemcosRAT
 2026-07-31 08:23:09,anonymous,url,https://cosmeticapampa.com.ar/ptk.exe,AgentTesla,https://urlhaus.abuse.ch/url/3894487/
 2026-08-19 16:55:08,juroots,url,https://cqintzfep6rw6jc9.public.blob.vercel-storage.com/2.bat,None,https://urlhaus.abuse.ch/url/3905851/
 2026-08-05 12:49:07,abuse_ch,url,https://cqylt.net/?e=v,ua-ps,https://urlhaus.abuse.ch/url/3897375/
