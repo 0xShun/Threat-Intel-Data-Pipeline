@@ -1,6 +1,13 @@
 # Removed IOCs — removed_iocs_urls.txt
-# Run     : 2026-09-02 10:45:57 UTC
+# Run     : 2026-09-02 19:31:53 UTC
 # Action  : SIEM should remove these entries from database
 #
-http://cdire.shop:9048/invoices
-http://oceanvw.click:3215/permissions
+http://150.241.65.250:889/venv/bin/python3.12
+http://150.241.65.250:889/venv/lib/python3.12/site-packages/_cffi_backend.cpython-312-x86_64-linux-gnu.so
+http://150.241.65.250:889/venv/lib/python3.12/site-packages/bcrypt/_bcrypt.abi3.so
+http://150.241.65.250:889/venv/lib/python3.12/site-packages/cffi-2.1.1.dist-info/METADATA
+http://150.241.65.250:889/venv/lib/python3.12/site-packages/cryptography/hazmat/bindings/_rust.abi3.so
+http://150.241.65.250:889/venv/lib/python3.12/site-packages/pip/_vendor/urllib3/fields.py
+http://150.241.65.250:889/venv/lib64/python3.12/site-packages/cryptography/hazmat/bindings/_rust.abi3.so
+http://150.241.65.250:889/venv/lib64/python3.12/site-packages/pip/_vendor/urllib3/__pycache__/fields.cpython-312.pyc
+https://raw.githubusercontent.com/moonstone-lgtm/radugawolrd/refs/heads/main/wintar
