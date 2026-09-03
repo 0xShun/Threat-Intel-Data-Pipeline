@@ -1,13 +1,11 @@
 # Removed IOCs — removed_iocs_urls.txt
-# Run     : 2026-09-02 19:31:53 UTC
+# Run     : 2026-09-03 10:46:28 UTC
 # Action  : SIEM should remove these entries from database
 #
-http://150.241.65.250:889/venv/bin/python3.12
-http://150.241.65.250:889/venv/lib/python3.12/site-packages/_cffi_backend.cpython-312-x86_64-linux-gnu.so
-http://150.241.65.250:889/venv/lib/python3.12/site-packages/bcrypt/_bcrypt.abi3.so
-http://150.241.65.250:889/venv/lib/python3.12/site-packages/cffi-2.1.1.dist-info/METADATA
-http://150.241.65.250:889/venv/lib/python3.12/site-packages/cryptography/hazmat/bindings/_rust.abi3.so
-http://150.241.65.250:889/venv/lib/python3.12/site-packages/pip/_vendor/urllib3/fields.py
-http://150.241.65.250:889/venv/lib64/python3.12/site-packages/cryptography/hazmat/bindings/_rust.abi3.so
-http://150.241.65.250:889/venv/lib64/python3.12/site-packages/pip/_vendor/urllib3/__pycache__/fields.cpython-312.pyc
-https://raw.githubusercontent.com/moonstone-lgtm/radugawolrd/refs/heads/main/wintar
+http://103.31.93.153:50202/Mozi.m
+http://139.135.40.12:55862/Mozi.m
+http://38.207.178.192:50813/EasyConnectUpdata_Log.txt
+http://38.207.178.192:50813/MySQL_LOG.txt
+https://profile.cobaltwayfinder.org/reset/gateway-runtime.js
+https://raw.githubusercontent.com/frantario/tropa47/refs/heads/main/lytkc14
+https://s3.ru-3.storage.selcloud.ru
