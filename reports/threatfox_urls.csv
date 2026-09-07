@@ -1,56 +1,151 @@
-2026-09-06 06:19:54,Mozi,url,http://103.82.120.123:54075/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.82.120.123
-2026-09-06 06:19:51,Mozi,url,http://137.59.229.65:46444/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/137.59.229.65
-2026-09-06 06:19:53,Mozi,url,http://139.135.46.180:54994/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/139.135.46.180
-2026-09-06 06:20:12,Mozi,url,http://139.135.60.100:51948/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/139.135.60.100
+2026-09-07 06:29:03,Mozi,url,http://100.1.78.232:53150/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/100.1.78.232
+2026-09-07 06:29:04,Mozi,url,http://103.203.210.102:57562/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.203.210.102
+2026-09-07 05:44:31,Mozi,url,http://120.28.197.69:36816/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/120.28.197.69
+2026-09-07 05:44:32,Mozi,url,http://123.190.231.114:42530/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/123.190.231.114
 2026-09-06 18:25:56,Unknown Stealer,url,http://146.19.191.11/api/injection,#java #MythStealer #RAT #stealer,https://x.com/devmihaylov/status/2096664388849615038
 2026-09-06 18:25:56,Unknown Stealer,url,http://146.19.191.11/l,#java #MythStealer #RAT #stealer,https://x.com/devmihaylov/status/2096664388849615038
 2026-09-06 18:25:57,Unknown Stealer,url,http://146.19.191.11/s,#java #MythStealer #RAT #stealer,https://x.com/devmihaylov/status/2096664388849615038
 2026-09-06 18:25:56,Unknown Stealer,url,http://146.19.191.11/t,#java #MythStealer #RAT #stealer,https://x.com/devmihaylov/status/2096664388849615038
-2026-09-06 07:36:12,SVCStealer,url,http://193.178.158.107/vbv/get.php,#SvcStealer,https://threatfox.abuse.ch/ioc/1902039/
-2026-09-06 06:19:53,Mozi,url,http://223.123.49.139:48395/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/223.123.49.139
-2026-09-06 06:19:51,Mozi,url,http://27.222.48.192:43573/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/27.222.48.192
 2026-09-06 18:11:58,Cobalt Strike,url,http://43.225.47.57:443/submit.php,#CobaltStrike #HoldingHands #SilverFox,https://www.virustotal.com/gui/file/f535cdbb32dd25fa7dfbcdbae96eafbd5740882e46355c78c895224de6f22e4e
+2026-09-07 05:44:21,Unknown malware,url,http://94.154.43.200/Sakura.sh,#honeypot,https://greedybear.honeynet.org
+2026-09-07 06:05:05,DCRat,url,http://a0943448.xsph.ru/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1903391/
 2026-09-06 12:36:04,Remus,url,http://bestals.shop:8592/addresses,#Remus,https://bazaar.abuse.ch/sample/991121ddf69079e51d2193f9146e27a6c24117dbc5b606c39a964b5759078cff/
 2026-09-06 12:36:05,Remus,url,http://cdire.shop:9048/addresses,#Remus,https://bazaar.abuse.ch/sample/991121ddf69079e51d2193f9146e27a6c24117dbc5b606c39a964b5759078cff/
-2026-09-06 00:45:55,Remus,url,http://cdire.shop:9048/collections,#Remus,https://bazaar.abuse.ch/sample/f02e2fefd74c7268e3aced61017173fff92e2a1d0e7eaf7807189f371fbfcc1f/
-2026-09-06 00:45:59,Remus,url,http://oceanvw.click:3215/webhooks,#Remus,https://bazaar.abuse.ch/sample/f02e2fefd74c7268e3aced61017173fff92e2a1d0e7eaf7807189f371fbfcc1f/
+2026-09-07 10:25:44,Remus,url,http://clouven.click:8527/articles,#Remus,https://bazaar.abuse.ch/sample/2ea909deb7c78b11e04c9a5eb136090e37a5d01fd4097ca5f882c0952612411c/
+2026-09-07 11:25:30,Remus,url,http://clouven.click:8527/permissions,#Remus,https://bazaar.abuse.ch/sample/5749707f6261cc7db74ba5fd8c7bdf79129c8c03408d3ef01ef46a7d85ce8425/
+2026-09-07 11:35:35,Remus,url,http://clouven.click:8527/webhooks,#Remus,https://bazaar.abuse.ch/sample/3e9037ffef55f057d814f66f700e550df13371dd109bfcbd729b7d3c76c22405/
+2026-09-07 10:25:47,Remus,url,http://smaring.shop:9895/exports,#Remus,https://bazaar.abuse.ch/sample/2ea909deb7c78b11e04c9a5eb136090e37a5d01fd4097ca5f882c0952612411c/
+2026-09-07 11:35:37,Remus,url,http://smaring.shop:9895/tasks,#Remus,https://bazaar.abuse.ch/sample/3e9037ffef55f057d814f66f700e550df13371dd109bfcbd729b7d3c76c22405/
+2026-09-07 11:25:32,Remus,url,http://smaring.shop:9895/teams,#Remus,https://bazaar.abuse.ch/sample/5749707f6261cc7db74ba5fd8c7bdf79129c8c03408d3ef01ef46a7d85ce8425/
+2026-09-07 11:35:37,Remus,url,http://trencts.shop:8592/accounts,#Remus,https://bazaar.abuse.ch/sample/3e9037ffef55f057d814f66f700e550df13371dd109bfcbd729b7d3c76c22405/
+2026-09-07 11:25:31,Remus,url,http://trencts.shop:8592/collections,#Remus,https://bazaar.abuse.ch/sample/5749707f6261cc7db74ba5fd8c7bdf79129c8c03408d3ef01ef46a7d85ce8425/
+2026-09-07 10:25:45,Remus,url,http://trencts.shop:8592/documents,#Remus,https://bazaar.abuse.ch/sample/2ea909deb7c78b11e04c9a5eb136090e37a5d01fd4097ca5f882c0952612411c/
+2026-09-07 08:36:51,Unknown malware,url,http://www.az888us.com/Vetx/adduser.php,#botnet #gambling #VertexNet #vietnam,https://www.virustotal.com/gui/file/e4a574ea1906462624b690787f6b7e34ec1b46f4bd493e5ff738a758aea81c13
+2026-09-07 08:36:48,Unknown malware,url,http://www.az888us.com/Vetx/tasks.php,#botnet #gambling #VertexNet #vietnam,https://www.virustotal.com/gui/file/e4a574ea1906462624b690787f6b7e34ec1b46f4bd493e5ff738a758aea81c13
 2026-09-06 11:48:35,Vidar,url,https://2.29.17.179,#8403baed17bc39378e1771117fa69aaf #c2 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1902157/
+2026-09-07 05:44:18,Vidar,url,https://46.29.26.48,#7b7b7c5cf1177a9a71bc4b1a537d6cba #c2 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1903108/
 2026-09-06 14:18:11,Vidar,url,https://46.62.138.14,#9f8768ae3502cef9d5429ab936ab50f8 #c2 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1902204/
+2026-09-07 11:26:38,Unknown Stealer,url,https://academiadiscipulos.com/wp-content/languages/plugins/z/planzer/,#credit-card #phishing #planzer #switzerland #wordpress-compromise,https://threatfox.abuse.ch/ioc/1903633/
+2026-09-07 05:44:20,Latrodectus,url,https://agrygamger.com/live/,#c2 #Latrodectus,https://threatfox.abuse.ch/ioc/1903236/
+2026-09-07 05:44:33,Latrodectus,url,https://aplihartom.com/live/,#c2 #Latrodectus,https://threatfox.abuse.ch/ioc/1903145/
+2026-09-07 11:33:09,Unknown Stealer,url,https://asstace.com.br/pla/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903645/
 2026-09-06 18:25:53,Unknown Stealer,url,https://ays.gamepazarin.com/e,#java #MythStealer #RAT #stealer,https://x.com/devmihaylov/status/2096664388849615038
 2026-09-06 18:25:52,Unknown Stealer,url,https://ays.gamepazarin.com/l,#java #MythStealer #RAT #stealer,https://x.com/devmihaylov/status/2096664388849615038
 2026-09-06 18:25:56,Unknown Stealer,url,https://ays.gamepazarin.com/s,#java #MythStealer #RAT #stealer,https://x.com/devmihaylov/status/2096664388849615038
+2026-09-07 08:36:50,Unknown malware,url,https://az888us.com/Vetx/adduser.php,#botnet #gambling #VertexNet #vietnam,https://www.virustotal.com/gui/file/e4a574ea1906462624b690787f6b7e34ec1b46f4bd493e5ff738a758aea81c13
+2026-09-07 08:36:50,Unknown malware,url,https://az888us.com/Vetx/tasks.php,#botnet #gambling #VertexNet #vietnam,https://www.virustotal.com/gui/file/e4a574ea1906462624b690787f6b7e34ec1b46f4bd493e5ff738a758aea81c13
 2026-09-06 13:17:29,Unknown Loader,url,https://baolongwes.oss-ap-southeast-1.aliyuncs.com/blaoso/alOffic.zip,#aliyun-oss #ManageEngine #payload_hunter #rmm #vbs,https://securelist.com/whatsapp-vbs-rmm-campaign/120290/
 2026-09-06 13:17:29,Unknown Loader,url,https://baolongwes.oss-ap-southeast-1.aliyuncs.com/ffice.zip,#aliyun-oss #ManageEngine #payload_hunter #rmm #vbs,https://securelist.com/whatsapp-vbs-rmm-campaign/120290/
 2026-09-06 13:17:30,Unknown Loader,url,https://baolongwes.oss-ap-southeast-1.aliyuncs.com/lose.zip,#aliyun-oss #ManageEngine #payload_hunter #rmm #vbs,https://securelist.com/whatsapp-vbs-rmm-campaign/120290/
 2026-09-06 13:17:30,Unknown Loader,url,https://baolongwes.oss-ap-southeast-1.aliyuncs.com/spx/ficeo.zip,#aliyun-oss #ManageEngine #payload_hunter #rmm #vbs,https://securelist.com/whatsapp-vbs-rmm-campaign/120290/
-2026-09-06 18:26:42,Unknown Stealer,url,https://canary.discord.com/api/webhooks/1545915606111625276/LwbwHWZBbQTPP6zL016u1EQTj-z2E8hCS-bOcS9mpGFCIxT52ngMnOMWm-rd1whU-IWI,#Discord #EXFILTRATION #MythStealer #stealer #Webhook,https://x.com/devmihaylov/status/2096664388849615038
-2026-09-06 07:36:05,Vidar,url,https://community.fandom.com/wikia.php?controller=UserProfile&method=getUserData&format=json&userId=63771805,#Vidar,https://bazaar.abuse.ch/sample/5cc5684a6b65305ca15d834fc8e1a8b62e1bf4d6c789a15029ddf1a2c396b34f/
-2026-09-06 06:19:57,Unknown malware,url,https://dipag.com.mx/api/comprobante/index.html,#AS399629 #BL-Networks #cybercartel #invoice-lure #mexico #sat #web-inject,https://otx.alienvault.com/pulse/6a861fca606614e9cad9fd2f
-2026-09-06 18:26:42,Unknown Stealer,url,https://discord.com/api/webhooks/1476291391826034944/xXOpsSG_GM0Hvf74rKbqw5r-3_wbvpG74Lg5sA_iiUtZqEoNZdYVyb1XgCMzbVyL8WzZ,#Discord #EXFILTRATION #MythStealer #stealer #Webhook,https://x.com/devmihaylov/status/2096664388849615038
-2026-09-06 18:26:42,Unknown Stealer,url,https://discord.com/api/webhooks/1476291402403942472/Let5i1nhtIG1cScI3vJmpmZzTc4Zib0mk73OoOOiH0FaaHGgM_jzvmp8Sf5W0jr2zC1w,#Discord #EXFILTRATION #MythStealer #stealer #Webhook,https://x.com/devmihaylov/status/2096664388849615038
-2026-09-06 18:26:42,Unknown Stealer,url,https://discord.com/api/webhooks/1476291404757078189/NI-dMuvT_02i7Ee-HgX3vIZ9Ad9Q-HY4xGQx13u73AYrUeL2O9U4cPvtaUR5VYp8Ihav,#Discord #EXFILTRATION #MythStealer #stealer #Webhook,https://x.com/devmihaylov/status/2096664388849615038
-2026-09-06 18:26:43,Unknown Stealer,url,https://discord.com/api/webhooks/1476291406283935865/GIRbMQaDzYFV1qH95IxAoFwhL7KCp1ukWaqvrEGAGeZ2Eauhlcfn2GfGpsF8RGvlAATk,#Discord #EXFILTRATION #MythStealer #stealer #Webhook,https://x.com/devmihaylov/status/2096664388849615038
-2026-09-06 18:26:43,Unknown Stealer,url,https://discord.com/api/webhooks/1476291406795509872/Qxjec0dl9zszu2giJYC3RsQbeL-qOCwH5nXA95Xp5unDAy0ToDBPRIxYluU35MpYSpsV,#Discord #EXFILTRATION #MythStealer #stealer #Webhook,https://x.com/devmihaylov/status/2096664388849615038
+2026-09-07 05:44:06,Unknown malware,url,https://bestcloudservicesupport.com/js/all.min.js,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903084/
+2026-09-07 05:44:04,Unknown malware,url,https://bestguardservicesupport.com/js/all.min.js,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903081/
+2026-09-07 05:43:45,Unknown malware,url,https://besthappyfamily.com,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903018/
+2026-09-07 05:43:44,Unknown malware,url,https://besthappyfamily.com/js/all.min.js,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903019/
+2026-09-07 05:44:06,Unknown malware,url,https://bigdealjournal.com/js/all.min.js,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903085/
+2026-09-07 11:26:39,Unknown Stealer,url,https://billvault.es/planzer/,#credit-card #phishing #planzer #switzerland #wordpress-compromise,https://threatfox.abuse.ch/ioc/1903631/
+2026-09-07 05:44:11,Unknown malware,url,https://bogrup.com,#ClickFix,https://threatfox.abuse.ch/ioc/1903091/
+2026-09-07 05:43:34,Unknown Stealer,url,https://canary.discord.com/api/webhooks/1545915606111625276/LwbwHWZBbQTPP6zL016u1EQTj-z2E8hCS-bOcS9mpGFCIxT52ngMnOMWm-rd1whU-IWI,#Discord #EXFILTRATION #MythStealer #stealer #Webhook,https://x.com/devmihaylov/status/2096664388849615038
+2026-09-07 11:33:24,Unknown Stealer,url,https://capmentor.vn/cul/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903656/
+2026-09-07 11:33:23,Unknown Stealer,url,https://capmentor.vn/planzer/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903654/
+2026-09-07 11:33:23,Unknown Stealer,url,https://capmentor.vn/plnzr/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903655/
+2026-09-07 11:33:24,Unknown Stealer,url,https://capmentor.vn/plo/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903657/
+2026-09-07 05:43:43,Unknown malware,url,https://casfol.com,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903022/
+2026-09-07 05:44:13,Unknown malware,url,https://casinodas.com,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903114/
+2026-09-07 05:44:15,Unknown malware,url,https://casinodas.com/js/all.min.js,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903119/
+2026-09-07 08:46:57,ClearFake,url,https://cdn.jsdelivr.net/gh/cowenrty/probing/related,#ClearFake,https://threatfox.abuse.ch/ioc/1903531/
+2026-09-07 05:57:02,ClearFake,url,https://cdn.jsdelivr.net/gh/cowenrty/probing/uy-4415k,#ClearFake,https://threatfox.abuse.ch/ioc/1903388/
+2026-09-07 00:09:52,ClearFake,url,https://cdn.jsdelivr.net/gh/hangnail-lab/scorecard/core,#ClearFake,https://threatfox.abuse.ch/ioc/1903152/
+2026-09-07 05:43:33,Unknown Stealer,url,https://discord.com/api/webhooks/1476291391826034944/xXOpsSG_GM0Hvf74rKbqw5r-3_wbvpG74Lg5sA_iiUtZqEoNZdYVyb1XgCMzbVyL8WzZ,#Discord #EXFILTRATION #MythStealer #stealer #Webhook,https://x.com/devmihaylov/status/2096664388849615038
+2026-09-07 05:43:32,Unknown Stealer,url,https://discord.com/api/webhooks/1476291402403942472/Let5i1nhtIG1cScI3vJmpmZzTc4Zib0mk73OoOOiH0FaaHGgM_jzvmp8Sf5W0jr2zC1w,#Discord #EXFILTRATION #MythStealer #stealer #Webhook,https://x.com/devmihaylov/status/2096664388849615038
+2026-09-07 05:43:32,Unknown Stealer,url,https://discord.com/api/webhooks/1476291404757078189/NI-dMuvT_02i7Ee-HgX3vIZ9Ad9Q-HY4xGQx13u73AYrUeL2O9U4cPvtaUR5VYp8Ihav,#Discord #EXFILTRATION #MythStealer #stealer #Webhook,https://x.com/devmihaylov/status/2096664388849615038
+2026-09-07 05:43:31,Unknown Stealer,url,https://discord.com/api/webhooks/1476291406283935865/GIRbMQaDzYFV1qH95IxAoFwhL7KCp1ukWaqvrEGAGeZ2Eauhlcfn2GfGpsF8RGvlAATk,#Discord #EXFILTRATION #MythStealer #stealer #Webhook,https://x.com/devmihaylov/status/2096664388849615038
+2026-09-07 05:43:31,Unknown Stealer,url,https://discord.com/api/webhooks/1476291406795509872/Qxjec0dl9zszu2giJYC3RsQbeL-qOCwH5nXA95Xp5unDAy0ToDBPRIxYluU35MpYSpsV,#Discord #EXFILTRATION #MythStealer #stealer #Webhook,https://x.com/devmihaylov/status/2096664388849615038
+2026-09-07 11:33:27,Unknown Stealer,url,https://dullo.co.ke/planzr/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903670/
+2026-09-07 11:26:40,Unknown Stealer,url,https://elizmasmuts.co.za/wp-content/plugins/zaw/planzer/,#credit-card #phishing #planzer #switzerland #wordpress-compromise,https://threatfox.abuse.ch/ioc/1903629/
 2026-09-06 17:30:39,Unknown malware,url,https://extranetbokning.com/,#ClickFix,https://clickfix.carsonww.com/domains/extranetbokning.com
 2026-09-06 17:30:40,Unknown malware,url,https://faridabadjobs.in/,#ClickFix,https://clickfix.carsonww.com/domains/faridabadjobs.in
+2026-09-06 22:00:38,Unknown malware,url,https://fcjus.com/,#ClickFix,https://clickfix.carsonww.com/domains/fcjus.com
 2026-09-06 18:00:40,Unknown malware,url,https://fctbtechnology.com/,#ClickFix,https://clickfix.carsonww.com/domains/fctbtechnology.com
 2026-09-06 18:00:40,Unknown malware,url,https://febebao.com/,#ClickFix,https://clickfix.carsonww.com/domains/febebao.com
 2026-09-06 18:00:40,Unknown malware,url,https://felipemesa.com/,#ClickFix,https://clickfix.carsonww.com/domains/felipemesa.com
 2026-09-06 18:00:40,Unknown malware,url,https://fernandoflores.es/,#ClickFix,https://clickfix.carsonww.com/domains/fernandoflores.es
 2026-09-06 18:00:40,Unknown malware,url,https://fiaddaroma.it/,#ClickFix,https://clickfix.carsonww.com/domains/fiaddaroma.it
+2026-09-06 20:00:39,Unknown malware,url,https://filefbar.com/,#ClickFix,https://clickfix.carsonww.com/domains/filefbar.com
+2026-09-06 20:00:39,Unknown malware,url,https://fincacademy.it/,#ClickFix,https://clickfix.carsonww.com/domains/fincacademy.it
 2026-09-06 18:00:40,Unknown malware,url,https://firstpost.com.au/,#ClickFix,https://clickfix.carsonww.com/domains/firstpost.com.au
+2026-09-06 20:00:39,Unknown malware,url,https://fiscalltraining.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/fiscalltraining.com.br
 2026-09-06 18:00:40,Unknown malware,url,https://flashblu.com/,#ClickFix,https://clickfix.carsonww.com/domains/flashblu.com
 2026-09-06 18:00:41,Unknown malware,url,https://floorexpoanddesign.com/,#ClickFix,https://clickfix.carsonww.com/domains/floorexpoanddesign.com
 2026-09-06 18:30:39,Unknown malware,url,https://floorplanbuilder.com/,#ClickFix,https://clickfix.carsonww.com/domains/floorplanbuilder.com
+2026-09-07 05:44:10,Unknown malware,url,https://fmtechacademy.com,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903101/
 2026-09-06 18:30:39,Unknown malware,url,https://folksrecruit.com/,#ClickFix,https://clickfix.carsonww.com/domains/folksrecruit.com
+2026-09-06 20:30:38,Unknown malware,url,https://fonni.net/,#ClickFix,https://clickfix.carsonww.com/domains/fonni.net
 2026-09-06 18:30:38,Unknown malware,url,https://forgebridgetechnologies.com/,#ClickFix,https://clickfix.carsonww.com/domains/forgebridgetechnologies.com
 2026-09-06 18:30:38,Unknown malware,url,https://frait.cz/,#ClickFix,https://clickfix.carsonww.com/domains/frait.cz
-2026-09-06 06:19:54,Stealc,url,https://ichamier.net/,#c2 #chma #Loader #Stealc #stealer,https://threatfox.abuse.ch/ioc/1901878/
-2026-09-06 06:20:08,Unknown malware,url,https://sites.google.com/view/facturacion2026mx,#cybercartel #Google-Sites #invoice-lure #link-annotation #mexico #open-redirect #pdf-lib #sat,https://otx.alienvault.com/pulse/6a861fca606614e9cad9fd2f
-2026-09-06 00:28:16,SmartApeSG,url,https://umbernarthex.org/route/tenant-core.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/1901893/
+2026-09-06 21:00:39,Unknown malware,url,https://fundacionmaterluz.cl/,#ClickFix,https://clickfix.carsonww.com/domains/fundacionmaterluz.cl
+2026-09-06 19:00:38,Unknown malware,url,https://gaanwala.in/,#ClickFix,https://clickfix.carsonww.com/domains/gaanwala.in
+2026-09-07 11:33:24,Unknown Stealer,url,https://gc-palmira.mx/planzr/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903658/
+2026-09-07 11:33:24,Unknown Stealer,url,https://gc-palmira.mx/plnz/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903659/
+2026-09-07 11:33:24,Unknown Stealer,url,https://gc-palmira.mx/plr/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903660/
+2026-09-07 11:33:25,Unknown Stealer,url,https://globalreferralteam.com/plonzer/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903661/
+2026-09-07 05:43:47,Unknown malware,url,https://goodpersonofourcentury.com,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903015/
+2026-09-07 05:43:45,Unknown malware,url,https://goodpersonofourcentury.com/js/all.min.js,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903017/
+2026-09-07 05:44:09,Unknown malware,url,https://great-basic.com/4qX0LB/tm/oPpE,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903103/
+2026-09-07 11:26:38,Unknown Stealer,url,https://hayetkzebi.wt-winterswijk.com/planzer/,#credit-card #phishing #planzer #switzerland #wordpress-compromise,https://threatfox.abuse.ch/ioc/1903632/
+2026-09-07 11:33:08,Unknown Stealer,url,https://haziranaltyapi.com/welcome/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903643/
+2026-09-07 11:33:09,Unknown Stealer,url,https://hybridmediaworks.net/gplznr/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903648/
+2026-09-07 11:33:09,Unknown Stealer,url,https://hybridmediaworks.net/pln/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903647/
+2026-09-07 11:33:09,Unknown Stealer,url,https://imofil.co.ao/imagens/ch/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903646/
+2026-09-07 11:33:25,Unknown Stealer,url,https://investigativedesk.net/planzerhq/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903664/
+2026-09-07 11:33:25,Unknown Stealer,url,https://investigativedesk.net/plnr/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903665/
+2026-09-07 08:30:38,Unknown malware,url,https://ira-company.com/,#ClickFix,https://clickfix.carsonww.com/domains/ira-company.com
+2026-09-07 10:00:40,Unknown malware,url,https://kairostksc.com/,#ClickFix,https://clickfix.carsonww.com/domains/kairostksc.com
+2026-09-07 11:33:28,Unknown Stealer,url,https://linguatechacademy.ro/planzer/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903673/
+2026-09-07 05:44:07,Unknown malware,url,https://lovezramexar.info/api.php,#ClickFix,https://threatfox.abuse.ch/ioc/1903107/
+2026-09-07 05:44:09,Unknown malware,url,https://lunar-quill-fluscriois.live/t.js,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903102/
+2026-09-07 11:33:27,Unknown Stealer,url,https://magriby2.noviindus.co.in/plzr/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903672/
+2026-09-07 05:44:13,Unknown malware,url,https://mathandchessss.com,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903115/
+2026-09-07 05:44:14,Unknown malware,url,https://mathandchessss.com/js/all.min.js,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903117/
+2026-09-07 05:44:05,Unknown malware,url,https://medmark.sa,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903083/
+2026-09-07 05:44:10,Unknown malware,url,https://mon-blanc-02.cfd,#ClickFix,https://threatfox.abuse.ch/ioc/1903092/
+2026-09-07 11:33:27,Unknown Stealer,url,https://museoscuoladiminiera.it/planzr/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903671/
+2026-09-07 11:26:45,Unknown Stealer,url,https://nlservices.thedirtysouthdigital.com/planzer/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903622/
+2026-09-07 11:26:44,Unknown Stealer,url,https://nlservices.thedirtysouthdigital.com/planzer/approval.php,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903624/
+2026-09-07 11:26:42,Unknown Stealer,url,https://nlservices.thedirtysouthdigital.com/planzer/loading1.php,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903625/
+2026-09-07 11:26:42,Unknown Stealer,url,https://nlservices.thedirtysouthdigital.com/planzer/loading2.php,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903626/
+2026-09-07 11:26:43,Unknown Stealer,url,https://nlservices.thedirtysouthdigital.com/planzer/payment.php,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903623/
+2026-09-07 11:33:08,Unknown Stealer,url,https://planzerzebi.wt-winterswijk.com/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903641/
+2026-09-07 11:33:08,Unknown Stealer,url,https://pyxisconsultancy.com.ng/info/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903639/
+2026-09-07 06:08:41,ClearFake,url,https://raw.githubusercontent.com/cowenrty/probing/refs/heads/main/related,#ClearFake,https://threatfox.abuse.ch/ioc/1903398/
+2026-09-07 11:26:46,Vidar,url,https://register.v-panel.asia/,,https://threatfox.abuse.ch/ioc/1903603/
+2026-09-07 11:26:41,Unknown Stealer,url,https://scaffoldingmacclesfield.com/wp-admin/css/colorst/planzer/,#credit-card #phishing #planzer #switzerland #wordpress-compromise,https://threatfox.abuse.ch/ioc/1903630/
+2026-09-07 05:44:14,Unknown malware,url,https://sex-reputation.com,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903116/
+2026-09-07 05:44:14,Unknown malware,url,https://sex-reputation.com/js/all.min.js,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903118/
+2026-09-07 11:33:09,Unknown Stealer,url,https://simecsoft.myscriptcase.com/zr/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903649/
+2026-09-07 11:33:08,Unknown Stealer,url,https://sorgenfreie-alltagshilfe.de/pnzr/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903642/
+2026-09-07 11:33:10,Unknown Stealer,url,https://sportspromotion.mx/trackplanzer/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903653/
+2026-09-07 06:06:48,Vidar,url,https://steamcommunity.com/profiles/76561198645030031,#Vidar,https://bazaar.abuse.ch/sample/5cc5684a6b65305ca15d834fc8e1a8b62e1bf4d6c789a15029ddf1a2c396b34f/
+2026-09-07 11:33:10,Unknown Stealer,url,https://terasoft.co.id/ex/planzrx/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903650/
+2026-09-07 11:33:26,Unknown Stealer,url,https://thefucoidan.com/planzr/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903669/
+2026-09-07 11:33:10,Unknown Stealer,url,https://thriveit.ca/planzr/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903651/
+2026-09-07 11:33:10,Unknown Stealer,url,https://toptaxi.app.br/planzr/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903652/
+2026-09-07 05:44:34,Unknown Stealer,url,https://troysolution.com.tr/api/bundle,#RUST #stealer #Trace Stealer #TraceStealer,https://app.any.run/submissions
+2026-09-07 11:33:08,Unknown Stealer,url,https://twyi.com.ng/zer/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903640/
+2026-09-07 11:33:25,Unknown Stealer,url,https://unitedbktrust.com/dash/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903662/
+2026-09-07 11:33:25,Unknown Stealer,url,https://unitedbktrust.com/order/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903663/
+2026-09-07 11:26:40,Unknown Stealer,url,https://vb-recruitment.ro/vbt/vbt,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903627/
 2026-09-06 11:48:37,Vidar,url,https://vlanp.ru/login,#c2 #Vidar,https://threatfox.abuse.ch/ioc/1902155/
-2026-09-06 18:28:22,Unknown Stealer,url,https://www.dropbox.com/scl/fi/tvvsyk7x5kkbdfyuw7zh7/DiscordNitroGenerator.exe?rlkey=m3immhficmucb21uom0lknjuz&st=ebilsg9p&dl=0,#dropbox #MythStealer #payload-delivery #stealer,https://x.com/devmihaylov/status/2096664388849615038
+2026-09-07 05:43:45,Unknown malware,url,https://waysmakeyourlifebetter.com,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903016/
+2026-09-07 05:43:43,Unknown malware,url,https://waysmakeyourlifebetter.com/js/all.min.js,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1903021/
+2026-09-07 08:36:48,Unknown malware,url,https://www.az888us.com/Vetx/adduser.php,#botnet #gambling #VertexNet #vietnam,https://www.virustotal.com/gui/file/e4a574ea1906462624b690787f6b7e34ec1b46f4bd493e5ff738a758aea81c13
+2026-09-07 08:36:49,Unknown malware,url,https://www.az888us.com/Vetx/tasks.php,#botnet #gambling #VertexNet #vietnam,https://www.virustotal.com/gui/file/e4a574ea1906462624b690787f6b7e34ec1b46f4bd493e5ff738a758aea81c13
+2026-09-07 05:43:31,Unknown Stealer,url,https://www.dropbox.com/scl/fi/tvvsyk7x5kkbdfyuw7zh7/DiscordNitroGenerator.exe?rlkey=m3immhficmucb21uom0lknjuz&st=ebilsg9p&dl=0,#dropbox #MythStealer #payload-delivery #stealer,https://x.com/devmihaylov/status/2096664388849615038
 2026-09-06 17:30:39,Unknown malware,url,https://www.expeditrans.org/,#ClickFix,https://clickfix.carsonww.com/domains/www.expeditrans.org
 2026-09-06 18:00:40,Unknown malware,url,https://www.firsthome-realestate.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.firsthome-realestate.com
 2026-09-06 18:30:38,Unknown malware,url,https://www.fotodiket.se/,#ClickFix,https://clickfix.carsonww.com/domains/www.fotodiket.se
-2026-09-06 01:00:39,Unknown malware,url,https://yogatree1dev.wpenginepowered.com/,#ClickFix,https://clickfix.carsonww.com/domains/yogatree1dev.wpenginepowered.com
+2026-09-06 19:00:38,Unknown malware,url,https://www.franckformation-autoecole.fr/,#ClickFix,https://clickfix.carsonww.com/domains/www.franckformation-autoecole.fr
+2026-09-07 11:33:08,Unknown Stealer,url,https://www.jkshuttle.com/pzr/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903644/
+2026-09-07 11:33:26,Unknown Stealer,url,https://www.narasumber.id/pnz/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903667/
+2026-09-07 11:33:26,Unknown Stealer,url,https://www.narasumber.id/pz/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903668/
+2026-09-07 11:33:26,Unknown Stealer,url,https://www.originalitymg.co.za/plzr/,#credit-card #phishing #planzer #switzerland,https://threatfox.abuse.ch/ioc/1903666/
