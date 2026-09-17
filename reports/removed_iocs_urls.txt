@@ -1,12 +1,15 @@
 # Removed IOCs — removed_iocs_urls.txt
-# Run     : 2026-09-16 19:46:37 UTC
+# Run     : 2026-09-17 19:54:37 UTC
 # Action  : SIEM should remove these entries from database
 #
-http://213.145.86.112/cdn/chunks/polyfill-7e2b.min.js
-http://213.145.86.112/t/pixel.gif
-http://log.gitclone.org:45678/smtp
-http://myxavpn.pro/oferta/
-http://skipraid.com/dsVGmQTrzX/default2
-http://windefender.net:443
-http://windowsupdates.us:80
-http://www.windefender.net:443
+http://debug.windowsdiagnostics.st:8080/api/miners/submit
+http://debug.windowsdiagnostics.st:8080/api/updates/current
+http://debug.windowsdiagnostics.st:8080/resources/gminer
+http://debug.windowsdiagnostics.st:8080/resources/xmrig
+https://api.studiotikva.com/ac
+https://api.studiotikva.com/api/v1/update/check
+https://windowsdiagnostics.st/api/receive/DTA
+https://windowsdiagnostics.st/api/receive/file
+https://windowsdiagnostics.st/api/receive/python-log
+https://windowsdiagnostics.st/api/receive/sess
+https://windowsdiagnostics.st/api/receive/walleters
