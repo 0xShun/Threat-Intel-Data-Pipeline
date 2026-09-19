@@ -1,37 +1,15 @@
 # Removed IOCs — removed_iocs_urls.txt
-# Run     : 2026-09-18 19:15:16 UTC
+# Run     : 2026-09-19 10:25:25 UTC
 # Action  : SIEM should remove these entries from database
 #
-http://144.172.112.239:4782
-http://178.92.162.38:443
-http://185.221.23.133:443
-http://185.221.23.133:4782
-http://37.16.74.100:443
-http://37.16.74.34:443
-http://45.90.13.210:443
-https://a7.zk89.net
-https://acrobat-updater.com/5f109e7bb3df4dea81946f2f853da288
-https://acrobat-updater.com/api/v2/acrobat/latest
-https://acrobat-updater.com/generate
-https://codecaudiog.site/87b76a60ba7c474dbf8f689df2808e1a?payload=f1d7b074-b81f-11ef-a763-1402ec3d56f0
-https://codecaudiog.site/generate?domain=codecvideowin.online&payload=991589b0-4cc9-11f0-b9f4-1402ec3d56f0&prefix=NF&prefix_count=10&output=base64
-https://codecaudiog.site/generate?domain=codecvideowin.online&payload=f1d7b074-b81f-11ef-a763-1402ec3d56f0&prefix=NF&prefix_count=10&output=base64
-https://codecvideowin.online/af15d5f?p=991589b0-4cc9-11f0-b9f4-1402ec3d56f0
-https://codecvideowin.online/af15d5f?p=f1d7b074-b81f-11ef-a763-1402ec3d56f0
-https://codecvideowin.online/f9e95a1e1fa3f3aebfc802c6c8e6a2eb
-https://cremeb.com/af15d5f?p=48502c50-a504-4811-aab8-ba978aeae237
-https://cremeb.com/b216890758c64daa8ad01e251df36f36.jpg
-https://cremeb.com/kremlin?p=48502c50-a504-4811-aab8-ba978aeae237&prefix=NF&prefix_count=10&output=base64
-https://cremeb.com/kremlin?p=cholecalciferol&prefix=NF&prefix_count=10&output=base64
-https://cremeb.com/qrcode/api/v1/read?domain=
-https://cremeb.com/update-codec-browser/48502c50-a504-4811-aab8-ba978aeae237
-https://cremeb.com/update-codec-browser/cholecalciferol
-https://donalurdesconfeitos.site/b216890758c64daa8ad01e251df36f36.jpg
-https://donalurdesconfeitos.site/b216890758c64daa8ad01e251df36f36?p=48502c50-a504-4811-aab8-ba978aeae237
-https://donalurdesconfeitos.site/blazerzinha?p=48502c50-a504-4811-aab8-ba978aeae237&prefix=NF&prefix_count=10&output=base64
-https://donalurdesconfeitos.site/kremlin?p=48502c50-a504-4811-aab8-ba978aeae237&prefix=NF&prefix_count=10&output=base64
-https://donalurdesconfeitos.site/update-codec-browser/48502c50-a504-4811-aab8-ba978aeae237
-https://donalurdesconfeitos.site/update-codec-browser/cholecalciferol
-https://gitea.redacted.com.ar/api/v1/metrics?k=[auth
-https://harialurdes.site/b216890758c64daa8ad01e251df36f36?p=48502c50-a504-4811-aab8-ba978aeae237
-https://marialurdes.site/b216890758c64daa8ad01e251df36f36?p=48502c50-a504-4811-aab8-ba978aeae237
+http://138.226.247.152:80/session/0f2a3fba69d29493
+http://51.210.52.212:1224/api/checkStatus
+https://gamboracle.vercel.app/api
+https://ip-vm.vercel.app/api/settings/env
+https://ip-vm.vercel.app/api/settings/linux
+https://ip-vm.vercel.app/api/settings/mac
+https://ip-vm.vercel.app/api/settings/windows
+https://jsonkeeper.com/b/J0VBJ
+https://kaiangelsystems.rest/
+https://www.jsonkeeper.com/b/7EBZP
+https://www.jsonkeeper.com/b/PAB1R
