@@ -2,16 +2,21 @@
 2026-09-19 15:46:42,VShell,url,http://103.242.12.143:1234/?h=103.242.12.143&p=1234&t=tcp&a=w64&stage=true,#exe #Vshell,https://threatfox.abuse.ch/ioc/1924521/
 2026-09-19 18:02:57,VShell,url,http://103.242.12.143:1234/?h=103.242.12.143&p=1234&t=ws&a=w64&stage=true,#exe #Vshell,https://threatfox.abuse.ch/ioc/1924617/
 2026-09-19 15:47:20,Mozi,url,http://103.249.199.1:35620/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.249.199.1
-2026-09-19 05:52:29,xmrig,url,http://103.249.201.108:81/private/rigel-win.zip,#botnet #comfyui #cryptojacking #monero #sparky #xmrig,https://threatfox.abuse.ch/ioc/1924295/
-2026-09-19 05:52:29,xmrig,url,http://103.249.201.108:81/private/xmrig-win.zip,#botnet #comfyui #cryptojacking #monero #sparky #xmrig,https://threatfox.abuse.ch/ioc/1924294/
+2026-09-20 05:32:43,Mozi,url,http://103.65.30.159:46727/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.65.30.159
+2026-09-20 10:28:29,VShell,url,http://107.161.168.217/?h=107.161.168.217&p=80&t=tcp&a=w64&stage=true,#exe #Loader #Vshell,https://threatfox.abuse.ch/ioc/1924852/
+2026-09-20 05:32:40,Mirai,url,http://107.161.168.217/?h=107.161.168.217&p=80&t=ws&a=l64&stage=true,#elf #Mirai,https://threatfox.abuse.ch/ioc/1924719/
+2026-09-20 05:32:25,VShell,url,http://107.161.168.217/?h=107.161.168.217&p=80&t=ws&a=w32&stage=true,#exe #Vshell,https://threatfox.abuse.ch/ioc/1924759/
+2026-09-20 05:32:49,VShell,url,http://107.161.168.217/?h=107.161.168.217&p=80&t=ws&a=w64&stage=true,#exe #Vshell,https://threatfox.abuse.ch/ioc/1924694/
+2026-09-20 05:32:54,Ngioweb,url,http://118.145.196.225:800/,#Cling #IoT #Ngioweb #residential-proxy,https://blog.efespain.com/en/chapter-18/
+2026-09-20 05:32:39,Mozi,url,http://139.135.43.129:35781/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/139.135.43.129
 2026-09-19 12:45:27,Cobalt Strike,url,http://145.79.143.4:80/nl3P,#CobaltStrike,https://bazaar.abuse.ch/sample/5ff753b070e7f44223920d9f2b33db3c99875b2b9d442469275521ce9ff7a5cb/
 2026-09-19 15:47:18,VShell,url,http://156.238.224.156:5522/?h=156.238.224.156&p=5522&t=ws&a=w32&stage=true,#exe #Vshell,https://threatfox.abuse.ch/ioc/1924458/
-2026-09-19 05:52:46,AMOS,url,http://165.232.73.74/api/metrics/run,#Amos #cc2 #ClickFix #Foxveil #macOS,https://www.virustotal.com/gui/file/a3dabccd14492f4c70658ece96a3ed7b4e275ff9d70c434298bd6f863d1e24b9
-2026-09-19 05:52:31,xmrig,url,http://165.245.138.247:81/private/rigel-win.zip,#botnet #comfyui #cryptojacking #monero #sparky #xmrig,https://threatfox.abuse.ch/ioc/1924291/
-2026-09-19 05:52:30,xmrig,url,http://165.245.138.247:81/private/xmrig-win.zip,#botnet #comfyui #cryptojacking #monero #sparky #xmrig,https://threatfox.abuse.ch/ioc/1924290/
+2026-09-20 08:17:58,Mirai,url,http://156.248.73.84:8081/?h=156.248.73.84&p=8081&t=ws&a=l32&stage=true,#elf #Mirai,https://threatfox.abuse.ch/ioc/1924795/
 2026-09-19 15:47:06,Coinminer,url,http://177.70.102.232:8070/TmpFTP/01/Cancelamento/2022-09-06/info.zip,#CoinMiner #exe #zip,https://threatfox.abuse.ch/ioc/1924481/
 2026-09-19 15:47:06,Coinminer,url,http://177.70.102.232:8070/TmpFTP/01/Consulta/2019-08-02/info.zip,#CoinMiner #exe #zip,https://threatfox.abuse.ch/ioc/1924482/
 2026-09-19 15:47:04,Coinminer,url,http://177.70.102.232:8070/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2019-12-19/info.zip,#CoinMiner #zip,https://threatfox.abuse.ch/ioc/1924483/
+2026-09-20 05:32:49,Mirai,url,http://178.16.53.91:8443/?h=178.16.53.91&p=8443&t=ws&a=l64&stage=true,#elf #Mirai,https://threatfox.abuse.ch/ioc/1924695/
+2026-09-20 05:32:37,Unknown malware,url,http://178.16.55.93/Bin/ScreenConnect.ClientSetup.exe,#exe,https://threatfox.abuse.ch/ioc/1924722/
 2026-09-19 18:03:01,Coinminer,url,http://178.198.246.24/info.zip,#CoinMiner #zip,https://threatfox.abuse.ch/ioc/1924600/
 2026-09-19 18:03:00,Coinminer,url,http://178.61.160.6:5001/info.zip,#CoinMiner #exe #zip,https://threatfox.abuse.ch/ioc/1924601/
 2026-09-19 18:02:58,Coinminer,url,http://178.61.160.6:5001/video.scr,#CoinMiner #exe,https://threatfox.abuse.ch/ioc/1924613/
@@ -20,13 +25,10 @@
 2026-09-19 18:02:57,xmrig,url,http://186.235.86.129/Photo.scr,#CoinMiner #exe #xmrig,https://threatfox.abuse.ch/ioc/1924616/
 2026-09-19 15:46:44,SNOWLIGHT,url,http://193.160.32.138:8085/?h=193.160.32.138&p=8085&t=tcp&a=l32&stage=true,#elf #SNOWLIGHT,https://threatfox.abuse.ch/ioc/1924519/
 2026-09-19 15:46:41,Mirai,url,http://193.160.32.138:8085/?h=193.160.32.138&p=8085&t=ws&a=l32&stage=true,#elf #Mirai,https://threatfox.abuse.ch/ioc/1924545/
-2026-09-19 18:58:07,Unknown malware,url,http://195.24.237.240/.x/black3,#cryptojacking #diicot #Mexals #second-stage,https://blog.efespain.com/en/chapter-28/
-2026-09-19 05:52:40,Mozi,url,http://202.47.44.156:53119/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/202.47.44.156
-2026-09-19 06:25:38,Mozi,url,http://203.99.56.137:36975/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/203.99.56.137
-2026-09-19 05:52:29,xmrig,url,http://217.76.63.67:81/private/rigel-win.zip,#botnet #comfyui #cryptojacking #monero #sparky #xmrig,https://threatfox.abuse.ch/ioc/1924293/
-2026-09-19 05:52:30,xmrig,url,http://217.76.63.67:81/private/xmrig-win.zip,#botnet #comfyui #cryptojacking #monero #sparky #xmrig,https://threatfox.abuse.ch/ioc/1924292/
+2026-09-20 05:32:58,Mirai,url,http://193.160.32.138:8085/?h=193.160.32.138&p=8085&t=ws&a=l64&stage=true,#elf #Mirai,https://threatfox.abuse.ch/ioc/1924646/
+2026-09-20 05:32:59,Unknown malware,url,http://195.24.237.240/.x/black3,#cryptojacking #diicot #Mexals #second-stage,https://blog.efespain.com/en/chapter-28/
 2026-09-19 15:46:40,VShell,url,http://222.112.70.149:8084/?h=222.112.70.149&p=8084&t=tcp&a=w32&stage=true,#exe #Vshell,https://threatfox.abuse.ch/ioc/1924549/
-2026-09-19 06:25:36,Mozi,url,http://223.123.125.178:38438/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/223.123.125.178
+2026-09-20 05:32:41,Mozi,url,http://223.123.43.252:57243/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/223.123.43.252
 2026-09-19 15:47:04,VShell,url,http://34.92.225.25:8084/?h=34.92.225.25&p=8084&t=tcp&a=w64&stage=true,#exe #Vshell,https://threatfox.abuse.ch/ioc/1924484/
 2026-09-19 18:03:01,Mirai,url,http://34.92.225.25:8084/?h=34.92.225.25&p=8084&t=ws&a=l32&stage=true,#elf #Mirai,https://threatfox.abuse.ch/ioc/1924598/
 2026-09-19 15:47:04,VShell,url,http://34.92.225.25:8084/?h=34.92.225.25&p=8084&t=ws&a=w32&stage=true,#exe #Vshell,https://threatfox.abuse.ch/ioc/1924485/
@@ -34,38 +36,30 @@
 2026-09-19 15:46:46,Mirai,url,http://420mafia.eu/ar-15/ar15.arc,#elf #Mirai,https://threatfox.abuse.ch/ioc/1924516/
 2026-09-19 15:46:45,Mirai,url,http://420mafia.eu/ar-15/ar15.m68k,#elf #Mirai,https://threatfox.abuse.ch/ioc/1924517/
 2026-09-19 15:46:41,Mirai,url,http://420mafia.eu/ar-15/ar15.x86_64,#elf #Mirai #upx,https://threatfox.abuse.ch/ioc/1924546/
+2026-09-20 05:32:35,VShell,url,http://47.254.173.184:8443/?h=47.254.173.184&p=8443&t=tcp&a=w32&stage=true,#exe #Vshell,https://threatfox.abuse.ch/ioc/1924738/
 2026-09-19 15:46:41,VShell,url,http://47.254.173.184:8443/?h=47.254.173.184&p=8443&t=tcp&a=w64&stage=true,#exe #Vshell,https://threatfox.abuse.ch/ioc/1924547/
-2026-09-19 18:18:47,Mozi,url,http://72.255.26.34:51571/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/72.255.26.34
-2026-09-19 05:52:34,xmrig,url,http://80.74.30.4:3000/sparky/comfyui-utils.git,#botnet #comfyui #cryptojacking #monero #sparky #xmrig,https://threatfox.abuse.ch/ioc/1924289/
+2026-09-20 08:17:57,Mirai,url,http://47.254.173.184:8443/?h=47.254.173.184&p=8443&t=ws&a=l32&stage=true,#elf #Mirai #SNOWLIGHT,https://threatfox.abuse.ch/ioc/1924796/
+2026-09-20 05:32:35,VShell,url,http://47.254.173.184:8443/?h=47.254.173.184&p=8443&t=ws&a=w32&stage=true,#exe #Vshell,https://threatfox.abuse.ch/ioc/1924739/
+2026-09-20 05:33:07,Mozi,url,http://72.255.26.34:51571/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/72.255.26.34
+2026-09-20 05:32:34,VShell,url,http://89.34.227.96:8088/?h=89.34.227.96&p=8088&t=tcp&a=w32&stage=true,#exe #Vshell,https://threatfox.abuse.ch/ioc/1924740/
+2026-09-20 05:32:34,VShell,url,http://89.34.227.96:8088/?h=89.34.227.96&p=8088&t=tcp&a=w64&stage=true,#exe #Vshell,https://threatfox.abuse.ch/ioc/1924741/
+2026-09-20 05:32:38,Mirai,url,http://89.34.227.96:8088/?h=89.34.227.96&p=8088&t=ws&a=l64&stage=true,#elf #Mirai,https://threatfox.abuse.ch/ioc/1924720/
+2026-09-20 05:32:33,VShell,url,http://89.34.227.96:8088/?h=89.34.227.96&p=8088&t=ws&a=w32&stage=true,#exe #Vshell,https://threatfox.abuse.ch/ioc/1924742/
+2026-09-20 05:32:25,VShell,url,http://89.34.227.96:8088/?h=89.34.227.96&p=8088&t=ws&a=w64&stage=true,#exe #Vshell,https://threatfox.abuse.ch/ioc/1924760/
 2026-09-19 15:46:45,MimiKatz,url,http://92.127.156.174:8880/master.exe,#exe #Mimikatz,https://threatfox.abuse.ch/ioc/1924518/
-2026-09-19 06:48:38,Remus,url,http://clouven.click:8527/notifications,#Remus,https://threatfox.abuse.ch/ioc/1924365/
-2026-09-18 21:36:08,Remus,url,http://fuarnpp.shop:5627/payments,#Remus,https://threatfox.abuse.ch/ioc/1924254/
-2026-09-19 04:23:38,Remus,url,http://fuarnpp.shop:5627/sessions,#Remus,https://threatfox.abuse.ch/ioc/1924333/
-2026-09-18 19:51:08,Remus,url,http://fuarnpp.shop:5627/tokens,#Remus,https://threatfox.abuse.ch/ioc/1924217/
-2026-09-19 09:37:23,Remus,url,http://fuarnpp.shop:5627/transactions,#Remus,https://threatfox.abuse.ch/ioc/1924406/
-2026-09-19 09:37:23,Remus,url,http://homecor.click:6527/articles,#Remus,https://threatfox.abuse.ch/ioc/1924404/
-2026-09-18 19:51:08,Remus,url,http://homecor.click:6527/tags,#Remus,https://threatfox.abuse.ch/ioc/1924216/
-2026-09-19 04:23:38,Remus,url,http://homecor.click:6527/users,#Remus,https://threatfox.abuse.ch/ioc/1924332/
-2026-09-19 09:37:23,Remus,url,http://kipthen.shop:9932/subscriptions,#Remus,https://threatfox.abuse.ch/ioc/1924405/
-2026-09-19 06:48:38,Remus,url,http://smaring.shop:9895/attachments,#Remus,https://threatfox.abuse.ch/ioc/1924366/
-2026-09-18 21:36:08,Remus,url,http://tfoyses.shop:3452/exports,#Remus,https://threatfox.abuse.ch/ioc/1924255/
-2026-09-18 20:10:30,Remus,url,http://tfoyses.shop:3452/tasks,#Remus,https://bazaar.abuse.ch/sample/61ad2f39c74536dc5668b4977c0557c192eef5ec0c7e1302178e10a254a71d64/
-2026-09-19 09:53:53,Remus,url,http://tiruet.com:5632,#Remus,https://threatfox.abuse.ch/ioc/1924427/
-2026-09-19 05:52:21,Vidar,url,https://192.142.37.129,#7347836807ad35a478daa982b6a56e60 #c2 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1924325/
+2026-09-20 09:46:31,Unknown malware,url,https://167.235.0.162/api/forensics,,https://bazaar.abuse.ch/sample/cb386097cb8dd56b769793a40673e4b7a2df878864d4ae123359a7fa6e9265b5/
+2026-09-20 05:32:56,Vidar,url,https://178.105.213.40,#5afe54259834bc2b70f486886de05fbe #c2 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1924675/
 2026-09-19 15:46:40,Unknown malware,url,https://aaflnt.com/statement/customer/customer_statements.zip,#meshagent #zip,https://threatfox.abuse.ch/ioc/1924550/
 2026-09-19 15:46:47,Unknown malware,url,https://accountsensepro.net/first_allow_host,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1924501/
 2026-09-19 15:46:47,Unknown malware,url,https://accountsensepro.net/get_verify,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1924500/
 2026-09-19 15:46:56,Unknown malware,url,https://accountsensepro.net/js/all.min.js,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1924487/
-2026-09-19 05:52:45,AMOS,url,https://blueprint-71.com/2kqYRM0DCrnyJgoS4gVLl_FHJRRdTUhGCbjyuYwpZ6c/cc2/update,#Amos #cc2 #ClickFix #Foxveil #macOS,https://www.virustotal.com/gui/file/a3dabccd14492f4c70658ece96a3ed7b4e275ff9d70c434298bd6f863d1e24b9
-2026-09-19 05:52:44,AMOS,url,https://blueprint-71.com/curl/amtkquxbo3/obh3bn3umykzjlth.json,#Amos #cc2 #ClickFix #Foxveil #macOS,https://www.virustotal.com/gui/file/a3dabccd14492f4c70658ece96a3ed7b4e275ff9d70c434298bd6f863d1e24b9
-2026-09-19 05:52:48,Unknown malware,url,https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/129fd90846a1e173/9221.txt,#7moor #Certum #Downloader #EV-signed #payload-delivery #shellcode #stager,https://medium.com/@devmihaylov/a-certum-ev-signed-stager-that-pulls-shellcode-from-a-customer-service-cdn-7a04df8a4d09
+2026-09-19 20:30:14,Unknown malware,url,https://demonsbasement.com/,#ClickFix,https://clickfix.carsonww.com/domains/demonsbasement.com
 2026-09-19 15:47:19,Unknown malware,url,https://filezilla.cc/takefile/sezen/default.zip,#zip,https://threatfox.abuse.ch/ioc/1924455/
+2026-09-20 05:32:41,AMOS,url,https://forgewillow.com/2kqYRM0DCrnyJgoS4gVLl_FHJRRdTUhGCbjyuYwpZ6c/kis/update,#Amos #ClickFix #Foxveil #macOS,https://threatfox.abuse.ch/ioc/1924712/
+2026-09-20 05:32:47,Vidar,url,https://fr.hg77.org,#c2 #fc99bd8607c97081de7780968727c206 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1924701/
 2026-09-19 15:47:18,Unknown malware,url,https://hongyuncloud-diskmanager.hongyuncloud.workers.dev/%E7%BA%A2%E4%BA%91cloud/private/KLRing.dll,#exe,https://threatfox.abuse.ch/ioc/1924456/
 2026-09-19 15:47:18,Unknown Loader,url,https://jfss-apakp.pages.dev/download/%E6%9C%BA%E6%88%BF%E6%9D%80%E6%89%8B1.26.7.5.zip,#exe #Loader #zip,https://threatfox.abuse.ch/ioc/1924457/
-2026-09-19 05:52:47,AMOS,url,https://lyric-8.com/api/metrics/run?event=pasted,#Amos #cc2 #ClickFix #Foxveil #macOS,https://www.virustotal.com/gui/file/a3dabccd14492f4c70658ece96a3ed7b4e275ff9d70c434298bd6f863d1e24b9
-2026-09-19 05:52:47,AMOS,url,https://lyric-8.com/api/metrics/run?event=stager,#Amos #cc2 #ClickFix #Foxveil #macOS,https://www.virustotal.com/gui/file/a3dabccd14492f4c70658ece96a3ed7b4e275ff9d70c434298bd6f863d1e24b9
-2026-09-19 05:52:21,Vidar,url,https://ma.19hoki.org,#3a2918022604800cdad549fc923fe6d8 #c2 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1924318/
-2026-09-19 06:25:37,Vidar,url,https://ma.1hoki.org,#bf33027f37759641887481194ff9b944 #c2 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1924357/
+2026-09-20 08:17:57,AMOS,url,https://loombronze.com/contact,#Amos #cc2 #ClickFix #Foxveil #macOS,https://www.virustotal.com/gui/file/ec780ca8df9d10df905f3f77641f88ece7651303843802c37a57c484c6251a42
 2026-09-19 15:47:17,Unknown malware,url,https://malwaredirectory.pages.dev/malware/ransomwares/Birele.zip,#exe #Ransomware #zip,https://threatfox.abuse.ch/ioc/1924459/
 2026-09-19 17:30:14,Unknown malware,url,https://navyapridedevelopers.com/,#ClickFix,https://clickfix.carsonww.com/domains/navyapridedevelopers.com
 2026-09-19 15:46:55,Unknown malware,url,https://oauthapp.net,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1924490/
@@ -73,14 +67,19 @@
 2026-09-19 15:46:49,Unknown malware,url,https://oauthapp.net/get_verify,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1924497/
 2026-09-19 15:46:48,Unknown malware,url,https://oauthapp.net/js/all.min.js,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1924499/
 2026-09-19 18:02:56,Vidar,url,https://oi.1betasia.org,#c2 #fc99bd8607c97081de7780968727c206 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1924621/
+2026-09-19 19:30:14,Unknown malware,url,https://provely.io/,#ClickFix,https://clickfix.carsonww.com/domains/provely.io
 2026-09-19 15:46:52,Unknown malware,url,https://reportsnapbit.com/first_allow_host,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1924496/
 2026-09-19 15:46:54,Unknown malware,url,https://reportsnapbit.com/get_verify,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1924491/
 2026-09-19 15:46:48,Unknown malware,url,https://reportsnapbit.com/js/all.min.js,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1924498/
 2026-09-19 13:00:15,Unknown malware,url,https://shivsagartrading.com/,#ClickFix,https://clickfix.carsonww.com/domains/shivsagartrading.com
+2026-09-20 05:32:53,Vidar,url,https://signin.v-panel.asia/,,https://threatfox.abuse.ch/ioc/1924687/
+2026-09-20 10:06:07,Vidar,url,https://signup.v-panel.asia/,,https://threatfox.abuse.ch/ioc/1924847/
 2026-09-19 15:46:55,Unknown malware,url,https://solarwinds-in.com,#ClickFix #etherhide,https://threatfox.abuse.ch/ioc/1924489/
+2026-09-20 04:30:39,Unknown malware,url,https://squidscript.com/,#ClickFix,https://clickfix.carsonww.com/domains/squidscript.com
 2026-09-19 18:30:14,Unknown malware,url,https://sreeanugraha.com/,#ClickFix,https://clickfix.carsonww.com/domains/sreeanugraha.com
-2026-09-19 07:45:06,ClearFake,url,https://testingcf.jsdelivr.net/gh/989A-A-3fF2465495760-2B3a/4657-8765943-85742-94856/22274659-87,#ClearFake,https://threatfox.abuse.ch/ioc/1924377/
-2026-09-19 06:25:05,ClearFake,url,https://testingcf.jsdelivr.net/gh/989A-A-3fF2465495760-2B3a/4657-8765943-85742-94856/dgfyrte-98,#ClearFake,https://threatfox.abuse.ch/ioc/1924360/
-2026-09-19 09:00:44,ClearFake,url,https://testingcf.jsdelivr.net/gh/Boycshop/DC-0A-E1-4E-E0-05/04EC49-812B67,#ClearFake,https://threatfox.abuse.ch/ioc/1924386/
+2026-09-20 07:10:31,ClearFake,url,https://testingcf.jsdelivr.net/gh/Boycshop/98D8-7A-2E-6A6F/C-48-51-97-89,#ClearFake,https://threatfox.abuse.ch/ioc/1924791/
+2026-09-20 07:17:47,ClearFake,url,https://testingcf.jsdelivr.net/gh/Boycshop/98D8-7A-2E-6A6F/sjhfjhgr465739fhg,#ClearFake,https://threatfox.abuse.ch/ioc/1924794/
+2026-09-20 06:42:03,ClearFake,url,https://testingcf.jsdelivr.net/gh/Pasquarenmjn/5C5B-9D-6C-7906/84F67A-7C-9F91,#ClearFake,https://threatfox.abuse.ch/ioc/1924787/
+2026-09-20 08:22:15,Unknown malware,url,https://the.earth.li/~sgtatham/putty/0.85/w64/putty.exe,#ClickFix,https://threatfox.abuse.ch/ioc/1924807/
 2026-09-19 15:30:14,Unknown malware,url,https://tmtworldwideltd.com/travel-and-tours-old/,#ClickFix,https://clickfix.carsonww.com/domains/tmtworldwideltd.com
 2026-09-19 12:00:14,Unknown malware,url,https://www.redsdj.ca/,#ClickFix,https://clickfix.carsonww.com/domains/www.redsdj.ca

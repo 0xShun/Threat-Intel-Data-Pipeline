@@ -1,15 +1,5 @@
 # Removed IOCs — removed_iocs_urls.txt
-# Run     : 2026-09-19 10:25:25 UTC
+# Run     : 2026-09-20 10:45:37 UTC
 # Action  : SIEM should remove these entries from database
 #
-http://138.226.247.152:80/session/0f2a3fba69d29493
-http://51.210.52.212:1224/api/checkStatus
-https://gamboracle.vercel.app/api
-https://ip-vm.vercel.app/api/settings/env
-https://ip-vm.vercel.app/api/settings/linux
-https://ip-vm.vercel.app/api/settings/mac
-https://ip-vm.vercel.app/api/settings/windows
-https://jsonkeeper.com/b/J0VBJ
-https://kaiangelsystems.rest/
-https://www.jsonkeeper.com/b/7EBZP
-https://www.jsonkeeper.com/b/PAB1R
+https://chartered.flipbookonlinevault.com/scanna/200e61bfe54c92fb720c77c3a1661bc0/b5ea87c2ddac3aa141bc6794b8993d1e43bd064eaae591719612becea0d106d7
