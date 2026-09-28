@@ -1,18 +1,7 @@
 # Removed IOCs — removed_iocs_urls.txt
-# Run     : 2026-09-28 13:04:58 UTC
+# Run     : 2026-09-28 22:18:07 UTC
 # Action  : SIEM should remove these entries from database
 #
-http://107.161.168.217/?h=107.161.168.217&p=80&t=tcp&a=w32&stage=true
-http://137.59.229.63:48690/Mozi.m
-http://153.117.1.182:50142/Mozi.m
-http://172.86.123.222/Smokest120.zip
-http://64.81.114.71:8888/?h=64.81.114.71&p=8888&t=tcp&a=w64&stage=true
-http://approvalrequest-api.com
-http://sharecodepro.com/m/8752e5472b9a3a80/main
-https://cleanafrica.org/
-https://fixedsosaiem.pages.dev/Sosaiem-Wallet.exe
-https://khotulieuai-dna.edu.vn/wp-content/plugins/new/dwmapi.dll?inline=false
-https://mnl.ac/A010
-https://randombrosdatamines.pages.dev/Random.Project.exe
-https://smart2raw-site.pages.dev/assets/s2r-probe.exe
-https://vincheker.online/VINCheck.apk
+http://112.216.64.67:17710/pt1.sys
+http://112.216.64.67:17710/xlfrc64.cc
+http://47.74.43.122:8084/?h=47.74.43.122&p=8084&t=ws&a=w64&stage=true
