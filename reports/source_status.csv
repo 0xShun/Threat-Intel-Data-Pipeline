@@ -3,6 +3,6 @@ virustotal,pending,
 abuseipdb,ok,
 otx,ok,
 shodan,failed,"HTTP 403: {""error"": ""Requires membership or higher to access""}"
-urlhaus,ok,
+urlhaus,failed,"HTTPSConnectionPool(host='urlhaus-api.abuse.ch', port=443): Read timed out. (read timeout=60)"
 threatfox,ok,
 malwarebazaar,ok,
