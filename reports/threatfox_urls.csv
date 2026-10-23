@@ -1,17 +1,17 @@
 2026-10-23 00:19:28,Mozi,url,http://103.82.120.193:48292/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.82.120.193
-2026-10-22 12:19:13,Mozi,url,http://124.29.194.26:53663/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/124.29.194.26
+2026-10-23 12:19:20,Mozi,url,http://144.48.130.238:45913/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/144.48.130.238
 2026-10-23 00:19:29,Mozi,url,http://153.117.68.40:56904/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.68.40
+2026-10-23 11:53:02,Unknown malware,url,http://176.65.144.144/api/v1/fetch,,https://threatfox.abuse.ch/ioc/1981820/
+2026-10-23 11:53:02,Unknown malware,url,http://176.65.144.144/api/v1/sync,,https://threatfox.abuse.ch/ioc/1981821/
 2026-10-23 00:19:29,Mozi,url,http://182.124.46.60:43364/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/182.124.46.60
-2026-10-22 12:19:14,Mozi,url,http://182.190.220.252:54302/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/182.190.220.252
-2026-10-22 18:20:24,Mozi,url,http://190.196.253.36:11267/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/190.196.253.36
-2026-10-22 19:45:05,DCRat,url,http://201.58.178.170/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1980729/
+2026-10-23 18:19:36,Mozi,url,http://182.126.248.118:38573/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/182.126.248.118
+2026-10-23 12:19:20,Mozi,url,http://190.196.253.36:11441/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/190.196.253.36
+2026-10-23 16:57:39,XMRIG,url,http://212.83.185.19/bottom-xe.png,#collabora #cryptojacking #CVE-2026-110447 #monero #nextcloud #xmrig-dropper,https://wz-it.com/en/blog/nextcloud-built-in-code-server-cve-2026-110447-rce-webshell/
+2026-10-23 16:57:40,XMRIG,url,http://212.83.185.19/footerd.png,#collabora #cryptojacking #CVE-2026-110447 #monero #nextcloud #xmrig-dropper,https://wz-it.com/en/blog/nextcloud-built-in-code-server-cve-2026-110447-rce-webshell/
 2026-10-23 00:19:30,Mozi,url,http://223.123.125.37:48986/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/223.123.125.37
-2026-10-22 18:20:24,Mozi,url,http://39.34.169.70:53332/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/39.34.169.70
+2026-10-23 18:19:35,Mozi,url,http://223.123.43.212:38038/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/223.123.43.212
 2026-10-23 05:31:29,IClickFix,url,http://64.94.84.173:8000/neww.ps1,#ClickFix #powershell #stager,https://threatfox.abuse.ch/ioc/1981219/
 2026-10-23 00:19:28,Mozi,url,http://72.255.19.4:52357/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/72.255.19.4
-2026-10-22 15:43:25,Mirai,url,http://92.118.112.100/nfs,#botnet #CVE-2025-55182 #CVE-2026-109618 #DDoS #Mirai,https://bazaar.abuse.ch/sample/0c5486f06620e26e316f4b33f318b0d646d5e1133789331aa2fed012360d1486/
-2026-10-22 15:43:24,Mirai,url,http://92.118.112.100/s,#botnet #CVE-2025-55182 #CVE-2026-109618 #DDoS #Mirai,https://bazaar.abuse.ch/sample/0c5486f06620e26e316f4b33f318b0d646d5e1133789331aa2fed012360d1486/
-2026-10-22 14:00:10,IClickFix,url,http://93.152.213.151/52662,#ClickFix #Dropper #msi,https://www.virustotal.com/gui/file/f046cf886ed971492c5d4455f0ba7396c6c433287ec59744169b4ff943ca7c46
 2026-10-23 05:33:06,IClickFix,url,http://cloud-browse.codes/197708f4757f734d8977d5a3b2d5554d32d1a3f7f15c6d02b9e79bea1499a9a6,#c2 #ChromiumLure #ClickFix #powershell #TDS,https://threatfox.abuse.ch/ioc/1981050/
 2026-10-23 05:33:04,IClickFix,url,http://cloud-browse.codes/2b82bf898d6ecf3fd6e2fd2a8021357b610e97c74f976bf87750c01711c1473b,#c2 #ChromiumLure #ClickFix #powershell #TDS,https://threatfox.abuse.ch/ioc/1981054/
 2026-10-23 05:33:06,IClickFix,url,http://cloud-browse.codes/5c078b74c600e17cc635a453359d1d6292e0d502c21c5e95f813c11cad6e871b,#c2 #ChromiumLure #ClickFix #powershell #TDS,https://threatfox.abuse.ch/ioc/1981051/
@@ -20,21 +20,18 @@
 2026-10-23 05:33:04,IClickFix,url,http://cloud-browse.codes/d2d088e9a00ad3833e20ddb20cb1f850938683ec7200187893a5ff8d48deb068,#c2 #ChromiumLure #ClickFix #powershell #TDS,https://threatfox.abuse.ch/ioc/1981053/
 2026-10-23 05:33:04,IClickFix,url,http://cloud-browse.codes/da818b78bb0e2cd537b04faad9c8e6d856098b07b796580c65aefdde077c7290,#c2 #ChromiumLure #ClickFix #powershell #TDS,https://threatfox.abuse.ch/ioc/1981055/
 2026-10-23 05:33:03,IClickFix,url,http://cloud-browse.codes/debb44e1d0c0d4804e94a5deb80f28f1df840bffbbc6159803d405dad7a792c7,#c2 #ChromiumLure #ClickFix #powershell #TDS,https://threatfox.abuse.ch/ioc/1981056/
-2026-10-22 15:43:23,Mirai,url,http://hackattackkaboom.botlesscucks.st/x86_64,#botnet #CVE-2025-55182 #CVE-2026-109618 #DDoS #Mirai,https://bazaar.abuse.ch/sample/0c5486f06620e26e316f4b33f318b0d646d5e1133789331aa2fed012360d1486/
-2026-10-22 15:43:13,Unknown Stealer,url,http://praft3d.click/,#c2 #go-based #stealer,https://app.any.run/tasks/9991ae9f-3152-4649-9614-0114c100fd00/
-2026-10-22 16:12:45,Remus,url,http://praft3d.click:5920,#0f81469cc7638ba7c82eaddbd6b3c20a #c2 #Remus,https://threatfox.abuse.ch/ioc/1980475/
+2026-10-23 16:57:38,XMRIG,url,http://cqzbr8a4.requestrepo.com,#cryptojacking #CVE-2026-110447 #requestrepo-abuse #victim-tracking,https://wz-it.com/en/blog/nextcloud-built-in-code-server-cve-2026-110447-rce-webshell/
 2026-10-22 23:40:06,DCRat,url,http://qtdseysk.beget.tech/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/1980983/
-2026-10-22 13:12:57,Remus,url,http://smarkt7.art:8312,#0e5dbe0ab7cb7d94dceaf9a42675caac #c2 #Remus,https://threatfox.abuse.ch/ioc/1980116/
 2026-10-23 11:02:03,Remus,url,http://spiohop.shop:9932/tags,#Remus,https://threatfox.abuse.ch/ioc/1981777/
-2026-10-22 12:29:23,Remus,url,http://xightne.click:7242/messages,#Remus,https://threatfox.abuse.ch/ioc/1979920/
-2026-10-22 17:09:53,WARDENStealer,url,https://amxlzozoo.rest/,,https://threatfox.abuse.ch/ioc/1980525/
+2026-10-23 11:07:23,Remus,url,http://teculse.click:9210/reports,#Remus,https://threatfox.abuse.ch/ioc/1981784/
+2026-10-23 11:07:23,Remus,url,http://teechop.shop:8213/folders,#Remus,https://threatfox.abuse.ch/ioc/1981785/
+2026-10-23 16:11:48,RedTail,url,https://217.60.102.5/sh,#CVE-2021-41773 #CVE-2026-109618 #php2shell #Redtail #ssh #telnet #xmrig,https://threatfox.abuse.ch/ioc/1982165/
+2026-10-23 16:11:47,RedTail,url,https://217.60.103.56/sh,#CVE-2021-41773 #CVE-2026-109618 #php2shell #Redtail #ssh #telnet #xmrig,https://threatfox.abuse.ch/ioc/1982166/
+2026-10-23 17:51:08,WARDENStealer,url,https://astralcryptonix.website/,,https://threatfox.abuse.ch/ioc/1982255/
 2026-10-22 20:30:57,Unknown malware,url,https://auraalhind.com/,#ClickFix,https://clickfix.carsonww.com/domains/auraalhind.com
 2026-10-23 05:26:23,Unknown Stealer,url,https://beenetprotect.com/lgz/gdata,#dead-drop #fake-movie #infostealer #LimeTorrents #torrent,https://bazaar.abuse.ch/sample/58dffd262bb9b3c815f1017735cfa214fbbb029af8bd4cbba42c3d8db218e582/
-2026-10-22 17:25:23,WARDENStealer,url,https://borismoeseev.website/,,https://threatfox.abuse.ch/ioc/1980537/
-2026-10-22 15:43:14,Unknown Stealer,url,https://bugerror.info/,#c2 #go-based #stealer,https://app.any.run/tasks/9991ae9f-3152-4649-9614-0114c100fd00/
 2026-10-23 07:15:57,Unknown RAT,url,https://cdn.discordapp.com/attachments/1021403023496458291/1562717800135655474/d17dea6a22,#CuteCraft #DiscordInjection #ens #etherhiding #fabric #IRAHook #java #minecraft,https://threatfox.abuse.ch/ioc/1981577/
 2026-10-22 21:01:01,Unknown malware,url,https://ceddtheartist.com/,#ClickFix,https://clickfix.carsonww.com/domains/ceddtheartist.com
-2026-10-22 12:01:00,Unknown malware,url,https://clickfix.sec-online.eu.cc/,#ClickFix,https://clickfix.carsonww.com/domains/clickfix.sec-online.eu.cc
 2026-10-23 05:33:07,IClickFix,url,https://cloud-browse.codes/api.php,#c2 #ChromiumLure #ClickFix #powershell #TDS,https://threatfox.abuse.ch/ioc/1981048/
 2026-10-23 00:25:48,Vidar,url,https://cxn.acong380.org/af/,#Vidar,https://threatfox.abuse.ch/ioc/1981026/
 2026-10-23 00:45:48,Vidar,url,https://cxn.acong380.org/cb/,#Vidar,https://threatfox.abuse.ch/ioc/1981032/
@@ -48,12 +45,9 @@
 2026-10-23 00:55:48,Vidar,url,https://cxn.acong380.org/xs/,#Vidar,https://threatfox.abuse.ch/ioc/1981043/
 2026-10-23 00:50:48,Vidar,url,https://cxn.acong380.org/zg/,#Vidar,https://threatfox.abuse.ch/ioc/1981033/
 2026-10-23 00:30:48,Vidar,url,https://cxn.acong380.org/zj/,#Vidar,https://threatfox.abuse.ch/ioc/1981027/
-2026-10-22 18:00:57,Unknown malware,url,https://dynamicsolutionsforinstruction.com/,#ClickFix,https://clickfix.carsonww.com/domains/dynamicsolutionsforinstruction.com
-2026-10-22 12:10:15,Unknown Stealer,url,https://elrianda.com/88b7a6d9-65ab-5467-b09e-20193b9ab968,#ClickFix #finger-protocol #FortCheck #infostealer #ironpython,https://anvildevelopment.us/fortcheck-clickfix-fortnite
-2026-10-22 12:10:15,Unknown Stealer,url,https://elrianda.com/b03f2267-bcc3-5374-a99b-a1537a7341f5/timer4,#ClickFix #finger-protocol #FortCheck #infostealer #ironpython,https://anvildevelopment.us/fortcheck-clickfix-fortnite
-2026-10-22 12:10:15,Unknown Stealer,url,https://elrianda.com/b03f2267-bcc3-5374-a99b-a1537a7341f5/v4,#ClickFix #finger-protocol #FortCheck #infostealer #ironpython,https://anvildevelopment.us/fortcheck-clickfix-fortnite
-2026-10-22 16:43:38,ClearFake,url,https://fastly.jsdelivr.net/gh/jkfg348/8fc7-dfc8fdbabd3/6a8b44972,#ClearFake,https://threatfox.abuse.ch/ioc/1980508/
-2026-10-22 18:06:09,ClearFake,url,https://fastly.jsdelivr.net/gh/sdf4563jvn/b7c13ff9c733/a379-7d798caac5a5,#ClearFake,https://threatfox.abuse.ch/ioc/1980577/
+2026-10-23 15:04:23,WARDENStealer,url,https://damrendo.vip/,,https://threatfox.abuse.ch/ioc/1982136/
+2026-10-23 15:39:01,AMOS,url,https://draft-loop.com/curl/vkyc5kzawsu/tteme4qj05viaz8rfh.txt,#Amos #ClickFix #Foxveil #macOS,https://bazaar.abuse.ch/sample/af9fedc9c2e8a653812e75ba6315e41b734d33e1f85868a4834670b19863adba/
+2026-10-23 15:39:01,AMOS,url,https://draft-loop.com/f/qus5n9iecneukfdd5bqagg/8d5wkyb6,#Amos #ClickFix #Foxveil #macOS,https://bazaar.abuse.ch/sample/af9fedc9c2e8a653812e75ba6315e41b734d33e1f85868a4834670b19863adba/
 2026-10-22 23:35:48,Vidar,url,https://frn.acong380.org/b/,#Vidar,https://threatfox.abuse.ch/ioc/1980982/
 2026-10-22 23:30:48,Vidar,url,https://frn.acong380.org/ew/,#Vidar,https://threatfox.abuse.ch/ioc/1980978/
 2026-10-22 23:15:48,Vidar,url,https://frn.acong380.org/fy/,#Vidar,https://threatfox.abuse.ch/ioc/1980960/
@@ -66,21 +60,12 @@
 2026-10-22 23:45:48,Vidar,url,https://frn.acong380.org/rp/,#Vidar,https://threatfox.abuse.ch/ioc/1980985/
 2026-10-22 23:05:48,Vidar,url,https://frn.acong380.org/wx/,#Vidar,https://threatfox.abuse.ch/ioc/1980951/
 2026-10-22 23:25:48,Vidar,url,https://frn.acong380.org/z7f/,#Vidar,https://threatfox.abuse.ch/ioc/1980974/
-2026-10-22 17:30:56,Unknown malware,url,https://funreflectionspb.com/,#ClickFix,https://clickfix.carsonww.com/domains/funreflectionspb.com
-2026-10-22 18:10:48,Vidar,url,https://gfe.ach888.org/c/,#Vidar,https://threatfox.abuse.ch/ioc/1980578/
-2026-10-22 18:45:48,Vidar,url,https://gfe.ach888.org/gah/,#Vidar,https://threatfox.abuse.ch/ioc/1980624/
-2026-10-22 18:55:51,Vidar,url,https://gfe.ach888.org/ip/,#Vidar,https://threatfox.abuse.ch/ioc/1980674/
-2026-10-22 18:40:48,Vidar,url,https://gfe.ach888.org/kc/,#Vidar,https://threatfox.abuse.ch/ioc/1980618/
-2026-10-22 18:35:48,Vidar,url,https://gfe.ach888.org/kp/,#Vidar,https://threatfox.abuse.ch/ioc/1980611/
-2026-10-22 18:15:49,Vidar,url,https://gfe.ach888.org/my/,#Vidar,https://threatfox.abuse.ch/ioc/1980588/
-2026-10-22 18:25:48,Vidar,url,https://gfe.ach888.org/q1/,#Vidar,https://threatfox.abuse.ch/ioc/1980596/
-2026-10-22 18:30:48,Vidar,url,https://gfe.ach888.org/rt/,#Vidar,https://threatfox.abuse.ch/ioc/1980599/
-2026-10-22 18:50:48,Vidar,url,https://gfe.ach888.org/ss/,#Vidar,https://threatfox.abuse.ch/ioc/1980626/
-2026-10-22 19:00:48,Vidar,url,https://gfe.ach888.org/w0/,#Vidar,https://threatfox.abuse.ch/ioc/1980675/
-2026-10-22 18:05:48,Vidar,url,https://gfe.ach888.org/ze/,#Vidar,https://threatfox.abuse.ch/ioc/1980576/
-2026-10-22 18:20:48,Vidar,url,https://gfe.ach888.org/zi/,#Vidar,https://threatfox.abuse.ch/ioc/1980591/
 2026-10-23 02:09:25,Unknown malware,url,https://gfisoda.biz/01/b342d7b8f00999fa,#ClickFix,https://threatfox.abuse.ch/ioc/1981262/
 2026-10-22 22:49:12,Unknown malware,url,https://gfisoda.biz/lom3/f446c28574ffbb26,#ClickFix,https://threatfox.abuse.ch/ioc/1980938/
+2026-10-23 15:05:48,Vidar,url,https://h0.acunbet89.org/b/,#Vidar,https://threatfox.abuse.ch/ioc/1982142/
+2026-10-23 15:15:48,Vidar,url,https://h0.acunbet89.org/o/,#Vidar,https://threatfox.abuse.ch/ioc/1982149/
+2026-10-23 15:10:48,Vidar,url,https://h0.acunbet89.org/p4/,#Vidar,https://threatfox.abuse.ch/ioc/1982146/
+2026-10-23 15:20:48,Vidar,url,https://h0.acunbet89.org/r/,#Vidar,https://threatfox.abuse.ch/ioc/1982153/
 2026-10-23 04:05:47,Vidar,url,https://h7n.acong380.org/b/,#Vidar,https://threatfox.abuse.ch/ioc/1981440/
 2026-10-23 05:00:48,Vidar,url,https://h7n.acong380.org/bx5/,#Vidar,https://threatfox.abuse.ch/ioc/1981473/
 2026-10-23 04:25:48,Vidar,url,https://h7n.acong380.org/c9/,#Vidar,https://threatfox.abuse.ch/ioc/1981453/
@@ -107,17 +92,6 @@
 2026-10-23 02:00:48,Vidar,url,https://hi3.acong380.org/v/,#Vidar,https://threatfox.abuse.ch/ioc/1981251/
 2026-10-23 01:25:48,Vidar,url,https://hi3.acong380.org/ve/,#Vidar,https://threatfox.abuse.ch/ioc/1981228/
 2026-10-23 01:35:48,Vidar,url,https://hi3.acong380.org/z/,#Vidar,https://threatfox.abuse.ch/ioc/1981235/
-2026-10-22 17:50:48,Vidar,url,https://hj.ach888.org/bc/,#Vidar,https://threatfox.abuse.ch/ioc/1980557/
-2026-10-22 17:15:48,Vidar,url,https://hj.ach888.org/d7/,#Vidar,https://threatfox.abuse.ch/ioc/1980528/
-2026-10-22 17:35:48,Vidar,url,https://hj.ach888.org/eh/,#Vidar,https://threatfox.abuse.ch/ioc/1980547/
-2026-10-22 17:30:48,Vidar,url,https://hj.ach888.org/i/,#Vidar,https://threatfox.abuse.ch/ioc/1980541/
-2026-10-22 17:20:48,Vidar,url,https://hj.ach888.org/lur/,#Vidar,https://threatfox.abuse.ch/ioc/1980532/
-2026-10-22 17:40:48,Vidar,url,https://hj.ach888.org/pd/,#Vidar,https://threatfox.abuse.ch/ioc/1980548/
-2026-10-22 17:10:48,Vidar,url,https://hj.ach888.org/qv/,#Vidar,https://threatfox.abuse.ch/ioc/1980526/
-2026-10-22 17:05:48,Vidar,url,https://hj.ach888.org/r5/,#Vidar,https://threatfox.abuse.ch/ioc/1980524/
-2026-10-22 18:00:48,Vidar,url,https://hj.ach888.org/ux/,#Vidar,https://threatfox.abuse.ch/ioc/1980564/
-2026-10-22 17:55:48,Vidar,url,https://hj.ach888.org/x/,#Vidar,https://threatfox.abuse.ch/ioc/1980563/
-2026-10-22 17:25:48,Vidar,url,https://hj.ach888.org/y/,#Vidar,https://threatfox.abuse.ch/ioc/1980539/
 2026-10-23 03:00:48,Vidar,url,https://hl3.acong380.org/bi/,#Vidar,https://threatfox.abuse.ch/ioc/1981303/
 2026-10-23 02:05:48,Vidar,url,https://hl3.acong380.org/bm/,#Vidar,https://threatfox.abuse.ch/ioc/1981258/
 2026-10-23 02:20:48,Vidar,url,https://hl3.acong380.org/c0/,#Vidar,https://threatfox.abuse.ch/ioc/1981270/
@@ -143,18 +117,6 @@
 2026-10-23 08:20:48,Vidar,url,https://icx.acplay99.org/uq/,#Vidar,https://threatfox.abuse.ch/ioc/1981652/
 2026-10-23 08:55:48,Vidar,url,https://icx.acplay99.org/wc/,#Vidar,https://threatfox.abuse.ch/ioc/1981679/
 2026-10-23 08:10:48,Vidar,url,https://icx.acplay99.org/xct/,#Vidar,https://threatfox.abuse.ch/ioc/1981647/
-2026-10-22 20:00:48,Vidar,url,https://id.ach888.org/cl/,#Vidar,https://threatfox.abuse.ch/ioc/1980779/
-2026-10-22 19:25:48,Vidar,url,https://id.ach888.org/fm/,#Vidar,https://threatfox.abuse.ch/ioc/1980704/
-2026-10-22 19:35:48,Vidar,url,https://id.ach888.org/h74/,#Vidar,https://threatfox.abuse.ch/ioc/1980714/
-2026-10-22 19:05:48,Vidar,url,https://id.ach888.org/ih/,#Vidar,https://threatfox.abuse.ch/ioc/1980683/
-2026-10-22 19:45:48,Vidar,url,https://id.ach888.org/lc/,#Vidar,https://threatfox.abuse.ch/ioc/1980734/
-2026-10-22 19:40:48,Vidar,url,https://id.ach888.org/my9/,#Vidar,https://threatfox.abuse.ch/ioc/1980716/
-2026-10-22 19:30:48,Vidar,url,https://id.ach888.org/o/,#Vidar,https://threatfox.abuse.ch/ioc/1980710/
-2026-10-22 19:20:48,Vidar,url,https://id.ach888.org/pfh/,#Vidar,https://threatfox.abuse.ch/ioc/1980703/
-2026-10-22 19:15:48,Vidar,url,https://id.ach888.org/v6/,#Vidar,https://threatfox.abuse.ch/ioc/1980695/
-2026-10-22 19:55:48,Vidar,url,https://id.ach888.org/xq/,#Vidar,https://threatfox.abuse.ch/ioc/1980774/
-2026-10-22 19:50:48,Vidar,url,https://id.ach888.org/yz/,#Vidar,https://threatfox.abuse.ch/ioc/1980738/
-2026-10-22 19:10:48,Vidar,url,https://id.ach888.org/zg/,#Vidar,https://threatfox.abuse.ch/ioc/1980689/
 2026-10-22 21:20:48,Vidar,url,https://ir.ach888.org/ax/,#Vidar,https://threatfox.abuse.ch/ioc/1980863/
 2026-10-22 21:55:48,Vidar,url,https://ir.ach888.org/cv/,#Vidar,https://threatfox.abuse.ch/ioc/1980902/
 2026-10-22 22:00:48,Vidar,url,https://ir.ach888.org/fgs/,#Vidar,https://threatfox.abuse.ch/ioc/1980903/
@@ -167,7 +129,6 @@
 2026-10-22 21:35:48,Vidar,url,https://ir.ach888.org/p2/,#Vidar,https://threatfox.abuse.ch/ioc/1980880/
 2026-10-22 21:25:48,Vidar,url,https://ir.ach888.org/sq/,#Vidar,https://threatfox.abuse.ch/ioc/1980868/
 2026-10-22 21:30:48,Vidar,url,https://ir.ach888.org/y7/,#Vidar,https://threatfox.abuse.ch/ioc/1980875/
-2026-10-22 17:30:56,Unknown malware,url,https://ishcerf.org/,#ClickFix,https://clickfix.carsonww.com/domains/ishcerf.org
 2026-10-23 07:20:48,Vidar,url,https://je.acplay99.org/b3/,#Vidar,https://threatfox.abuse.ch/ioc/1981602/
 2026-10-23 07:25:48,Vidar,url,https://je.acplay99.org/bu1/,#Vidar,https://threatfox.abuse.ch/ioc/1981606/
 2026-10-23 07:30:48,Vidar,url,https://je.acplay99.org/cc/,#Vidar,https://threatfox.abuse.ch/ioc/1981608/
@@ -180,6 +141,18 @@
 2026-10-23 07:35:48,Vidar,url,https://je.acplay99.org/uij/,#Vidar,https://threatfox.abuse.ch/ioc/1981611/
 2026-10-23 07:40:48,Vidar,url,https://je.acplay99.org/ut/,#Vidar,https://threatfox.abuse.ch/ioc/1981616/
 2026-10-23 07:50:48,Vidar,url,https://je.acplay99.org/xx/,#Vidar,https://threatfox.abuse.ch/ioc/1981620/
+2026-10-23 13:50:48,Vidar,url,https://js.acplay99.org/e1/,#Vidar,https://threatfox.abuse.ch/ioc/1982085/
+2026-10-23 13:35:48,Vidar,url,https://js.acplay99.org/f2/,#Vidar,https://threatfox.abuse.ch/ioc/1981920/
+2026-10-23 13:20:48,Vidar,url,https://js.acplay99.org/ip/,#Vidar,https://threatfox.abuse.ch/ioc/1981908/
+2026-10-23 13:15:48,Vidar,url,https://js.acplay99.org/iv/,#Vidar,https://threatfox.abuse.ch/ioc/1981906/
+2026-10-23 13:30:48,Vidar,url,https://js.acplay99.org/iw/,#Vidar,https://threatfox.abuse.ch/ioc/1981916/
+2026-10-23 13:25:48,Vidar,url,https://js.acplay99.org/ks/,#Vidar,https://threatfox.abuse.ch/ioc/1981912/
+2026-10-23 13:05:48,Vidar,url,https://js.acplay99.org/m3/,#Vidar,https://threatfox.abuse.ch/ioc/1981899/
+2026-10-23 13:55:48,Vidar,url,https://js.acplay99.org/rd/,#Vidar,https://threatfox.abuse.ch/ioc/1982100/
+2026-10-23 13:40:48,Vidar,url,https://js.acplay99.org/t/,#Vidar,https://threatfox.abuse.ch/ioc/1982074/
+2026-10-23 13:45:48,Vidar,url,https://js.acplay99.org/tn/,#Vidar,https://threatfox.abuse.ch/ioc/1982078/
+2026-10-23 13:10:48,Vidar,url,https://js.acplay99.org/w/,#Vidar,https://threatfox.abuse.ch/ioc/1981903/
+2026-10-23 14:00:48,Vidar,url,https://js.acplay99.org/xu4/,#Vidar,https://threatfox.abuse.ch/ioc/1982101/
 2026-10-23 05:40:48,Vidar,url,https://jw.acong380.org/b7/,#Vidar,https://threatfox.abuse.ch/ioc/1981499/
 2026-10-23 05:05:48,Vidar,url,https://jw.acong380.org/cx/,#Vidar,https://threatfox.abuse.ch/ioc/1981479/
 2026-10-23 05:45:48,Vidar,url,https://jw.acong380.org/hc/,#Vidar,https://threatfox.abuse.ch/ioc/1981502/
@@ -192,52 +165,8 @@
 2026-10-23 05:55:48,Vidar,url,https://jw.acong380.org/vt/,#Vidar,https://threatfox.abuse.ch/ioc/1981530/
 2026-10-23 06:00:48,Vidar,url,https://jw.acong380.org/wg/,#Vidar,https://threatfox.abuse.ch/ioc/1981531/
 2026-10-23 05:35:48,Vidar,url,https://jw.acong380.org/y/,#Vidar,https://threatfox.abuse.ch/ioc/1981496/
-2026-10-22 13:03:33,Vidar,url,https://k.abc22.org,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980086/
-2026-10-22 13:10:48,Vidar,url,https://k.abc22.org/,#Vidar,https://threatfox.abuse.ch/ioc/1980111/
-2026-10-22 15:01:21,Vidar,url,https://k.abc22.org/f,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980244/
-2026-10-22 15:10:48,Vidar,url,https://k.abc22.org/f/,#Vidar,https://threatfox.abuse.ch/ioc/1980267/
-2026-10-22 14:30:55,Vidar,url,https://k.abc22.org/g,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980193/
-2026-10-22 14:35:48,Vidar,url,https://k.abc22.org/g/,#Vidar,https://threatfox.abuse.ch/ioc/1980197/
-2026-10-22 14:01:09,Vidar,url,https://k.abc22.org/j,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980166/
-2026-10-22 14:00:48,Vidar,url,https://k.abc22.org/j/,#Vidar,https://threatfox.abuse.ch/ioc/1980164/
-2026-10-22 13:31:15,Vidar,url,https://k.abc22.org/m,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980136/
-2026-10-22 13:40:48,Vidar,url,https://k.abc22.org/m/,#Vidar,https://threatfox.abuse.ch/ioc/1980142/
-2026-10-22 15:30:25,Vidar,url,https://k.abc22.org/u,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980335/
-2026-10-22 15:30:48,Vidar,url,https://k.abc22.org/u/,#Vidar,https://threatfox.abuse.ch/ioc/1980336/
-2026-10-22 16:00:24,Vidar,url,https://k.abc22.org/y,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980463/
-2026-10-22 15:55:22,WARDENStealer,url,https://kasimista.com/,,https://threatfox.abuse.ch/ioc/1980457/
-2026-10-22 15:20:48,Vidar,url,https://lf.ach888.org/anz/,#Vidar,https://threatfox.abuse.ch/ioc/1980282/
-2026-10-22 15:36:48,Vidar,url,https://lf.ach888.org/bi,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980424/
-2026-10-22 15:30:48,Vidar,url,https://lf.ach888.org/e0/,#Vidar,https://threatfox.abuse.ch/ioc/1980337/
-2026-10-22 15:55:48,Vidar,url,https://lf.ach888.org/i/,#Vidar,https://threatfox.abuse.ch/ioc/1980458/
-2026-10-22 15:15:48,Vidar,url,https://lf.ach888.org/ij7/,#Vidar,https://threatfox.abuse.ch/ioc/1980273/
-2026-10-22 15:09:21,Vidar,url,https://lf.ach888.org/jeb,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980263/
-2026-10-22 15:26:06,Vidar,url,https://lf.ach888.org/lx,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980285/
-2026-10-22 15:25:48,Vidar,url,https://lf.ach888.org/lx/,#Vidar,https://threatfox.abuse.ch/ioc/1980284/
-2026-10-22 15:46:27,Vidar,url,https://lf.ach888.org/nz,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980437/
-2026-10-22 15:45:48,Vidar,url,https://lf.ach888.org/nz/,#Vidar,https://threatfox.abuse.ch/ioc/1980436/
-2026-10-22 15:11:55,Vidar,url,https://lf.ach888.org/qc,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980270/
-2026-10-22 15:10:48,Vidar,url,https://lf.ach888.org/qc/,#Vidar,https://threatfox.abuse.ch/ioc/1980268/
-2026-10-22 15:05:48,Vidar,url,https://lf.ach888.org/sn/,#Vidar,https://threatfox.abuse.ch/ioc/1980253/
-2026-10-22 15:50:48,Vidar,url,https://lf.ach888.org/tn/,#Vidar,https://threatfox.abuse.ch/ioc/1980447/
-2026-10-22 15:29:38,Vidar,url,https://lf.ach888.org/wb,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980333/
-2026-10-22 16:00:47,Vidar,url,https://lf.ach888.org/wk/,#Vidar,https://threatfox.abuse.ch/ioc/1980464/
-2026-10-22 15:40:48,Vidar,url,https://lf.ach888.org/wt/,#Vidar,https://threatfox.abuse.ch/ioc/1980429/
-2026-10-22 15:35:48,Vidar,url,https://lf.ach888.org/yx/,#Vidar,https://threatfox.abuse.ch/ioc/1980421/
-2026-10-22 14:10:48,Vidar,url,https://lo.abiru777.org/bzb/,#Vidar,https://threatfox.abuse.ch/ioc/1980181/
-2026-10-22 14:50:48,Vidar,url,https://lo.abiru777.org/dw/,#Vidar,https://threatfox.abuse.ch/ioc/1980224/
-2026-10-22 14:20:48,Vidar,url,https://lo.abiru777.org/fk/,#Vidar,https://threatfox.abuse.ch/ioc/1980189/
-2026-10-22 14:15:48,Vidar,url,https://lo.abiru777.org/ge/,#Vidar,https://threatfox.abuse.ch/ioc/1980183/
-2026-10-22 14:30:48,Vidar,url,https://lo.abiru777.org/je/,#Vidar,https://threatfox.abuse.ch/ioc/1980192/
-2026-10-22 14:45:48,Vidar,url,https://lo.abiru777.org/pi/,#Vidar,https://threatfox.abuse.ch/ioc/1980204/
-2026-10-22 14:25:48,Vidar,url,https://lo.abiru777.org/sk9/,#Vidar,https://threatfox.abuse.ch/ioc/1980190/
-2026-10-22 14:05:48,Vidar,url,https://lo.abiru777.org/tg/,#Vidar,https://threatfox.abuse.ch/ioc/1980170/
-2026-10-22 15:00:48,Vidar,url,https://lo.abiru777.org/v9/,#Vidar,https://threatfox.abuse.ch/ioc/1980241/
-2026-10-22 14:54:37,Vidar,url,https://lo.abiru777.org/w,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980225/
-2026-10-22 14:55:48,Vidar,url,https://lo.abiru777.org/w/,#Vidar,https://threatfox.abuse.ch/ioc/1980229/
-2026-10-22 14:40:48,Vidar,url,https://lo.abiru777.org/w1/,#Vidar,https://threatfox.abuse.ch/ioc/1980201/
-2026-10-22 14:35:48,Vidar,url,https://lo.abiru777.org/yd/,#Vidar,https://threatfox.abuse.ch/ioc/1980198/
-2026-10-22 18:00:57,Unknown malware,url,https://madastudio.net/,#ClickFix,https://clickfix.carsonww.com/domains/madastudio.net
+2026-10-23 11:34:29,AMOS,url,https://linenquill.com/curl/w7as37jpqt/o09kqiawgsoubxgkvd8gs.dat,#Amos #ClickFix #Foxveil #macOS,https://bazaar.abuse.ch/sample/02780f9d2b3f6dd7f447aae0d6ee09198e8e4ece20c21d24584f010427133854/
+2026-10-23 11:34:29,AMOS,url,https://linenquill.com/f/vrhqljbnscwhbyhltuwmsq/t2990cmj,#Amos #ClickFix #Foxveil #macOS,https://bazaar.abuse.ch/sample/02780f9d2b3f6dd7f447aae0d6ee09198e8e4ece20c21d24584f010427133854/
 2026-10-23 10:10:48,Vidar,url,https://my.acplay99.org/ba/,#Vidar,https://threatfox.abuse.ch/ioc/1981744/
 2026-10-23 10:35:48,Vidar,url,https://my.acplay99.org/ck/,#Vidar,https://threatfox.abuse.ch/ioc/1981765/
 2026-10-23 10:20:48,Vidar,url,https://my.acplay99.org/dg/,#Vidar,https://threatfox.abuse.ch/ioc/1981754/
@@ -250,42 +179,9 @@
 2026-10-23 10:05:47,Vidar,url,https://my.acplay99.org/up/,#Vidar,https://threatfox.abuse.ch/ioc/1981742/
 2026-10-23 11:00:48,Vidar,url,https://my.acplay99.org/wp/,#Vidar,https://threatfox.abuse.ch/ioc/1981776/
 2026-10-23 10:40:48,Vidar,url,https://my.acplay99.org/wx/,#Vidar,https://threatfox.abuse.ch/ioc/1981767/
-2026-10-22 19:15:48,Vidar,url,https://n.abc22.org/,#Vidar,https://threatfox.abuse.ch/ioc/1980694/
 2026-10-22 21:30:48,Vidar,url,https://n.abc22.org/k/,#Vidar,https://threatfox.abuse.ch/ioc/1980874/
-2026-10-22 20:00:48,Vidar,url,https://n.abc22.org/u/,#Vidar,https://threatfox.abuse.ch/ioc/1980778/
 2026-10-22 20:45:48,Vidar,url,https://n.abc22.org/v/,#Vidar,https://threatfox.abuse.ch/ioc/1980808/
-2026-10-22 19:30:48,Vidar,url,https://n.abc22.org/y/,#Vidar,https://threatfox.abuse.ch/ioc/1980709/
-2026-10-22 13:00:48,Vidar,url,https://n6.abiru777.org/bd/,#Vidar,https://threatfox.abuse.ch/ioc/1980084/
-2026-10-22 12:35:48,Vidar,url,https://n6.abiru777.org/br/,#Vidar,https://threatfox.abuse.ch/ioc/1979927/
-2026-10-22 12:13:56,Vidar,url,https://n6.abiru777.org/cm,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1979906/
-2026-10-22 12:30:48,Vidar,url,https://n6.abiru777.org/d0/,#Vidar,https://threatfox.abuse.ch/ioc/1979924/
-2026-10-22 12:55:48,Vidar,url,https://n6.abiru777.org/d3u/,#Vidar,https://threatfox.abuse.ch/ioc/1980080/
-2026-10-22 12:45:48,Vidar,url,https://n6.abiru777.org/fpq/,#Vidar,https://threatfox.abuse.ch/ioc/1979940/
-2026-10-22 12:05:48,Vidar,url,https://n6.abiru777.org/hu/,#Vidar,https://threatfox.abuse.ch/ioc/1979899/
-2026-10-22 12:40:48,Vidar,url,https://n6.abiru777.org/lj/,#Vidar,https://threatfox.abuse.ch/ioc/1979935/
-2026-10-22 12:20:48,Vidar,url,https://n6.abiru777.org/m5/,#Vidar,https://threatfox.abuse.ch/ioc/1979913/
-2026-10-22 12:10:48,Vidar,url,https://n6.abiru777.org/n5/,#Vidar,https://threatfox.abuse.ch/ioc/1979903/
-2026-10-22 14:00:17,Vidar,url,https://n6.abiru777.org/na/api/metrics,#c2 #Vidar,https://www.virustotal.com/gui/file/edc576329ef82cb7c13ade5eb3edbb8de56e0fd441aafee2fd0dcdf701fefb3f/behavior
-2026-10-22 12:07:35,Vidar,url,https://n6.abiru777.org/q0,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1979900/
-2026-10-22 12:25:48,Vidar,url,https://n6.abiru777.org/q7/,#Vidar,https://threatfox.abuse.ch/ioc/1979916/
-2026-10-22 12:15:48,Vidar,url,https://n6.abiru777.org/w/,#Vidar,https://threatfox.abuse.ch/ioc/1979909/
-2026-10-22 14:00:17,Vidar,url,https://n6.abiru777.org/w/api/metrics,#c2 #Vidar,https://www.virustotal.com/gui/file/a45988bc4d2654cd055477029a79a2cf4dffc7c8eea5af3a4f21ed73952e6626/behavior
-2026-10-22 12:50:48,Vidar,url,https://n6.abiru777.org/yv/,#Vidar,https://threatfox.abuse.ch/ioc/1979969/
-2026-10-22 18:00:57,Unknown malware,url,https://naturallyclaude.com/,#ClickFix,https://clickfix.carsonww.com/domains/naturallyclaude.com
-2026-10-22 18:00:57,Unknown malware,url,https://numbersfornerds.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/numbersfornerds.co.uk
-2026-10-22 16:40:48,Vidar,url,https://o.ach888.org/a/,#Vidar,https://threatfox.abuse.ch/ioc/1980504/
-2026-10-22 16:50:48,Vidar,url,https://o.ach888.org/b/,#Vidar,https://threatfox.abuse.ch/ioc/1980511/
-2026-10-22 16:27:48,Vidar,url,https://o.ach888.org/cp/,#Vidar,https://threatfox.abuse.ch/ioc/1980488/
-2026-10-22 16:35:48,Vidar,url,https://o.ach888.org/h3/,#Vidar,https://threatfox.abuse.ch/ioc/1980502/
-2026-10-22 16:45:48,Vidar,url,https://o.ach888.org/ko/,#Vidar,https://threatfox.abuse.ch/ioc/1980509/
-2026-10-22 16:05:47,Vidar,url,https://o.ach888.org/mh/,#Vidar,https://threatfox.abuse.ch/ioc/1980471/
-2026-10-22 16:03:32,Vidar,url,https://o.ach888.org/ng,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980466/
-2026-10-22 16:20:48,Vidar,url,https://o.ach888.org/o4u/,#Vidar,https://threatfox.abuse.ch/ioc/1980480/
-2026-10-22 16:55:48,Vidar,url,https://o.ach888.org/og/,#Vidar,https://threatfox.abuse.ch/ioc/1980514/
-2026-10-22 16:15:48,Vidar,url,https://o.ach888.org/q/,#Vidar,https://threatfox.abuse.ch/ioc/1980477/
-2026-10-22 16:30:48,Vidar,url,https://o.ach888.org/r7/,#Vidar,https://threatfox.abuse.ch/ioc/1980492/
-2026-10-22 17:00:48,Vidar,url,https://o.ach888.org/s4/,#Vidar,https://threatfox.abuse.ch/ioc/1980515/
-2026-10-22 16:10:48,Vidar,url,https://o.ach888.org/xc/,#Vidar,https://threatfox.abuse.ch/ioc/1980473/
+2026-10-23 15:35:48,Vidar,url,https://n3.acunbet89.org/,#Vidar,https://threatfox.abuse.ch/ioc/1982162/
 2026-10-23 06:50:48,Vidar,url,https://o.acong380.org/bar/,#Vidar,https://threatfox.abuse.ch/ioc/1981569/
 2026-10-23 06:25:48,Vidar,url,https://o.acong380.org/d7/,#Vidar,https://threatfox.abuse.ch/ioc/1981551/
 2026-10-23 06:20:48,Vidar,url,https://o.acong380.org/e8/,#Vidar,https://threatfox.abuse.ch/ioc/1981547/
@@ -298,52 +194,34 @@
 2026-10-23 06:10:48,Vidar,url,https://o.acong380.org/l/,#Vidar,https://threatfox.abuse.ch/ioc/1981540/
 2026-10-23 06:35:48,Vidar,url,https://o.acong380.org/mg/,#Vidar,https://threatfox.abuse.ch/ioc/1981558/
 2026-10-23 06:15:48,Vidar,url,https://o.acong380.org/vp/,#Vidar,https://threatfox.abuse.ch/ioc/1981543/
-2026-10-22 14:00:12,SmartApeSG,url,https://polderandlimestone.com/alias/acl-server,#SmartApeSG,https://threatfox.abuse.ch/ioc/1980132/
-2026-10-22 14:00:11,SmartApeSG,url,https://polderandlimestone.com/alias/profile-html.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/1980134/
 2026-10-23 07:59:23,WARDENStealer,url,https://proklanundr.com/,,https://threatfox.abuse.ch/ioc/1981627/
 2026-10-23 07:59:23,WARDENStealer,url,https://proklatrin.com/,,https://threatfox.abuse.ch/ioc/1981626/
-2026-10-22 11:45:48,Vidar,url,https://q1.abiru777.org/ij/,#Vidar,https://threatfox.abuse.ch/ioc/1979867/
-2026-10-22 11:50:48,Vidar,url,https://q1.abiru777.org/is/,#Vidar,https://threatfox.abuse.ch/ioc/1979870/
-2026-10-22 11:40:48,Vidar,url,https://q1.abiru777.org/kf/,#Vidar,https://threatfox.abuse.ch/ioc/1979864/
-2026-10-22 11:55:48,Vidar,url,https://q1.abiru777.org/n/,#Vidar,https://threatfox.abuse.ch/ioc/1979882/
-2026-10-22 11:10:48,Vidar,url,https://q1.abiru777.org/o/,#Vidar,https://threatfox.abuse.ch/ioc/1979838/
-2026-10-22 11:15:49,Vidar,url,https://q1.abiru777.org/rd/,#Vidar,https://threatfox.abuse.ch/ioc/1979844/
-2026-10-22 11:59:41,Vidar,url,https://q1.abiru777.org/rf,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1979883/
-2026-10-22 11:30:48,Vidar,url,https://q1.abiru777.org/sz/,#Vidar,https://threatfox.abuse.ch/ioc/1979853/
-2026-10-22 11:35:48,Vidar,url,https://q1.abiru777.org/t2/,#Vidar,https://threatfox.abuse.ch/ioc/1979857/
-2026-10-22 11:25:48,Vidar,url,https://q1.abiru777.org/u2/,#Vidar,https://threatfox.abuse.ch/ioc/1979850/
-2026-10-22 11:20:48,Vidar,url,https://q1.abiru777.org/yd/,#Vidar,https://threatfox.abuse.ch/ioc/1979845/
-2026-10-22 12:00:48,Vidar,url,https://q1.abiru777.org/zu/,#Vidar,https://threatfox.abuse.ch/ioc/1979886/
-2026-10-22 14:00:13,Vidar,url,https://qx.abiru777.org/av/api/metrics,#c2 #Vidar,https://www.virustotal.com/gui/file/5dc84f106bbb450fdb4d6d6888644c278a0bd7e37d03558b66e0027ad6f485fe/behavior
-2026-10-22 13:05:48,Vidar,url,https://qx.abiru777.org/f/,#Vidar,https://threatfox.abuse.ch/ioc/1980092/
-2026-10-22 14:00:48,Vidar,url,https://qx.abiru777.org/fq/,#Vidar,https://threatfox.abuse.ch/ioc/1980165/
-2026-10-22 13:30:48,Vidar,url,https://qx.abiru777.org/ga/,#Vidar,https://threatfox.abuse.ch/ioc/1980135/
-2026-10-22 13:50:48,Vidar,url,https://qx.abiru777.org/ix/,#Vidar,https://threatfox.abuse.ch/ioc/1980159/
-2026-10-22 13:40:48,Vidar,url,https://qx.abiru777.org/jr/,#Vidar,https://threatfox.abuse.ch/ioc/1980143/
-2026-10-22 13:10:48,Vidar,url,https://qx.abiru777.org/ls/,#Vidar,https://threatfox.abuse.ch/ioc/1980112/
-2026-10-22 13:45:48,Vidar,url,https://qx.abiru777.org/ov/,#Vidar,https://threatfox.abuse.ch/ioc/1980154/
-2026-10-22 13:55:48,Vidar,url,https://qx.abiru777.org/pu/,#Vidar,https://threatfox.abuse.ch/ioc/1980162/
-2026-10-22 13:15:48,Vidar,url,https://qx.abiru777.org/qy/,#Vidar,https://threatfox.abuse.ch/ioc/1980118/
-2026-10-22 13:20:48,Vidar,url,https://qx.abiru777.org/s8/,#Vidar,https://threatfox.abuse.ch/ioc/1980122/
-2026-10-22 13:25:48,Vidar,url,https://qx.abiru777.org/toc/,#Vidar,https://threatfox.abuse.ch/ioc/1980127/
-2026-10-22 13:35:48,Vidar,url,https://qx.abiru777.org/vh/,#Vidar,https://threatfox.abuse.ch/ioc/1980140/
-2026-10-22 18:00:57,Unknown malware,url,https://resplast.com/,#ClickFix,https://clickfix.carsonww.com/domains/resplast.com
-2026-10-22 17:30:56,Unknown malware,url,https://ringaks.com/,#ClickFix,https://clickfix.carsonww.com/domains/ringaks.com
-2026-10-22 16:01:31,Vidar,url,https://s.abc22.org,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980465/
-2026-10-22 16:27:48,Vidar,url,https://s.abc22.org/,#Vidar,https://threatfox.abuse.ch/ioc/1980487/
-2026-10-22 18:05:48,Vidar,url,https://s.abc22.org/e/,#Vidar,https://threatfox.abuse.ch/ioc/1980575/
-2026-10-22 18:45:48,Vidar,url,https://s.abc22.org/j/,#Vidar,https://threatfox.abuse.ch/ioc/1980623/
-2026-10-22 17:25:48,Vidar,url,https://s.abc22.org/n/,#Vidar,https://threatfox.abuse.ch/ioc/1980538/
-2026-10-22 16:35:48,Vidar,url,https://s.abc22.org/y/,#Vidar,https://threatfox.abuse.ch/ioc/1980501/
-2026-10-22 18:30:56,Unknown malware,url,https://smhomes.uk/,#ClickFix,https://clickfix.carsonww.com/domains/smhomes.uk
-2026-10-22 18:30:56,Unknown malware,url,https://solaract.xsrv.jp/index.html/,#ClickFix,https://clickfix.carsonww.com/domains/solaract.xsrv.jp
-2026-10-22 18:30:56,Unknown malware,url,https://talabatee.com/,#ClickFix,https://clickfix.carsonww.com/domains/talabatee.com
-2026-10-22 12:14:27,SmartApeSG,url,https://teakbasilica.org/router/acl-server.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/1979905/
-2026-10-22 12:14:27,SmartApeSG,url,https://teakbasilica.org/router/metrics-transpiler,#SmartApeSG,https://threatfox.abuse.ch/ioc/1979904/
-2026-10-22 12:04:53,SmartApeSG,url,https://teakbasilica.org/signin/private-pipeline.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/1979894/
+2026-10-23 12:50:48,Vidar,url,https://qt.acplay99.org/bu/,#Vidar,https://threatfox.abuse.ch/ioc/1981877/
+2026-10-23 12:45:48,Vidar,url,https://qt.acplay99.org/by/,#Vidar,https://threatfox.abuse.ch/ioc/1981875/
+2026-10-23 12:30:48,Vidar,url,https://qt.acplay99.org/ce/,#Vidar,https://threatfox.abuse.ch/ioc/1981856/
+2026-10-23 12:35:48,Vidar,url,https://qt.acplay99.org/ex/,#Vidar,https://threatfox.abuse.ch/ioc/1981861/
+2026-10-23 12:10:48,Vidar,url,https://qt.acplay99.org/h1/,#Vidar,https://threatfox.abuse.ch/ioc/1981838/
+2026-10-23 12:15:48,Vidar,url,https://qt.acplay99.org/h7j/,#Vidar,https://threatfox.abuse.ch/ioc/1981841/
+2026-10-23 12:55:48,Vidar,url,https://qt.acplay99.org/hk/,#Vidar,https://threatfox.abuse.ch/ioc/1981892/
+2026-10-23 12:05:48,Vidar,url,https://qt.acplay99.org/mn/,#Vidar,https://threatfox.abuse.ch/ioc/1981834/
+2026-10-23 12:25:48,Vidar,url,https://qt.acplay99.org/ony/,#Vidar,https://threatfox.abuse.ch/ioc/1981852/
+2026-10-23 13:00:48,Vidar,url,https://qt.acplay99.org/pp/,#Vidar,https://threatfox.abuse.ch/ioc/1981893/
+2026-10-23 12:20:48,Vidar,url,https://qt.acplay99.org/u/,#Vidar,https://threatfox.abuse.ch/ioc/1981847/
+2026-10-23 12:40:48,Vidar,url,https://qt.acplay99.org/u0/,#Vidar,https://threatfox.abuse.ch/ioc/1981866/
 2026-10-23 09:01:33,WARDENStealer,url,https://testing-group.club/,,https://threatfox.abuse.ch/ioc/1981682/
-2026-10-22 15:50:40,Vidar,url,https://tf.abad777.org/s,#c2 #c7a50169dbc6d842a7e7d349513f88f1 #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980445/
-2026-10-22 15:50:48,Vidar,url,https://tf.abad777.org/s/,#Vidar,https://threatfox.abuse.ch/ioc/1980446/
+2026-10-23 18:27:04,WARDENStealer,url,https://towerss.cc/,,https://threatfox.abuse.ch/ioc/1982283/
+2026-10-23 14:55:48,Vidar,url,https://tq.acplay99.org/az/,#Vidar,https://threatfox.abuse.ch/ioc/1982129/
+2026-10-23 14:35:48,Vidar,url,https://tq.acplay99.org/e4/,#Vidar,https://threatfox.abuse.ch/ioc/1982120/
+2026-10-23 14:50:48,Vidar,url,https://tq.acplay99.org/fm/,#Vidar,https://threatfox.abuse.ch/ioc/1982125/
+2026-10-23 14:10:48,Vidar,url,https://tq.acplay99.org/gd/,#Vidar,https://threatfox.abuse.ch/ioc/1982110/
+2026-10-23 14:45:48,Vidar,url,https://tq.acplay99.org/k/,#Vidar,https://threatfox.abuse.ch/ioc/1982124/
+2026-10-23 14:40:48,Vidar,url,https://tq.acplay99.org/k2/,#Vidar,https://threatfox.abuse.ch/ioc/1982122/
+2026-10-23 15:00:48,Vidar,url,https://tq.acplay99.org/qo/,#Vidar,https://threatfox.abuse.ch/ioc/1982133/
+2026-10-23 14:20:48,Vidar,url,https://tq.acplay99.org/tb/,#Vidar,https://threatfox.abuse.ch/ioc/1982115/
+2026-10-23 14:30:48,Vidar,url,https://tq.acplay99.org/tt/,#Vidar,https://threatfox.abuse.ch/ioc/1982119/
+2026-10-23 14:05:48,Vidar,url,https://tq.acplay99.org/vg/,#Vidar,https://threatfox.abuse.ch/ioc/1982107/
+2026-10-23 14:25:48,Vidar,url,https://tq.acplay99.org/vu/,#Vidar,https://threatfox.abuse.ch/ioc/1982116/
+2026-10-23 14:15:48,Vidar,url,https://tq.acplay99.org/x6/,#Vidar,https://threatfox.abuse.ch/ioc/1982112/
 2026-10-22 21:00:48,Vidar,url,https://u0.ach888.org/ee/,#Vidar,https://threatfox.abuse.ch/ioc/1980849/
 2026-10-22 20:45:48,Vidar,url,https://u0.ach888.org/i30/,#Vidar,https://threatfox.abuse.ch/ioc/1980809/
 2026-10-22 20:15:48,Vidar,url,https://u0.ach888.org/k/,#Vidar,https://threatfox.abuse.ch/ioc/1980792/
@@ -351,19 +229,30 @@
 2026-10-22 20:55:48,Vidar,url,https://u0.ach888.org/ld/,#Vidar,https://threatfox.abuse.ch/ioc/1980815/
 2026-10-22 20:10:48,Vidar,url,https://u0.ach888.org/m/,#Vidar,https://threatfox.abuse.ch/ioc/1980787/
 2026-10-22 20:35:49,Vidar,url,https://u0.ach888.org/ma/,#Vidar,https://threatfox.abuse.ch/ioc/1980804/
-2026-10-22 20:05:48,Vidar,url,https://u0.ach888.org/mr/,#Vidar,https://threatfox.abuse.ch/ioc/1980786/
 2026-10-22 20:20:48,Vidar,url,https://u0.ach888.org/r7/,#Vidar,https://threatfox.abuse.ch/ioc/1980795/
 2026-10-22 20:50:48,Vidar,url,https://u0.ach888.org/xx/,#Vidar,https://threatfox.abuse.ch/ioc/1980811/
 2026-10-22 20:30:48,Vidar,url,https://u0.ach888.org/yl/,#Vidar,https://threatfox.abuse.ch/ioc/1980801/
+2026-10-23 15:40:48,Vidar,url,https://v.abc69.net/,#Vidar,https://threatfox.abuse.ch/ioc/1982188/
+2026-10-23 11:30:48,Vidar,url,https://v3.acplay99.org/dh/,#Vidar,https://threatfox.abuse.ch/ioc/1981800/
+2026-10-23 12:43:24,Vidar,url,https://v3.acplay99.org/dh/api/metrics,#c2 #Vidar,https://www.virustotal.com/gui/file/2d1b4b3cd07c20bf13b7c64246a89a8c0a6f6a6f13c274c9dd568ee5a580947c/behavior
+2026-10-23 11:45:48,Vidar,url,https://v3.acplay99.org/hs/,#Vidar,https://threatfox.abuse.ch/ioc/1981816/
 2026-10-23 11:05:48,Vidar,url,https://v3.acplay99.org/j6/,#Vidar,https://threatfox.abuse.ch/ioc/1981783/
+2026-10-23 11:55:48,Vidar,url,https://v3.acplay99.org/le/,#Vidar,https://threatfox.abuse.ch/ioc/1981825/
+2026-10-23 11:20:48,Vidar,url,https://v3.acplay99.org/ln/,#Vidar,https://threatfox.abuse.ch/ioc/1981794/
+2026-10-23 11:10:48,Vidar,url,https://v3.acplay99.org/n/,#Vidar,https://threatfox.abuse.ch/ioc/1981786/
+2026-10-23 12:00:48,Vidar,url,https://v3.acplay99.org/ng/,#Vidar,https://threatfox.abuse.ch/ioc/1981828/
+2026-10-23 11:25:48,Vidar,url,https://v3.acplay99.org/nt/,#Vidar,https://threatfox.abuse.ch/ioc/1981797/
+2026-10-23 11:40:48,Vidar,url,https://v3.acplay99.org/phu/,#Vidar,https://threatfox.abuse.ch/ioc/1981813/
+2026-10-23 11:50:48,Vidar,url,https://v3.acplay99.org/q7/,#Vidar,https://threatfox.abuse.ch/ioc/1981817/
+2026-10-23 11:15:48,Vidar,url,https://v3.acplay99.org/zd/,#Vidar,https://threatfox.abuse.ch/ioc/1981790/
 2026-10-23 05:53:49,WARDENStealer,url,https://verrogantiff.com/,,https://threatfox.abuse.ch/ioc/1981505/
 2026-10-22 22:15:48,Vidar,url,https://w.abc69.net/,#Vidar,https://threatfox.abuse.ch/ioc/1980913/
 2026-10-22 22:45:48,Vidar,url,https://w.abc69.net/q/,#Vidar,https://threatfox.abuse.ch/ioc/1980935/
-2026-10-22 18:00:57,Unknown malware,url,https://waikipizzabar.com/,#ClickFix,https://clickfix.carsonww.com/domains/waikipizzabar.com
-2026-10-22 15:00:57,Unknown malware,url,https://www.bibliographica.org/,#ClickFix,https://clickfix.carsonww.com/domains/www.bibliographica.org
+2026-10-23 19:55:23,WARDENStealer,url,https://werfwefwef.website/,,https://threatfox.abuse.ch/ioc/1982343/
+2026-10-23 20:01:19,WARDENStealer,url,https://werfwefwef1.website/,,https://threatfox.abuse.ch/ioc/1982346/
 2026-10-23 07:15:56,Unknown RAT,url,https://www.dropbox.com/scl/fi/vkwa9hcb5jcp3yr7g3zmt/test.zip?rlkey=5byq8wxuzm6rzqs1gavnxifm8&st=cpoucrbm&dl=1,#CuteCraft #DiscordInjection #ens #etherhiding #fabric #IRAHook #java #minecraft,https://threatfox.abuse.ch/ioc/1981578/
-2026-10-22 17:30:56,Unknown malware,url,https://www.hausmeisterservice-moenchengladbach.info/,#ClickFix,https://clickfix.carsonww.com/domains/www.hausmeisterservice-moenchengladbach.info
-2026-10-22 18:30:56,Unknown malware,url,https://www.tierischererlebnishof.at/,#ClickFix,https://clickfix.carsonww.com/domains/www.tierischererlebnishof.at
+2026-10-23 18:05:48,Vidar,url,https://x.acunbet89.org/,#Vidar,https://threatfox.abuse.ch/ioc/1982267/
+2026-10-23 18:10:48,Vidar,url,https://x.ajo7.org/,#Vidar,https://threatfox.abuse.ch/ioc/1982269/
 2026-10-22 22:20:48,Vidar,url,https://xh.ach888.org/a2a/,#Vidar,https://threatfox.abuse.ch/ioc/1980921/
 2026-10-22 22:45:48,Vidar,url,https://xh.ach888.org/bv/,#Vidar,https://threatfox.abuse.ch/ioc/1980936/
 2026-10-22 22:35:48,Vidar,url,https://xh.ach888.org/c3f/,#Vidar,https://threatfox.abuse.ch/ioc/1980931/
@@ -376,14 +265,7 @@
 2026-10-22 22:40:48,Vidar,url,https://xh.ach888.org/ty/,#Vidar,https://threatfox.abuse.ch/ioc/1980933/
 2026-10-22 22:50:48,Vidar,url,https://xh.ach888.org/vi/,#Vidar,https://threatfox.abuse.ch/ioc/1980939/
 2026-10-22 22:25:48,Vidar,url,https://xh.ach888.org/yh/,#Vidar,https://threatfox.abuse.ch/ioc/1980926/
-2026-10-22 18:54:23,WARDENStealer,url,https://xiangrunguanye.com/,,https://threatfox.abuse.ch/ioc/1980627/
-2026-10-22 12:31:41,Vidar,url,https://z.abc22.org/e,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1979925/
-2026-10-22 12:30:48,Vidar,url,https://z.abc22.org/e/,#Vidar,https://threatfox.abuse.ch/ioc/1979923/
-2026-10-22 12:01:29,Vidar,url,https://z.abc22.org/k,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1979888/
-2026-10-22 12:00:48,Vidar,url,https://z.abc22.org/k/,#Vidar,https://threatfox.abuse.ch/ioc/1979885/
-2026-10-22 11:32:18,Vidar,url,https://z.abc22.org/p,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1979855/
-2026-10-22 11:30:48,Vidar,url,https://z.abc22.org/p/,#Vidar,https://threatfox.abuse.ch/ioc/1979852/
-2026-10-22 13:00:36,Vidar,url,https://z.abc22.org/t,#c2 #ec141392be2e474ab700bf353b3b9f2c #Loader #stealer #Vidar,https://threatfox.abuse.ch/ioc/1980083/
+2026-10-23 18:12:12,MicroStealer,url,https://zen.ayxandevgang.workers.dev/m/,#dev7gang #minecraft #zarox,https://threatfox.abuse.ch/ioc/1982271/
 2026-10-23 05:26:24,Unknown RAT,url,https://zgrongbo.com/nback.php,#backdoor #c2 #dotNET #RAT,https://threatfox.abuse.ch/ioc/1981470/
 2026-10-23 05:26:23,Unknown RAT,url,https://zgrongbo.com/nfront?a=,#backdoor #c2 #dotNET #RAT,https://threatfox.abuse.ch/ioc/1981469/
 2026-10-23 03:20:48,Vidar,url,https://zx.acong380.org/a/,#Vidar,https://threatfox.abuse.ch/ioc/1981403/
