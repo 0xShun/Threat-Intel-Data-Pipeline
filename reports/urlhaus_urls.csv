@@ -61,6 +61,7 @@
 2026-10-07 17:01:27,"sh,ua-wget"",""https://urlhaus.abuse.ch/url/3944351/"",""BlinkzSec",url,http://101.99.95.124/sora.sh,101-99-95-124,mirai
 2026-10-07 17:01:27,"sh,ua-wget"",""https://urlhaus.abuse.ch/url/3944349/"",""BlinkzSec",url,http://101.99.95.124/yarn,101-99-95-124,mirai
 2026-11-01 09:45:09,"cowrie,elf,honeypot,mirai"",""https://urlhaus.abuse.ch/url/4049692/"",""spydisec",url,http://102.129.138.202/k.php?a=x86_64,malware_download,102-129-138-202
+2026-11-04 16:47:08,adliwahid,url,http://102.207.137.247:53959/bin.sh,mirai,https://urlhaus.abuse.ch/url/4056907/
 2026-11-04 07:25:51,ChonkyHamster,url,http://102.220.160.204/curl.sh,sh,https://urlhaus.abuse.ch/url/4056645/
 2026-11-04 07:25:51,ChonkyHamster,url,http://102.220.160.204/wget.sh,sh,https://urlhaus.abuse.ch/url/4056644/
 2026-10-06 04:58:15,"exe,ua-wget"",""https://urlhaus.abuse.ch/url/3929669/"",""BlinkzSec",url,http://102.220.161.23/Bin/ScreenConnect.ClientSetup.exe,102-220-161-23,connectwise
@@ -345,6 +346,8 @@
 2026-10-24 09:40:25,adliwahid,url,http://105.158.8.137:38951/i,None,https://urlhaus.abuse.ch/url/3985368/
 2026-10-17 07:26:15,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3951212/"",""geenensp",url,http://105.184.104.188:39199/bin.sh,32-bit,arm
 2026-10-17 08:23:26,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3951222/"",""geenensp",url,http://105.184.104.188:39199/i,32-bit,arm
+2026-11-04 14:02:06,adliwahid,url,http://105.184.120.112:48675/bin.sh,mirai,https://urlhaus.abuse.ch/url/4056842/
+2026-11-04 14:32:06,adliwahid,url,http://105.184.120.112:48675/i,mirai,https://urlhaus.abuse.ch/url/4056848/
 2026-10-20 04:59:20,adliwahid,url,http://105.184.120.172:43511/Mozi.a,None,https://urlhaus.abuse.ch/url/3952566/
 2026-10-16 07:32:13,adliwahid,url,http://105.184.120.172:43511/i,mirai,https://urlhaus.abuse.ch/url/3950866/
 2026-10-31 18:02:07,adliwahid,url,http://105.184.122.205:37115/bin.sh,mirai,https://urlhaus.abuse.ch/url/4048998/
@@ -486,6 +489,7 @@
 2026-10-09 08:02:08,adliwahid,url,http://105.225.159.210:59819/i,mirai,https://urlhaus.abuse.ch/url/3946857/
 2026-10-06 08:32:08,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3939646/"",""geenensp",url,http://105.225.183.47:42503/bin.sh,32-bit,arm
 2026-10-06 08:02:17,adliwahid,url,http://105.225.183.47:42503/i,mirai,https://urlhaus.abuse.ch/url/3938644/
+2026-11-04 15:28:12,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4056880/"",""geenensp",url,http://105.225.184.116:46187/i,32-bit,arm
 2026-10-05 15:17:15,adliwahid,url,http://105.225.184.216:42359/i,mirai,https://urlhaus.abuse.ch/url/3929264/
 2026-10-14 13:17:06,adliwahid,url,http://105.225.189.31:40545/i,mirai,https://urlhaus.abuse.ch/url/3950091/
 2026-11-04 01:17:07,adliwahid,url,http://105.225.199.171:57355/i,mirai,https://urlhaus.abuse.ch/url/4056452/
@@ -531,8 +535,10 @@
 2026-10-05 02:49:26,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3928813/"",""geenensp",url,http://105.226.7.80:56355/i,32-bit,arm
 2026-10-28 12:18:42,adliwahid,url,http://105.96.242.68:43747/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4041559/
 2026-10-20 17:17:09,adliwahid,url,http://106.111.127.181:54735/bin.sh,mirai,https://urlhaus.abuse.ch/url/3953046/
+2026-11-04 18:32:06,adliwahid,url,http://106.125.208.167:55733/bin.sh,mirai,https://urlhaus.abuse.ch/url/4056946/
 2026-11-04 02:32:07,adliwahid,url,http://106.125.208.167:55733/i,mirai,https://urlhaus.abuse.ch/url/4056484/
 2026-10-20 22:47:07,adliwahid,url,http://106.125.211.232:36465/i,mirai,https://urlhaus.abuse.ch/url/3953101/
+2026-11-04 20:32:06,adliwahid,url,http://106.40.241.225:36930/i,mirai,https://urlhaus.abuse.ch/url/4057078/
 2026-10-21 23:47:20,adliwahid,url,http://106.40.243.4:49097/bin.sh,mirai,https://urlhaus.abuse.ch/url/3955324/
 2026-10-22 07:47:30,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3955537/"",""geenensp",url,http://106.40.243.4:49097/i,32-bit,arm
 2026-10-06 07:39:28,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3938632/"",""geenensp",url,http://106.40.243.83:56462/bin.sh,32-bit,arm
@@ -936,6 +942,8 @@
 2026-10-28 02:20:39,adliwahid,url,http://111.61.92.78:42277/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4037505/
 2026-10-28 03:56:22,adliwahid,url,http://111.61.92.78:42277/i,Mozi,https://urlhaus.abuse.ch/url/4038321/
 2026-10-14 10:17:06,adliwahid,url,http://111.73.29.53:50797/i,Mozi,https://urlhaus.abuse.ch/url/3950008/
+2026-11-04 17:17:06,adliwahid,url,http://111.88.7.48:34687/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056919/
+2026-11-04 14:47:06,adliwahid,url,http://111.88.7.48:34687/i,Mozi,https://urlhaus.abuse.ch/url/4056859/
 2026-10-26 01:47:06,adliwahid,url,http://111.88.7.48:39379/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4013990/
 2026-10-26 02:17:06,adliwahid,url,http://111.88.7.48:39379/i,Mozi,https://urlhaus.abuse.ch/url/4013997/
 2026-10-06 11:58:28,"honeypot,mips,Mozi"",""https://urlhaus.abuse.ch/url/3943718/"",""ksi_digital",url,http://111.88.7.48:50844/i,cowrie,elf
@@ -1103,6 +1111,8 @@
 2026-10-26 08:21:11,adliwahid,url,http://112.249.89.169:40029/i,Mozi,https://urlhaus.abuse.ch/url/4026680/
 2026-11-02 05:58:19,"https://urlhaus.abuse.ch/url/4050217/"",""wristhulk",url,http://112.250.130.197:45611/bin.sh,elf,mirai
 2026-11-02 06:28:20,"https://urlhaus.abuse.ch/url/4050300/"",""wristhulk",url,http://112.250.130.197:45611/i,elf,mirai
+2026-11-04 19:46:34,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4057021/"",""geenensp",url,http://112.252.197.213:54261/bin.sh,32-bit,elf
+2026-11-04 19:46:34,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4057020/"",""geenensp",url,http://112.252.197.213:54261/i,32-bit,elf
 2026-10-31 23:47:10,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4049184/"",""geenensp",url,http://112.254.7.93:41700/bin.sh,32-bit,elf
 2026-10-31 04:02:29,adliwahid,url,http://112.254.7.93:41700/i,Mozi,https://urlhaus.abuse.ch/url/4047934/
 2026-11-01 18:58:10,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4050067/"",""geenensp",url,http://112.255.106.244:32819/bin.sh,32-bit,arm
@@ -1155,6 +1165,7 @@
 2026-10-23 02:47:05,adliwahid,url,http://113.228.122.83:58600/bin.sh,None,https://urlhaus.abuse.ch/url/3956167/
 2026-10-23 01:00:07,wristhulk,url,http://113.228.122.83:58600/i,elf,https://urlhaus.abuse.ch/url/3956135/
 2026-10-23 15:37:16,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3967565/"",""geenensp",url,http://113.228.140.43:34929/i,32-bit,elf
+2026-11-04 15:17:07,adliwahid,url,http://113.228.150.27:59611/bin.sh,None,https://urlhaus.abuse.ch/url/4056875/
 2026-10-30 13:06:07,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4047504/"",""geenensp",url,http://113.228.154.133:57134/i,32-bit,elf
 2026-10-23 14:17:06,adliwahid,url,http://113.228.159.90:52051/bin.sh,None,https://urlhaus.abuse.ch/url/3966318/
 2026-10-24 16:13:16,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3990380/"",""geenensp",url,http://113.228.159.90:52051/i,32-bit,elf
@@ -1194,6 +1205,8 @@
 2026-10-29 12:12:22,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4043310/"",""geenensp",url,http://113.231.17.161:41348/bin.sh,32-bit,elf
 2026-10-13 22:00:21,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3949777/"",""geenensp",url,http://113.231.199.231:48888/bin.sh,32-bit,elf
 2026-10-13 22:30:17,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3949786/"",""geenensp",url,http://113.231.199.231:48888/i,32-bit,elf
+2026-11-04 20:02:05,adliwahid,url,http://113.231.20.106:52519/bin.sh,None,https://urlhaus.abuse.ch/url/4057052/
+2026-11-04 20:32:06,adliwahid,url,http://113.231.20.106:52519/i,None,https://urlhaus.abuse.ch/url/4057077/
 2026-10-11 08:10:08,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3947949/"",""geenensp",url,http://113.231.217.129:57347/bin.sh,32-bit,elf
 2026-10-11 08:36:11,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3947956/"",""geenensp",url,http://113.231.217.129:57347/i,32-bit,elf
 2026-10-25 14:06:57,adliwahid,url,http://113.231.218.8:57280/bin.sh,None,https://urlhaus.abuse.ch/url/4012245/
@@ -1289,6 +1302,7 @@
 2026-10-28 20:17:07,adliwahid,url,http://113.239.254.155:41915/bin.sh,None,https://urlhaus.abuse.ch/url/4041985/
 2026-10-30 00:16:13,"honeypot,mipsel,Mozi"",""https://urlhaus.abuse.ch/url/4045373/"",""ksi_digital",url,http://113.239.254.155:41915/i,cowrie,elf
 2026-10-22 12:32:06,adliwahid,url,http://113.239.6.172:56844/bin.sh,None,https://urlhaus.abuse.ch/url/3955627/
+2026-11-04 18:17:19,adliwahid,url,http://113.239.6.85:44123/i,None,https://urlhaus.abuse.ch/url/4056930/
 2026-10-10 14:02:08,adliwahid,url,http://113.239.65.72:38982/bin.sh,None,https://urlhaus.abuse.ch/url/3947604/
 2026-10-10 14:32:20,adliwahid,url,http://113.239.65.72:38982/i,None,https://urlhaus.abuse.ch/url/3947620/
 2026-10-18 14:17:13,adliwahid,url,http://113.239.65.72:54779/bin.sh,None,https://urlhaus.abuse.ch/url/3951903/
@@ -1405,6 +1419,7 @@
 2026-10-14 14:26:17,"https://urlhaus.abuse.ch/url/3950104/"",""wristhulk",url,http://115.48.119.213:59405/i,elf,mirai
 2026-10-17 04:17:06,adliwahid,url,http://115.48.137.150:57068/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3951140/
 2026-10-17 04:02:24,adliwahid,url,http://115.48.137.150:57068/i,Mozi,https://urlhaus.abuse.ch/url/3951136/
+2026-11-04 19:02:07,adliwahid,url,http://115.48.138.220:45402/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056953/
 2026-10-06 18:02:25,adliwahid,url,http://115.48.142.169:56163/i,Mozi,https://urlhaus.abuse.ch/url/3943890/
 2026-10-22 20:03:06,adliwahid,url,http://115.48.144.20:58495/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3956046/
 2026-10-08 19:55:17,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3946654/"",""geenensp",url,http://115.48.144.79:58929/bin.sh,32-bit,elf
@@ -1457,6 +1472,7 @@
 2026-10-27 21:47:06,adliwahid,url,http://115.49.118.37:47787/i,Mozi,https://urlhaus.abuse.ch/url/4036642/
 2026-10-05 12:02:18,adliwahid,url,http://115.49.125.201:51388/i,Mozi,https://urlhaus.abuse.ch/url/3929195/
 2026-10-10 14:02:09,adliwahid,url,http://115.49.129.97:53996/i,Mozi,https://urlhaus.abuse.ch/url/3947606/
+2026-11-04 15:19:15,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4056878/"",""geenensp",url,http://115.49.13.95:46203/bin.sh,32-bit,arm
 2026-11-04 10:02:07,adliwahid,url,http://115.49.13.95:46203/i,mirai,https://urlhaus.abuse.ch/url/4056728/
 2026-10-22 20:28:15,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3956050/"",""geenensp",url,http://115.49.147.53:57674/bin.sh,32-bit,elf
 2026-10-22 14:17:07,adliwahid,url,http://115.49.147.53:57674/i,Mozi,https://urlhaus.abuse.ch/url/3955662/
@@ -1483,6 +1499,7 @@
 2026-11-01 20:32:07,adliwahid,url,http://115.49.203.218:34156/i,Mozi,https://urlhaus.abuse.ch/url/4050097/
 2026-10-11 07:29:08,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3947919/"",""geenensp",url,http://115.49.203.91:54144/bin.sh,32-bit,elf
 2026-10-10 11:02:06,adliwahid,url,http://115.49.203.91:54144/i,Mozi,https://urlhaus.abuse.ch/url/3947462/
+2026-11-04 17:17:07,adliwahid,url,http://115.49.211.208:49987/i,Mozi,https://urlhaus.abuse.ch/url/4056920/
 2026-10-06 10:31:18,adliwahid,url,http://115.49.211.221:48972/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3943695/
 2026-10-06 11:02:15,adliwahid,url,http://115.49.211.221:48972/i,Mozi,https://urlhaus.abuse.ch/url/3943703/
 2026-10-22 18:08:11,adliwahid,url,http://115.49.228.204:44812/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3955875/
@@ -1575,6 +1592,7 @@
 2026-10-28 08:39:26,adliwahid,url,http://115.50.229.148:57814/i,Mozi,https://urlhaus.abuse.ch/url/4040675/
 2026-10-27 13:03:21,"honeypot,mips,Mozi"",""https://urlhaus.abuse.ch/url/4036001/"",""ksi_digital",url,http://115.50.230.158:46695/bin.sh,cowrie,elf
 2026-10-26 20:32:07,adliwahid,url,http://115.50.230.158:46695/i,Mozi,https://urlhaus.abuse.ch/url/4034468/
+2026-11-04 16:02:09,adliwahid,url,http://115.50.231.190:54820/i,Mozi,https://urlhaus.abuse.ch/url/4056889/
 2026-10-07 10:47:15,adliwahid,url,http://115.50.235.154:51244/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3944221/
 2026-10-07 02:02:30,adliwahid,url,http://115.50.235.154:51244/i,Mozi,https://urlhaus.abuse.ch/url/3944028/
 2026-10-25 22:02:07,adliwahid,url,http://115.50.24.185:56703/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4013927/
@@ -1599,6 +1617,7 @@
 2026-10-15 23:57:16,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3950705/"",""geenensp",url,http://115.50.89.97:56156/i,32-bit,elf
 2026-10-13 03:32:07,adliwahid,url,http://115.50.91.72:51917/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3949300/
 2026-10-13 03:32:07,adliwahid,url,http://115.50.91.72:51917/i,Mozi,https://urlhaus.abuse.ch/url/3949301/
+2026-11-04 13:47:09,adliwahid,url,http://115.50.91.90:43949/i,Mozi,https://urlhaus.abuse.ch/url/4056837/
 2026-11-01 04:02:06,adliwahid,url,http://115.50.92.92:39703/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4049291/
 2026-10-31 15:43:08,adliwahid,url,http://115.50.92.92:39703/i,Mozi,https://urlhaus.abuse.ch/url/4048816/
 2026-10-06 02:17:14,adliwahid,url,http://115.50.93.69:46734/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3929604/
@@ -1618,6 +1637,8 @@
 2026-10-31 07:52:09,adliwahid,url,http://115.51.16.247:51122/i,Mozi,https://urlhaus.abuse.ch/url/4048121/
 2026-10-21 15:46:07,adliwahid,url,http://115.51.181.194:58227/Mozi.m,mirai,https://urlhaus.abuse.ch/url/3955021/
 2026-10-08 07:47:07,adliwahid,url,http://115.51.182.83:58227/i,mirai,https://urlhaus.abuse.ch/url/3946058/
+2026-11-04 17:02:07,adliwahid,url,http://115.51.20.5:42326/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056911/
+2026-11-04 17:32:06,adliwahid,url,http://115.51.20.5:42326/i,Mozi,https://urlhaus.abuse.ch/url/4056923/
 2026-11-04 12:17:18,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4056813/"",""geenensp",url,http://115.51.213.153:58227/bin.sh,32-bit,arm
 2026-11-04 00:17:08,adliwahid,url,http://115.51.213.153:58227/i,mirai,https://urlhaus.abuse.ch/url/4056433/
 2026-10-29 18:14:12,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4044929/"",""geenensp",url,http://115.51.213.91:58227/bin.sh,32-bit,arm
@@ -1712,6 +1733,7 @@
 2026-10-28 13:02:07,adliwahid,url,http://115.55.145.193:46299/i,Mozi,https://urlhaus.abuse.ch/url/4041572/
 2026-10-06 06:31:00,adliwahid,url,http://115.55.156.123:57147/i,mirai,https://urlhaus.abuse.ch/url/3933608/
 2026-10-22 12:32:06,adliwahid,url,http://115.55.159.184:45780/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3955628/
+2026-11-04 14:45:10,"honeypot,mips,Mozi"",""https://urlhaus.abuse.ch/url/4056857/"",""ksi_digital",url,http://115.55.170.189:40083/bin.sh,cowrie,elf
 2026-11-03 20:14:10,adliwahid,url,http://115.55.170.189:40083/i,Mozi,https://urlhaus.abuse.ch/url/4056286/
 2026-10-24 15:58:38,adliwahid,url,http://115.55.181.109:57147/Mozi.a,mirai,https://urlhaus.abuse.ch/url/3990334/
 2026-10-22 15:44:16,"https://urlhaus.abuse.ch/url/3955708/"",""wristhulk",url,http://115.55.181.109:57147/bin.sh,elf,mirai
@@ -1995,6 +2017,8 @@
 2026-11-01 18:47:08,adliwahid,url,http://115.59.38.123:47996/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4050059/
 2026-11-01 19:17:06,adliwahid,url,http://115.59.38.123:47996/i,Mozi,https://urlhaus.abuse.ch/url/4050075/
 2026-11-03 20:46:06,adliwahid,url,http://115.59.38.160:47996/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056314/
+2026-11-04 21:05:17,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4057125/"",""geenensp",url,http://115.59.59.213:46864/bin.sh,32-bit,elf
+2026-11-04 21:21:13,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4057133/"",""geenensp",url,http://115.59.59.213:46864/i,32-bit,elf
 2026-10-23 13:32:06,adliwahid,url,http://115.59.63.84:36020/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3966307/
 2026-10-23 14:25:10,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3966321/"",""geenensp",url,http://115.59.63.84:36020/i,32-bit,elf
 2026-10-26 05:17:07,adliwahid,url,http://115.59.85.208:60032/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4014038/
@@ -2006,6 +2030,7 @@
 2026-10-25 14:04:08,adliwahid,url,http://115.59.95.72:55510/i,Mozi,https://urlhaus.abuse.ch/url/4012179/
 2026-10-18 05:15:16,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3951592/"",""geenensp",url,http://115.60.201.254:45190/bin.sh,32-bit,elf
 2026-10-18 03:47:12,adliwahid,url,http://115.60.201.254:45190/i,Mozi,https://urlhaus.abuse.ch/url/3951577/
+2026-11-04 21:17:07,adliwahid,url,http://115.60.215.224:41708/i,Mozi,https://urlhaus.abuse.ch/url/4057131/
 2026-10-19 09:02:10,adliwahid,url,http://115.60.251.152:41686/i,Mozi,https://urlhaus.abuse.ch/url/3952272/
 2026-10-10 04:17:20,adliwahid,url,http://115.61.1.172:37327/i,Mozi,https://urlhaus.abuse.ch/url/3947309/
 2026-11-03 21:47:06,adliwahid,url,http://115.61.106.227:57147/bin.sh,mirai,https://urlhaus.abuse.ch/url/4056376/
@@ -2059,6 +2084,7 @@
 2026-10-19 08:32:11,adliwahid,url,http://115.62.156.114:34880/i,Mozi,https://urlhaus.abuse.ch/url/3952266/
 2026-10-12 21:17:06,adliwahid,url,http://115.62.157.255:57569/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3949207/
 2026-10-12 10:47:07,adliwahid,url,http://115.62.157.255:57569/i,Mozi,https://urlhaus.abuse.ch/url/3949026/
+2026-11-04 16:45:13,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4056905/"",""geenensp",url,http://115.62.158.53:47461/bin.sh,32-bit,elf
 2026-10-22 02:47:06,adliwahid,url,http://115.62.163.142:50470/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3955396/
 2026-10-22 03:17:06,adliwahid,url,http://115.62.163.142:50470/i,Mozi,https://urlhaus.abuse.ch/url/3955408/
 2026-10-05 20:02:12,adliwahid,url,http://115.62.176.165:39661/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3929456/
@@ -2158,6 +2184,7 @@
 2026-10-06 18:47:35,adliwahid,url,http://116.138.107.166:54353/i,None,https://urlhaus.abuse.ch/url/3943901/
 2026-10-10 07:16:06,adliwahid,url,http://116.138.107.83:57675/bin.sh,None,https://urlhaus.abuse.ch/url/3947406/
 2026-10-15 02:28:14,"honeypot,mipsel,Mozi"",""https://urlhaus.abuse.ch/url/3950363/"",""ksi_digital",url,http://116.138.107.83:57675/i,cowrie,elf
+2026-11-04 21:17:06,adliwahid,url,http://116.138.108.142:34636/bin.sh,None,https://urlhaus.abuse.ch/url/4057130/
 2026-11-04 07:02:08,adliwahid,url,http://116.138.108.152:54353/i,None,https://urlhaus.abuse.ch/url/4056591/
 2026-10-26 20:51:14,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4034475/"",""geenensp",url,http://116.138.108.62:54353/bin.sh,32-bit,elf
 2026-10-23 04:32:16,wristhulk,url,http://116.138.108.62:54353/i,elf,https://urlhaus.abuse.ch/url/3956188/
@@ -2571,6 +2598,7 @@
 2026-11-03 06:42:44,"honeypot,mips,Mozi"",""https://urlhaus.abuse.ch/url/4054750/"",""ksi_digital",url,http://119.189.216.21:60169/bin.sh,cowrie,elf
 2026-10-29 21:17:07,adliwahid,url,http://119.189.238.95:36630/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4045024/
 2026-10-29 21:34:37,adliwahid,url,http://119.189.238.95:36630/i,Mozi,https://urlhaus.abuse.ch/url/4045033/
+2026-11-04 21:47:08,adliwahid,url,http://119.189.241.140:56172/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4057137/
 2026-10-15 07:10:20,"https://urlhaus.abuse.ch/url/3950400/"",""anonymous",url,http://119.30.117.179:38895/Mozi.m,Mozi,tarpit-http
 2026-10-26 17:02:08,adliwahid,url,http://119.4.54.6:58124/i,mirai,https://urlhaus.abuse.ch/url/4030181/
 2026-10-24 19:02:21,adliwahid,url,http://119.4.54.6:60598/bin.sh,mirai,https://urlhaus.abuse.ch/url/3990432/
@@ -2578,7 +2606,10 @@
 2026-10-31 17:08:15,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4048932/"",""geenensp",url,http://119.53.154.6:53319/bin.sh,32-bit,arm
 2026-10-31 17:16:13,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4048934/"",""geenensp",url,http://119.53.154.6:53319/i,32-bit,arm
 2026-10-06 06:26:01,"elf,honeypot,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3933103/"",""ksi_digital",url,http://119.99.250.231:44156/bin.sh,arm,cowrie
+2026-11-04 14:02:07,adliwahid,url,http://119.99.253.150:52848/i,mirai,https://urlhaus.abuse.ch/url/4056843/
 2026-10-07 15:46:24,adliwahid,url,http://119.99.255.81:50970/i,mirai,https://urlhaus.abuse.ch/url/3944263/
+2026-11-04 15:47:12,adliwahid,url,http://120.10.118.216:42929/bin.sh,mirai,https://urlhaus.abuse.ch/url/4056885/
+2026-11-04 18:28:41,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4056940/"",""geenensp",url,http://120.10.118.216:42929/i,32-bit,arm
 2026-10-05 18:07:26,wristhulk,url,http://120.237.77.200:48222/i,elf,https://urlhaus.abuse.ch/url/3929410/
 2026-10-13 22:47:07,adliwahid,url,http://120.28.135.254:56342/i,mirai,https://urlhaus.abuse.ch/url/3949793/
 2026-10-10 02:15:18,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3947262/"",""geenensp",url,http://120.28.135.254:60043/i,32-bit,arm
@@ -2622,7 +2653,7 @@
 2026-10-24 05:15:20,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3969625/"",""geenensp",url,http://120.28.193.113:32800/i,32-bit,arm
 2026-10-07 10:02:17,adliwahid,url,http://120.28.193.113:37131/i,mirai,https://urlhaus.abuse.ch/url/3944213/
 2026-10-29 02:17:07,adliwahid,url,http://120.28.193.113:56804/i,mirai,https://urlhaus.abuse.ch/url/4042118/
-2026-11-03 14:43:19,wristhulk,url,http://120.28.194.160:34418/bin.sh,elf,https://urlhaus.abuse.ch/url/4055941/
+2026-11-03 14:43:19,"https://urlhaus.abuse.ch/url/4055941/"",""wristhulk",url,http://120.28.194.160:34418/bin.sh,elf,mirai
 2026-11-01 02:47:07,adliwahid,url,http://120.28.194.160:34418/i,mirai,https://urlhaus.abuse.ch/url/4049261/
 2026-10-06 20:02:24,adliwahid,url,http://120.28.194.160:57302/i,mirai,https://urlhaus.abuse.ch/url/3943927/
 2026-10-15 04:02:07,adliwahid,url,http://120.28.194.30:34491/i,mirai,https://urlhaus.abuse.ch/url/3950373/
@@ -2652,6 +2683,7 @@
 2026-10-12 02:47:06,adliwahid,url,http://120.28.201.75:44745/i,mirai,https://urlhaus.abuse.ch/url/3948203/
 2026-10-31 05:36:12,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4047960/"",""geenensp",url,http://120.28.201.75:55662/bin.sh,32-bit,arm
 2026-10-29 15:02:13,adliwahid,url,http://120.28.201.75:55662/i,mirai,https://urlhaus.abuse.ch/url/4044697/
+2026-11-04 18:23:16,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4056934/"",""geenensp",url,http://120.28.212.172:36240/bin.sh,32-bit,arm
 2026-11-04 08:47:06,adliwahid,url,http://120.28.212.172:36240/i,mirai,https://urlhaus.abuse.ch/url/4056680/
 2026-10-30 06:29:39,"elf,honeypot,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4046919/"",""ksi_digital",url,http://120.28.212.172:58414/bin.sh,arm,cowrie
 2026-10-30 01:47:08,adliwahid,url,http://120.28.212.172:58414/i,mirai,https://urlhaus.abuse.ch/url/4045594/
@@ -2673,6 +2705,7 @@
 2026-10-05 02:32:12,adliwahid,url,http://120.28.219.231:35445/i,mirai,https://urlhaus.abuse.ch/url/3928810/
 2026-10-23 03:02:06,adliwahid,url,http://120.28.222.102:32813/i,mirai,https://urlhaus.abuse.ch/url/3956170/
 2026-11-04 01:02:05,adliwahid,url,http://120.28.222.102:54609/i,mirai,https://urlhaus.abuse.ch/url/4056447/
+2026-11-04 15:17:07,adliwahid,url,http://120.28.222.207:35095/bin.sh,mirai,https://urlhaus.abuse.ch/url/4056873/
 2026-11-03 19:47:06,adliwahid,url,http://120.28.222.207:35095/i,mirai,https://urlhaus.abuse.ch/url/4056249/
 2026-10-31 09:02:08,adliwahid,url,http://120.28.70.180:36239/bin.sh,mirai,https://urlhaus.abuse.ch/url/4048170/
 2026-10-31 09:17:08,adliwahid,url,http://120.28.70.180:36239/i,mirai,https://urlhaus.abuse.ch/url/4048173/
@@ -2708,6 +2741,7 @@
 2026-10-05 17:32:19,adliwahid,url,http://120.84.213.140:41114/i,None,https://urlhaus.abuse.ch/url/3929379/
 2026-10-14 01:47:09,adliwahid,url,http://120.84.213.141:33792/bin.sh,None,https://urlhaus.abuse.ch/url/3949857/
 2026-10-14 03:47:06,adliwahid,url,http://120.84.213.141:33792/i,None,https://urlhaus.abuse.ch/url/3949872/
+2026-11-04 14:47:07,adliwahid,url,http://120.84.213.216:51674/bin.sh,None,https://urlhaus.abuse.ch/url/4056860/
 2026-11-04 06:16:07,adliwahid,url,http://120.84.213.36:34472/bin.sh,None,https://urlhaus.abuse.ch/url/4056575/
 2026-10-19 19:47:07,adliwahid,url,http://120.84.213.44:41114/bin.sh,None,https://urlhaus.abuse.ch/url/3952417/
 2026-10-26 20:32:07,adliwahid,url,http://120.84.213.59:40964/i,None,https://urlhaus.abuse.ch/url/4034469/
@@ -2721,6 +2755,8 @@
 2026-10-13 09:32:08,adliwahid,url,http://120.84.214.199:34472/i,None,https://urlhaus.abuse.ch/url/3949440/
 2026-10-13 05:32:07,adliwahid,url,http://120.84.214.205:43902/i,None,https://urlhaus.abuse.ch/url/3949371/
 2026-10-15 10:47:08,adliwahid,url,http://120.84.214.210:44069/i,None,https://urlhaus.abuse.ch/url/3950454/
+2026-11-04 21:05:15,adliwahid,url,http://120.84.215.159:53273/bin.sh,None,https://urlhaus.abuse.ch/url/4057120/
+2026-11-04 21:05:15,adliwahid,url,http://120.84.215.159:53273/i,None,https://urlhaus.abuse.ch/url/4057121/
 2026-10-12 15:47:06,adliwahid,url,http://120.84.215.161:35060/i,None,https://urlhaus.abuse.ch/url/3949107/
 2026-10-05 04:32:13,adliwahid,url,http://120.84.215.173:52695/bin.sh,None,https://urlhaus.abuse.ch/url/3928840/
 2026-10-05 01:02:15,adliwahid,url,http://120.84.215.173:52695/i,None,https://urlhaus.abuse.ch/url/3928764/
@@ -2756,6 +2792,7 @@
 2026-10-27 12:02:09,adliwahid,url,http://121.238.240.45:3588/i,None,https://urlhaus.abuse.ch/url/4035944/
 2026-10-05 17:02:20,adliwahid,url,http://121.238.240.68:3588/i,None,https://urlhaus.abuse.ch/url/3929361/
 2026-11-04 13:32:10,adliwahid,url,http://122.139.177.137:41763/bin.sh,mirai,https://urlhaus.abuse.ch/url/4056831/
+2026-11-04 14:02:08,adliwahid,url,http://122.139.177.137:41763/i,mirai,https://urlhaus.abuse.ch/url/4056844/
 2026-10-20 13:33:14,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3952957/"",""geenensp",url,http://122.189.194.59:34507/bin.sh,32-bit,arm
 2026-10-19 15:17:17,adliwahid,url,http://122.189.194.59:34507/i,mirai,https://urlhaus.abuse.ch/url/3952353/
 2026-10-26 08:56:12,adliwahid,url,http://122.231.184.30:56656/i,mirai,https://urlhaus.abuse.ch/url/4028967/
@@ -2770,6 +2807,7 @@
 2026-10-21 16:06:22,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3955035/"",""geenensp",url,http://122.241.39.124:37916/bin.sh,32-bit,arm
 2026-10-21 16:35:20,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3955056/"",""geenensp",url,http://122.241.39.124:37916/i,32-bit,arm
 2026-10-12 03:56:16,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3948209/"",""geenensp",url,http://122.241.88.118:60851/i,32-bit,arm
+2026-11-04 19:47:10,adliwahid,url,http://122.241.95.245:53874/i,mirai,https://urlhaus.abuse.ch/url/4057022/
 2026-11-01 17:46:07,adliwahid,url,http://122.246.46.90:49175/i,mirai,https://urlhaus.abuse.ch/url/4050031/
 2026-10-06 02:17:15,adliwahid,url,http://123.10.128.96:44362/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3929606/
 2026-10-06 02:32:12,adliwahid,url,http://123.10.128.96:44362/i,Mozi,https://urlhaus.abuse.ch/url/3929607/
@@ -2959,6 +2997,7 @@
 2026-10-27 09:17:08,adliwahid,url,http://123.129.133.18:53983/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4035737/
 2026-10-06 00:32:14,adliwahid,url,http://123.129.134.137:35293/bin.sh,None,https://urlhaus.abuse.ch/url/3929549/
 2026-10-06 00:47:11,adliwahid,url,http://123.129.134.137:35293/i,None,https://urlhaus.abuse.ch/url/3929551/
+2026-11-04 18:17:06,adliwahid,url,http://123.129.134.38:54592/i,Mozi,https://urlhaus.abuse.ch/url/4056929/
 2026-10-17 11:52:22,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3951373/"",""geenensp",url,http://123.129.152.49:42069/bin.sh,32-bit,elf
 2026-10-15 03:18:06,adliwahid,url,http://123.129.152.49:42069/i,Mozi,https://urlhaus.abuse.ch/url/3950372/
 2026-10-05 04:32:16,adliwahid,url,http://123.129.154.121:57273/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3928842/
@@ -3098,6 +3137,7 @@
 2026-10-15 16:32:25,adliwahid,url,http://123.148.142.77:43201/bin.sh,None,https://urlhaus.abuse.ch/url/3950536/
 2026-10-07 02:02:30,adliwahid,url,http://123.148.143.61:43201/bin.sh,mirai,https://urlhaus.abuse.ch/url/3944029/
 2026-10-06 16:32:25,adliwahid,url,http://123.148.143.61:43201/i,mirai,https://urlhaus.abuse.ch/url/3943875/
+2026-11-04 16:23:07,"tarpit-http"",""https://urlhaus.abuse.ch/url/4056901/"",""anonymous",url,http://123.148.188.77:44863/Mozi.m,mirai,Mozi
 2026-10-28 19:08:31,"elf,honeypot,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4041828/"",""ksi_digital",url,http://123.148.188.77:44863/bin.sh,arm,cowrie
 2026-10-28 16:30:12,"elf,honeypot,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4041691/"",""ksi_digital",url,http://123.148.188.77:44863/i,arm,cowrie
 2026-10-14 22:47:07,adliwahid,url,http://123.15.75.224:58227/bin.sh,mirai,https://urlhaus.abuse.ch/url/3950264/
@@ -3135,6 +3175,7 @@
 2026-10-05 09:31:20,adliwahid,url,http://123.185.245.137:43701/i,mirai,https://urlhaus.abuse.ch/url/3929111/
 2026-10-29 11:06:08,adliwahid,url,http://123.185.64.62:55925/i,mirai,https://urlhaus.abuse.ch/url/4042790/
 2026-10-18 10:16:33,adliwahid,url,http://123.188.126.2:40744/i,None,https://urlhaus.abuse.ch/url/3951815/
+2026-11-04 21:17:24,adliwahid,url,http://123.188.197.64:33023/i,None,https://urlhaus.abuse.ch/url/4057132/
 2026-10-24 09:38:28,adliwahid,url,http://123.188.201.136:41907/i,None,https://urlhaus.abuse.ch/url/3985189/
 2026-10-05 22:17:22,adliwahid,url,http://123.188.214.82:42150/bin.sh,None,https://urlhaus.abuse.ch/url/3929502/
 2026-10-05 23:46:12,adliwahid,url,http://123.188.214.82:42150/i,None,https://urlhaus.abuse.ch/url/3929531/
@@ -3174,6 +3215,7 @@
 2026-10-24 19:17:06,adliwahid,url,http://123.190.160.239:52844/bin.sh,None,https://urlhaus.abuse.ch/url/3990438/
 2026-10-09 23:17:07,adliwahid,url,http://123.190.162.76:47048/bin.sh,None,https://urlhaus.abuse.ch/url/3947208/
 2026-10-29 13:54:10,adliwahid,url,http://123.190.195.91:38699/i,None,https://urlhaus.abuse.ch/url/4044652/
+2026-11-04 13:47:08,adliwahid,url,http://123.190.203.19:54279/i,None,https://urlhaus.abuse.ch/url/4056836/
 2026-10-07 21:47:07,adliwahid,url,http://123.190.224.233:33698/i,None,https://urlhaus.abuse.ch/url/3944512/
 2026-10-29 00:13:13,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4042085/"",""geenensp",url,http://123.190.225.150:53407/bin.sh,32-bit,elf
 2026-10-29 07:15:20,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4042299/"",""geenensp",url,http://123.190.225.18:38922/bin.sh,32-bit,elf
@@ -3635,6 +3677,7 @@
 2026-10-27 18:38:06,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4036553/"",""geenensp",url,http://125.43.107.210:56588/i,32-bit,elf
 2026-10-19 09:28:16,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3952277/"",""geenensp",url,http://125.43.125.69:42510/bin.sh,32-bit,elf
 2026-10-19 08:02:12,adliwahid,url,http://125.43.125.69:42510/i,Mozi,https://urlhaus.abuse.ch/url/3952255/
+2026-11-04 21:32:07,adliwahid,url,http://125.43.125.84:49775/i,Mozi,https://urlhaus.abuse.ch/url/4057134/
 2026-10-25 00:02:08,adliwahid,url,http://125.43.127.152:37164/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3990523/
 2026-10-25 00:17:06,adliwahid,url,http://125.43.127.152:37164/i,Mozi,https://urlhaus.abuse.ch/url/3990527/
 2026-10-26 12:07:14,"https://urlhaus.abuse.ch/url/4029925/"",""wristhulk",url,http://125.43.22.51:60373/bin.sh,elf,Mozi
@@ -3697,6 +3740,7 @@
 2026-10-10 09:32:11,adliwahid,url,http://125.44.49.37:36624/i,Mozi,https://urlhaus.abuse.ch/url/3947436/
 2026-10-27 10:02:08,adliwahid,url,http://125.44.52.176:59437/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4035832/
 2026-10-27 10:32:06,adliwahid,url,http://125.44.52.176:59437/i,Mozi,https://urlhaus.abuse.ch/url/4035866/
+2026-11-04 21:32:13,adliwahid,url,http://125.44.53.166:46089/i,Mozi,https://urlhaus.abuse.ch/url/4057136/
 2026-10-08 11:16:10,adliwahid,url,http://125.44.59.247:46345/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3946173/
 2026-10-08 11:47:07,adliwahid,url,http://125.44.59.247:46345/i,Mozi,https://urlhaus.abuse.ch/url/3946185/
 2026-10-08 13:02:07,adliwahid,url,http://125.45.10.115:48133/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3946242/
@@ -4063,7 +4107,10 @@
 2026-10-08 01:32:08,adliwahid,url,http://140.237.48.186:50457/bin.sh,mirai,https://urlhaus.abuse.ch/url/3944592/
 2026-10-08 02:02:08,adliwahid,url,http://140.237.48.186:50457/i,mirai,https://urlhaus.abuse.ch/url/3944601/
 2026-10-30 11:01:06,cesnet_certs,url,http://141.98.10.25/diddysbot-amd64,DDoSAgent,https://urlhaus.abuse.ch/url/4047358/
-2026-11-04 03:21:12,"https://urlhaus.abuse.ch/url/4056496/"",""wristhulk",url,http://141.98.10.86/e,downloader,sh
+2026-11-04 03:21:12,"sh"",""https://urlhaus.abuse.ch/url/4056496/"",""wristhulk",url,http://141.98.10.86/e,downloader,mirai
+2026-11-04 14:00:13,"ua-wget"",""https://urlhaus.abuse.ch/url/4056838/"",""abuse_ch",url,http://141.98.10.86/eclipse.arm7,elf,mirai
+2026-11-04 14:01:06,"ua-wget"",""https://urlhaus.abuse.ch/url/4056840/"",""abuse_ch",url,http://141.98.10.86/eclipse.mips,elf,mirai
+2026-11-04 14:00:14,"ua-wget"",""https://urlhaus.abuse.ch/url/4056839/"",""abuse_ch",url,http://141.98.10.86/eclipse.mpsl,elf,mirai
 2026-11-04 07:25:39,geenensp,url,http://141.98.10.86/x86_64,ascii,https://urlhaus.abuse.ch/url/4056631/
 2026-10-13 05:25:08,"https://urlhaus.abuse.ch/url/3949366/"",""zensatori",url,http://143.20.154.42/bins/bot.ppc440,cowrie,honeypot
 2026-10-13 05:24:13,"https://urlhaus.abuse.ch/url/3949333/"",""zensatori",url,http://143.20.154.42/bins/bot.x86_32,cowrie,honeypot
@@ -4075,6 +4122,7 @@
 2026-11-02 14:00:06,abuse_ch,url,http://143.246.203.93/AHKB.bat,xworm,https://urlhaus.abuse.ch/url/4050665/
 2026-10-27 15:46:16,abuse_ch,url,http://143.246.203.93/AHK_32.bat,xworm,https://urlhaus.abuse.ch/url/4036153/
 2026-10-27 06:43:05,abuse_ch,url,http://143.246.203.93/AUL_32d.bat,None,https://urlhaus.abuse.ch/url/4035601/
+2026-11-04 15:06:07,"ua-wget,vshell"",""https://urlhaus.abuse.ch/url/4056869/"",""BlinkzSec",url,http://143.92.51.145/2.exe,143-92-51-145,exe
 2026-10-06 05:33:16,"RemcosRAT"",""https://urlhaus.abuse.ch/url/3929725/"",""abuse_ch",url,http://144.172.116.239/40/goodthingsforme.hta,hta,rat
 2026-10-06 05:33:15,"vbe"",""https://urlhaus.abuse.ch/url/3929724/"",""abuse_ch",url,http://144.172.116.239/40/workinggood.vbe,rat,RemcosRAT
 2026-10-06 07:55:28,abuse_ch,url,http://144.172.116.239/50/comingbackwithbestmarket.htA,None,https://urlhaus.abuse.ch/url/3938641/
@@ -4123,6 +4171,7 @@
 2026-10-09 14:17:29,"https://urlhaus.abuse.ch/url/3946986/"",""ClearlyNotB",url,http://146.103.43.194/bins/x86,elf,ua-wget
 2026-10-05 06:22:30,von,url,http://146.19.198.131/bins.sh,None,https://urlhaus.abuse.ch/url/3928925/
 2026-10-25 17:29:20,geenensp,url,http://146.190.102.83/t2r/t2r_compat.sh,script,https://urlhaus.abuse.ch/url/4013709/
+2026-11-04 18:17:05,adliwahid,url,http://146.247.159.96:38313/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056928/
 2026-10-10 21:47:13,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3947706/"",""geenensp",url,http://146.66.249.137:55527/i,32-bit,elf
 2026-10-22 01:47:05,adliwahid,url,http://146.66.249.57:55527/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3955381/
 2026-10-11 15:33:10,"https://urlhaus.abuse.ch/url/3948072/"",""abuse_ch",url,http://147.45.116.134/72img_021534.png,stego,xworm
@@ -4950,6 +4999,7 @@
 2026-10-31 18:02:11,adliwahid,url,http://175.169.10.168:38654/bin.sh,None,https://urlhaus.abuse.ch/url/4049000/
 2026-10-08 07:02:06,adliwahid,url,http://175.169.236.217:36453/bin.sh,None,https://urlhaus.abuse.ch/url/3946031/
 2026-10-08 06:07:07,adliwahid,url,http://175.169.236.217:36453/i,None,https://urlhaus.abuse.ch/url/3946011/
+2026-11-04 18:30:11,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4056942/"",""geenensp",url,http://175.169.42.205:57346/i,32-bit,elf
 2026-10-20 22:00:19,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3953092/"",""geenensp",url,http://175.170.11.184:58959/bin.sh,32-bit,arm
 2026-10-17 20:46:13,adliwahid,url,http://175.170.11.184:58959/i,mirai,https://urlhaus.abuse.ch/url/3951497/
 2026-10-31 20:02:07,adliwahid,url,http://175.170.33.154:45617/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4049117/
@@ -6005,6 +6055,7 @@
 2026-10-09 06:06:20,adliwahid,url,http://178.128.125.255/bins/x86_64,None,https://urlhaus.abuse.ch/url/3946806/
 2026-10-18 12:24:14,"https://urlhaus.abuse.ch/url/3951865/"",""HoneyLabs",url,http://178.132.198.200/bins.sh,elf,iot
 2026-10-17 03:32:08,adliwahid,url,http://178.141.128.4:45381/i,Mozi,https://urlhaus.abuse.ch/url/3951125/
+2026-11-04 19:17:06,adliwahid,url,http://178.141.131.166:54886/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4057017/
 2026-10-09 22:17:06,adliwahid,url,http://178.141.147.7:33119/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3947178/
 2026-10-10 00:02:06,adliwahid,url,http://178.141.147.7:33119/i,Mozi,https://urlhaus.abuse.ch/url/3947215/
 2026-10-05 18:47:14,adliwahid,url,http://178.141.152.243:47468/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3929433/
@@ -6301,6 +6352,8 @@
 2026-10-25 05:26:20,"honeypot,mips,Mozi"",""https://urlhaus.abuse.ch/url/3990593/"",""ksi_digital",url,http://182.113.206.97:45723/i,cowrie,elf
 2026-10-30 08:17:06,adliwahid,url,http://182.113.207.137:57367/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4047046/
 2026-10-14 19:45:15,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3950210/"",""geenensp",url,http://182.113.207.181:34455/i,32-bit,elf
+2026-11-04 13:47:06,adliwahid,url,http://182.113.207.62:46354/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056834/
+2026-11-04 13:47:05,adliwahid,url,http://182.113.207.62:46354/i,Mozi,https://urlhaus.abuse.ch/url/4056833/
 2026-10-18 18:17:14,adliwahid,url,http://182.113.209.116:49963/i,Mozi,https://urlhaus.abuse.ch/url/3951956/
 2026-10-16 05:47:07,adliwahid,url,http://182.113.209.143:49963/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3950770/
 2026-10-16 04:47:09,adliwahid,url,http://182.113.209.143:49963/i,Mozi,https://urlhaus.abuse.ch/url/3950762/
@@ -6355,6 +6408,8 @@
 2026-10-21 16:21:15,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3955053/"",""geenensp",url,http://182.114.193.129:58877/bin.sh,32-bit,elf
 2026-10-21 16:23:14,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3955054/"",""geenensp",url,http://182.114.193.129:58877/i,32-bit,elf
 2026-10-14 15:18:06,adliwahid,url,http://182.114.194.42:59711/i,Mozi,https://urlhaus.abuse.ch/url/3950137/
+2026-11-04 15:17:08,adliwahid,url,http://182.114.194.59:37462/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056876/
+2026-11-04 19:52:07,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4057023/"",""geenensp",url,http://182.114.194.59:37462/i,32-bit,elf
 2026-10-26 03:17:07,adliwahid,url,http://182.114.194.78:33888/i,None,https://urlhaus.abuse.ch/url/4014014/
 2026-10-28 06:17:19,"honeypot,mips,Mozi"",""https://urlhaus.abuse.ch/url/4039523/"",""ksi_digital",url,http://182.114.194.87:41409/bin.sh,cowrie,elf
 2026-10-27 21:54:15,"honeypot,mips,Mozi"",""https://urlhaus.abuse.ch/url/4036643/"",""ksi_digital",url,http://182.114.194.87:41409/i,cowrie,elf
@@ -6873,6 +6928,7 @@
 2026-10-31 03:02:08,adliwahid,url,http://182.127.1.53:54216/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4047920/
 2026-10-24 09:56:56,adliwahid,url,http://182.127.108.252:56903/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3985696/
 2026-10-24 10:09:17,adliwahid,url,http://182.127.108.252:56903/i,Mozi,https://urlhaus.abuse.ch/url/3985873/
+2026-11-04 14:18:12,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4056846/"",""geenensp",url,http://182.127.109.170:47581/bin.sh,32-bit,elf
 2026-10-12 04:32:07,adliwahid,url,http://182.127.110.188:40844/i,Mozi,https://urlhaus.abuse.ch/url/3948219/
 2026-10-05 22:02:15,adliwahid,url,http://182.127.110.6:47269/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3929496/
 2026-10-05 22:32:13,adliwahid,url,http://182.127.110.6:47269/i,Mozi,https://urlhaus.abuse.ch/url/3929505/
@@ -6910,6 +6966,7 @@
 2026-10-19 07:17:14,adliwahid,url,http://182.127.178.64:45042/i,Mozi,https://urlhaus.abuse.ch/url/3952247/
 2026-10-08 20:10:18,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3946655/"",""geenensp",url,http://182.127.179.145:57484/bin.sh,32-bit,elf
 2026-10-08 06:17:21,adliwahid,url,http://182.127.179.145:57484/i,Mozi,https://urlhaus.abuse.ch/url/3946020/
+2026-11-04 20:02:07,adliwahid,url,http://182.127.179.200:45401/i,Mozi,https://urlhaus.abuse.ch/url/4057055/
 2026-11-01 18:47:07,adliwahid,url,http://182.127.179.209:45401/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4050057/
 2026-11-01 19:17:06,adliwahid,url,http://182.127.179.209:45401/i,Mozi,https://urlhaus.abuse.ch/url/4050074/
 2026-11-01 07:16:08,adliwahid,url,http://182.127.2.13:54216/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4049603/
@@ -7540,6 +7597,7 @@
 2026-10-08 15:47:07,adliwahid,url,http://2.187.251.80:42747/i,Mozi,https://urlhaus.abuse.ch/url/3946296/
 2026-10-20 04:58:07,adliwahid,url,http://2.187.36.108:36523/Mozi.m,Mozi,https://urlhaus.abuse.ch/url/3952521/
 2026-10-13 13:47:23,adliwahid,url,http://2.187.98.47:38576/i,Mozi,https://urlhaus.abuse.ch/url/3949563/
+2026-11-04 16:02:05,adliwahid,url,http://2.249.90.120:45992/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056888/
 2026-10-06 06:27:29,"mirai"",""https://urlhaus.abuse.ch/url/3933286/"",""HoneyLabs",url,http://2.26.124.177:889/keroro,elf,iot
 2026-10-18 06:11:15,von,url,http://2.26.225.232/main_x86.exe,SalatStealer,https://urlhaus.abuse.ch/url/3951606/
 2026-10-12 07:20:07,"https://urlhaus.abuse.ch/url/3948880/"",""YaRi78",url,http://2.27.14.196:882/rainimips,cowrie,honeypot
@@ -7556,6 +7614,8 @@
 2026-11-01 15:02:06,"honeypot"",""https://urlhaus.abuse.ch/url/4049838/"",""Jerry1113",url,http://2.27.154.146/kla.sh,automated,cowrie
 2026-10-27 10:31:06,"exe,ua-wget"",""https://urlhaus.abuse.ch/url/4035865/"",""BlinkzSec",url,http://2.27.21.82/bin/support.client.exe,2-27-21-82,connectwise
 2026-10-06 05:01:25,"mirai,ua-wget"",""https://urlhaus.abuse.ch/url/3929675/"",""BlinkzSec",url,http://2.27.248.149/bins/dbg,2-27-248-149,elf
+2026-11-04 15:51:06,"ua-wget"",""https://urlhaus.abuse.ch/url/4056886/"",""BlinkzSec",url,http://2.56.122.12:8080/calc.bat,2-56-122-12-8080,bat
+2026-11-04 15:51:06,"vbs"",""https://urlhaus.abuse.ch/url/4056887/"",""BlinkzSec",url,http://2.56.122.12:8080/r.vbs,2-56-122-12-8080,ua-wget
 2026-10-14 22:08:21,"https://urlhaus.abuse.ch/url/3950238/"",""ClearlyNotB",url,http://2.56.175.143/010100110101010/fghe3tj.arm,elf,ua-wget
 2026-10-14 22:08:22,"https://urlhaus.abuse.ch/url/3950242/"",""ClearlyNotB",url,http://2.56.175.143/010100110101010/fghe3tj.arm6,elf,ua-wget
 2026-10-14 22:08:25,"https://urlhaus.abuse.ch/url/3950255/"",""ClearlyNotB",url,http://2.56.175.143/010100110101010/fghe3tj.arm7,elf,ua-wget
@@ -7592,6 +7652,8 @@
 2026-10-15 11:02:08,adliwahid,url,http://201.110.21.150:38216/i,mirai,https://urlhaus.abuse.ch/url/3950457/
 2026-10-19 06:37:18,"elf,honeypot,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3952203/"",""ksi_digital",url,http://201.110.99.103:38216/bin.sh,arm,cowrie
 2026-10-17 22:17:12,adliwahid,url,http://201.110.99.103:38216/i,mirai,https://urlhaus.abuse.ch/url/3951520/
+2026-11-04 17:32:17,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4056924/"",""geenensp",url,http://201.159.91.2:38016/bin.sh,32-bit,arm
+2026-11-04 17:51:18,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4056926/"",""geenensp",url,http://201.159.91.2:38016/i,32-bit,arm
 2026-10-11 07:04:10,adliwahid,url,http://201.159.91.2:41978/Mozi.m,mirai,https://urlhaus.abuse.ch/url/3947826/
 2026-10-10 05:49:21,"https://urlhaus.abuse.ch/url/3947357/"",""wristhulk",url,http://201.159.91.2:41978/bin.sh,elf,mirai
 2026-10-09 10:32:07,adliwahid,url,http://201.159.91.2:41978/i,mirai,https://urlhaus.abuse.ch/url/3946889/
@@ -7834,6 +7896,8 @@
 2026-10-11 04:02:06,adliwahid,url,http://210.208.110.21:53906/i,mirai,https://urlhaus.abuse.ch/url/3947780/
 2026-10-27 00:47:06,adliwahid,url,http://210.208.110.21:56145/bin.sh,mirai,https://urlhaus.abuse.ch/url/4034780/
 2026-10-27 01:17:06,adliwahid,url,http://210.208.110.21:56145/i,mirai,https://urlhaus.abuse.ch/url/4034792/
+2026-11-04 17:16:16,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4056918/"",""geenensp",url,http://210.208.110.21:58005/bin.sh,32-bit,arm
+2026-11-04 17:44:11,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4056925/"",""geenensp",url,http://210.208.110.21:58005/i,32-bit,arm
 2026-11-04 00:55:18,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4056444/"",""geenensp",url,http://210.208.110.221:33012/bin.sh,32-bit,arm
 2026-11-04 01:22:16,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4056453/"",""geenensp",url,http://210.208.110.221:33012/i,32-bit,arm
 2026-10-06 03:51:20,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3929637/"",""geenensp",url,http://210.208.110.221:40435/bin.sh,32-bit,arm
@@ -7938,6 +8002,7 @@
 2026-10-12 07:20:07,"https://urlhaus.abuse.ch/url/3948878/"",""shmulc",url,http://212.193.3.61:4873/,npm,rogue-registry
 2026-10-06 10:38:13,adliwahid,url,http://212.50.57.143:39109/Mozi.m,Mozi,https://urlhaus.abuse.ch/url/3943698/
 2026-10-31 12:47:08,adliwahid,url,http://212.50.57.143:47336/i,Mozi,https://urlhaus.abuse.ch/url/4048444/
+2026-11-04 17:02:15,adliwahid,url,http://212.50.57.143:49875/i,Mozi,https://urlhaus.abuse.ch/url/4056912/
 2026-10-14 14:05:07,adliwahid,url,http://212.54.86.171:51213/Mozi.a,mirai,https://urlhaus.abuse.ch/url/3950101/
 2026-10-09 18:17:13,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3947079/"",""geenensp",url,http://212.54.86.171:51213/bin.sh,32-bit,arm
 2026-10-11 07:04:05,"web"",""https://urlhaus.abuse.ch/url/3947816/"",""drewfink",url,http://212.83.160.70/t/cmd.txt,ajax-php,FreePBX
@@ -8266,6 +8331,8 @@
 2026-10-23 12:02:07,adliwahid,url,http://219.156.20.68:49977/i,Mozi,https://urlhaus.abuse.ch/url/3966004/
 2026-10-27 18:17:12,adliwahid,url,http://219.156.22.229:56045/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4036550/
 2026-10-28 06:01:07,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4039344/"",""geenensp",url,http://219.156.22.229:56045/i,32-bit,elf
+2026-11-04 14:59:15,"https://urlhaus.abuse.ch/url/4056868/"",""wristhulk",url,http://219.156.32.106:53245/bin.sh,elf,Mozi
+2026-11-04 15:24:14,"https://urlhaus.abuse.ch/url/4056879/"",""wristhulk",url,http://219.156.32.106:53245/i,elf,Mozi
 2026-10-06 01:31:16,adliwahid,url,http://219.156.33.163:34544/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3929582/
 2026-10-06 01:31:16,adliwahid,url,http://219.156.33.163:34544/i,Mozi,https://urlhaus.abuse.ch/url/3929581/
 2026-10-08 11:16:08,adliwahid,url,http://219.156.34.50:34544/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3946171/
@@ -8587,6 +8654,7 @@
 2026-10-29 14:58:11,adliwahid,url,http://222.127.220.233:44807/bin.sh,mirai,https://urlhaus.abuse.ch/url/4044688/
 2026-10-31 11:28:15,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4048319/"",""geenensp",url,http://222.127.227.201:43589/bin.sh,32-bit,arm
 2026-10-29 19:02:06,adliwahid,url,http://222.127.227.201:43589/i,mirai,https://urlhaus.abuse.ch/url/4044951/
+2026-11-04 15:17:07,adliwahid,url,http://222.127.227.201:55285/i,mirai,https://urlhaus.abuse.ch/url/4056874/
 2026-10-30 22:54:13,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4047845/"",""geenensp",url,http://222.127.242.213:33873/i,32-bit,arm
 2026-10-08 05:17:07,adliwahid,url,http://222.127.242.213:37738/bin.sh,mirai,https://urlhaus.abuse.ch/url/3944666/
 2026-10-08 05:32:07,adliwahid,url,http://222.127.242.213:37738/i,mirai,https://urlhaus.abuse.ch/url/3944671/
@@ -8630,6 +8698,7 @@
 2026-10-06 09:34:37,adliwahid,url,http://222.127.71.33:40089/i,mirai,https://urlhaus.abuse.ch/url/3943600/
 2026-10-28 23:56:14,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4042081/"",""geenensp",url,http://222.127.71.33:54928/bin.sh,32-bit,arm
 2026-10-28 06:23:42,"mirai"",""https://urlhaus.abuse.ch/url/4039700/"",""HoneyLabs",url,http://222.127.71.33:54928/i,elf,iot
+2026-11-04 20:02:06,adliwahid,url,http://222.127.71.33:55258/i,mirai,https://urlhaus.abuse.ch/url/4057053/
 2026-10-13 19:55:21,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3949733/"",""geenensp",url,http://222.127.71.33:60552/bin.sh,32-bit,arm
 2026-10-08 02:17:07,adliwahid,url,http://222.127.73.15:47678/bin.sh,mirai,https://urlhaus.abuse.ch/url/3944604/
 2026-10-08 10:38:18,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3946142/"",""geenensp",url,http://222.127.73.15:47678/i,32-bit,arm
@@ -8820,6 +8889,8 @@
 2026-10-16 17:17:07,adliwahid,url,http://222.140.182.244:54878/i,None,https://urlhaus.abuse.ch/url/3950973/
 2026-10-16 00:24:18,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3950718/"",""geenensp",url,http://222.140.182.253:36775/bin.sh,32-bit,elf
 2026-10-16 00:50:18,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3950725/"",""geenensp",url,http://222.140.182.253:36775/i,32-bit,elf
+2026-11-04 16:32:07,adliwahid,url,http://222.140.184.208:54768/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056903/
+2026-11-04 17:02:05,adliwahid,url,http://222.140.184.208:54768/i,Mozi,https://urlhaus.abuse.ch/url/4056910/
 2026-10-06 15:01:23,adliwahid,url,http://222.140.190.133:59112/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3943781/
 2026-10-06 04:17:17,adliwahid,url,http://222.140.190.133:59112/i,Mozi,https://urlhaus.abuse.ch/url/3929650/
 2026-10-07 19:00:09,adliwahid,url,http://222.140.196.83:48958/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3944449/
@@ -8862,6 +8933,7 @@
 2026-10-31 23:32:07,adliwahid,url,http://222.141.117.50:45165/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4049181/
 2026-10-08 19:17:07,adliwahid,url,http://222.141.120.45:40118/i,Mozi,https://urlhaus.abuse.ch/url/3946649/
 2026-10-28 12:02:12,adliwahid,url,http://222.141.120.76:49535/i,Mozi,https://urlhaus.abuse.ch/url/4041550/
+2026-11-04 18:02:07,adliwahid,url,http://222.141.122.43:32794/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056927/
 2026-10-07 00:02:36,adliwahid,url,http://222.141.122.53:40331/bin.sh,None,https://urlhaus.abuse.ch/url/3943988/
 2026-10-06 19:47:24,adliwahid,url,http://222.141.122.53:40331/i,None,https://urlhaus.abuse.ch/url/3943924/
 2026-10-09 22:29:07,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3947184/"",""geenensp",url,http://222.141.127.20:56795/bin.sh,32-bit,elf
@@ -9309,6 +9381,7 @@
 2026-10-11 11:32:07,adliwahid,url,http://27.215.82.47:49476/i,Mozi,https://urlhaus.abuse.ch/url/3947985/
 2026-10-30 12:02:07,adliwahid,url,http://27.215.83.79:54710/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4047432/
 2026-10-30 12:32:06,adliwahid,url,http://27.215.83.79:54710/i,Mozi,https://urlhaus.abuse.ch/url/4047492/
+2026-11-04 17:32:06,adliwahid,url,http://27.215.83.96:42940/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056922/
 2026-10-05 19:02:14,adliwahid,url,http://27.215.84.50:55461/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3929437/
 2026-10-05 19:32:13,adliwahid,url,http://27.215.84.50:55461/i,Mozi,https://urlhaus.abuse.ch/url/3929445/
 2026-10-10 22:59:07,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3947730/"",""geenensp",url,http://27.215.89.229:49916/bin.sh,32-bit,arm
@@ -9441,6 +9514,7 @@
 2026-10-20 03:01:08,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3952487/"",""geenensp",url,http://27.44.146.42:38129/bin.sh,32-bit,elf
 2026-10-19 22:22:14,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3952444/"",""geenensp",url,http://27.44.146.42:38129/i,32-bit,elf
 2026-10-26 02:37:14,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4014002/"",""geenensp",url,http://27.44.146.53:35060/i,32-bit,elf
+2026-11-04 14:45:24,"honeypot,mipsel,Mozi"",""https://urlhaus.abuse.ch/url/4056858/"",""ksi_digital",url,http://27.44.146.92:46106/bin.sh,cowrie,elf
 2026-10-26 21:32:22,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4034490/"",""geenensp",url,http://27.44.147.146:38129/bin.sh,32-bit,elf
 2026-10-26 23:58:11,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4034770/"",""geenensp",url,http://27.44.147.146:38129/i,32-bit,elf
 2026-10-25 15:12:09,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4012469/"",""geenensp",url,http://27.44.147.208:43172/bin.sh,32-bit,elf
@@ -9459,6 +9533,8 @@
 2026-10-09 17:17:07,adliwahid,url,http://27.6.71.251:44076/i,None,https://urlhaus.abuse.ch/url/3947062/
 2026-10-25 13:34:27,adliwahid,url,http://31.129.7.150:57413/bin.sh,mirai,https://urlhaus.abuse.ch/url/4011240/
 2026-10-24 09:24:51,adliwahid,url,http://31.129.7.150:57413/i,mirai,https://urlhaus.abuse.ch/url/3985148/
+2026-11-04 16:17:05,adliwahid,url,http://31.14.190.74:57117/bin.sh,None,https://urlhaus.abuse.ch/url/4056893/
+2026-11-04 16:47:06,adliwahid,url,http://31.14.190.74:57117/i,None,https://urlhaus.abuse.ch/url/4056906/
 2026-10-22 03:47:19,adliwahid,url,http://31.140.134.96:46224/i,None,https://urlhaus.abuse.ch/url/3955419/
 2026-10-07 18:04:16,abuse_ch,url,http://31.40.204.114/1.jpg,None,https://urlhaus.abuse.ch/url/3944379/
 2026-10-07 18:06:16,abuse_ch,url,http://31.40.204.114/4.jpg,None,https://urlhaus.abuse.ch/url/3944385/
@@ -10104,7 +10180,7 @@
 2026-11-04 04:35:13,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/4056546/"",""geenensp",url,http://39.80.111.56:36121/i,32-bit,arm
 2026-10-23 05:49:25,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3962767/"",""geenensp",url,http://39.80.36.3:52531/i,32-bit,arm
 2026-10-30 09:02:07,adliwahid,url,http://39.80.52.125:37239/i,mirai,https://urlhaus.abuse.ch/url/4047075/
-2026-11-04 06:47:20,adliwahid,url,http://39.80.52.125:37811/i,None,https://urlhaus.abuse.ch/url/4056588/
+2026-11-04 06:47:20,adliwahid,url,http://39.80.52.125:37811/i,mirai,https://urlhaus.abuse.ch/url/4056588/
 2026-10-24 10:09:50,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3985917/"",""geenensp",url,http://39.81.210.159:50327/bin.sh,32-bit,arm
 2026-10-22 04:07:05,"https://urlhaus.abuse.ch/url/3955430/"",""anonymous",url,http://39.81.37.15:40232/Mozi.m,Mozi,tarpit-http
 2026-10-08 09:26:19,"honeypot,mips,Mozi"",""https://urlhaus.abuse.ch/url/3946111/"",""ksi_digital",url,http://39.82.142.95:37937/bin.sh,cowrie,elf
@@ -10207,6 +10283,8 @@
 2026-10-07 07:17:16,adliwahid,url,http://41.216.227.66:51974/i,Mozi,https://urlhaus.abuse.ch/url/3944169/
 2026-10-31 15:47:09,adliwahid,url,http://41.248.10.160:54700/i,Mozi,https://urlhaus.abuse.ch/url/4048831/
 2026-10-16 10:32:24,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3950897/"",""geenensp",url,http://41.248.22.74:58977/i,32-bit,elf
+2026-11-04 13:47:07,adliwahid,url,http://41.248.23.117:52785/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056835/
+2026-11-04 14:17:07,adliwahid,url,http://41.248.23.117:52785/i,Mozi,https://urlhaus.abuse.ch/url/4056845/
 2026-10-30 07:01:15,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4046993/"",""geenensp",url,http://41.248.41.65:53687/bin.sh,32-bit,elf
 2026-10-30 07:23:15,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4047020/"",""geenensp",url,http://41.248.41.65:53687/i,32-bit,elf
 2026-10-23 01:02:07,adliwahid,url,http://41.249.56.181:41111/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3956140/
@@ -10254,6 +10332,8 @@
 2026-10-17 09:02:24,adliwahid,url,http://42.178.22.41:58476/bin.sh,None,https://urlhaus.abuse.ch/url/3951229/
 2026-11-04 06:53:13,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4056589/"",""geenensp",url,http://42.178.22.89:34119/i,32-bit,elf
 2026-10-13 12:02:07,adliwahid,url,http://42.178.220.88:39578/i,None,https://urlhaus.abuse.ch/url/3949513/
+2026-11-04 16:44:08,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4056904/"",""geenensp",url,http://42.178.227.203:37914/bin.sh,32-bit,elf
+2026-11-04 16:52:17,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4056909/"",""geenensp",url,http://42.178.227.203:37914/i,32-bit,elf
 2026-10-13 10:32:07,adliwahid,url,http://42.178.31.252:45223/bin.sh,None,https://urlhaus.abuse.ch/url/3949464/
 2026-10-12 15:47:06,adliwahid,url,http://42.178.31.252:45223/i,None,https://urlhaus.abuse.ch/url/3949108/
 2026-10-23 06:00:09,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3964505/"",""geenensp",url,http://42.178.61.133:33134/bin.sh,32-bit,elf
@@ -10358,10 +10438,12 @@
 2026-10-07 15:47:17,adliwahid,url,http://42.224.83.188:35709/i,Mozi,https://urlhaus.abuse.ch/url/3944279/
 2026-10-10 14:17:06,adliwahid,url,http://42.224.84.63:33614/bin.sh,None,https://urlhaus.abuse.ch/url/3947611/
 2026-10-10 14:17:06,adliwahid,url,http://42.224.84.63:33614/i,None,https://urlhaus.abuse.ch/url/3947612/
+2026-11-04 14:02:06,adliwahid,url,http://42.224.88.195:35451/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056841/
 2026-11-04 10:32:07,adliwahid,url,http://42.224.88.195:35451/i,Mozi,https://urlhaus.abuse.ch/url/4056769/
 2026-10-17 11:09:21,"elf,mirai,Mozi"",""https://urlhaus.abuse.ch/url/3951361/"",""geenensp",url,http://42.224.88.202:59961/bin.sh,32-bit,arm
 2026-10-12 13:47:07,adliwahid,url,http://42.224.88.202:59961/i,mirai,https://urlhaus.abuse.ch/url/3949087/
 2026-11-04 02:17:09,adliwahid,url,http://42.224.88.71:36406/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056482/
+2026-11-04 21:05:16,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4057123/"",""geenensp",url,http://42.224.88.71:36406/i,32-bit,elf
 2026-10-07 04:03:33,adliwahid,url,http://42.224.98.161:41233/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3944065/
 2026-10-06 14:46:27,adliwahid,url,http://42.224.98.161:41233/i,Mozi,https://urlhaus.abuse.ch/url/3943777/
 2026-11-04 04:08:14,"https://urlhaus.abuse.ch/url/4056541/"",""wristhulk",url,http://42.224.99.157:43659/bin.sh,elf,Mozi
@@ -10819,6 +10901,7 @@
 2026-10-23 04:02:07,adliwahid,url,http://42.238.252.189:47417/i,Mozi,https://urlhaus.abuse.ch/url/3956180/
 2026-10-16 14:32:11,adliwahid,url,http://42.238.71.29:57701/i,Mozi,https://urlhaus.abuse.ch/url/3950942/
 2026-11-04 08:17:06,adliwahid,url,http://42.239.109.251:60027/i,Mozi,https://urlhaus.abuse.ch/url/4056668/
+2026-11-04 14:32:07,adliwahid,url,http://42.239.115.114:40104/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056849/
 2026-11-04 08:17:06,adliwahid,url,http://42.239.115.114:40104/i,Mozi,https://urlhaus.abuse.ch/url/4056669/
 2026-10-06 00:15:32,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3929540/"",""geenensp",url,http://42.239.115.31:36257/bin.sh,32-bit,elf
 2026-10-06 00:39:25,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3929550/"",""geenensp",url,http://42.239.115.31:36257/i,32-bit,elf
@@ -10937,6 +11020,8 @@
 2026-11-01 09:01:20,adliwahid,url,http://42.54.14.239:60046/i,None,https://urlhaus.abuse.ch/url/4049669/
 2026-10-28 06:58:30,adliwahid,url,http://42.54.142.235:47784/bin.sh,None,https://urlhaus.abuse.ch/url/4039888/
 2026-10-28 06:58:08,adliwahid,url,http://42.54.142.235:47784/i,None,https://urlhaus.abuse.ch/url/4039867/
+2026-11-04 15:12:17,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4056872/"",""geenensp",url,http://42.54.19.0:35212/bin.sh,32-bit,elf
+2026-11-04 15:18:14,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4056877/"",""geenensp",url,http://42.54.19.0:35212/i,32-bit,elf
 2026-10-25 18:32:06,adliwahid,url,http://42.54.24.58:54197/i,mirai,https://urlhaus.abuse.ch/url/4013885/
 2026-10-22 03:02:06,adliwahid,url,http://42.54.64.144:57873/bin.sh,None,https://urlhaus.abuse.ch/url/3955403/
 2026-10-06 09:52:25,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3943685/"",""geenensp",url,http://42.55.115.171:56220/bin.sh,32-bit,elf
@@ -10974,6 +11059,7 @@
 2026-10-05 06:17:14,adliwahid,url,http://42.56.148.18:37031/bin.sh,None,https://urlhaus.abuse.ch/url/3928871/
 2026-10-05 06:32:17,adliwahid,url,http://42.56.148.18:37031/i,None,https://urlhaus.abuse.ch/url/3928985/
 2026-10-11 10:17:05,adliwahid,url,http://42.56.3.241:39536/i,None,https://urlhaus.abuse.ch/url/3947972/
+2026-11-04 14:32:07,adliwahid,url,http://42.56.34.119:40694/i,None,https://urlhaus.abuse.ch/url/4056850/
 2026-10-05 08:01:20,adliwahid,url,http://42.56.35.53:39865/bin.sh,None,https://urlhaus.abuse.ch/url/3929051/
 2026-10-05 08:16:27,adliwahid,url,http://42.56.35.53:39865/i,None,https://urlhaus.abuse.ch/url/3929056/
 2026-10-09 00:17:06,adliwahid,url,http://42.57.164.151:60901/i,None,https://urlhaus.abuse.ch/url/3946677/
@@ -10998,6 +11084,7 @@
 2026-10-10 04:51:18,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3947318/"",""geenensp",url,http://42.57.42.2:38792/i,32-bit,elf
 2026-10-28 02:04:34,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4037395/"",""geenensp",url,http://42.57.54.139:52363/bin.sh,32-bit,elf
 2026-10-28 02:04:25,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4037384/"",""geenensp",url,http://42.57.54.139:52363/i,32-bit,elf
+2026-11-04 18:47:05,adliwahid,url,http://42.57.88.132:38263/i,None,https://urlhaus.abuse.ch/url/4056950/
 2026-10-28 21:02:07,adliwahid,url,http://42.58.133.131:38102/bin.sh,None,https://urlhaus.abuse.ch/url/4042006/
 2026-10-28 21:32:05,adliwahid,url,http://42.58.133.131:38102/i,None,https://urlhaus.abuse.ch/url/4042017/
 2026-10-28 18:32:06,adliwahid,url,http://42.58.137.215:44557/bin.sh,None,https://urlhaus.abuse.ch/url/4041727/
@@ -11739,6 +11826,7 @@
 2026-10-27 01:02:04,adliwahid,url,http://46.236.65.175:43578/i,Mozi,https://urlhaus.abuse.ch/url/4034784/
 2026-10-10 20:27:21,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3947699/"",""geenensp",url,http://46.236.65.235:49018/bin.sh,32-bit,elf
 2026-10-12 07:12:08,adliwahid,url,http://46.236.65.235:49018/i,Mozi,https://urlhaus.abuse.ch/url/3948844/
+2026-11-04 17:32:06,adliwahid,url,http://46.236.65.252:35617/i,Mozi,https://urlhaus.abuse.ch/url/4056921/
 2026-11-01 06:41:07,adliwahid,url,http://46.236.65.252:43428/Mozi.m,Mozi,https://urlhaus.abuse.ch/url/4049334/
 2026-10-14 21:32:06,adliwahid,url,http://46.236.65.27:49459/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3950223/
 2026-10-15 05:02:09,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3950384/"",""geenensp",url,http://46.236.65.27:49459/i,32-bit,elf
@@ -11821,6 +11909,13 @@
 2026-10-27 02:32:06,adliwahid,url,http://5.167.122.87:55987/i,None,https://urlhaus.abuse.ch/url/4034830/
 2026-10-12 07:12:07,adliwahid,url,http://5.167.126.229:23301/i,None,https://urlhaus.abuse.ch/url/3948843/
 2026-10-10 11:32:07,adliwahid,url,http://5.167.126.229:59635/i,None,https://urlhaus.abuse.ch/url/3947467/
+2026-11-04 14:55:17,"ua-wget"",""https://urlhaus.abuse.ch/url/4056862/"",""BlinkzSec",url,http://5.175.192.232/bot_aarch64,5-175-192-232,elf
+2026-11-04 14:55:17,"ua-wget"",""https://urlhaus.abuse.ch/url/4056863/"",""BlinkzSec",url,http://5.175.192.232/bot_armv5l,5-175-192-232,elf
+2026-11-04 14:55:17,"ua-wget"",""https://urlhaus.abuse.ch/url/4056864/"",""BlinkzSec",url,http://5.175.192.232/bot_armv6l,5-175-192-232,elf
+2026-11-04 14:55:17,"ua-wget"",""https://urlhaus.abuse.ch/url/4056865/"",""BlinkzSec",url,http://5.175.192.232/bot_armv7l,5-175-192-232,elf
+2026-11-04 14:55:17,"ua-wget"",""https://urlhaus.abuse.ch/url/4056866/"",""BlinkzSec",url,http://5.175.192.232/bot_mips,5-175-192-232,elf
+2026-11-04 14:56:18,"ua-wget"",""https://urlhaus.abuse.ch/url/4056867/"",""BlinkzSec",url,http://5.175.192.232/bot_mipsel,5-175-192-232,elf
+2026-11-04 14:55:17,"ua-wget"",""https://urlhaus.abuse.ch/url/4056861/"",""BlinkzSec",url,http://5.175.192.232/bot_x86,5-175-192-232,elf
 2026-11-04 07:26:09,"https://urlhaus.abuse.ch/url/4056649/"",""YaRi78",url,http://5.175.192.232/bot_x86_64,cowrie,honeypot
 2026-10-21 16:12:16,"ua-wget"",""https://urlhaus.abuse.ch/url/3955045/"",""NDA0E",url,http://5.175.222.236/payload.sh,censys,sh
 2026-10-21 16:12:14,"FlyLegitBot,ua-wget"",""https://urlhaus.abuse.ch/url/3955043/"",""NDA0E",url,http://5.175.222.236/waternetwork.aarch64,censys,elf
@@ -11859,6 +11954,11 @@
 2026-10-11 07:05:28,von,url,http://5.175.222.237/zero.arm7,None,https://urlhaus.abuse.ch/url/3947896/
 2026-10-11 07:05:32,von,url,http://5.175.222.237/zero.mips,None,https://urlhaus.abuse.ch/url/3947901/
 2026-10-11 07:05:22,von,url,http://5.175.222.237/zz,None,https://urlhaus.abuse.ch/url/3947892/
+2026-11-04 16:22:07,"ua-wget"",""https://urlhaus.abuse.ch/url/4056899/"",""ClearlyNotB",url,http://5.175.253.231/bins/morte.arm6,elf,mirai
+2026-11-04 16:21:18,"ua-wget"",""https://urlhaus.abuse.ch/url/4056895/"",""ClearlyNotB",url,http://5.175.253.231/bins/morte.arm7,elf,mirai
+2026-11-04 16:21:18,"ua-wget"",""https://urlhaus.abuse.ch/url/4056896/"",""ClearlyNotB",url,http://5.175.253.231/bins/morte.sh4,elf,mirai
+2026-11-04 16:22:07,"ua-wget"",""https://urlhaus.abuse.ch/url/4056897/"",""ClearlyNotB",url,http://5.175.253.231/bins/morte.spc,elf,mirai
+2026-11-04 16:22:07,"ua-wget"",""https://urlhaus.abuse.ch/url/4056898/"",""ClearlyNotB",url,http://5.175.253.231/bins/morte.x86,elf,mirai
 2026-11-03 13:31:19,"ua-wget"",""https://urlhaus.abuse.ch/url/4055921/"",""ClearlyNotB",url,http://5.178.101.94/bins/parm,elf,mirai
 2026-11-03 13:31:19,"ua-wget"",""https://urlhaus.abuse.ch/url/4055924/"",""ClearlyNotB",url,http://5.178.101.94/bins/parm5,elf,mirai
 2026-11-03 13:31:19,"ua-wget"",""https://urlhaus.abuse.ch/url/4055916/"",""ClearlyNotB",url,http://5.178.101.94/bins/parm6,elf,mirai
@@ -11869,7 +11969,7 @@
 2026-11-03 13:31:10,"ua-wget"",""https://urlhaus.abuse.ch/url/4055908/"",""ClearlyNotB",url,http://5.178.101.94/bins/psh4,elf,mirai
 2026-11-03 13:31:19,"ua-wget"",""https://urlhaus.abuse.ch/url/4055918/"",""ClearlyNotB",url,http://5.178.101.94/bins/pspc,elf,mirai
 2026-11-03 13:31:19,"ua-wget"",""https://urlhaus.abuse.ch/url/4055925/"",""ClearlyNotB",url,http://5.178.101.94/bins/px86,elf,mirai
-2026-11-03 13:31:10,"https://urlhaus.abuse.ch/url/4055909/"",""ClearlyNotB",url,http://5.178.101.94/bins/x86_64,elf,ua-wget
+2026-11-03 13:31:10,"ua-wget"",""https://urlhaus.abuse.ch/url/4055909/"",""ClearlyNotB",url,http://5.178.101.94/bins/x86_64,elf,mirai
 2026-10-27 11:02:09,"exe,ua-wget"",""https://urlhaus.abuse.ch/url/4035884/"",""BlinkzSec",url,http://5.181.3.205/Bin/ScreenConnect.ClientSetup.exe,5-181-3-205,connectwise
 2026-10-27 11:02:07,"exe,ua-wget"",""https://urlhaus.abuse.ch/url/4035883/"",""BlinkzSec",url,http://5.181.3.205/bin/support.client.exe,5-181-3-205,connectwise
 2026-11-04 03:48:11,"ua-wget"",""https://urlhaus.abuse.ch/url/4056509/"",""BlinkzSec",url,http://5.230.154.106:8080/bot.sh,5-230-154-106-8080,sh
@@ -11908,6 +12008,7 @@
 2026-10-20 04:59:06,"honeypot"",""https://urlhaus.abuse.ch/url/3952542/"",""Jerry1113",url,http://5.255.108.43/binscd/sora.x86,automated,cowrie
 2026-10-07 09:47:15,adliwahid,url,http://5.26.131.236:50166/i,None,https://urlhaus.abuse.ch/url/3944191/
 2026-10-18 22:02:13,adliwahid,url,http://5.29.200.0:36167/i,mirai,https://urlhaus.abuse.ch/url/3952024/
+2026-11-04 19:59:05,"mirai"",""https://urlhaus.abuse.ch/url/4057035/"",""YaRi78",url,http://5.39.10.241/aesky/bot-mips,cowrie,honeypot
 2026-11-02 06:25:08,abuse_ch,url,http://5.39.10.241/bins/Cronarm,ua-wget,https://urlhaus.abuse.ch/url/4050219/
 2026-11-02 06:25:08,abuse_ch,url,http://5.39.10.241/bins/Cronarm5,ua-wget,https://urlhaus.abuse.ch/url/4050220/
 2026-11-02 06:25:08,abuse_ch,url,http://5.39.10.241/bins/Cronarm6,ua-wget,https://urlhaus.abuse.ch/url/4050224/
@@ -12135,6 +12236,7 @@
 2026-10-22 16:00:14,adliwahid,url,http://59.96.140.242:44498/i,Mozi,https://urlhaus.abuse.ch/url/3955717/
 2026-10-15 17:32:08,adliwahid,url,http://59.96.140.65:40755/bin.sh,None,https://urlhaus.abuse.ch/url/3950549/
 2026-10-15 17:32:08,adliwahid,url,http://59.96.140.65:40755/i,None,https://urlhaus.abuse.ch/url/3950548/
+2026-11-04 21:32:07,adliwahid,url,http://59.96.141.107:49679/i,Mozi,https://urlhaus.abuse.ch/url/4057135/
 2026-10-10 22:47:07,adliwahid,url,http://59.96.141.125:52208/i,Mozi,https://urlhaus.abuse.ch/url/3947725/
 2026-10-13 08:02:08,adliwahid,url,http://59.96.141.163:49804/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3949414/
 2026-10-13 08:02:07,adliwahid,url,http://59.96.141.163:49804/i,Mozi,https://urlhaus.abuse.ch/url/3949413/
@@ -12253,6 +12355,7 @@
 2026-10-29 09:23:15,adliwahid,url,http://59.97.253.97:56110/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4042486/
 2026-10-29 09:36:10,adliwahid,url,http://59.97.253.97:56110/i,Mozi,https://urlhaus.abuse.ch/url/4042517/
 2026-11-01 09:46:13,adliwahid,url,http://59.97.254.139:38690/i,Mozi,https://urlhaus.abuse.ch/url/4049695/
+2026-11-04 20:02:07,adliwahid,url,http://59.97.254.197:57401/i,Mozi,https://urlhaus.abuse.ch/url/4057054/
 2026-10-24 22:02:07,adliwahid,url,http://59.97.254.228:50953/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3990480/
 2026-10-15 17:32:07,adliwahid,url,http://59.97.254.36:33859/i,Mozi,https://urlhaus.abuse.ch/url/3950547/
 2026-10-27 06:15:11,"mips,Mozi"",""https://urlhaus.abuse.ch/url/4035572/"",""geenensp",url,http://59.97.254.41:57947/bin.sh,32-bit,elf
@@ -12346,6 +12449,7 @@
 2026-10-21 21:32:21,adliwahid,url,http://60.19.219.86:37411/bin.sh,None,https://urlhaus.abuse.ch/url/3955280/
 2026-10-24 20:02:08,adliwahid,url,http://60.19.220.91:35940/i,None,https://urlhaus.abuse.ch/url/3990447/
 2026-10-06 07:34:23,adliwahid,url,http://60.19.221.130:38127/i,None,https://urlhaus.abuse.ch/url/3938629/
+2026-11-04 19:32:07,adliwahid,url,http://60.19.221.166:49119/i,None,https://urlhaus.abuse.ch/url/4057019/
 2026-10-11 02:15:17,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3947769/"",""geenensp",url,http://60.19.222.107:49101/i,32-bit,elf
 2026-10-10 18:17:08,adliwahid,url,http://60.19.228.107:57263/i,None,https://urlhaus.abuse.ch/url/3947669/
 2026-10-10 06:15:18,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3947391/"",""geenensp",url,http://60.19.240.170:45399/i,32-bit,elf
@@ -12544,6 +12648,7 @@
 2026-10-30 14:32:07,adliwahid,url,http://61.52.157.184:33099/i,Mozi,https://urlhaus.abuse.ch/url/4047602/
 2026-10-29 18:17:08,adliwahid,url,http://61.52.157.34:33099/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4044931/
 2026-10-29 13:23:24,adliwahid,url,http://61.52.157.34:33099/i,Mozi,https://urlhaus.abuse.ch/url/4044569/
+2026-11-04 20:32:06,adliwahid,url,http://61.52.158.13:54105/i,Mozi,https://urlhaus.abuse.ch/url/4057079/
 2026-10-06 01:01:13,adliwahid,url,http://61.52.158.31:46875/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3929557/
 2026-10-05 19:02:15,adliwahid,url,http://61.52.158.31:46875/i,Mozi,https://urlhaus.abuse.ch/url/3929439/
 2026-10-24 19:32:05,adliwahid,url,http://61.52.159.144:45720/bin.sh,Mozi,https://urlhaus.abuse.ch/url/3990441/
@@ -12585,6 +12690,7 @@
 2026-11-01 05:02:06,adliwahid,url,http://61.52.26.116:37129/i,mirai,https://urlhaus.abuse.ch/url/4049301/
 2026-10-08 02:17:08,adliwahid,url,http://61.52.32.163:59261/i,Mozi,https://urlhaus.abuse.ch/url/3944609/
 2026-11-04 13:17:10,adliwahid,url,http://61.52.33.127:44266/bin.sh,Mozi,https://urlhaus.abuse.ch/url/4056828/
+2026-11-04 13:47:05,adliwahid,url,http://61.52.33.127:44266/i,Mozi,https://urlhaus.abuse.ch/url/4056832/
 2026-10-09 14:32:07,adliwahid,url,http://61.52.35.140:40669/i,None,https://urlhaus.abuse.ch/url/3946993/
 2026-11-02 15:24:20,wristhulk,url,http://61.52.38.169:58801/bin.sh,elf,https://urlhaus.abuse.ch/url/4050676/
 2026-10-10 10:08:15,"mips,Mozi"",""https://urlhaus.abuse.ch/url/3947453/"",""geenensp",url,http://61.52.4.108:55939/bin.sh,32-bit,elf
@@ -13096,6 +13202,12 @@
 2026-10-05 06:22:29,von,url,http://80.225.83.93/wife.x86,mirai,https://urlhaus.abuse.ch/url/3928919/
 2026-10-06 16:02:17,adliwahid,url,http://80.67.33.209:34216/i,mirai,https://urlhaus.abuse.ch/url/3943830/
 2026-10-16 06:12:06,adliwahid,url,http://80.78.27.100:8889/opx9,None,https://urlhaus.abuse.ch/url/3950772/
+2026-11-04 14:45:05,johantd04,url,http://80.87.206.86/A,sh elf miner plex,https://urlhaus.abuse.ch/url/4056854/
+2026-11-04 14:45:05,johantd04,url,http://80.87.206.86/A-plex,sh elf miner plex,https://urlhaus.abuse.ch/url/4056856/
+2026-11-04 14:45:05,johantd04,url,http://80.87.206.86:18081/A,sh elf miner plex,https://urlhaus.abuse.ch/url/4056855/
+2026-11-04 14:45:05,johantd04,url,http://80.87.206.91/A-plex,sh elf miner plex,https://urlhaus.abuse.ch/url/4056852/
+2026-11-04 14:45:05,johantd04,url,http://80.87.206.91/_land/p,sh elf miner plex,https://urlhaus.abuse.ch/url/4056851/
+2026-11-04 14:45:05,johantd04,url,http://80.87.206.95/A-plex,sh elf miner plex,https://urlhaus.abuse.ch/url/4056853/
 2026-10-27 08:47:11,"ua-wget"",""https://urlhaus.abuse.ch/url/4035711/"",""BlinkzSec",url,http://80.94.92.27/t,80-94-92-27,elf
 2026-11-04 04:39:18,"elf,ua-wget"",""https://urlhaus.abuse.ch/url/4056548/"",""BlinkzSec",url,http://80.96.59.25/xmrig_bin,80-96-59-25,CoinMiner
 2026-10-25 06:44:38,"https://urlhaus.abuse.ch/url/3993851/"",""tp0x",url,http://81.168.62.176/akbarniga.aarch64,honeypot,mirai
@@ -14177,6 +14289,7 @@
 2026-10-05 09:09:18,"https://urlhaus.abuse.ch/url/3929074/"",""abuse_ch",url,http://wp.fujeigroup.com:8888/file/img_221841.png,opendir,stego
 2026-11-02 13:38:06,abuse_ch,url,http://www.cargo-passion.com/jpenergy/vin_/vcmura/Planmssiges.sea,GuLoader,https://urlhaus.abuse.ch/url/4050650/
 2026-11-02 13:39:06,abuse_ch,url,http://www.cargo-passion.com/jpenergy/vin_/vcmura/jIZharPAIpmv40.bin,GuLoader,https://urlhaus.abuse.ch/url/4050651/
+2026-11-04 18:22:13,"PowerShel,ps1"",""https://urlhaus.abuse.ch/url/4056933/"",""abuse_ch",url,http://www.payap.ir/wp-includes/Text/jugrhbm/towenqh/zwjsbqf/ojkmk.ps1,ascii,Formbook
 2026-10-30 19:05:30,"win,x86-64"",""https://urlhaus.abuse.ch/url/4047749/"",""0xJustme",url,http://www.sdghdfghsdret32q4t23agfsd.xyz/x/vc.exe,ClickFix,MopsStealer
 2026-10-13 08:54:06,"runelure,stealer"",""https://urlhaus.abuse.ch/url/3949422/"",""ratcatchers",url,http://www.tribot.co.uk/Tribot.jar,CoinMiner,runelite
 2026-10-21 15:43:24,"mirai,modat,ua-wget"",""https://urlhaus.abuse.ch/url/3955012/"",""NDA0E",url,http://yaniatbisb.duckdns.org/main_arm,botnetdomain,elf
@@ -14276,6 +14389,7 @@
 2026-11-02 12:59:04,DFISERVICESLTD,url,https://37.16.75.214/weijd9weijdwe/exxxx.cmd,malware,https://urlhaus.abuse.ch/url/4050645/
 2026-10-10 15:31:07,anonymous,url,https://38.180.162.39/app/apk,apk ,https://urlhaus.abuse.ch/url/3947633/
 2026-11-01 11:10:11,"powershell,ps1"",""https://urlhaus.abuse.ch/url/4049727/"",""abuse_ch",url,https://3D4EBF0-54a1-4844-bD7a-709370159964.selectivewilled.cc/install.ps1,ACRStealer,ascii
+2026-11-04 20:06:09,"https://urlhaus.abuse.ch/url/4057057/"",""ghozt",url,https://434f06c-geik4j16cf-d1fa-73d9f.acutelyunfailing.cc/install.ps1,ClickFix,powershell
 2026-10-27 09:28:06,"exe,ua-wget"",""https://urlhaus.abuse.ch/url/4035766/"",""BlinkzSec",url,https://45.156.87.128/Bin/ScreenConnect.ClientSetup.exe,45-156-87-128,connectwise
 2026-10-27 09:28:06,"exe,ua-wget"",""https://urlhaus.abuse.ch/url/4035765/"",""BlinkzSec",url,https://45.156.87.128/bin/support.client.exe,45-156-87-128,connectwise
 2026-10-21 17:41:16,"exe,ua-wget"",""https://urlhaus.abuse.ch/url/3955061/"",""BlinkzSec",url,https://45.61.178.140/Bin/ScreenConnect.ClientSetup.exe,45-61-178-140,connectwise
@@ -14320,6 +14434,7 @@
 2026-10-10 13:05:08,"powershell,ps1,rmm,screenconnect"",""https://urlhaus.abuse.ch/url/3947587/"",""abuse_ch",url,https://accessdocu.b-cdn.net/Installer.ps1,ascii,connectwise
 2026-10-12 18:48:06,abuse_ch,url,https://activegrp.co.za/img_140114.png,stego,https://urlhaus.abuse.ch/url/3949162/
 2026-10-12 08:18:09,"stego"",""https://urlhaus.abuse.ch/url/3948970/"",""abuse_ch",url,https://activegrp.co.za/img_160619.png,rat,RemcosRAT
+2026-11-04 20:03:07,"https://urlhaus.abuse.ch/url/4057056/"",""ghozt",url,https://acutelyunfailing.cc/install.ps1,ClickFix,powershell
 2026-11-04 09:41:07,"https://urlhaus.abuse.ch/url/4056715/"",""abuse_ch",url,https://adcentral.com.mx/administrator/litimg_060141.png,AgentTesla,stego
 2026-10-22 04:00:10,abuse_ch,url,https://adcentral.com.mx/administrator/new1MSI_PRO.png,stego,https://urlhaus.abuse.ch/url/3955423/
 2026-10-21 12:26:09,"https://urlhaus.abuse.ch/url/3953480/"",""abuse_ch",url,https://adcentral.com.mx/administrator/nnnewmeimg_092644.png,AgentTesla,stego
@@ -14363,6 +14478,7 @@
 2026-10-18 06:14:40,"DPRK,fake-recruitment"",""https://urlhaus.abuse.ch/url/3951661/"",""shmulc",url,https://api.recapcha.fun/auth/v1?token=304,ClickFix,ContagiousInterview
 2026-10-18 06:14:40,"DPRK,fake-recruitment"",""https://urlhaus.abuse.ch/url/3951660/"",""shmulc",url,https://api.recapcha.fun/auth/v2?token=304,ClickFix,ContagiousInterview
 2026-10-18 06:14:54,"DPRK,fake-recruitment"",""https://urlhaus.abuse.ch/url/3951693/"",""shmulc",url,https://api.recapcha.fun/auth/v3?token=304,ClickFix,ContagiousInterview
+2026-11-04 19:59:11,"https://urlhaus.abuse.ch/url/4057040/"",""0xJustme",url,https://api.stellarcedar.live/cdn/i0pwxbdz.js,ClickFix,ps1
 2026-10-20 04:59:10,"nodeJS,rat"",""https://urlhaus.abuse.ch/url/3952549/"",""Darkfibr",url,https://api.xyz-code.biz/static/main.js,EtherHiding,freight-lure
 2026-10-20 04:59:10,"nodeJS,rat"",""https://urlhaus.abuse.ch/url/3952551/"",""Darkfibr",url,https://app.app-river.icu/static/main.js,EtherHiding,freight-lure
 2026-10-27 05:49:36,"https://urlhaus.abuse.ch/url/4035511/"",""Ling",url,https://app.appdowsdy.xyz/p21/BraveBrowser.zip,SilverFox,ValleyRAT
@@ -14459,6 +14575,7 @@
 2026-10-25 08:10:06,"powershell,ps1"",""https://urlhaus.abuse.ch/url/4000499/"",""anonymous",url,https://cdm.wovplaying.help/update.ps1,dropper,DvnX
 2026-10-25 07:04:32,"trojanized-installer,zip"",""https://urlhaus.abuse.ch/url/3995380/"",""anonymous",url,https://cdm.wovplaying.help/update.zip,DvnX,stealer
 2026-10-28 06:22:50,anonymous,url,https://cdn.discordapp.com/attachments/1040281104642490378/1564782818712883382/8b4572b4bc?ex=6ae28510&is=6ae13390&hm=7419fd07e6cac78efea43f7fdc46d18458a579863da1a358e85e2d9cd17b5e7b&,IRAHook,https://urlhaus.abuse.ch/url/4039696/
+2026-11-04 19:58:13,anonymous,url,https://cdn.discordapp.com/attachments/1042795045234933811/1567617661175599234/438ae28f6b?ex=6aecd537&is=6aeb83b7&hm=56a908a61daee512e4b879fa2d53b663ccb46aa23b88c225b0b87d365336d090&,IRAHook,https://urlhaus.abuse.ch/url/4057034/
 2026-10-16 19:21:43,anonymous,url,https://cdn.discordapp.com/attachments/1070571231054659585/1560705494052765768/bundle.zip?ex=6ad3afc2&is=6ad25e42&hm=870a8aaeafde7e3b433332945598920ba72e50370fde43fedad8bd7f88782f0d&,IRAHook,https://urlhaus.abuse.ch/url/3951010/
 2026-10-06 07:12:08,anonymous,url,https://cdn.discordapp.com/attachments/1080682380655869963/1556755362571489460/bundle.zip?ex=6ac550e9&is=6ac3ff69&hm=945b64a134b992cde4f197ffab7b726fd91e5c380a5c925853b6ebe7e9d143fa&,IRAHook,https://urlhaus.abuse.ch/url/3937712/
 2026-10-26 06:55:26,anonymous,url,https://cdn.discordapp.com/attachments/1151977125956571196/1563987114297655398/dece325b93?ex=6adfa001&is=6ade4e81&hm=348f42258ffa562c8f0dd4ab816db9dab5b4a98de9c3d0d7625c30d11cb1528d&,IRAHook,https://urlhaus.abuse.ch/url/4017834/
@@ -14679,8 +14796,12 @@
 2026-11-03 17:43:15,anonymous,url,https://cdn.discordapp.com/attachments/1565805071629811865/1567224590189461574/4a71410a02?ex=6aeb6723&is=6aea15a3&hm=d24c3e99f93fc8df0f90df68e22d6c54d0950ae7839067ee4e9b23c4e33fdab3&,IRAHook,https://urlhaus.abuse.ch/url/4056214/
 2026-11-01 06:41:21,anonymous,url,https://cdn.discordapp.com/attachments/1565850766521008189/1566239307738644562/71aa55eedd?ex=6ae7d186&is=6ae68006&hm=eea22eb33f0c6a9efcd43781c7c65bea9b5730d07d13123b9ffec31626eca48d&,IRAHook,https://urlhaus.abuse.ch/url/4049337/
 2026-10-31 10:52:15,anonymous,url,https://cdn.discordapp.com/attachments/1566040003727986790/1566040294611492985/32ced94aba?ex=6ae7182d&is=6ae5c6ad&hm=79252acca258cbb59eb098a175a26ece7b7af97d3c5c79a206f351df2439fa3e&,IRAHook,https://urlhaus.abuse.ch/url/4048240/
+2026-11-04 18:20:09,wok,url,https://cdn.discordapp.com/attachments/1566718448174637118/1567504214526009385/Anubis_beta_0.9.9.3_.jar?ex=6aec6b8f&is=6aeb1a0f&hm=1035994627ba958563945513b50cadee43ab80dfae8bf587b3db1c3caa4cc2a1&,SilentNet,https://urlhaus.abuse.ch/url/4056932/
+2026-11-04 18:20:08,wok,url,https://cdn.discordapp.com/attachments/1566718479778848901/1567507856633364490/KryptonPlus-1.21.11.jar?ex=6aec6ef3&is=6aeb1d73&hm=ac7419330fab2dad5fe63a7289d29e2399ab01dd942350c192dea717326af624&,SilentNet,https://urlhaus.abuse.ch/url/4056931/
 2026-11-03 05:44:44,anonymous,url,https://cdn.discordapp.com/attachments/1566966094147756102/1566967443388239893/39f2be86dc?ex=6aea77a7&is=6ae92627&hm=3b0e3972b24d777af0fc094539211fe4f6fc9ec06839bb78e5f2ca038010645d&,IRAHook,https://urlhaus.abuse.ch/url/4054327/
 2026-11-04 09:17:49,anonymous,url,https://cdn.discordapp.com/attachments/1566966094147756102/1566967443388239893/39f2be86dc?ex=6aebc927&is=6aea77a7&hm=a76c1821563a70857a49c1773e23a8ff132e6538ff1b3ec0031fd94ab591a88d&,IRAHook,https://urlhaus.abuse.ch/url/4056698/
+2026-11-04 15:09:15,anonymous,url,https://cdn.discordapp.com/attachments/1567544973237288970/1567550164959240202/d6e0c93a63?ex=6aec965b&is=6aeb44db&hm=3764eb59eeb1b29b95ed8442e9fee7f0a2bed3600523bb9dbb5ebb534f2bb6bd&,IRAHook,https://urlhaus.abuse.ch/url/4056871/
+2026-11-04 16:50:59,anonymous,url,https://cdn.discordapp.com/attachments/1567565522655248524/1567569692837552250/d717ab737d?ex=6aeca88a&is=6aeb570a&hm=52b09a36a0ef4b4c6ce03d188c772ccf6366f723f0e9f17830e7b4dd6db9d1fa&,IRAHook,https://urlhaus.abuse.ch/url/4056908/
 2026-10-08 05:54:12,anonymous,url,https://cdn.discordapp.com/attachments/421625572146544650/1557483240623710298/bundle.zip?backend=b2&ex=6ac7f6cd&is=6ac6a54d&hm=70027c5d396acff855a795907353c704ac0f7984562f173941ce2c381098eb57&,IRAHook,https://urlhaus.abuse.ch/url/3946005/
 2026-10-08 05:54:14,anonymous,url,https://cdn.discordapp.com/attachments/421625572146544650/1557485873053040820/bundle.zip?backend=b2&ex=6ac7f940&is=6ac6a7c0&hm=21e27832c6b4e6ca2b2ea4e2fd13d863307d2fbc370e0ddaf0aa734c2d0a7b22&,IRAHook,https://urlhaus.abuse.ch/url/3946006/
 2026-10-09 13:06:04,anonymous,url,https://cdn.discordapp.com/attachments/447108878963048458/1556697211415568496/bundle.zip?ex=6ac51ac1&is=6ac3c941&hm=d582c4a45d48757252452c2d9050d0cf82209b833f1915a3d912056a63588578&,IRAHook,https://urlhaus.abuse.ch/url/3946918/
@@ -14781,6 +14902,7 @@
 2026-10-30 19:09:08,AmadeyHunter,url,https://diag.wpoler.help/DiagPackage.exe,LunexLoader,https://urlhaus.abuse.ch/url/4047758/
 2026-10-16 00:11:20,"WailsLoader,XP8C94NJ9JQ6B9"",""https://urlhaus.abuse.ch/url/3950711/"",""ffforward",url,https://dir.sonikjp.org/microsoft_store/download/version/93.11.1/2fa_code_engine.exe,exe,msstore
 2026-11-03 15:01:06,cesnet_certs,url,https://discord.com/api/webhooks/1563619606382518302/I9yg6FZbJokOVGsDFL5JbNDBt1GPg_4r92PrLdrOZ49tvB-BWO2W3QgnlqZv6nsSSUP0,None,https://urlhaus.abuse.ch/url/4055942/
+2026-11-04 15:09:14,"https://urlhaus.abuse.ch/url/4056870/"",""Alex_sev",url,https://discordzapretik.sbs/DiscordZapret.exe,salat,SalatStealer
 2026-10-13 14:15:09,"https://urlhaus.abuse.ch/url/3949579/"",""DaSigma",url,https://disk.360.yandex.ru/d/Wxz_b2YRJYSXJg,miner,xmrig
 2026-10-25 06:24:35,"stealer,zip"",""https://urlhaus.abuse.ch/url/3992283/"",""anonymous",url,https://divinex.to/DvnX.zip,DvnX,FakeCheat
 2026-10-15 18:39:10,anonymous,url,https://dklak.cam/Y7YX0XZ1,None,https://urlhaus.abuse.ch/url/3950569/
@@ -14891,6 +15013,7 @@
 2026-10-30 06:29:53,"rat,stealer"",""https://urlhaus.abuse.ch/url/4046951/"",""wok",url,https://donutsmphackclient.netlify.app/clients/meteor.jar,jar,java
 2026-10-30 06:30:31,"rat,stealer"",""https://urlhaus.abuse.ch/url/4046976/"",""wok",url,https://donutsmphackclient.netlify.app/clients/water.jar,jar,java
 2026-10-15 18:39:10,wok,url,https://donutsmputilitys.netlify.app/downloads/tweaks.jar,SilentNet,https://urlhaus.abuse.ch/url/3950577/
+2026-11-04 19:59:08,"https://urlhaus.abuse.ch/url/4057039/"",""0xJustme",url,https://down.stellarcedar.live/m48yfkwc6.exe,ClickFix,exe
 2026-10-30 06:32:37,"https://urlhaus.abuse.ch/url/4046980/"",""Ling",url,https://download-azhioss.space/download/win-Bundle%20x643014.zip,SilverFox,ValleyRAT
 2026-11-01 06:46:06,"fake-installer,rmm,screenconnect,zip"",""https://urlhaus.abuse.ch/url/4049345/"",""marzy",url,https://download-direct.opik.net/comfy-ui/7ve30r7ay93b9e07emk3u,comfyui,connectwise
 2026-11-01 06:46:09,"fake-installer,rmm,screenconnect,zip"",""https://urlhaus.abuse.ch/url/4049351/"",""marzy",url,https://download-direct.opik.net/comfy-ui/p1ixgyqryvekefesulikn,comfyui,connectwise
@@ -14957,6 +15080,7 @@
 2026-10-23 12:53:11,"GuLoader,rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/3966294/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1CbK10QEDZmBBw6BBOxSFVMcqqH5Ywwuh,ascii,Encoded
 2026-10-26 06:52:26,"rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/4017530/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1DTqvc6tN0SD8JQrlgcKyG1dh9dbThs46,ascii,GuLoader
 2026-10-28 15:03:10,"GuLoader"",""https://urlhaus.abuse.ch/url/4041650/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1DkNUTuYdk2qhYaotcBrPQOMOBWmNwqAF,AgentTesla,encrypted
+2026-11-04 16:16:08,"Encoded,GuLoader"",""https://urlhaus.abuse.ch/url/4056892/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1FA_kmsBNcBj1Ckgj5nxcyYgzsr8HdIkL,AgentTesla,ascii
 2026-10-21 12:10:09,"rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/3953457/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1FejYuTTtPQchu3w0c_DsOrSNOUOMfpbA,encrypted,GuLoader
 2026-10-28 11:26:11,"GuLoader"",""https://urlhaus.abuse.ch/url/4041534/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1GKLqkOvbEpRNVcI4CNDopyqsoDyoMdyS,ascii,Encoded
 2026-10-21 12:25:09,"GuLoader,PhantomStealer"",""https://urlhaus.abuse.ch/url/3953476/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1HV4FlB07O9Xf_pVP33jqZGdgkhq-UF4Y,ascii,Encoded
@@ -14983,8 +15107,10 @@
 2026-10-28 11:06:10,"rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/4041504/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1Pmkec0eGmxv_qeqMqmotnaOCl0v3X3yc,encrypted,GuLoader
 2026-10-28 11:25:13,abuse_ch,url,https://drive.google.com/uc?export=download&id=1TAK87oKjKtBiPmTDMc07GtZvqGQypUK9,GuLoader,https://urlhaus.abuse.ch/url/4041533/
 2026-10-21 12:32:07,"GuLoader,rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/3953495/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1TZHSa06Z3H6CJCyYR2aNKfByIrlxjXS6,ascii,Encoded
+2026-11-04 16:16:08,"Encoded,GuLoader"",""https://urlhaus.abuse.ch/url/4056891/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1V0ch7GnKLCyYsQOtW7dxx-S6w1PiE--Q,AgentTesla,ascii
 2026-10-26 09:36:11,"rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/4029701/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1VTSH6hsGUkWCSHY4D9ZTPfOSCDO6t0rQ,encrypted,GuLoader
 2026-10-26 09:36:10,"rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/4029692/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1W9bDvecePXmwY8yKKl7x-jzknNJVxjY1,encrypted,GuLoader
+2026-11-04 18:27:08,"GuLoader"",""https://urlhaus.abuse.ch/url/4056937/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1WSBcwsBIh1ZCWxwMgLJ2rSxs2hv_u9wi,ascii,Encoded
 2026-10-21 12:32:08,"GuLoader,rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/3953497/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1WdAFO0QdlDtln2A_vvNx_3jNf2HvNOiz,ascii,Encoded
 2026-10-21 12:29:10,"rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/3953488/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1X4CTNnDklTyu9OcvA9lFeIMnJKBsMnZB,encrypted,GuLoader
 2026-10-28 13:16:08,"rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/4041578/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1XTD2oZWjp1B2FGVc2wTxosy8aMsWtJFE,encrypted,GuLoader
@@ -15030,6 +15156,7 @@
 2026-10-26 07:20:25,"rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/4020409/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1x8q6Ine-x6a48MqG3FpVyFj4KQ-9duUz,ascii,GuLoader
 2026-10-23 12:52:07,"GuLoader,rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/3966282/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1xFKhTMXSrve51geTjlc7NO94oVef0k-j,ascii,Encoded
 2026-10-30 07:38:11,"GuLoader"",""https://urlhaus.abuse.ch/url/4047024/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1yplG48u_RXmIvdbKtyTigEshEcsxQNyM,ascii,Encoded
+2026-11-04 18:28:06,"GuLoader"",""https://urlhaus.abuse.ch/url/4056939/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1zOjx0R70tDR-I5y_Z6uaek1RHXVKjmLJ,ascii,Encoded
 2026-10-16 07:03:12,"GuLoader,rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/3950855/"",""abuse_ch",url,https://drive.google.com/uc?export=download&id=1zejSPyWGejAr5gTQViaOKk7CxyIA7XWY,ascii,Encoded
 2026-10-11 18:28:15,"stealer"",""https://urlhaus.abuse.ch/url/3948112/"",""anonymous",url,https://drive.usercontent.google.com/download?id=1tZApf8r52iWTbCFbncYiQTgUiKVtT9_L&export=download&authuser=0&confirm=t&uuid=1e1dd160-6170-4291-9946-3c17d14a17d7&at=AMrWOn1GOle5aEA706WPJcoNRPak%3A1791741732974,malware,pw- 123123
 2026-10-06 15:22:20,wok,url,https://drive.usercontent.google.com/download?id=1zntk1iIhB4Tc_TngGAMWtYs_ObEBz9Xv&export=download,SilentNet,https://urlhaus.abuse.ch/url/3943785/
@@ -15460,6 +15587,11 @@
 2026-10-22 07:32:13,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/3955531/"",""GutiAILabs",url,https://github.com/Adikum19/password-generator/raw/refs/heads/main/schistosomiasis/password_generator_1.6.zip,FakeGit,github
 2026-10-26 07:17:00,"zip"",""https://urlhaus.abuse.ch/url/4020054/"",""wristhulk",url,https://github.com/Aditya923-c/xpoz-agent-skills/raw/refs/heads/main/skills/reddit-research/skills-agent-xpoz-3.0.zip,github,SmartLoader
 2026-10-31 07:37:26,"zip"",""https://urlhaus.abuse.ch/url/4048091/"",""fairwinds",url,https://github.com/AdityaPutraS/Tubes-Algeo-2/releases/download/3.0.5/Tubes-Algeo-2.v3.0.5.zip,github,SmartLoader
+2026-11-04 20:50:06,"zip"",""https://urlhaus.abuse.ch/url/4057104/"",""wristhulk",url,https://github.com/AdministratorTag/HApP/releases/download/1.11.9/happ.zip,github,zapret
+2026-11-04 20:49:27,"zip"",""https://urlhaus.abuse.ch/url/4057094/"",""wristhulk",url,https://github.com/AdministratorTag/HApP_WInDOwS/releases/download/1.10.1/happ.zip,github,zapret
+2026-11-04 20:49:51,"zip"",""https://urlhaus.abuse.ch/url/4057097/"",""wristhulk",url,https://github.com/AdministratorTag/HapP-PRoxy/releases/download/1.11.9/happ.zip,github,zapret
+2026-11-04 20:49:23,"zip"",""https://urlhaus.abuse.ch/url/4057084/"",""wristhulk",url,https://github.com/AdministratorTag/Happ_vPN/releases/download/1.12.3/happ.zip,github,zapret
+2026-11-04 20:50:03,"zip"",""https://urlhaus.abuse.ch/url/4057099/"",""wristhulk",url,https://github.com/AdministratorTag/hApP-plUs/releases/download/1.12.5/happ.zip,github,zapret
 2026-10-25 08:47:44,"https://urlhaus.abuse.ch/url/4003258/"",""wristhulk",url,https://github.com/AdmiralGenerator/Obhod-discord/releases/download/Obhod-discord/zapret.1.9.9d.rar,github,zapret
 2026-10-25 08:21:08,"https://urlhaus.abuse.ch/url/4001352/"",""wristhulk",url,https://github.com/AdmiralGenerator/Obhod-discord/releases/download/Obhod-discord/zapret.1.9.9d.zip,github,zapret
 2026-10-25 07:21:45,"https://urlhaus.abuse.ch/url/3996720/"",""wristhulk",url,https://github.com/AdmiralGenerator/RobloxFix/releases/download/RobloxFix/zapret.1.9.9d.rar,github,zapret
@@ -16609,6 +16741,11 @@
 2026-10-25 06:44:18,"zapret,zip"",""https://urlhaus.abuse.ch/url/3993825/"",""wristhulk",url,https://github.com/ArmorerUnderpass28/zapret-telegram/releases/download/DiscordFix/zapret-discord-youtube-DiscordFix.zip,github,SalatStealer
 2026-10-25 07:18:05,"zapret,zip"",""https://urlhaus.abuse.ch/url/3996451/"",""wristhulk",url,https://github.com/ArmorerUnderpass28/zapret-youtube/releases/download/DiscordFix/zapret-discord-youtube-DiscordFix.rar,github,SalatStealer
 2026-10-25 06:41:36,"zapret,zip"",""https://urlhaus.abuse.ch/url/3993601/"",""wristhulk",url,https://github.com/ArmorerUnderpass28/zapret-youtube/releases/download/DiscordFix/zapret-discord-youtube-DiscordFix.zip,github,SalatStealer
+2026-11-04 20:50:02,"zip"",""https://urlhaus.abuse.ch/url/4057098/"",""wristhulk",url,https://github.com/Armorinconcentrate/HAPP-winDOWS/releases/download/1.10.1/happ.zip,github,zapret
+2026-11-04 20:49:26,"zip"",""https://urlhaus.abuse.ch/url/4057091/"",""wristhulk",url,https://github.com/Armorinconcentrate/HApP-pLus/releases/download/1.12.6/happ.zip,github,zapret
+2026-11-04 20:49:25,"zip"",""https://urlhaus.abuse.ch/url/4057089/"",""wristhulk",url,https://github.com/Armorinconcentrate/HaPp-proXy/releases/download/1.12.0/happ.zip,github,zapret
+2026-11-04 21:05:17,"zip"",""https://urlhaus.abuse.ch/url/4057126/"",""wristhulk",url,https://github.com/Armorinconcentrate/hApP/releases/download/1.12.2/happ.zip,github,zapret
+2026-11-04 20:50:32,"zip"",""https://urlhaus.abuse.ch/url/4057114/"",""wristhulk",url,https://github.com/Armorinconcentrate/hApp_vPn/releases/download/1.12.4/happ.zip,github,zapret
 2026-10-25 08:14:49,"https://urlhaus.abuse.ch/url/4000873/"",""wristhulk",url,https://github.com/ArmsNoviceZen/Obhod-youtube-telegram-discord/releases/download/Obhod-youtube-telegram-discord/zapret.1.9.9d.zip,github,zapret
 2026-10-25 06:11:04,"https://urlhaus.abuse.ch/url/3991209/"",""wristhulk",url,https://github.com/ArmsNoviceZen/TelegramZapret/releases/download/TelegramZapret/zapret.1.9.9d.zip,github,zapret
 2026-10-25 08:36:44,"https://urlhaus.abuse.ch/url/4002590/"",""wristhulk",url,https://github.com/ArmsNoviceZen/YoutubeZapret/releases/download/YoutubeZapret/zapret.1.9.9d.zip,github,zapret
@@ -17258,6 +17395,11 @@
 2026-10-25 07:11:06,"zapret,zip"",""https://urlhaus.abuse.ch/url/3995877/"",""wristhulk",url,https://github.com/AwarenessHelpEnd/zapret-discord-youtube/releases/download/DiscordZapret/zapret-discord-youtube-1.9.9d.zip,github,SalatStealer
 2026-10-25 12:03:18,"https://urlhaus.abuse.ch/url/4008608/"",""wristhulk",url,https://github.com/AwarenessHelpEnd/zapretdiscord/releases/download/FixDiscord/zapret-discord-youtube-1.9.9d.rar,github,zapret
 2026-10-25 08:26:21,"zapret,zip"",""https://urlhaus.abuse.ch/url/4001749/"",""wristhulk",url,https://github.com/AwarenessHelpEnd/zapretdiscord/releases/download/FixDiscord/zapret-discord-youtube-1.9.9d.zip,github,SalatStealer
+2026-11-04 20:49:24,"zip"",""https://urlhaus.abuse.ch/url/4057088/"",""wristhulk",url,https://github.com/Awarenessforfight/HAPP-WINdOWs/releases/download/1.10.1/happ.zip,github,zapret
+2026-11-04 20:50:07,"zip"",""https://urlhaus.abuse.ch/url/4057109/"",""wristhulk",url,https://github.com/Awarenessforfight/HApP/releases/download/1.11.9/happ.zip,github,zapret
+2026-11-04 20:49:20,"zip"",""https://urlhaus.abuse.ch/url/4057080/"",""wristhulk",url,https://github.com/Awarenessforfight/HApP_prOxY/releases/download/1.12.1/happ.zip,github,zapret
+2026-11-04 20:50:32,"zip"",""https://urlhaus.abuse.ch/url/4057115/"",""wristhulk",url,https://github.com/Awarenessforfight/Happ_pLuS/releases/download/1.12.6/happ.zip,github,zapret
+2026-11-04 20:50:07,"zip"",""https://urlhaus.abuse.ch/url/4057110/"",""wristhulk",url,https://github.com/Awarenessforfight/hAPP_vpn/releases/download/1.12.1/happ.zip,github,zapret
 2026-10-26 08:34:45,"zip"",""https://urlhaus.abuse.ch/url/4028104/"",""wristhulk",url,https://github.com/Awkward-graver397/QuillMesh/raw/refs/heads/main/tyromatous/Mesh_Quill_1.5.zip,github,SmartLoader
 2026-10-06 08:47:58,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/3940858/"",""shmulc",url,https://github.com/Axelendometrial4386/russian-text-quality/raw/refs/heads/main/references/text-quality-russian-v2.6-beta.1.zip,github,LuaJIT-loader
 2026-10-26 07:29:44,"https://urlhaus.abuse.ch/url/4021407/"",""wristhulk",url,https://github.com/AxisAttorney/Discord-Connection-Fix/releases/download/1.10.3/zapret-discord-youtube.zip,github,zapret
@@ -17990,6 +18132,9 @@
 2026-10-23 05:23:18,"zapret,zip"",""https://urlhaus.abuse.ch/url/3958599/"",""wristhulk",url,https://github.com/BattalionVoice/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip,github,SalatStealer
 2026-10-20 05:53:17,"SalatStealer,zapret"",""https://urlhaus.abuse.ch/url/3952648/"",""wristhulk",url,https://github.com/BattalionVoice/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar,github,rar
 2026-10-20 05:55:58,"zapret,zip"",""https://urlhaus.abuse.ch/url/3952863/"",""wristhulk",url,https://github.com/BattalionVoice/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip,github,SalatStealer
+2026-11-04 21:05:17,"zip"",""https://urlhaus.abuse.ch/url/4057128/"",""wristhulk",url,https://github.com/Battalionclumoon/V2RaYtUn-HAPp/releases/download/1.10.9/v2raytun.zip,github,zapret
+2026-11-04 20:49:23,"zip"",""https://urlhaus.abuse.ch/url/4057085/"",""wristhulk",url,https://github.com/Battalionclumoon/v2RaYtUN_wINDowS/releases/download/1.9.2/v2raytun.zip,github,zapret
+2026-11-04 20:49:24,"zip"",""https://urlhaus.abuse.ch/url/4057087/"",""wristhulk",url,https://github.com/Battalionclumoon/v2raYTun-vPN/releases/download/1.10.8/v2raytun.zip,github,zapret
 2026-10-24 06:54:58,"zapret,zip"",""https://urlhaus.abuse.ch/url/3978212/"",""wristhulk",url,https://github.com/Battalionshegravity/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar,github,SalatStealer
 2026-10-24 06:45:58,"zapret,zip"",""https://urlhaus.abuse.ch/url/3976915/"",""wristhulk",url,https://github.com/Battalionshegravity/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip,github,SalatStealer
 2026-10-24 06:34:43,"zapret,zip"",""https://urlhaus.abuse.ch/url/3975039/"",""wristhulk",url,https://github.com/Battalionshegravity/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar,github,SalatStealer
@@ -21016,6 +21161,10 @@
 2026-10-26 06:50:52,"zapret"",""https://urlhaus.abuse.ch/url/4017353/"",""wristhulk",url,https://github.com/ChameleonTriumph/zapret-telegram/releases/download/Zapret-Telegram/TgWsProxy_windows_7_32bit.exe,github,SalatStealer
 2026-10-26 08:07:21,"zapret"",""https://urlhaus.abuse.ch/url/4025233/"",""wristhulk",url,https://github.com/ChameleonTriumph/zapret-telegram/releases/download/Zapret-Telegram/TgWsProxy_windows_7_64bit.exe,github,SalatStealer
 2026-10-26 06:34:49,"zapret"",""https://urlhaus.abuse.ch/url/4015673/"",""wristhulk",url,https://github.com/ChameleonTriumph/zapret-telegram/releases/download/Zapret-Telegram/TgWsProxy_windows_arm64.exe,github,SalatStealer
+2026-11-04 20:06:10,"zip"",""https://urlhaus.abuse.ch/url/4057058/"",""wristhulk",url,https://github.com/ChampionCanopy/HAPP-pROXY/releases/download/1.11.7/happ.zip,github,zapret
+2026-11-04 20:06:14,"zip"",""https://urlhaus.abuse.ch/url/4057063/"",""wristhulk",url,https://github.com/ChampionCanopy/HaPP_VPn/releases/download/1.12.0/happ.zip,github,zapret
+2026-11-04 20:06:49,"zip"",""https://urlhaus.abuse.ch/url/4057071/"",""wristhulk",url,https://github.com/ChampionCanopy/hAPP/releases/download/1.11.6/happ.zip,github,zapret
+2026-11-04 20:06:33,"zip"",""https://urlhaus.abuse.ch/url/4057067/"",""wristhulk",url,https://github.com/ChampionCanopy/hApP-PluS/releases/download/1.12.3/happ.zip,github,zapret
 2026-10-24 06:25:08,"zapret,zip"",""https://urlhaus.abuse.ch/url/3973521/"",""wristhulk",url,https://github.com/ChampionChord/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar,github,SalatStealer
 2026-10-24 06:37:48,"zapret,zip"",""https://urlhaus.abuse.ch/url/3975557/"",""wristhulk",url,https://github.com/ChampionChord/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip,github,SalatStealer
 2026-10-24 06:40:38,"zapret,zip"",""https://urlhaus.abuse.ch/url/3976035/"",""wristhulk",url,https://github.com/ChampionChord/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar,github,SalatStealer
@@ -21913,6 +22062,10 @@
 2026-10-25 06:49:38,"https://urlhaus.abuse.ch/url/3994225/"",""wristhulk",url,https://github.com/CliffSupportDemolish/zapret-discord/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.zip,github,zapret
 2026-10-25 08:33:09,"zapret"",""https://urlhaus.abuse.ch/url/4002292/"",""wristhulk",url,https://github.com/CliffSupportDemolish/zapretdiscord/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.rar,github,SalatStealer
 2026-10-25 06:58:09,"https://urlhaus.abuse.ch/url/3994885/"",""wristhulk",url,https://github.com/CliffSupportDemolish/zapretdiscord/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.zip,github,zapret
+2026-11-04 19:13:29,"zip"",""https://urlhaus.abuse.ch/url/4057001/"",""wristhulk",url,https://github.com/Cliffthestorm/HApP/releases/download/1.11.0/happ.zip,github,zapret
+2026-11-04 19:14:26,"zip"",""https://urlhaus.abuse.ch/url/4057008/"",""wristhulk",url,https://github.com/Cliffthestorm/HaPP-vpn/releases/download/1.11.1/happ.zip,github,zapret
+2026-11-04 19:12:57,"zip"",""https://urlhaus.abuse.ch/url/4056983/"",""wristhulk",url,https://github.com/Cliffthestorm/HaPp-pRoXY/releases/download/1.11.0/happ.zip,github,zapret
+2026-11-04 19:12:22,"zip"",""https://urlhaus.abuse.ch/url/4056970/"",""wristhulk",url,https://github.com/Cliffthestorm/hApP-WiNDOWS/releases/download/1.9.5/happ.zip,github,zapret
 2026-10-24 07:43:31,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/3982003/"",""GutiAILabs",url,https://github.com/Cliftonnonexplosive880/BurpInjector/raw/HEAD/wogiet/Burp-Injector-1.0.zip,FakeGit,github
 2026-10-26 06:38:13,"zip"",""https://urlhaus.abuse.ch/url/4016033/"",""wristhulk",url,https://github.com/Clinched-binocularvision16/cx-switch/raw/refs/heads/main/.agents/skills/dispatching-parallel-agents/cx-switch-2.6.zip,github,SmartLoader
 2026-10-26 06:53:41,"zip"",""https://urlhaus.abuse.ch/url/4017675/"",""wristhulk",url,https://github.com/Clintongriffins/Rick_Website/raw/refs/heads/Rick_Website_Main-dev/OldVersions/CREDITS/English/Rick_Website_3.0.zip,github,SmartLoader
@@ -22208,6 +22361,9 @@
 2026-10-25 06:11:44,"zip"",""https://urlhaus.abuse.ch/url/3991261/"",""wristhulk",url,https://github.com/Cockatriceeifaucet/zapret-discord-youtube/releases/download/DiscordZapret/zapret-discord-youtube-1.9.9d.zip,github,zapret
 2026-10-25 09:12:26,"https://urlhaus.abuse.ch/url/4004778/"",""wristhulk",url,https://github.com/Cockatriceeifaucet/zapretdiscord/releases/download/FixDiscord/zapret-discord-youtube-1.9.9d.rar,github,zapret
 2026-10-25 07:42:21,"zip"",""https://urlhaus.abuse.ch/url/3998372/"",""wristhulk",url,https://github.com/Cockatriceeifaucet/zapretdiscord/releases/download/FixDiscord/zapret-discord-youtube-1.9.9d.zip,github,zapret
+2026-11-04 19:12:44,"zip"",""https://urlhaus.abuse.ch/url/4056975/"",""wristhulk",url,https://github.com/Cockatriceteentrance/V2RAyTUn-WiNdOwS/releases/download/1.9.0/v2raytun.zip,github,zapret
+2026-11-04 19:13:19,"zip"",""https://urlhaus.abuse.ch/url/4056997/"",""wristhulk",url,https://github.com/Cockatriceteentrance/V2rAYTuN-vPn/releases/download/1.10.2/v2raytun.zip,github,zapret
+2026-11-04 19:12:37,"zip"",""https://urlhaus.abuse.ch/url/4056973/"",""wristhulk",url,https://github.com/Cockatriceteentrance/v2RaYTUn_frEe/releases/download/1.9.9/v2raytun.zip,github,zapret
 2026-10-26 08:02:57,"zip"",""https://urlhaus.abuse.ch/url/4024783/"",""wristhulk",url,https://github.com/Cocky-paddle276/ulpExtractor/raw/refs/heads/main/src/Extractor-ulp-3.5.zip,github,SmartLoader
 2026-10-25 06:57:20,"zapret"",""https://urlhaus.abuse.ch/url/3994818/"",""wristhulk",url,https://github.com/CocoonArouse/discord-zapret-19.9.0/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.rar,github,SalatStealer
 2026-10-25 06:58:08,"https://urlhaus.abuse.ch/url/3994882/"",""wristhulk",url,https://github.com/CocoonArouse/discord-zapret-19.9.0/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.zip,github,zapret
@@ -22247,6 +22403,11 @@
 2026-10-26 07:19:48,"zip"",""https://urlhaus.abuse.ch/url/4020363/"",""wristhulk",url,https://github.com/Collins76/DT-Uprisers-Feeder-Pillars-Power-BI-Project/raw/refs/heads/Data-Science-Project/pya/Feeder_Uprisers_D_B_Project_Power_Pillars_v3.4.zip,github,SmartLoader
 2026-10-26 08:34:09,"zip"",""https://urlhaus.abuse.ch/url/4028034/"",""wristhulk",url,https://github.com/Collins76/GIS-Issue-KPI-Tracker/raw/refs/heads/main/src/app/GI-KP-Tracker-Issue-v1.8.zip,github,SmartLoader
 2026-10-06 08:48:44,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/3940978/"",""shmulc",url,https://github.com/Collins76/gis-kpi-dashboard/raw/refs/heads/Data-Science-Project/mammaliferous/gis_dashboard_kpi_v1.6.zip,github,LuaJIT-loader
+2026-11-04 19:14:28,"zip"",""https://urlhaus.abuse.ch/url/4057011/"",""wristhulk",url,https://github.com/ColonelClamp14/HaPp-WINDOWs/releases/download/1.9.7/happ.zip,github,zapret
+2026-11-04 19:13:20,"zip"",""https://urlhaus.abuse.ch/url/4056998/"",""wristhulk",url,https://github.com/ColonelClamp14/HaPp_vPN/releases/download/1.11.2/happ.zip,github,zapret
+2026-11-04 19:12:17,"zip"",""https://urlhaus.abuse.ch/url/4056967/"",""wristhulk",url,https://github.com/ColonelClamp14/Happ_pluS/releases/download/1.11.4/happ.zip,github,zapret
+2026-11-04 19:14:27,"zip"",""https://urlhaus.abuse.ch/url/4057010/"",""wristhulk",url,https://github.com/ColonelClamp14/hAPp-prOXy/releases/download/1.10.7/happ.zip,github,zapret
+2026-11-04 19:12:58,"zip"",""https://urlhaus.abuse.ch/url/4056985/"",""wristhulk",url,https://github.com/ColonelClamp14/happ/releases/download/1.10.7/happ.zip,github,zapret
 2026-10-24 06:37:15,"zapret,zip"",""https://urlhaus.abuse.ch/url/3975458/"",""wristhulk",url,https://github.com/ColonyColonel/DiScOrDZapREt/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.rar,github,SalatStealer
 2026-10-24 07:03:21,"zapret,zip"",""https://urlhaus.abuse.ch/url/3979259/"",""wristhulk",url,https://github.com/ColonyColonel/DiScOrDZapREt/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.zip,github,SalatStealer
 2026-10-24 06:35:41,"zapret,zip"",""https://urlhaus.abuse.ch/url/3975199/"",""wristhulk",url,https://github.com/ColonyColonel/DiScorDObHoD/releases/download/DiscordObhod/zapret-discord-youtube-1.10.2.rar,github,SalatStealer
@@ -22408,6 +22569,11 @@
 2026-10-28 01:32:34,"https://urlhaus.abuse.ch/url/4037079/"",""wristhulk",url,https://github.com/CombineKingfisher/Ws_PROxY/releases/download/1.8.5/ws-proxy.zip,github,zapret
 2026-10-28 01:34:18,"https://urlhaus.abuse.ch/url/4037182/"",""wristhulk",url,https://github.com/CombineKingfisher/vpN-prOxy/releases/download/1.8.6/vpn-proxy.zip,github,zapret
 2026-10-06 09:05:27,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/3942495/"",""shmulc",url,https://github.com/Combined-pickuptruck876/health_ai_project/raw/refs/heads/main/data/ai-project-health-2.2.zip,github,LuaJIT-loader
+2026-11-04 19:13:19,"zip"",""https://urlhaus.abuse.ch/url/4056996/"",""wristhulk",url,https://github.com/CometArchitect/V2raYTUn-Vpn/releases/download/1.10.1/v2raytun.zip,github,zapret
+2026-11-04 19:13:12,"zip"",""https://urlhaus.abuse.ch/url/4056991/"",""wristhulk",url,https://github.com/CometArchitect/v2RaYTun-windOws/releases/download/1.9.1/v2raytun.zip,github,zapret
+2026-11-04 19:14:34,"zip"",""https://urlhaus.abuse.ch/url/4057013/"",""wristhulk",url,https://github.com/CometArchitect/v2rAyTUn_fReE/releases/download/1.9.6/v2raytun.zip,github,zapret
+2026-11-04 19:13:19,"zip"",""https://urlhaus.abuse.ch/url/4056995/"",""wristhulk",url,https://github.com/CometArchitect/v2raYtun_SeTUP/releases/download/1.9.8/v2raytun.zip,github,zapret
+2026-11-04 19:12:57,"zip"",""https://urlhaus.abuse.ch/url/4056981/"",""wristhulk",url,https://github.com/CometArchitect/v2rayTUn_HaPP/releases/download/1.9.7/v2raytun.zip,github,zapret
 2026-10-29 10:43:47,"zapret"",""https://urlhaus.abuse.ch/url/4042656/"",""wristhulk",url,https://github.com/CometCoxswain/HApP-PluS/releases/download/1.8.4/happ.zip,github,SalatStealer
 2026-10-29 10:43:21,"zapret"",""https://urlhaus.abuse.ch/url/4042641/"",""wristhulk",url,https://github.com/CometCoxswain/HApp-vPN/releases/download/1.8.4/happ.zip,github,SalatStealer
 2026-10-29 10:43:22,"zapret"",""https://urlhaus.abuse.ch/url/4042642/"",""wristhulk",url,https://github.com/CometCoxswain/hAPp-WINDOWS/releases/download/1.8.4/happ.zip,github,SalatStealer
@@ -25673,6 +25839,11 @@
 2026-10-25 13:56:28,"https://urlhaus.abuse.ch/url/4011927/"",""wristhulk",url,https://github.com/DriftSwiftEstimate/zapretdiscord/releases/download/FixDiscord/zapret-discord-youtube-1.9.9d.rar,github,zapret
 2026-10-25 08:00:29,"zapret,zip"",""https://urlhaus.abuse.ch/url/3999746/"",""wristhulk",url,https://github.com/DriftSwiftEstimate/zapretdiscord/releases/download/FixDiscord/zapret-discord-youtube-1.9.9d.zip,github,SalatStealer
 2026-10-26 08:31:05,"zip"",""https://urlhaus.abuse.ch/url/4027690/"",""wristhulk",url,https://github.com/Driftends3/hister/raw/refs/heads/main/riverwise/v3.1.zip,github,SmartLoader
+2026-11-04 19:12:17,"zip"",""https://urlhaus.abuse.ch/url/4056968/"",""wristhulk",url,https://github.com/Driftfotreat/HAPp/releases/download/1.10.8/happ.zip,github,zapret
+2026-11-04 19:12:56,"zip"",""https://urlhaus.abuse.ch/url/4056979/"",""wristhulk",url,https://github.com/Driftfotreat/HaPP-vPN/releases/download/1.11.1/happ.zip,github,zapret
+2026-11-04 19:12:20,"zip"",""https://urlhaus.abuse.ch/url/4056969/"",""wristhulk",url,https://github.com/Driftfotreat/hApp-WINDoWS/releases/download/1.9.6/happ.zip,github,zapret
+2026-11-04 19:14:34,"zip"",""https://urlhaus.abuse.ch/url/4057014/"",""wristhulk",url,https://github.com/Driftfotreat/hApp_pLus/releases/download/1.11.3/happ.zip,github,zapret
+2026-11-04 19:12:44,"zip"",""https://urlhaus.abuse.ch/url/4056976/"",""wristhulk",url,https://github.com/Driftfotreat/haPp-proxY/releases/download/1.10.8/happ.zip,github,zapret
 2026-10-29 09:41:11,"zapret"",""https://urlhaus.abuse.ch/url/4042536/"",""wristhulk",url,https://github.com/Driftneabyss/HapP-pROxY/releases/download/1.8.4/happ.zip,github,SalatStealer
 2026-10-29 09:27:44,"zapret"",""https://urlhaus.abuse.ch/url/4042506/"",""wristhulk",url,https://github.com/Driftneabyss/Happ-wiNDOws/releases/download/1.8.4/happ.zip,github,SalatStealer
 2026-10-29 09:09:27,"zapret"",""https://urlhaus.abuse.ch/url/4042475/"",""wristhulk",url,https://github.com/Driftneabyss/hAPp/releases/download/1.8.6/happ.zip,github,SalatStealer
@@ -26419,6 +26590,11 @@
 2026-10-25 09:20:45,"https://urlhaus.abuse.ch/url/4005303/"",""wristhulk",url,https://github.com/Enamelfohearth/ZapretDiscord/releases/download/1.13.5/zapret-discord-youtube-1.10.2.zip,github,zapret
 2026-10-25 09:06:26,"https://urlhaus.abuse.ch/url/4004408/"",""wristhulk",url,https://github.com/Enamelfohearth/zapret-discord-youtube-main/releases/download/1.13.7/zapret-discord-youtube-1.10.2.rar,github,zapret
 2026-10-25 08:46:49,"https://urlhaus.abuse.ch/url/4003198/"",""wristhulk",url,https://github.com/Enamelfohearth/zapret-discord-youtube-main/releases/download/1.13.7/zapret-discord-youtube-1.10.2.zip,github,zapret
+2026-11-04 19:12:57,"zip"",""https://urlhaus.abuse.ch/url/4056984/"",""wristhulk",url,https://github.com/Enamelvyaagora/HApp-pRoXY/releases/download/1.10.9/happ.zip,github,zapret
+2026-11-04 19:13:32,"zip"",""https://urlhaus.abuse.ch/url/4057003/"",""wristhulk",url,https://github.com/Enamelvyaagora/HApp_VPN/releases/download/1.11.4/happ.zip,github,zapret
+2026-11-04 19:14:37,"zip"",""https://urlhaus.abuse.ch/url/4057015/"",""wristhulk",url,https://github.com/Enamelvyaagora/HaPp/releases/download/1.10.9/happ.zip,github,zapret
+2026-11-04 19:12:49,"zip"",""https://urlhaus.abuse.ch/url/4056977/"",""wristhulk",url,https://github.com/Enamelvyaagora/hApP-PlUs/releases/download/1.11.6/happ.zip,github,zapret
+2026-11-04 19:12:17,"zip"",""https://urlhaus.abuse.ch/url/4056964/"",""wristhulk",url,https://github.com/Enamelvyaagora/haPp-WINDOWS/releases/download/1.9.6/happ.zip,github,zapret
 2026-10-27 04:58:36,"https://urlhaus.abuse.ch/url/4034954/"",""wristhulk",url,https://github.com/EnchanterCommemorate/discordfix/releases/download/1.10.0/zapret-discord-youtube-1.10.0.rar,github,SalatStealer
 2026-10-26 19:37:54,"https://urlhaus.abuse.ch/url/4033890/"",""wristhulk",url,https://github.com/EnchanterCommemorate/discordfix/releases/download/1.10.0/zapret-discord-youtube-1.10.0.zip,github,SalatStealer
 2026-11-02 12:26:27,"https://urlhaus.abuse.ch/url/4050591/"",""wristhulk",url,https://github.com/EnchanterLightning/V2RayTun-proxy/releases/download/V2RayTun-proxy/v2RayTun_Setup.exe,github,SalatStealer
@@ -30016,6 +30192,11 @@
 2026-10-26 07:18:28,"https://urlhaus.abuse.ch/url/4020204/"",""wristhulk",url,https://github.com/Glazelucommemorate/youtubezapret/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.zip,github,zapret
 2026-10-26 06:40:32,"https://urlhaus.abuse.ch/url/4016284/"",""wristhulk",url,https://github.com/Glazelucommemorate/zapret-youtube/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.rar,github,zapret
 2026-10-26 07:31:25,"https://urlhaus.abuse.ch/url/4021564/"",""wristhulk",url,https://github.com/Glazelucommemorate/zapret-youtube/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.zip,github,zapret
+2026-11-04 20:50:37,"zip"",""https://urlhaus.abuse.ch/url/4057117/"",""wristhulk",url,https://github.com/GlazierScoop/HaPP-wINdOws/releases/download/1.10.2/happ.zip,github,zapret
+2026-11-04 20:50:37,"zip"",""https://urlhaus.abuse.ch/url/4057116/"",""wristhulk",url,https://github.com/GlazierScoop/hAPP-PLuS/releases/download/1.12.4/happ.zip,github,zapret
+2026-11-04 20:49:29,"zip"",""https://urlhaus.abuse.ch/url/4057096/"",""wristhulk",url,https://github.com/GlazierScoop/hApP-vpn/releases/download/1.12.2/happ.zip,github,zapret
+2026-11-04 20:49:27,"zip"",""https://urlhaus.abuse.ch/url/4057095/"",""wristhulk",url,https://github.com/GlazierScoop/haPP/releases/download/1.11.8/happ.zip,github,zapret
+2026-11-04 20:50:04,"zip"",""https://urlhaus.abuse.ch/url/4057100/"",""wristhulk",url,https://github.com/GlazierScoop/happ-PrOxy/releases/download/1.11.9/happ.zip,github,zapret
 2026-10-29 16:20:11,"zapret"",""https://urlhaus.abuse.ch/url/4044818/"",""wristhulk",url,https://github.com/GleamCorporate/WindOw-vPn/releases/download/1.9.1/vpnwindow.zip,github,SalatStealer
 2026-10-29 16:20:22,"zapret"",""https://urlhaus.abuse.ch/url/4044819/"",""wristhulk",url,https://github.com/GleamCorporate/adGUArd-VpN/releases/download/1.9.1/adguardvpn.zip,github,SalatStealer
 2026-10-29 16:16:17,"zapret"",""https://urlhaus.abuse.ch/url/4044807/"",""wristhulk",url,https://github.com/GleamCorporate/fREe-VPN/releases/download/1.9.0/freevpn.zip,github,SalatStealer
@@ -34612,6 +34793,9 @@
 2026-10-25 09:09:36,"https://urlhaus.abuse.ch/url/4004615/"",""wristhulk",url,https://github.com/LimitDuelist/zapretdiscord/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.zip,github,zapret
 2026-10-25 07:55:19,"https://urlhaus.abuse.ch/url/3999359/"",""wristhulk",url,https://github.com/LimitDuelist/zapretdiscordyoutube/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.rar,github,zapret
 2026-10-25 08:23:11,"https://urlhaus.abuse.ch/url/4001517/"",""wristhulk",url,https://github.com/LimitDuelist/zapretdiscordyoutube/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.zip,github,zapret
+2026-11-04 19:12:23,"zip"",""https://urlhaus.abuse.ch/url/4056971/"",""wristhulk",url,https://github.com/LimitRhythmGlow86/HAPP-PrOxy/releases/download/1.11.1/happ.zip,github,zapret
+2026-11-04 19:14:27,"zip"",""https://urlhaus.abuse.ch/url/4057009/"",""wristhulk",url,https://github.com/LimitRhythmGlow86/HAPp_vpN/releases/download/1.11.4/happ.zip,github,zapret
+2026-11-04 19:13:14,"zip"",""https://urlhaus.abuse.ch/url/4056992/"",""wristhulk",url,https://github.com/LimitRhythmGlow86/HaPp/releases/download/1.11.1/happ.zip,github,zapret
 2026-10-29 13:05:09,"https://urlhaus.abuse.ch/url/4044375/"",""wristhulk",url,https://github.com/Limitnyuponder/happ-desktop/releases/download/happ-desktop/happ_windows.exe,github,SalatStealer
 2026-10-29 12:45:37,"https://urlhaus.abuse.ch/url/4043908/"",""wristhulk",url,https://github.com/Limitnyuponder/happ-desktop/releases/download/happ-desktop/happ_windows_7_32bit.exe,github,SalatStealer
 2026-10-29 13:06:29,"https://urlhaus.abuse.ch/url/4044403/"",""wristhulk",url,https://github.com/Limitnyuponder/happ-desktop/releases/download/happ-desktop/happ_windows_7_64bit.exe,github,SalatStealer
@@ -36110,6 +36294,11 @@
 2026-10-28 07:32:03,"zapret"",""https://urlhaus.abuse.ch/url/4040216/"",""wristhulk",url,https://github.com/MassMasterDominate/TElEgrAm_ZapReT-1.9.9C/releases/download/1.9.9c/zapret-discord-youtube-telegram-1.9.9c.zip,github,SalatStealer
 2026-10-28 07:30:53,"zapret"",""https://urlhaus.abuse.ch/url/4040154/"",""wristhulk",url,https://github.com/MassMasterDominate/ZaPretTeLEGRaM/releases/download/1.9.9c/zapret-discord-youtube-telegram-1.9.9c.zip,github,SalatStealer
 2026-10-28 07:31:51,"zapret"",""https://urlhaus.abuse.ch/url/4040209/"",""wristhulk",url,https://github.com/MassMasterDominate/ZapRET-yOUTUbE_DIscord_GitHuB-1.9.9c/releases/download/1.9.9c/zapret-discord-youtube-telegram-1.9.9c.zip,github,SalatStealer
+2026-11-04 20:50:06,"zip"",""https://urlhaus.abuse.ch/url/4057101/"",""wristhulk",url,https://github.com/MassRhythmLeap/HAPp_pluS/releases/download/1.12.6/happ.zip,github,zapret
+2026-11-04 21:05:15,"zip"",""https://urlhaus.abuse.ch/url/4057122/"",""wristhulk",url,https://github.com/MassRhythmLeap/hAPP_pRoXY/releases/download/1.12.0/happ.zip,github,zapret
+2026-11-04 20:50:31,"zip"",""https://urlhaus.abuse.ch/url/4057112/"",""wristhulk",url,https://github.com/MassRhythmLeap/hApP-vPn/releases/download/1.12.4/happ.zip,github,zapret
+2026-11-04 20:50:07,"zip"",""https://urlhaus.abuse.ch/url/4057107/"",""wristhulk",url,https://github.com/MassRhythmLeap/hapP/releases/download/1.12.0/happ.zip,github,zapret
+2026-11-04 20:50:06,"zip"",""https://urlhaus.abuse.ch/url/4057102/"",""wristhulk",url,https://github.com/MassRhythmLeap/hapP_WInDoWs/releases/download/1.10.2/happ.zip,github,zapret
 2026-10-06 08:47:38,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/3940809/"",""shmulc",url,https://github.com/Master2600/Master2600/raw/refs/heads/main/velaric/Master-2.9.zip,github,LuaJIT-loader
 2026-10-25 09:28:39,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/4005778/"",""GutiAILabs",url,https://github.com/Master2600/viajeschile.github.io/raw/main/assets/js/github-viajeschile-io-v3.1.zip,FakeGit,github
 2026-10-28 05:30:35,"zapret"",""https://urlhaus.abuse.ch/url/4039209/"",""wristhulk",url,https://github.com/MasterDipper/FLOwSeAL-Tg-prOxy/releases/download/1.8.7/tg-ws-proxy.zip,github,SalatStealer
@@ -36647,6 +36836,11 @@
 2026-10-24 07:25:08,"zapret,zip"",""https://urlhaus.abuse.ch/url/3981128/"",""wristhulk",url,https://github.com/Meshshugranary/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip,github,SalatStealer
 2026-10-24 07:26:55,"zapret,zip"",""https://urlhaus.abuse.ch/url/3981258/"",""wristhulk",url,https://github.com/Meshshugranary/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar,github,SalatStealer
 2026-10-24 07:25:08,"zapret,zip"",""https://urlhaus.abuse.ch/url/3981130/"",""wristhulk",url,https://github.com/Meshshugranary/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip,github,SalatStealer
+2026-11-04 20:06:14,"zip"",""https://urlhaus.abuse.ch/url/4057065/"",""wristhulk",url,https://github.com/MessengerChart/HAPP-PLus/releases/download/1.12.1/happ.zip,github,zapret
+2026-11-04 20:06:38,"zip"",""https://urlhaus.abuse.ch/url/4057068/"",""wristhulk",url,https://github.com/MessengerChart/HaPP-PROxY/releases/download/1.11.8/happ.zip,github,zapret
+2026-11-04 20:06:13,"zip"",""https://urlhaus.abuse.ch/url/4057059/"",""wristhulk",url,https://github.com/MessengerChart/HaPP_vPN/releases/download/1.12.0/happ.zip,github,zapret
+2026-11-04 20:06:14,"zip"",""https://urlhaus.abuse.ch/url/4057062/"",""wristhulk",url,https://github.com/MessengerChart/HapP/releases/download/1.11.7/happ.zip,github,zapret
+2026-11-04 20:06:50,"zip"",""https://urlhaus.abuse.ch/url/4057075/"",""wristhulk",url,https://github.com/MessengerChart/haPP-wIndowS/releases/download/1.10.0/happ.zip,github,zapret
 2026-10-25 06:58:26,"zapret"",""https://urlhaus.abuse.ch/url/3994906/"",""wristhulk",url,https://github.com/MessengerCherish/discord-zapret-19.9.0/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.rar,github,SalatStealer
 2026-10-25 06:35:23,"https://urlhaus.abuse.ch/url/3993108/"",""wristhulk",url,https://github.com/MessengerCherish/discord-zapret-19.9.0/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.zip,github,zapret
 2026-10-25 06:35:27,"zapret"",""https://urlhaus.abuse.ch/url/3993112/"",""wristhulk",url,https://github.com/MessengerCherish/discordzapret/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.rar,github,SalatStealer
@@ -36810,6 +37004,11 @@
 2026-10-24 07:24:29,"zapret,zip"",""https://urlhaus.abuse.ch/url/3981074/"",""wristhulk",url,https://github.com/MiddleCobraMarket13/ObhOdDiScOrD/releases/download/ObhodDiscord/zapret-discord-youtube-1.10.2.zip,github,SalatStealer
 2026-10-24 07:22:07,"zapret,zip"",""https://urlhaus.abuse.ch/url/3980856/"",""wristhulk",url,https://github.com/MiddleCobraMarket13/ZaPretDIscOrd/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.rar,github,SalatStealer
 2026-10-24 07:25:42,"zapret,zip"",""https://urlhaus.abuse.ch/url/3981174/"",""wristhulk",url,https://github.com/MiddleCobraMarket13/ZaPretDIscOrd/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.zip,github,SalatStealer
+2026-11-04 20:50:06,"zip"",""https://urlhaus.abuse.ch/url/4057103/"",""wristhulk",url,https://github.com/MiddleMonitor/HAPP/releases/download/1.12.1/happ.zip,github,zapret
+2026-11-04 20:49:26,"zip"",""https://urlhaus.abuse.ch/url/4057090/"",""wristhulk",url,https://github.com/MiddleMonitor/HApP_PluS/releases/download/1.12.5/happ.zip,github,zapret
+2026-11-04 20:49:20,"zip"",""https://urlhaus.abuse.ch/url/4057082/"",""wristhulk",url,https://github.com/MiddleMonitor/HapP_WInDOWS/releases/download/1.10.2/happ.zip,github,zapret
+2026-11-04 20:49:22,"zip"",""https://urlhaus.abuse.ch/url/4057083/"",""wristhulk",url,https://github.com/MiddleMonitor/Happ-PROxy/releases/download/1.12.0/happ.zip,github,zapret
+2026-11-04 20:50:06,"zip"",""https://urlhaus.abuse.ch/url/4057105/"",""wristhulk",url,https://github.com/MiddleMonitor/hApp-vpN/releases/download/1.12.2/happ.zip,github,zapret
 2026-10-26 07:14:19,"https://urlhaus.abuse.ch/url/4019784/"",""wristhulk",url,https://github.com/MiddleRangerPersist/DiscordZapret-2026/releases/download/v1.1.1/zapret-discord-youtube-1.10.3.rar,github,zapret
 2026-10-26 06:32:44,"https://urlhaus.abuse.ch/url/4015467/"",""wristhulk",url,https://github.com/MiddleRangerPersist/DiscordZapret-2026/releases/download/v1.1.1/zapret-discord-youtube-1.10.3.zip,github,zapret
 2026-10-26 08:26:10,"https://urlhaus.abuse.ch/url/4027198/"",""wristhulk",url,https://github.com/MiddleVoiceRepair/DiscordFix/releases/download/ZapretDiscord/zapret-discord-youtube-1.10.1.rar,github,zapret
@@ -38679,6 +38878,10 @@
 2026-10-25 06:29:59,"https://urlhaus.abuse.ch/url/3992692/"",""wristhulk",url,https://github.com/Notebetweenengine/zapret-discord/releases/download/1.10.10/zapret-discord-youtube-1.9.9c.zip,github,zapret
 2026-10-25 07:26:48,"zapret"",""https://urlhaus.abuse.ch/url/3997130/"",""wristhulk",url,https://github.com/Notebetweenengine/zapretdiscord/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.rar,github,SalatStealer
 2026-10-25 07:00:15,"https://urlhaus.abuse.ch/url/3995042/"",""wristhulk",url,https://github.com/Notebetweenengine/zapretdiscord/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.zip,github,zapret
+2026-11-04 19:13:18,"zip"",""https://urlhaus.abuse.ch/url/4056994/"",""wristhulk",url,https://github.com/Notebraunderpass/V2RAytun_vpN/releases/download/1.10.0/v2raytun.zip,github,zapret
+2026-11-04 19:12:25,"zip"",""https://urlhaus.abuse.ch/url/4056972/"",""wristhulk",url,https://github.com/Notebraunderpass/V2RayTuN-haPp/releases/download/1.9.9/v2raytun.zip,github,zapret
+2026-11-04 19:13:20,"zip"",""https://urlhaus.abuse.ch/url/4056999/"",""wristhulk",url,https://github.com/Notebraunderpass/v2RaYtUn_seTUp/releases/download/1.9.7/v2raytun.zip,github,zapret
+2026-11-04 19:12:17,"zip"",""https://urlhaus.abuse.ch/url/4056965/"",""wristhulk",url,https://github.com/Notebraunderpass/v2raytun-fRee/releases/download/1.9.5/v2raytun.zip,github,zapret
 2026-10-26 08:02:01,"https://urlhaus.abuse.ch/url/4024679/"",""wristhulk",url,https://github.com/Notestbungalow/discord-fix/releases/download/zapret-discord/zapret-discord.rar,github,zapret
 2026-10-26 07:55:58,"https://urlhaus.abuse.ch/url/4024063/"",""wristhulk",url,https://github.com/Notestbungalow/discord-fix/releases/download/zapret-discord/zapret-discord.zip,github,zapret
 2026-10-26 08:19:30,"https://urlhaus.abuse.ch/url/4026529/"",""wristhulk",url,https://github.com/Notestbungalow/discord-zapret/releases/download/zapret-discord/zapret-discord.rar,github,zapret
@@ -39965,6 +40168,11 @@
 2026-10-29 22:41:09,"SalatStealer"",""https://urlhaus.abuse.ch/url/4045109/"",""wristhulk",url,https://github.com/Pathzorseek32/happ-vpn/releases/download/happ-vpn/happ_windows.zip,exe,github
 2026-10-29 22:46:06,"SalatStealer"",""https://urlhaus.abuse.ch/url/4045131/"",""wristhulk",url,https://github.com/Pathzorseek32/happ/releases/download/happ/happ_windows.rar,exe,github
 2026-10-29 22:46:45,"SalatStealer"",""https://urlhaus.abuse.ch/url/4045137/"",""wristhulk",url,https://github.com/Pathzorseek32/happ/releases/download/happ/happ_windows.zip,exe,github
+2026-11-04 20:06:16,"zip"",""https://urlhaus.abuse.ch/url/4057066/"",""wristhulk",url,https://github.com/PatrolCashierBushing/HApP-wIndOws/releases/download/1.10.0/happ.zip,github,zapret
+2026-11-04 20:06:13,"zip"",""https://urlhaus.abuse.ch/url/4057061/"",""wristhulk",url,https://github.com/PatrolCashierBushing/HApp/releases/download/1.11.4/happ.zip,github,zapret
+2026-11-04 20:06:44,"zip"",""https://urlhaus.abuse.ch/url/4057069/"",""wristhulk",url,https://github.com/PatrolCashierBushing/HApp_vpN/releases/download/1.11.9/happ.zip,github,zapret
+2026-11-04 20:06:13,"zip"",""https://urlhaus.abuse.ch/url/4057060/"",""wristhulk",url,https://github.com/PatrolCashierBushing/hApp-prOXY/releases/download/1.11.5/happ.zip,github,zapret
+2026-11-04 20:06:49,"zip"",""https://urlhaus.abuse.ch/url/4057072/"",""wristhulk",url,https://github.com/PatrolCashierBushing/haPp-Plus/releases/download/1.12.0/happ.zip,github,zapret
 2026-10-24 07:43:30,"zapret,zip"",""https://urlhaus.abuse.ch/url/3982002/"",""wristhulk",url,https://github.com/PatrolGiraffePipe/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.rar,github,SalatStealer
 2026-10-24 07:42:57,"zapret,zip"",""https://urlhaus.abuse.ch/url/3981945/"",""wristhulk",url,https://github.com/PatrolGiraffePipe/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.zip,github,SalatStealer
 2026-10-24 07:44:13,"zapret,zip"",""https://urlhaus.abuse.ch/url/3982083/"",""wristhulk",url,https://github.com/PatrolGiraffePipe/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar,github,SalatStealer
@@ -43952,6 +44160,11 @@
 2026-10-28 03:08:38,"https://urlhaus.abuse.ch/url/4037975/"",""wristhulk",url,https://github.com/RogueServantStudio/Ws-PROXY/releases/download/1.10.4/ws-proxy.zip,github,zapret
 2026-10-28 03:07:36,"https://urlhaus.abuse.ch/url/4037920/"",""wristhulk",url,https://github.com/RogueServantStudio/proxY-githUb/releases/download/1.10.0/proxy.zip,github,zapret
 2026-10-28 03:06:41,"https://urlhaus.abuse.ch/url/4037869/"",""wristhulk",url,https://github.com/RogueServantStudio/vpN-prOxy/releases/download/1.10.7/vpn-proxy.zip,github,zapret
+2026-11-04 19:12:58,"zip"",""https://urlhaus.abuse.ch/url/4056988/"",""wristhulk",url,https://github.com/Rogueiruncover75/V2raYtUN-vPN/releases/download/1.9.8/v2raytun.zip,github,zapret
+2026-11-04 19:14:18,"zip"",""https://urlhaus.abuse.ch/url/4057005/"",""wristhulk",url,https://github.com/Rogueiruncover75/V2raytuN-frEe/releases/download/1.9.7/v2raytun.zip,github,zapret
+2026-11-04 19:13:26,"zip"",""https://urlhaus.abuse.ch/url/4057000/"",""wristhulk",url,https://github.com/Rogueiruncover75/v2RAYtun-wINdoWs/releases/download/1.9.1/v2raytun.zip,github,zapret
+2026-11-04 19:13:17,"zip"",""https://urlhaus.abuse.ch/url/4056993/"",""wristhulk",url,https://github.com/Rogueiruncover75/v2RayTuN-SETup/releases/download/1.9.6/v2raytun.zip,github,zapret
+2026-11-04 19:14:19,"zip"",""https://urlhaus.abuse.ch/url/4057006/"",""wristhulk",url,https://github.com/Rogueiruncover75/v2raYtun_HapP/releases/download/1.9.8/v2raytun.zip,github,zapret
 2026-10-26 07:03:01,"zip"",""https://urlhaus.abuse.ch/url/4018617/"",""wristhulk",url,https://github.com/Rohankundra2009/claude-agents-forge/raw/refs/heads/main/agents/development/agents-claude-forge-1.6.zip,github,SmartLoader
 2026-10-06 09:05:59,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/3942565/"",""shmulc",url,https://github.com/Rohanvp07/Airline-passenger-satisfaction/raw/refs/heads/main/prorata/Airline_passenger_satisfaction_v1.2.zip,github,LuaJIT-loader
 2026-10-26 08:36:05,"zip"",""https://urlhaus.abuse.ch/url/4028236/"",""wristhulk",url,https://github.com/Rohanvp07/Car-Price-Prediction/raw/refs/heads/main/hetaeristic/Price_Car_Prediction_1.0.zip,github,SmartLoader
@@ -44937,6 +45150,10 @@
 2026-10-25 11:40:40,"https://urlhaus.abuse.ch/url/4007978/"",""wristhulk",url,https://github.com/Scoutkyoprovide/zapret-discord-youtube/releases/download/DiscordZapret/zapret-discord-youtube-1.10.1.rar,github,zapret
 2026-10-25 10:46:43,"https://urlhaus.abuse.ch/url/4006464/"",""wristhulk",url,https://github.com/Scoutkyoprovide/zapret-discord-youtube/releases/download/DiscordZapret/zapret-discord-youtube-1.10.1.zip,github,zapret
 2026-10-26 19:41:44,"https://urlhaus.abuse.ch/url/4034437/"",""wristhulk",url,https://github.com/Scoutnyoladle/Telegram-ZApREt/releases/download/1.12.7/zapret-discord-youtube-1.10.2.zip,github,SalatStealer
+2026-11-04 20:50:32,"zip"",""https://urlhaus.abuse.ch/url/4057113/"",""wristhulk",url,https://github.com/Scoutshucastle/V2RAyTUN-HaPP/releases/download/1.10.4/v2raytun.zip,github,zapret
+2026-11-04 20:49:20,"zip"",""https://urlhaus.abuse.ch/url/4057081/"",""wristhulk",url,https://github.com/Scoutshucastle/V2rayTun-VPn/releases/download/1.10.4/v2raytun.zip,github,zapret
+2026-11-04 20:49:27,"zip"",""https://urlhaus.abuse.ch/url/4057093/"",""wristhulk",url,https://github.com/Scoutshucastle/V2raytUN-setUp/releases/download/1.10.2/v2raytun.zip,github,zapret
+2026-11-04 20:50:07,"zip"",""https://urlhaus.abuse.ch/url/4057111/"",""wristhulk",url,https://github.com/Scoutshucastle/v2raytUN-frEe/releases/download/1.10.0/v2raytun.zip,github,zapret
 2026-10-26 06:51:01,"zip"",""https://urlhaus.abuse.ch/url/4017366/"",""wristhulk",url,https://github.com/Scrambled-loop615/headless-airplay-screen-mirror/raw/refs/heads/main/Haliaeetus/screen_airplay_headless_mirror_v2.6.zip,github,SmartLoader
 2026-10-20 05:56:38,"zapret"",""https://urlhaus.abuse.ch/url/3952905/"",""wristhulk",url,https://github.com/Screwdelexemplify/DiscordFix/releases/download/3.33.3/zapret-discord-youtube-1.10.3.rar,github,rar
 2026-10-20 05:56:33,"zip"",""https://urlhaus.abuse.ch/url/3952897/"",""wristhulk",url,https://github.com/Screwdelexemplify/DiscordFix/releases/download/3.33.3/zapret-discord-youtube-1.10.3.zip,github,zapret
@@ -46600,6 +46817,11 @@
 2026-11-03 15:05:48,"zip"",""https://urlhaus.abuse.ch/url/4055970/"",""wristhulk",url,https://github.com/Smartleagora/ZaPret-yOuTUBE/releases/download/1.11.2/zapret-discord-youtube.zip,github,zapret
 2026-11-03 15:05:58,"zip"",""https://urlhaus.abuse.ch/url/4055977/"",""wristhulk",url,https://github.com/Smartleagora/zAprET_YoUtUBe_FiX/releases/download/1.11.2/zapret-discord-youtube.zip,github,zapret
 2026-11-03 15:05:14,"zip"",""https://urlhaus.abuse.ch/url/4055964/"",""wristhulk",url,https://github.com/Smartleagora/zaPreT-YoUTuBE_dIScoRD_1.10.4/releases/download/1.10.9/zapret-discord-youtube.zip,github,zapret
+2026-11-04 19:12:17,"zip"",""https://urlhaus.abuse.ch/url/4056962/"",""wristhulk",url,https://github.com/SmashBrawler/HApp_vPN/releases/download/1.11.3/happ.zip,github,zapret
+2026-11-04 19:12:57,"zip"",""https://urlhaus.abuse.ch/url/4056982/"",""wristhulk",url,https://github.com/SmashBrawler/hApp-plUs/releases/download/1.11.7/happ.zip,github,zapret
+2026-11-04 19:12:58,"zip"",""https://urlhaus.abuse.ch/url/4056987/"",""wristhulk",url,https://github.com/SmashBrawler/haPP-ProxY/releases/download/1.11.2/happ.zip,github,zapret
+2026-11-04 19:12:41,"zip"",""https://urlhaus.abuse.ch/url/4056974/"",""wristhulk",url,https://github.com/SmashBrawler/haPP_WindoWS/releases/download/1.9.5/happ.zip,github,zapret
+2026-11-04 19:13:12,"zip"",""https://urlhaus.abuse.ch/url/4056990/"",""wristhulk",url,https://github.com/SmashBrawler/hapP/releases/download/1.11.0/happ.zip,github,zapret
 2026-10-20 05:54:39,"SalatStealer,zapret"",""https://urlhaus.abuse.ch/url/3952770/"",""wristhulk",url,https://github.com/SmashNetworkSqueeze/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar,github,rar
 2026-10-20 05:53:20,"zapret,zip"",""https://urlhaus.abuse.ch/url/3952658/"",""wristhulk",url,https://github.com/SmashNetworkSqueeze/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip,github,SalatStealer
 2026-10-23 05:32:29,"zapret,zip"",""https://urlhaus.abuse.ch/url/3960034/"",""wristhulk",url,https://github.com/SmashNetworkSqueeze/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar,github,SalatStealer
@@ -47421,6 +47643,10 @@
 2026-10-25 11:00:06,"https://urlhaus.abuse.ch/url/4006823/"",""wristhulk",url,https://github.com/SpiralCartwright/zapret-discord-youtube-1.10.2/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip,github,zapret
 2026-10-25 13:23:53,"https://urlhaus.abuse.ch/url/4010932/"",""wristhulk",url,https://github.com/SpiralCartwright/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.rar,github,zapret
 2026-10-25 12:07:31,"https://urlhaus.abuse.ch/url/4008732/"",""wristhulk",url,https://github.com/SpiralCartwright/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.zip,github,zapret
+2026-11-04 20:49:27,"zip"",""https://urlhaus.abuse.ch/url/4057092/"",""wristhulk",url,https://github.com/SpiralSeekerValve/V2rAYTUn-hApp/releases/download/1.10.3/v2raytun.zip,github,zapret
+2026-11-04 20:50:42,"zip"",""https://urlhaus.abuse.ch/url/4057119/"",""wristhulk",url,https://github.com/SpiralSeekerValve/V2rAYtUn_fREe/releases/download/1.10.0/v2raytun.zip,github,zapret
+2026-11-04 20:49:23,"zip"",""https://urlhaus.abuse.ch/url/4057086/"",""wristhulk",url,https://github.com/SpiralSeekerValve/v2RAyTuN_vPn/releases/download/1.10.4/v2raytun.zip,github,zapret
+2026-11-04 20:50:07,"zip"",""https://urlhaus.abuse.ch/url/4057106/"",""wristhulk",url,https://github.com/SpiralSeekerValve/v2rAyTun_SEtup/releases/download/1.10.2/v2raytun.zip,github,zapret
 2026-10-27 05:13:21,"https://urlhaus.abuse.ch/url/4035028/"",""wristhulk",url,https://github.com/SpiralToneFall/discordfix/releases/download/1.10.0/zapret-discord-youtube-1.10.0.rar,github,SalatStealer
 2026-10-26 19:40:34,"https://urlhaus.abuse.ch/url/4034292/"",""wristhulk",url,https://github.com/SpiralToneFall/discordfix/releases/download/1.10.0/zapret-discord-youtube-1.10.0.zip,github,SalatStealer
 2026-10-26 08:20:18,"zapret"",""https://urlhaus.abuse.ch/url/4026598/"",""wristhulk",url,https://github.com/Spiraliorear/FixTelegram/releases/download/FixTelegram/TgWsProxy_windows.exe,github,SalatStealer
@@ -48057,6 +48283,10 @@
 2026-10-28 04:56:06,"https://urlhaus.abuse.ch/url/4038847/"",""wristhulk",url,https://github.com/Steeldruanger/flOWseal-DiScord-yoUTuBe/releases/download/1.18.4/zapret-discord-youtube.zip,github,zapret
 2026-10-28 04:53:51,"https://urlhaus.abuse.ch/url/4038743/"",""wristhulk",url,https://github.com/Steeldruanger/gITHUB-flOwSEAL-ZaPRET-dIsCOrd/releases/download/1.18.0/zapret-discord-youtube.zip,github,zapret
 2026-10-28 04:54:43,"https://urlhaus.abuse.ch/url/4038797/"",""wristhulk",url,https://github.com/Steeldruanger/zAprET-GITHUB-diSCORd/releases/download/1.17.4/zapret-discord-youtube.zip,github,zapret
+2026-11-04 21:05:18,"zip"",""https://urlhaus.abuse.ch/url/4057129/"",""wristhulk",url,https://github.com/Steeloiuncouple27/HAPp_PLuS/releases/download/1.12.8/happ.zip,github,zapret
+2026-11-04 20:50:41,"zip"",""https://urlhaus.abuse.ch/url/4057118/"",""wristhulk",url,https://github.com/Steeloiuncouple27/HApp_prOxy/releases/download/1.12.0/happ.zip,github,zapret
+2026-11-04 21:05:16,"zip"",""https://urlhaus.abuse.ch/url/4057124/"",""wristhulk",url,https://github.com/Steeloiuncouple27/hAPp/releases/download/1.12.2/happ.zip,github,zapret
+2026-11-04 20:50:07,"zip"",""https://urlhaus.abuse.ch/url/4057108/"",""wristhulk",url,https://github.com/Steeloiuncouple27/hApp-vpn/releases/download/1.12.6/happ.zip,github,zapret
 2026-10-25 06:04:23,"zapret,zip"",""https://urlhaus.abuse.ch/url/3990703/"",""wristhulk",url,https://github.com/SteepleOwlChasm/discOrDZApreT/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.rar,github,SalatStealer
 2026-10-25 07:42:20,"zapret,zip"",""https://urlhaus.abuse.ch/url/3998370/"",""wristhulk",url,https://github.com/SteepleOwlChasm/discOrDZApreT/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip,github,SalatStealer
 2026-10-25 06:40:53,"zapret,zip"",""https://urlhaus.abuse.ch/url/3993541/"",""wristhulk",url,https://github.com/SteepleOwlChasm/zapret-telegram/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.rar,github,SalatStealer
@@ -48523,6 +48753,11 @@
 2026-10-24 08:25:29,"zapret,zip"",""https://urlhaus.abuse.ch/url/3983189/"",""wristhulk",url,https://github.com/Streetchowish/DiscordZapret/releases/download/1.10.7/zapret-discord-youtube-1.10.2.zip,github,SalatStealer
 2026-10-24 08:22:44,"zapret,zip"",""https://urlhaus.abuse.ch/url/3982956/"",""wristhulk",url,https://github.com/Streetchowish/zapret-discord-youtube/releases/download/1.10.7/zapret-discord-youtube-1.10.2.rar,github,SalatStealer
 2026-10-24 08:19:31,"zapret,zip"",""https://urlhaus.abuse.ch/url/3982672/"",""wristhulk",url,https://github.com/Streetchowish/zapret-discord-youtube/releases/download/1.10.7/zapret-discord-youtube-1.10.2.zip,github,SalatStealer
+2026-11-04 19:14:38,"zip"",""https://urlhaus.abuse.ch/url/4057016/"",""wristhulk",url,https://github.com/Streetnyosound/V2rAytUN-vPN/releases/download/1.9.9/v2raytun.zip,github,zapret
+2026-11-04 19:14:13,"zip"",""https://urlhaus.abuse.ch/url/4057004/"",""wristhulk",url,https://github.com/Streetnyosound/v2RAYTuN-Happ/releases/download/1.9.7/v2raytun.zip,github,zapret
+2026-11-04 19:13:07,"zip"",""https://urlhaus.abuse.ch/url/4056989/"",""wristhulk",url,https://github.com/Streetnyosound/v2RAYtUN_wINdowS/releases/download/1.9.0/v2raytun.zip,github,zapret
+2026-11-04 19:12:16,"zip"",""https://urlhaus.abuse.ch/url/4056961/"",""wristhulk",url,https://github.com/Streetnyosound/v2rayTUn-SetuP/releases/download/1.9.6/v2raytun.zip,github,zapret
+2026-11-04 19:14:29,"zip"",""https://urlhaus.abuse.ch/url/4057012/"",""wristhulk",url,https://github.com/Streetnyosound/v2raytUn-frEE/releases/download/1.9.5/v2raytun.zip,github,zapret
 2026-11-03 20:14:12,"zip"",""https://urlhaus.abuse.ch/url/4056289/"",""wristhulk",url,https://github.com/Streetpaseam/HAPp-pRoXY/releases/download/1.10.3/happ.zip,github,zapret
 2026-11-03 20:14:31,"zip"",""https://urlhaus.abuse.ch/url/4056296/"",""wristhulk",url,https://github.com/Streetpaseam/hAPp/releases/download/1.10.4/happ.zip,github,zapret
 2026-11-03 20:14:36,"zip"",""https://urlhaus.abuse.ch/url/4056297/"",""wristhulk",url,https://github.com/Streetpaseam/hApp-winDOWS/releases/download/1.9.4/happ.zip,github,zapret
@@ -50576,6 +50811,11 @@
 2026-10-30 04:30:32,"SalatStealer"",""https://urlhaus.abuse.ch/url/4046172/"",""wristhulk",url,https://github.com/Toothkrucanopy/happ/releases/download/happ/happ_windows_7_32bit.exe,exe,github
 2026-10-30 04:30:15,"SalatStealer"",""https://urlhaus.abuse.ch/url/4046144/"",""wristhulk",url,https://github.com/Toothkrucanopy/happ/releases/download/happ/happ_windows_7_64bit.exe,exe,github
 2026-10-30 04:30:22,"SalatStealer"",""https://urlhaus.abuse.ch/url/4046156/"",""wristhulk",url,https://github.com/Toothkrucanopy/happ/releases/download/happ/happ_windows_arm64.exe,exe,github
+2026-11-04 19:13:29,"zip"",""https://urlhaus.abuse.ch/url/4057002/"",""wristhulk",url,https://github.com/Toothshucupola/HAPp-vpn/releases/download/1.11.3/happ.zip,github,zapret
+2026-11-04 19:12:15,"zip"",""https://urlhaus.abuse.ch/url/4056960/"",""wristhulk",url,https://github.com/Toothshucupola/Happ_WiNdOws/releases/download/1.9.6/happ.zip,github,zapret
+2026-11-04 19:14:21,"zip"",""https://urlhaus.abuse.ch/url/4057007/"",""wristhulk",url,https://github.com/Toothshucupola/hapP_pRoXy/releases/download/1.10.9/happ.zip,github,zapret
+2026-11-04 19:12:17,"zip"",""https://urlhaus.abuse.ch/url/4056963/"",""wristhulk",url,https://github.com/Toothshucupola/happ-pLUS/releases/download/1.11.5/happ.zip,github,zapret
+2026-11-04 19:12:51,"zip"",""https://urlhaus.abuse.ch/url/4056978/"",""wristhulk",url,https://github.com/Toothshucupola/happ/releases/download/1.10.9/happ.zip,github,zapret
 2026-10-06 08:53:51,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/3941665/"",""shmulc",url,https://github.com/TopMan124534905/designer-toy-skill/raw/refs/heads/main/examples/halloween-bear-felt/designer_skill_toy_v1.9.zip,github,LuaJIT-loader
 2026-10-28 06:03:03,"zapret"",""https://urlhaus.abuse.ch/url/4039483/"",""wristhulk",url,https://github.com/TopMillipedeGrow/FLOWsEaL-TG-pROXY/releases/download/1.8.9/tg-ws-proxy.zip,github,SalatStealer
 2026-10-28 06:01:16,"zapret"",""https://urlhaus.abuse.ch/url/4039346/"",""wristhulk",url,https://github.com/TopMillipedeGrow/FLOwSeAl-TG-ws-pROxy/releases/download/1.9.0/tg-ws-proxy.zip,github,SalatStealer
@@ -53481,6 +53721,10 @@
 2026-10-24 08:40:33,"zapret,zip"",""https://urlhaus.abuse.ch/url/3984056/"",""wristhulk",url,https://github.com/WireHelpWrinkle58/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip,github,SalatStealer
 2026-10-24 08:38:53,"zapret,zip"",""https://urlhaus.abuse.ch/url/3983896/"",""wristhulk",url,https://github.com/WireHelpWrinkle58/ZApRetDiscOrd/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.rar,github,SalatStealer
 2026-10-24 08:40:55,"zapret,zip"",""https://urlhaus.abuse.ch/url/3984094/"",""wristhulk",url,https://github.com/WireHelpWrinkle58/ZApRetDiscOrd/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.zip,github,SalatStealer
+2026-11-04 20:06:45,"zip"",""https://urlhaus.abuse.ch/url/4057070/"",""wristhulk",url,https://github.com/WireKazekage/HApP-vpN/releases/download/1.11.8/happ.zip,github,zapret
+2026-11-04 20:06:49,"zip"",""https://urlhaus.abuse.ch/url/4057073/"",""wristhulk",url,https://github.com/WireKazekage/HApP/releases/download/1.11.5/happ.zip,github,zapret
+2026-11-04 20:06:49,"zip"",""https://urlhaus.abuse.ch/url/4057074/"",""wristhulk",url,https://github.com/WireKazekage/hAPp-PlUs/releases/download/1.12.2/happ.zip,github,zapret
+2026-11-04 20:06:14,"zip"",""https://urlhaus.abuse.ch/url/4057064/"",""wristhulk",url,https://github.com/WireKazekage/haPP_PRoXY/releases/download/1.11.6/happ.zip,github,zapret
 2026-10-30 05:50:39,"zapret"",""https://urlhaus.abuse.ch/url/4046718/"",""wristhulk",url,https://github.com/WireMacawJinx/MICROsoFt-KmS-ACTIvATiON-sCIptS/releases/download/3.12/Microsoft-Activation-Scripts.zip,github,SalatStealer
 2026-10-30 05:50:46,"zapret"",""https://urlhaus.abuse.ch/url/4046724/"",""wristhulk",url,https://github.com/WireMacawJinx/MIcrOsofT-aCTIvatIOn-scRIpTs/releases/download/3.12/Microsoft-Activation-Scripts.zip,github,SalatStealer
 2026-10-30 05:50:25,"zapret"",""https://urlhaus.abuse.ch/url/4046702/"",""wristhulk",url,https://github.com/WireMacawJinx/MiCROSOft-AcTiVaTIOn-SCrIpts_gitHub/releases/download/3.12/Microsoft-Activation-Scripts.zip,github,SalatStealer
@@ -53743,6 +53987,10 @@
 2026-10-26 07:39:56,"zip"",""https://urlhaus.abuse.ch/url/4022465/"",""wristhulk",url,https://github.com/Wrongful-stratocracy6799/awesome-automated-ai/raw/refs/heads/main/templates/automated-awesome-ai-v3.4-alpha.1.zip,github,SmartLoader
 2026-10-30 19:05:09,"zip"",""https://urlhaus.abuse.ch/url/4047739/"",""user35335",url,https://github.com/Wwesupercard41789/Chatgpt-4o-Jailbreak/raw/refs/heads/main/hippology/v3.1.zip,github,SmartLoader
 2026-10-28 08:51:31,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/4040781/"",""GutiAILabs",url,https://github.com/Wyattputrescent882/ai-code-governance-skill/raw/main/templates/governance-skill-code-ai-v1.8.zip,FakeGit,github
+2026-11-04 19:12:56,"zip"",""https://urlhaus.abuse.ch/url/4056980/"",""wristhulk",url,https://github.com/WyrmButterflySnap/V2RAYTun-wINdowS/releases/download/1.9.0/v2raytun.zip,github,zapret
+2026-11-04 19:12:58,"zip"",""https://urlhaus.abuse.ch/url/4056986/"",""wristhulk",url,https://github.com/WyrmButterflySnap/V2RaYtUn-HaPP/releases/download/1.10.0/v2raytun.zip,github,zapret
+2026-11-04 19:12:17,"zip"",""https://urlhaus.abuse.ch/url/4056966/"",""wristhulk",url,https://github.com/WyrmButterflySnap/v2RAytun-SETuP/releases/download/1.9.7/v2raytun.zip,github,zapret
+2026-11-04 19:12:15,"zip"",""https://urlhaus.abuse.ch/url/4056959/"",""wristhulk",url,https://github.com/WyrmButterflySnap/v2rAyTuN-FREe/releases/download/1.9.8/v2raytun.zip,github,zapret
 2026-10-23 05:26:03,"zapret,zip"",""https://urlhaus.abuse.ch/url/3959009/"",""wristhulk",url,https://github.com/WyrmCrystalClippers/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.rar,github,SalatStealer
 2026-10-23 05:22:44,"zapret,zip"",""https://urlhaus.abuse.ch/url/3958515/"",""wristhulk",url,https://github.com/WyrmCrystalClippers/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.zip,github,SalatStealer
 2026-10-23 05:25:56,"zapret,zip"",""https://urlhaus.abuse.ch/url/3958997/"",""wristhulk",url,https://github.com/WyrmCrystalClippers/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar,github,SalatStealer
@@ -56924,6 +57172,11 @@
 2026-10-24 08:51:54,"zapret,zip"",""https://urlhaus.abuse.ch/url/3984250/"",""wristhulk",url,https://github.com/courtgurubeam39/ObhOdDiScOrD/releases/download/ObhodDiscord/zapret-discord-youtube-1.10.2.zip,github,SalatStealer
 2026-10-24 08:50:59,"zapret,zip"",""https://urlhaus.abuse.ch/url/3984163/"",""wristhulk",url,https://github.com/courtgurubeam39/ZaPretDIscOrd/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.rar,github,SalatStealer
 2026-10-24 08:52:49,"zapret,zip"",""https://urlhaus.abuse.ch/url/3984336/"",""wristhulk",url,https://github.com/courtgurubeam39/ZaPretDIscOrd/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.zip,github,SalatStealer
+2026-11-04 19:55:18,"zip"",""https://urlhaus.abuse.ch/url/4057025/"",""wristhulk",url,https://github.com/courtsectormotor/HApP-VPN/releases/download/1.11.6/happ.zip,github,zapret
+2026-11-04 19:55:26,"zip"",""https://urlhaus.abuse.ch/url/4057028/"",""wristhulk",url,https://github.com/courtsectormotor/hAPP-wINDOws/releases/download/1.9.9/happ.zip,github,zapret
+2026-11-04 19:55:21,"zip"",""https://urlhaus.abuse.ch/url/4057026/"",""wristhulk",url,https://github.com/courtsectormotor/hApp-PLUS/releases/download/1.11.8/happ.zip,github,zapret
+2026-11-04 19:55:11,"zip"",""https://urlhaus.abuse.ch/url/4057024/"",""wristhulk",url,https://github.com/courtsectormotor/hApp/releases/download/1.11.2/happ.zip,github,zapret
+2026-11-04 19:55:26,"zip"",""https://urlhaus.abuse.ch/url/4057027/"",""wristhulk",url,https://github.com/courtsectormotor/haPp_PRoxy/releases/download/1.11.4/happ.zip,github,zapret
 2026-10-27 05:13:26,"https://urlhaus.abuse.ch/url/4035048/"",""wristhulk",url,https://github.com/covecocooncrater/discordfix/releases/download/1.10.0/zapret-discord-youtube-1.10.0.rar,github,SalatStealer
 2026-10-26 19:37:57,"https://urlhaus.abuse.ch/url/4033900/"",""wristhulk",url,https://github.com/covecocooncrater/discordfix/releases/download/1.10.0/zapret-discord-youtube-1.10.0.zip,github,SalatStealer
 2026-10-22 17:53:21,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/3955861/"",""GutiAILabs",url,https://github.com/coveringommastrephes591/tuck/raw/HEAD/costopleural/Software_awapuhi.zip,FakeGit,github
@@ -56933,6 +57186,11 @@
 2026-10-27 05:13:27,"https://urlhaus.abuse.ch/url/4035054/"",""wristhulk",url,https://github.com/crackcorporatestring/obhoddiscord/releases/download/1.10.0/zapret-discord-youtube-1.10.0.rar,github,SalatStealer
 2026-10-26 19:38:59,"https://urlhaus.abuse.ch/url/4034063/"",""wristhulk",url,https://github.com/crackcorporatestring/obhoddiscord/releases/download/1.10.0/zapret-discord-youtube-1.10.0.zip,github,SalatStealer
 2026-10-06 08:53:22,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/3941601/"",""shmulc",url,https://github.com/cracklechinapaulhindemith433/lunar-client-minecraft/raw/refs/heads/main/client/Moonrise-main/client-minecraft-lunar-1.1-alpha.2.zip,github,LuaJIT-loader
+2026-11-04 19:06:22,"zip"",""https://urlhaus.abuse.ch/url/4056957/"",""wristhulk",url,https://github.com/crackmooseclient/V2RAytuN-hAPp/releases/download/1.10.1/v2raytun.zip,github,zapret
+2026-11-04 19:06:09,"zip"",""https://urlhaus.abuse.ch/url/4056956/"",""wristhulk",url,https://github.com/crackmooseclient/V2RaYTUN_setuP/releases/download/1.9.9/v2raytun.zip,github,zapret
+2026-11-04 19:06:09,"zip"",""https://urlhaus.abuse.ch/url/4056954/"",""wristhulk",url,https://github.com/crackmooseclient/V2rAYtuN_vPN/releases/download/1.10.3/v2raytun.zip,github,zapret
+2026-11-04 19:06:26,"zip"",""https://urlhaus.abuse.ch/url/4056958/"",""wristhulk",url,https://github.com/crackmooseclient/V2raytun-wiNdows/releases/download/1.9.1/v2raytun.zip,github,zapret
+2026-11-04 19:06:09,"zip"",""https://urlhaus.abuse.ch/url/4056955/"",""wristhulk",url,https://github.com/crackmooseclient/v2RAytUN-fREE/releases/download/1.9.8/v2raytun.zip,github,zapret
 2026-10-26 07:47:06,"zapret"",""https://urlhaus.abuse.ch/url/4023249/"",""wristhulk",url,https://github.com/craterrockmake/TelegramFix/releases/download/TelegramFix/TgWsProxy_windows.exe,github,SalatStealer
 2026-10-26 06:54:11,"zapret"",""https://urlhaus.abuse.ch/url/4017722/"",""wristhulk",url,https://github.com/craterrockmake/TelegramFix/releases/download/TelegramFix/TgWsProxy_windows_7_32bit.exe,github,SalatStealer
 2026-10-26 07:38:24,"zapret"",""https://urlhaus.abuse.ch/url/4022289/"",""wristhulk",url,https://github.com/craterrockmake/TelegramFix/releases/download/TelegramFix/TgWsProxy_windows_7_64bit.exe,github,SalatStealer
@@ -61174,6 +61432,10 @@
 2026-10-09 14:52:08,"github,rustystealer"",""https://urlhaus.abuse.ch/url/3947018/"",""shmulc",url,https://github.com/lannher/EulenCheats/raw/HEAD/Loader.exe,CheatSheet,exe
 2026-10-26 07:39:19,"zip"",""https://urlhaus.abuse.ch/url/4022396/"",""wristhulk",url,https://github.com/laoxs2002/genai-agentes/raw/refs/heads/main/01-landscape/genai_agentes_overcovetousness.zip,github,SmartLoader
 2026-10-06 08:48:55,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/3941008/"",""shmulc",url,https://github.com/lapheavisidelayer940/DecisionNode/raw/refs/heads/main/website/supabase/functions/create-checkout/Decision-Node-v1.7.zip,github,LuaJIT-loader
+2026-11-04 15:46:20,"zapret"",""https://urlhaus.abuse.ch/url/4056883/"",""wristhulk",url,https://github.com/lastdeputyponder/AdgUaRD-vpN/releases/download/1.14.5/adguardvpn.zip,github,SalatStealer
+2026-11-04 15:46:23,"zapret"",""https://urlhaus.abuse.ch/url/4056884/"",""wristhulk",url,https://github.com/lastdeputyponder/FrEE-Vpn/releases/download/1.14.6/freevpn.zip,github,SalatStealer
+2026-11-04 15:46:09,"zapret"",""https://urlhaus.abuse.ch/url/4056882/"",""wristhulk",url,https://github.com/lastdeputyponder/Proton-vPN/releases/download/1.14.4/protonvpn.zip,github,SalatStealer
+2026-11-04 15:46:08,"zapret"",""https://urlhaus.abuse.ch/url/4056881/"",""wristhulk",url,https://github.com/lastdeputyponder/WINDoW-vPn/releases/download/1.8.2/vpnwindow.zip,github,SalatStealer
 2026-10-25 11:11:38,"https://urlhaus.abuse.ch/url/4007169/"",""wristhulk",url,https://github.com/lastgemprovide/DiscordZapret/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.rar,github,zapret
 2026-10-25 12:08:37,"https://urlhaus.abuse.ch/url/4008775/"",""wristhulk",url,https://github.com/lastgemprovide/DiscordZapret/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.zip,github,zapret
 2026-10-25 12:16:39,"https://urlhaus.abuse.ch/url/4008973/"",""wristhulk",url,https://github.com/lastgemprovide/ZapretDiscord/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.rar,github,zapret
@@ -63349,6 +63611,7 @@
 2026-10-26 06:58:19,"zip"",""https://urlhaus.abuse.ch/url/4018130/"",""wristhulk",url,https://github.com/pedropqv/nsfw-image-detection/raw/refs/heads/main/condyloma/detection_nsfw_image_v2.4.zip,github,SmartLoader
 2026-10-25 08:11:24,"zip"",""https://urlhaus.abuse.ch/url/4000583/"",""wristhulk",url,https://github.com/pedropqv/nsfw-image-detection/releases/download/1.3.4/nsfw-image-detection.v1.3.4.zip,github,SmartLoader
 2026-10-26 13:04:06,"zip"",""https://urlhaus.abuse.ch/url/4029983/"",""wristhulk",url,https://github.com/pelicola/RacMan/releases/download/v3.5.7/RacMan.v3.5.7.zip,github,SmartLoader
+2026-11-04 21:05:17,"zip"",""https://urlhaus.abuse.ch/url/4057127/"",""wristhulk",url,https://github.com/peltautocratcall/HapP-WIndOWS/releases/download/1.9.8/happ.zip,github,zapret
 2026-10-24 09:23:17,"zapret,zip"",""https://urlhaus.abuse.ch/url/3984996/"",""wristhulk",url,https://github.com/peltcashierrepresent/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar,github,SalatStealer
 2026-10-24 09:23:42,"zapret,zip"",""https://urlhaus.abuse.ch/url/3985039/"",""wristhulk",url,https://github.com/peltcashierrepresent/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip,github,SalatStealer
 2026-10-24 09:23:13,"zapret,zip"",""https://urlhaus.abuse.ch/url/3984991/"",""wristhulk",url,https://github.com/peltcashierrepresent/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar,github,SalatStealer
@@ -68648,6 +68911,7 @@
 2026-10-27 05:49:46,"https://urlhaus.abuse.ch/url/4035544/"",""drewfink",url,https://gitlab.com/jileyuan/ios/-/raw/main/kc/mst.gz,docker,ssh
 2026-10-27 05:49:19,"ssh"",""https://urlhaus.abuse.ch/url/4035467/"",""drewfink",url,https://gitlab.com/jileyuan/ios/-/raw/main/kc/rd.sh,docker,sh
 2026-10-27 05:49:47,"mirai,ssh"",""https://urlhaus.abuse.ch/url/4035548/"",""drewfink",url,https://gitlab.com/jileyuan/ios/-/raw/main/kc/systemd-ntpd,docker,elf
+2026-11-04 14:27:06,"https://urlhaus.abuse.ch/url/4056847/"",""wristhulk",url,https://gitlab.com/jizzlebucks/fortnite-ragdoll-v2-privcheat-including-softaim-esp-wallhack-triggerbot-and-more/-/raw/main/Loader.exe,gitlab,LummaStealer
 2026-10-08 05:43:34,"gitlab"",""https://urlhaus.abuse.ch/url/3945294/"",""shmulc",url,https://gitlab.com/k.skr/redengine-fivem/-/raw/main/Loader.exe,CheatSheet,exe
 2026-10-08 05:42:44,"zip"",""https://urlhaus.abuse.ch/url/3945232/"",""shmulc",url,https://gitlab.com/k1ERRL/fluxus-executor/-/raw/main/FluxusExecutor.zip,CheatSheet,gitlab
 2026-10-08 05:40:16,"zip"",""https://urlhaus.abuse.ch/url/3945045/"",""shmulc",url,https://gitlab.com/k1leens/synapsex/-/raw/main/SynapseX.zip,CheatSheet,gitlab
@@ -68808,6 +69072,7 @@
 2026-10-08 05:41:59,"zip"",""https://urlhaus.abuse.ch/url/3945173/"",""shmulc",url,https://gitlab.com/rickspeedin/fluxus-executor/-/raw/main/FluxusExecutor.zip,CheatSheet,gitlab
 2026-10-08 05:46:56,"gitlab"",""https://urlhaus.abuse.ch/url/3945593/"",""shmulc",url,https://gitlab.com/rickyflame/valorantexternalcheat/-/raw/main/Loader.exe,CheatSheet,exe
 2026-10-08 05:44:46,"gitlab"",""https://urlhaus.abuse.ch/url/3945411/"",""shmulc",url,https://gitlab.com/risesun/redengine-fivem/-/raw/main/Loader.exe,CheatSheet,exe
+2026-11-04 20:27:10,"https://urlhaus.abuse.ch/url/4057076/"",""wristhulk",url,https://gitlab.com/riskylife/silentum-spoofer/-/raw/main/SilentumSpoofer.zip,gitlab,LummaStealer
 2026-10-08 05:45:19,"zip"",""https://urlhaus.abuse.ch/url/3945457/"",""shmulc",url,https://gitlab.com/robinbatman/xeno-executor/-/raw/main/XenoExecutor.zip,CheatSheet,gitlab
 2026-10-08 05:47:18,"exe,gitlab"",""https://urlhaus.abuse.ch/url/3945617/"",""shmulc",url,https://gitlab.com/robloxexploiter/xeno-executor/-/raw/main/Xeno.exe,BRAT,CheatSheet
 2026-10-08 05:42:54,"zip"",""https://urlhaus.abuse.ch/url/3945250/"",""shmulc",url,https://gitlab.com/robloxstudios/solaraexecutor/-/raw/main/SolaraExecutor.zip,CheatSheet,gitlab
@@ -68929,13 +69194,18 @@
 2026-11-03 15:01:07,cesnet_certs,url,https://grabify.link/X4E5EM,None,https://urlhaus.abuse.ch/url/4055944/
 2026-10-05 09:25:23,"https://urlhaus.abuse.ch/url/3929099/"",""abuse_ch",url,https://greatwhite.me/tsl/ChaWrHpZGxZKotQO101.bin,encrypted,GuLoader
 2026-10-05 09:25:24,"GuLoader"",""https://urlhaus.abuse.ch/url/3929100/"",""abuse_ch",url,https://greatwhite.me/tsl/Driftsregnskabets.lzh,ascii,Encoded
+2026-11-04 18:31:08,"https://urlhaus.abuse.ch/url/4056944/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/avdaj,ascii,Encoded
 2026-11-04 10:12:06,"rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/4056734/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/ditll,ascii,Encoded
 2026-11-02 13:56:06,"rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/4050659/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/edgtjr,ascii,Encoded
 2026-11-04 12:02:08,"https://urlhaus.abuse.ch/url/4056806/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/hwgeblgipi,ascii,Encoded
+2026-11-04 18:53:06,"https://urlhaus.abuse.ch/url/4056951/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/jsgeejzuky,AgentTesla,ascii
 2026-11-04 09:30:14,"https://urlhaus.abuse.ch/url/4056707/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/moifkr,AgentTesla,ascii
+2026-11-04 18:32:10,"https://urlhaus.abuse.ch/url/4056947/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/mxoqrfcvn,ascii,Encoded
+2026-11-04 18:53:06,"Encoded"",""https://urlhaus.abuse.ch/url/4056952/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/novqgsy,AgentTesla,ascii
 2026-11-02 14:25:10,"https://urlhaus.abuse.ch/url/4050674/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/obzupclarb,ascii,Encoded
 2026-11-04 12:00:07,"xworm"",""https://urlhaus.abuse.ch/url/4056802/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/pryydedmi,ascii,Encoded
 2026-11-04 09:40:07,"Encoded"",""https://urlhaus.abuse.ch/url/4056712/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/saqzxymh,AgentTesla,ascii
+2026-11-04 18:26:08,"https://urlhaus.abuse.ch/url/4056936/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/umlodrbq,ascii,Encoded
 2026-11-04 11:24:08,"rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/4056785/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/umxhdt,ascii,Encoded
 2026-11-02 07:24:13,"rat,RemcosRAT"",""https://urlhaus.abuse.ch/url/4050346/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/wdjuvq,ascii,Encoded
 2026-11-04 10:14:06,"Encoded"",""https://urlhaus.abuse.ch/url/4056738/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/wkvtcpxzj,AgentTesla,ascii
@@ -68948,6 +69218,7 @@
 2026-11-02 14:01:08,"xworm"",""https://urlhaus.abuse.ch/url/4050669/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/ypnvdsrmkk,ascii,Encoded
 2026-11-03 07:22:53,"LxBaseRAT,rat"",""https://urlhaus.abuse.ch/url/4055072/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/zbhtutxpfg,ascii,Encoded
 2026-11-02 14:00:08,"xworm"",""https://urlhaus.abuse.ch/url/4050666/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/zohakbami,ascii,Encoded
+2026-11-04 18:31:13,"https://urlhaus.abuse.ch/url/4056945/"",""abuse_ch",url,https://green-breeze-ca3a.fortunespromailsd.workers.dev/zsnis,ascii,Encoded
 2026-10-19 15:17:17,"Foxveil,Mach-O,macOS,ua-curl"",""https://urlhaus.abuse.ch/url/3952354/"",""c4ffeine",url,https://groverudder12.com/f/zpo1fmkdlnwfmgdkv1oi2w/ujdkhkau,Amos,ClickFix
 2026-10-07 15:38:20,abuse_ch,url,https://growgreenhorizons.com/hashmanager.zip,None,https://urlhaus.abuse.ch/url/3944251/
 2026-10-27 05:49:32,anonymous,url,https://hagosuro.lc/02/4ea8ee17f2460c1a,ClickFix,https://urlhaus.abuse.ch/url/4035500/
@@ -68965,6 +69236,7 @@
 2026-10-27 07:35:11,"powershell,ps1,RemcosRAT"",""https://urlhaus.abuse.ch/url/4035654/"",""abuse_ch",url,https://handsorneindo.com/tsk/ure_stub.ps1,ascii,opendi
 2026-10-07 18:02:11,"ps1"",""https://urlhaus.abuse.ch/url/3944375/"",""abuse_ch",url,https://hardly-signatures-loc-surf.trycloudflare.com/download/WindowsUpdate.ps1,ascii,powershell
 2026-10-09 15:07:44,"ps1,trycloudflare"",""https://urlhaus.abuse.ch/url/3947045/"",""shmulc",url,https://hardwood-studio-obviously-briefing.trycloudflare.com/download/winhost,EpsilonStealer,npm
+2026-11-04 16:18:40,"powershell,ps1"",""https://urlhaus.abuse.ch/url/4056894/"",""abuse_ch",url,https://hartford-consult.org/aq.ps1,ascii,DarkCloud
 2026-11-04 11:34:05,"powershell,ps1"",""https://urlhaus.abuse.ch/url/4056796/"",""abuse_ch",url,https://hartford-consult.org/secured_stub.ps1,ascii,Formbook
 2026-11-02 12:03:11,"https://urlhaus.abuse.ch/url/4050456/"",""amirulcyber",url,https://hasil-gov-my.shop/CP14_Notice_D2921116870_2025_2026-10-27.zip,SilverFox,ValleyRAT
 2026-11-02 12:03:10,"https://urlhaus.abuse.ch/url/4050454/"",""amirulcyber",url,https://hasilgov-my.my.id/CP14_Notice_D2921116870_2025_2026-10-27.zip,SilverFox,ValleyRAT
@@ -68976,6 +69248,7 @@
 2026-10-10 13:02:17,wok,url,https://hylrukrxwfwbooknmtyx.supabase.co/storage/v1/object/sign/Krypton%20Client%201.21x/Krypton%20Client%201.21x.jar?token=eyJraWQiOiIzODI0ZTg5NS04MjY5LTRmZGEtYWNlZC02M2NhYjY5YWM1MDAiLCJhbGciOiJIUzUxMiJ9.eyJ1cmwiOiJLcnlwdG9uIENsaWVudCAxLjIxeC9LcnlwdG9uIENsaWVudCAxLjIxeC5qYXIiLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzkxNTkyOTkyLCJleHAiOjE4MjMxMjg5OTJ9.7WTbEWdrQ0KLBQ_UMhaHarlOky5CmOTWPQeSGG8J110mPcGm_9PXZeSeoBUdxV99h1ydJeq7cP-nA1QL4vmbTQ,funrat,https://urlhaus.abuse.ch/url/3947556/
 2026-10-21 05:49:11,"steganography,PulsarRAT"",""https://urlhaus.abuse.ch/url/3953254/"",""82s",url,https://i.ibb.co/7N6xKnxj/carrier.png, carrier,Quasar
 2026-11-04 09:59:06,"stego"",""https://urlhaus.abuse.ch/url/4056725/"",""abuse_ch",url,https://i.ibb.co/dJzFvhNr/Xt-Mi45x.png,PureRAT,rat
+2026-11-04 18:33:05,abuse_ch,url,https://i.ibb.co/ksQcXcW1/YPm-ZNv.png,None,https://urlhaus.abuse.ch/url/4056948/
 2026-10-12 07:52:09,"https://urlhaus.abuse.ch/url/3948950/"",""abuse_ch",url,https://ibidasjohnnraplc.com/system.exe,exse,Formbook
 2026-10-13 05:24:14,"https://urlhaus.abuse.ch/url/3949347/"",""SanchoZZ",url,https://ibidasjohnnraplc.com/system1.bat,bat,Formbook
 2026-11-03 05:37:24,"zip"",""https://urlhaus.abuse.ch/url/4054139/"",""josie",url,https://icecheats.space/downloads/release-e50bb53d4490b22e1dcb530a66bb8820.zip,2026,Password-protected
@@ -68983,6 +69256,19 @@
 2026-10-06 16:19:24,"runelure,stealer"",""https://urlhaus.abuse.ch/url/3943866/"",""rc4",url,https://ikovrsps.com/Ikov.jar,CoinMiner,runelite
 2026-10-07 04:41:06,"runelure,stealer"",""https://urlhaus.abuse.ch/url/3944084/"",""rc4",url,https://ikovrsps.com/Mina.jar,CoinMiner,runelite
 2026-10-07 04:41:08,"stealer"",""https://urlhaus.abuse.ch/url/3944091/"",""rc4",url,https://ikovrsps.com/gamefiles/image.exe,runelite,runelure
+2026-11-04 19:59:08,"opendir,rmm,screenconnect"",""https://urlhaus.abuse.ch/url/4057038/"",""abuse_ch",url,https://im-quirky.com/csr/ScreenConnect-3025147.ClientSetup.exe,connectwise,exe
+2026-11-04 20:01:05,"https://urlhaus.abuse.ch/url/4057043/"",""abuse_ch",url,https://im-quirky.com/csr/decoy_coi.hta,hta,opendir
+2026-11-04 20:01:05,"https://urlhaus.abuse.ch/url/4057046/"",""abuse_ch",url,https://im-quirky.com/csr/decoy_gmeet.hta,hta,opendir
+2026-11-04 20:01:05,"https://urlhaus.abuse.ch/url/4057042/"",""abuse_ch",url,https://im-quirky.com/csr/decoy_nda.hta,hta,opendir
+2026-11-04 20:01:05,"https://urlhaus.abuse.ch/url/4057045/"",""abuse_ch",url,https://im-quirky.com/csr/decoy_offer.hta,hta,opendir
+2026-11-04 20:01:07,"https://urlhaus.abuse.ch/url/4057051/"",""abuse_ch",url,https://im-quirky.com/csr/decoy_rfp.hta,hta,opendir
+2026-11-04 20:01:05,"https://urlhaus.abuse.ch/url/4057041/"",""abuse_ch",url,https://im-quirky.com/csr/decoy_service_contract.hta,hta,opendir
+2026-11-04 20:01:05,"https://urlhaus.abuse.ch/url/4057044/"",""abuse_ch",url,https://im-quirky.com/csr/decoy_waiver.hta,hta,opendir
+2026-11-04 20:01:07,"https://urlhaus.abuse.ch/url/4057049/"",""abuse_ch",url,https://im-quirky.com/csr/decoy_zoom.hta,hta,opendir
+2026-11-04 19:59:05,"opendir,powershell,ps1,rmm,screenconnect"",""https://urlhaus.abuse.ch/url/4057036/"",""abuse_ch",url,https://im-quirky.com/csr/payload.ps1,ascii,connectwise
+2026-11-04 20:01:07,"powershell,ps1"",""https://urlhaus.abuse.ch/url/4057047/"",""abuse_ch",url,https://im-quirky.com/csr/payload_nda.ps1,ascii,opnedir
+2026-11-04 20:01:07,"powershell,ps1"",""https://urlhaus.abuse.ch/url/4057050/"",""abuse_ch",url,https://im-quirky.com/csr/payload_service.ps1,ascii,opnedir
+2026-11-04 20:01:07,"powershell,ps1"",""https://urlhaus.abuse.ch/url/4057048/"",""abuse_ch",url,https://im-quirky.com/csr/payload_waiver.ps1,ascii,opnedir
 2026-10-11 17:46:16,"stealer"",""https://urlhaus.abuse.ch/url/3948105/"",""anonymous",url,https://immortales.fun/Divine.zip,malware,pw-dvx.to
 2026-10-22 04:29:08,"https://urlhaus.abuse.ch/url/3955438/"",""abuse_ch",url,https://imperiailmports.com/img_162029.png,stego,xworm
 2026-10-21 05:33:05,"MacSync,zsh"",""https://urlhaus.abuse.ch/url/3953162/"",""c4ffeine",url,https://injurylawsocal.com/curl/b3433043648ae2e6cae272bd911ef1d0e66baf4dd0a8cd43e271793bd6465144,ClickFix,macOS
@@ -69001,6 +69287,7 @@
 2026-11-01 10:45:20,wok,url,https://kral.shaderzone.org/shaderzone.zip,stealer,https://urlhaus.abuse.ch/url/4049720/
 2026-10-12 18:11:07,"exe,FileFix,Loader,powershell"",""https://urlhaus.abuse.ch/url/3949138/"",""YoshmanSJ",url,https://krause-fahrzeuge.de/api/cm-token,ClickFix,DEU
 2026-10-12 18:11:09,"exe,FileFix,Loader,powershell"",""https://urlhaus.abuse.ch/url/3949140/"",""YoshmanSJ",url,https://krause-fahrzeuge.de/api/poly-token,ClickFix,DEU
+2026-11-04 18:27:11,"ps1"",""https://urlhaus.abuse.ch/url/4056938/"",""abuse_ch",url,https://kronemedia.de/wp-content/plugins/wpqlxeq/1KMK1.ps1,ascii,powershell
 2026-11-03 07:07:21,"powershell,ps1"",""https://urlhaus.abuse.ch/url/4055021/"",""abuse_ch",url,https://kronemedia.de/wp-content/plugins/wpqlxeq/1NONAME.ps1,ascii,Formbook
 2026-11-03 07:55:42,"powershell,ps1"",""https://urlhaus.abuse.ch/url/4055310/"",""abuse_ch",url,https://kronemedia.de/wp-content/plugins/wpqlxeq/3KMK3.ps1,ascii,Formbook
 2026-11-02 08:35:09,"ps1"",""https://urlhaus.abuse.ch/url/4050355/"",""abuse_ch",url,https://kronemedia.de/wp-content/plugins/wpqlxeq/KMSKMK.PS1,Formbook,powershell
@@ -69050,6 +69337,7 @@
 2026-11-03 12:47:07,"https://urlhaus.abuse.ch/url/4055904/"",""marcinciarka",url,https://macos.vettasy.com/unix/a3cd3d3c-40ac-4c45-a162-062970e3b4be,macOS,payload
 2026-10-21 05:33:08,"honeypot"",""https://urlhaus.abuse.ch/url/3953170/"",""nbsf",url,https://magenta-tropical-egret-691.mypinata.cloud/ipfs/bafkreibhkhdvwl7llj3d5m5n5lhjp6fwpopbkr6x4xf2rvts7i2wfszqla,adb,android
 2026-10-21 05:33:14,"honeypot"",""https://urlhaus.abuse.ch/url/3953190/"",""nbsf",url,https://magenta-tropical-egret-691.mypinata.cloud/ipfs/bafkreicnhax7aof22ot3w7wm6m7igrq32vli5raqbok5ypbg4xjppjihvq,adb,android
+2026-11-04 17:08:50,"flomo, ps1, zip,powershell"",""https://urlhaus.abuse.ch/url/4056917/"",""mshokor",url,https://maildeveloper.site/flomold.zip, backdoor,ClickFix
 2026-10-28 09:55:35,"https://urlhaus.abuse.ch/url/4041361/"",""abuse_ch",url,https://mailto-carmen-connected-paying.trycloudflare.com/Rechnung/Rechnung-Nr.-2026-0896921142421.pdf.lnk,lnk,opendir
 2026-10-28 16:13:05,"https://urlhaus.abuse.ch/url/4041683/"",""abuse_ch",url,https://mailto-carmen-connected-paying.trycloudflare.com/rec.wsh,opendir,wsh
 2026-10-06 05:35:17,"rat,RemcosRAT,sacii"",""https://urlhaus.abuse.ch/url/3929726/"",""abuse_ch",url,https://manmenduster.online/h813RIX0,powershell,ps1
@@ -69079,7 +69367,7 @@
 2026-10-28 20:02:13,"powershell,ua-wget"",""https://urlhaus.abuse.ch/url/4041981/"",""BlinkzSec",url,https://mindrix.top/verify.ps1,ClickFix,mindrix-top
 2026-10-22 14:01:07,"malware_download, oniondrop, satacom, win,ClickFix"",""https://urlhaus.abuse.ch/url/3955655/"",""CyberAsim",url,https://minnarasanen.com/nback.php, c2,exfiltration
 2026-10-22 14:01:07,"malware_download, oniondrop, satacom, win,ClickFix"",""https://urlhaus.abuse.ch/url/3955654/"",""CyberAsim",url,https://minnarasanen.com/nfront.php, c2,exfiltration
-2026-11-04 09:54:10,"LxBaseRAT,rat"",""https://urlhaus.abuse.ch/url/4056721/"",""abuse_ch",url,https://misamasupply.com/FIdSeAF.txt,ascii,Encoded
+2026-11-04 09:54:10,"LxBaseRAT,rat,rev-base64-loader"",""https://urlhaus.abuse.ch/url/4056721/"",""abuse_ch",url,https://misamasupply.com/FIdSeAF.txt,ascii,Encoded
 2026-10-25 17:29:28,"toll-fraud"",""https://urlhaus.abuse.ch/url/4013735/"",""Dense",url,https://mmns.oss-me-east-1.aliyuncs.com/jdbxn,android,dex
 2026-10-28 12:12:33,"stealer"",""https://urlhaus.abuse.ch/url/4041556/"",""anonymous",url,https://mna.multidex.life/DvnX.zip,malware,pw-dvx.to
 2026-10-30 14:52:11,"stealer"",""https://urlhaus.abuse.ch/url/4047617/"",""anonymous",url,https://mng.multidex.life/DvnX.zip,malware,pw-dvx.to
@@ -69133,6 +69421,7 @@
 2026-10-30 14:52:09,"stealer"",""https://urlhaus.abuse.ch/url/4047616/"",""anonymous",url,https://onlocity.com/download.php?dl_t=efb331e5cd4d51bb903ca475f0dd8b5e&dl_e=1793369081&dl_s=a9d051c712ba48ec4579833d5b3ce0a5bc6189dadd37840daf1da32ba3aaa8d4,malware,pw-2026
 2026-10-30 19:05:28,"https://urlhaus.abuse.ch/url/4047747/"",""Ling",url,https://ooppxz.tos-cn-beijing.volces.com/Dssiookle_setup.zip,SilverFox,ValleyRAT
 2026-10-23 05:38:45,"https://urlhaus.abuse.ch/url/3961074/"",""Kejult",url,https://oopz.name/assets/client.bin,rustystealer,stealer
+2026-11-04 17:07:05,"flomo, ps1, zip,powershell"",""https://urlhaus.abuse.ch/url/4056913/"",""mshokor",url,https://opengraph.vip/p?t=a3e2f260762b, backdoor,ClickFix
 2026-11-04 09:53:08,Kejult,url,https://opensolutions.sbs/d/patch.exe,MopsStealer,https://urlhaus.abuse.ch/url/4056720/
 2026-10-29 06:33:08,SW4GED,url,https://opsec-mod.com/downloads/opsec-1.20-1.20.1+v1.1.7.1.jar,jar,https://urlhaus.abuse.ch/url/4042255/
 2026-11-04 11:31:05,"https://urlhaus.abuse.ch/url/4056793/"",""abuse_ch",url,https://orexports.com/AtjAAYStyE167.bin,AgentTesla,GuLoader
@@ -69185,6 +69474,7 @@
 2026-10-21 12:06:14,"r2,rmm"",""https://urlhaus.abuse.ch/url/3953454/"",""wristhulk",url,https://pub-0aa1ca9c603a4b99b4e4dd7636b31f10.r2.dev/pop.msi,connectwise,msi
 2026-10-13 12:22:06,DaSigma,url,https://pub-0bf4d4ca8a6e426ea7d3d00ec3ecd192.r2.dev/index.html?__cf_chl_tk=JJxCKo48dU7Z4JaebhYdYrypAur9pqNIIwztS7OmgMGISAYdnYX6QTcAACKwY9gTUKDT5lb64S-.XcNt-1791893987-1.0.1.1-gGOyELsTvnwtZBKzqEDH,ClickFix,https://urlhaus.abuse.ch/url/3949527/
 2026-10-13 12:22:06,"https://urlhaus.abuse.ch/url/3949525/"",""DaSigma",url,https://pub-0bf4d4ca8a6e426ea7d3d00ec3ecd192.r2.dev/index.html?__cf_chl_tk=oSF3RM32aASFFPRl5_0Jc.PY4brFreSR-hPs-JiDLCoic7urEFlEeufvGdfO30YW5vt43BBAhoWC8fGg-1791893877-1.0.1.1-I9KwpGvr.7OMlljwf2zu,Evil-Redirect,rat
+2026-11-04 18:33:35,abuse_ch,url,https://pub-16981d679a944b08a8bdb8d808cba6ee.r2.dev/okawason.png,stego,https://urlhaus.abuse.ch/url/4056949/
 2026-10-07 18:25:18,"https://urlhaus.abuse.ch/url/3944406/"",""abuse_ch",url,https://pub-37f3a615586d47f4996e932bf6df7670.r2.dev/ROYBIN.png,stego,xworm
 2026-10-28 16:30:09,abuse_ch,url,https://pub-406c38dcf6254a1e9d626f6b34967826.r2.dev/katylove.png,AgentTesla,https://urlhaus.abuse.ch/url/4041689/
 2026-10-30 19:08:07,"https://urlhaus.abuse.ch/url/4047754/"",""Ling",url,https://pub-41b75d021b0b48ddad6cbe9eeb14f7be.r2.dev/10.29KLcqievnrutnueg.zip,SilverFox,ValleyRAT
@@ -112409,6 +112699,7 @@
 2026-10-06 07:09:44,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/3937400/"",""shmulc",url,https://raw.githubusercontent.com/legend401/leetflow/refs/heads/main/web/app/Software_v3.2.zip,github,LuaJIT-loader
 2026-10-24 15:58:35,"zip"",""https://urlhaus.abuse.ch/url/3990324/"",""wristhulk",url,https://raw.githubusercontent.com/legend401/legend401.github.io/refs/heads/main/overgenerosity/legend-github-io-v1.0-beta.5.zip,github,SmartLoader
 2026-10-06 07:08:23,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/3937254/"",""shmulc",url,https://raw.githubusercontent.com/legendsvenom/kotodama-framework/HEAD/docs/mechanism-atlas/framework-kotodama-v2.0.zip,github,LuaJIT-loader
+2026-11-04 19:31:06,"github,rustystealer"",""https://urlhaus.abuse.ch/url/4057018/"",""wristhulk",url,https://raw.githubusercontent.com/lehhlass/Fluxus-Roblox-Executor/refs/heads/main/Fluxus%20V7.exe,CheatSheet,exe
 2026-10-21 13:11:22,"zip"",""https://urlhaus.abuse.ch/url/3953758/"",""wristhulk",url,https://raw.githubusercontent.com/lehighriveraquilegiacanadensis128/dotmatch/refs/heads/main/examples/workflows/galaxy/Software-v3.6-alpha.1.zip,github,SmartLoader
 2026-10-06 06:13:10,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/3931748/"",""shmulc",url,https://raw.githubusercontent.com/lehighriverscalylentinus811/LoongSage/main/docs/_static/image/v1.5.zip,github,LuaJIT-loader
 2026-10-06 07:02:25,"SmartLoader,zip"",""https://urlhaus.abuse.ch/url/3936686/"",""shmulc",url,https://raw.githubusercontent.com/leishaurgent673/defi-onchain-analytics/refs/heads/main/references/defi_onchain_analytics_3.6.zip,github,LuaJIT-loader
@@ -126371,6 +126662,8 @@
 2026-10-12 07:20:07,cactusz,url,https://s1w21.comen.store/update.sh,None,https://urlhaus.abuse.ch/url/3948882/
 2026-10-28 14:40:06,"Foxveil,macOS"",""https://urlhaus.abuse.ch/url/4041633/"",""c4ffeine",url,https://sail91.com/curl/nc0xr3f8pseb/oj6d8durw1dcrwesqmm6.txt,Amos,ClickFix
 2026-10-28 14:40:07,"Foxveil,macOS,ua-curl"",""https://urlhaus.abuse.ch/url/4041634/"",""c4ffeine",url,https://sail91.com/f/rjcf4ggdrb1wp5syzplnda/5r7r2qc0,Amos,ClickFix
+2026-11-04 19:58:07,"https://urlhaus.abuse.ch/url/4057033/"",""0xJustme",url,https://salikae.store/clickfix/PqTe482DwQ/file,exe,win
+2026-11-04 19:58:07,"https://urlhaus.abuse.ch/url/4057031/"",""0xJustme",url,https://salikae.store/clickfix/PqTe482DwQ/run,ClickFix,ps1
 2026-10-12 08:16:07,"https://urlhaus.abuse.ch/url/3948967/"",""abuse_ch",url,https://samul.elblag.pl/img_190228.png,AgentTesla,stego
 2026-10-07 18:23:14,"https://urlhaus.abuse.ch/url/3944402/"",""abuse_ch",url,https://sandybeachesandsunsets.com/img_060214.png,DarkCloud,stego
 2026-10-06 08:32:33,"stego"",""https://urlhaus.abuse.ch/url/3939712/"",""abuse_ch",url,https://sandybeachesandsunsets.com/img_203215.png,rat,RemcosRAT
@@ -126414,6 +126707,9 @@
 2026-10-21 05:33:13,wok,url,https://skymods.top/downloads/TaunahiAutoPatch-b6-fabric.jar,SilentNet,https://urlhaus.abuse.ch/url/3953187/
 2026-10-12 07:20:08,ghozt,url,https://skynetwork.lat,ClickFix,https://urlhaus.abuse.ch/url/3948885/
 2026-10-29 06:32:18,SW4GED,url,https://skyocean.org/downloads/skyocean-1.21.11.jar,jar,https://urlhaus.abuse.ch/url/4042244/
+2026-11-04 19:58:06,"stealer"",""https://urlhaus.abuse.ch/url/4057030/"",""wok",url,https://skyvault.fun/files/mods/nebula/mw2ey9zaf3ee-NebulaLoader.jar,jar,java
+2026-11-04 19:58:06,"stealer"",""https://urlhaus.abuse.ch/url/4057029/"",""wok",url,https://skyvault.fun/files/mods/polar/mw2extryb019-PolarClient.jar,jar,java
+2026-11-04 19:58:07,"stealer"",""https://urlhaus.abuse.ch/url/4057032/"",""wok",url,https://skyvault.fun/files/mods/taunahi/mw2ex18if0e2-TaunahiAutoPatch-b8-fabric.jar,jar,java
 2026-10-20 04:58:09,wok,url,https://skyvault.help/files/mods/nebula/mv9sizw5178c-NebulaLoader.jar,stealer,https://urlhaus.abuse.ch/url/3952529/
 2026-10-20 04:58:09,wok,url,https://skyvault.help/files/mods/polar/mv9sl14adde8-PolarClient.jar,stealer,https://urlhaus.abuse.ch/url/3952527/
 2026-10-20 04:58:09,wok,url,https://skyvault.help/files/mods/taunahi/mv9skcm812e7-Taunahi-4.2.2.jar,stealer,https://urlhaus.abuse.ch/url/3952525/
@@ -126426,6 +126722,7 @@
 2026-10-29 09:37:42,"stego"",""https://urlhaus.abuse.ch/url/4042522/"",""abuse_ch",url,https://soniamart.com/img/img_202418.png,rat,RemcosRAT
 2026-10-29 09:23:22,"stego"",""https://urlhaus.abuse.ch/url/4042489/"",""abuse_ch",url,https://soniamart.com/img/img_204444.png,rat,RemcosRAT
 2026-10-29 09:38:09,"stego"",""https://urlhaus.abuse.ch/url/4042524/"",""abuse_ch",url,https://soniamart.com/img/img_210040.png,rat,RemcosRAT
+2026-11-04 16:28:15,"ValleyRAT"",""https://urlhaus.abuse.ch/url/4056902/"",""Ling",url,https://sosogou.oss-cn-hongkong.aliyuncs.com/SogouExpolorer_Seitup_x64.zip,Cybercrime,SilverFox
 2026-10-22 14:44:15,anonymous,url,https://southernalarm.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?,connectwise,https://urlhaus.abuse.ch/url/3955671/
 2026-10-11 15:46:06,"Formbook,rev-base64-loader"",""https://urlhaus.abuse.ch/url/3948074/"",""abuse_ch",url,https://sp.negrrwe.info/pnct/ddnmame.txt,ascii,Encoded
 2026-10-14 15:39:33,"stealer"",""https://urlhaus.abuse.ch/url/3950148/"",""anonymous",url,https://spaceware.cc/SpaceWare.zip,malware,pw-spaceware
@@ -126483,9 +126780,13 @@
 2026-10-09 18:38:07,"https://urlhaus.abuse.ch/url/3947103/"",""abuse_ch",url,https://tronzadorasnng.com/img_002333.png,stego,xworm
 2026-10-09 18:37:07,"https://urlhaus.abuse.ch/url/3947101/"",""abuse_ch",url,https://tronzadorasnng.com/img_005350.png,stego,xworm
 2026-10-09 18:34:07,"https://urlhaus.abuse.ch/url/3947094/"",""abuse_ch",url,https://tronzadorasnng.com/img_010548.png,stego,xworm
+2026-11-04 17:07:35,"flomo, ps1, zip,powershell"",""https://urlhaus.abuse.ch/url/4056915/"",""mshokor",url,https://trustchecknes.com/ld/55074ff0027f49c3, backdoor,ClickFix
+2026-11-04 17:07:35,"flomo, ps1, zip,powershell"",""https://urlhaus.abuse.ch/url/4056914/"",""mshokor",url,https://trustchecknes.com/p?id=4892927a31966c0f37155c09672c443923ec7de5&k=094153774f074d53, backdoor,ClickFix
+2026-11-04 17:07:35,"flomo, ps1, zip,powershell"",""https://urlhaus.abuse.ch/url/4056916/"",""mshokor",url,https://trustchecknes.com/p?t=a3e2f260762b, backdoor,ClickFix
 2026-10-06 07:06:42,abuse_ch,url,https://tttkkkssww.com/olaaaa/ioaaalla/feihushi.zip,zip,https://urlhaus.abuse.ch/url/3937103/
 2026-10-26 15:34:09,"DarkCloud,powershell,ps1"",""https://urlhaus.abuse.ch/url/4030161/"",""abuse_ch",url,https://twejamaica.org/PPsEJEgc/SS.ps1,a310Logger,ascii
 2026-10-26 13:11:10,"powershell,ps1"",""https://urlhaus.abuse.ch/url/4029990/"",""abuse_ch",url,https://twejamaica.org/TYsEgjLz/secured_stub.ps1,ascii,Formbook
+2026-11-04 16:15:08,"ps1,rat"",""https://urlhaus.abuse.ch/url/4056890/"",""abuse_ch",url,https://twejamaica.org/aSUqKxqx/21.ps1,LxBaseRAT,powershell
 2026-10-12 08:09:30,"powershell,ps1"",""https://urlhaus.abuse.ch/url/3948962/"",""abuse_ch",url,https://twejamaica.org/huUMsMsK/secured_stub.ps1,ascii,Formbook
 2026-10-26 08:56:10,"powershell,ps1"",""https://urlhaus.abuse.ch/url/4028966/"",""abuse_ch",url,https://twejamaica.org/xZCgKjrf/vb.ps1,ascii,Formbook
 2026-10-19 18:22:13,"https://urlhaus.abuse.ch/url/3952406/"",""Bitsight",url,https://tycons.com/Chrome.exe,b89d843f29af2eed09805e9767a1165f,dropped-by-vidar
@@ -126494,6 +126795,7 @@
 2026-10-30 07:41:07,"Formbook,rev-base64-loader"",""https://urlhaus.abuse.ch/url/4047026/"",""abuse_ch",url,https://uber-joeleasing.de/wp-content/plugins/kphihjb/allinone/nadkieo.txt,ascii,Encoded
 2026-10-30 07:36:06,"https://urlhaus.abuse.ch/url/4047023/"",""abuse_ch",url,https://uber-joeleasing.de/wp-content/plugins/kphihjb/allinone1/mkidddb.txt,Formbook,rev-base64-loader
 2026-10-29 09:39:12,"https://urlhaus.abuse.ch/url/4042530/"",""abuse_ch",url,https://uber-joeleasing.de/wp-content/plugins/kphihjb/catcher/Fpnoedg.txt,Formbook,rev-base64-loader
+2026-11-04 18:24:05,abuse_ch,url,https://uber-joeleasing.de/wp-content/plugins/kphihjb/explore1/rkbkFik.txt,None,https://urlhaus.abuse.ch/url/4056935/
 2026-10-28 11:22:07,"rev-base64-loader"",""https://urlhaus.abuse.ch/url/4041529/"",""abuse_ch",url,https://uber-joeleasing.de/wp-content/plugins/kphihjb/fleet/fdobnbp.txt,ascii,Formbook
 2026-10-27 07:32:06,"https://urlhaus.abuse.ch/url/4035646/"",""abuse_ch",url,https://uber-joeleasing.de/wp-content/plugins/kphihjb/grace/mmIcdnk.txt,Formbook,rev-base64-loader
 2026-10-28 11:24:07,abuse_ch,url,https://uber-joeleasing.de/wp-content/plugins/kphihjb/newly/caSkfhk.txt,rev-base64-loader,https://urlhaus.abuse.ch/url/4041532/
@@ -126520,6 +126822,7 @@
 2026-10-27 05:49:32,adliwahid,url,https://v15.next.forgejo.org/logical/atila_byte/raw/branch/master/bin/atila_arm,None,https://urlhaus.abuse.ch/url/4035507/
 2026-10-28 15:20:09,wok,url,https://vape-client-landing.netlify.app/downloads/VapeClient.exe,SilentNet,https://urlhaus.abuse.ch/url/4041661/
 2026-10-12 08:52:06,Kejult,url,https://vejnqoajk1soxy1x.public.blob.vercel-storage.com/OpenWordDocument.ps1,None,https://urlhaus.abuse.ch/url/3948979/
+2026-11-04 18:31:08,"powershell,ps1"",""https://urlhaus.abuse.ch/url/4056943/"",""abuse_ch",url,https://velmasqwxri.shop/wedsl/secured_stub.ps1,ascii,Encoded
 2026-10-21 12:05:07,YoshmanSJ,url,https://vergabe-zentrale.de/api/cm-token,ClickFix,https://urlhaus.abuse.ch/url/3953450/
 2026-10-21 12:05:09,YoshmanSJ,url,https://vergabe-zentrale.de/api/poly-token,ClickFix,https://urlhaus.abuse.ch/url/3953451/
 2026-10-19 11:58:32,franperez,url,https://verifing-server.codes/83a177d2fcd1542a,None,https://urlhaus.abuse.ch/url/3952322/
@@ -126650,6 +126953,7 @@
 2026-10-24 07:27:06,"vsix"",""https://urlhaus.abuse.ch/url/3981270/"",""mindhas403",url,https://www.lebang.si/vsix/lebang-1.0.25.vsix,Geaix,infostealer
 2026-10-22 01:19:09,YoshmanSJ,url,https://www.lehmann-autohaus.de/api/cm-token,ClickFix,https://urlhaus.abuse.ch/url/3955359/
 2026-10-22 01:19:09,YoshmanSJ,url,https://www.lehmann-autohaus.de/api/poly-token,ClickFix,https://urlhaus.abuse.ch/url/3955364/
+2026-11-04 19:59:06,"https://urlhaus.abuse.ch/url/4057037/"",""0xJustme",url,https://www.maplezenith.live/,ClickFix,ps1
 2026-10-29 14:45:27,abuse_ch,url,https://www.mediafire.com/file/1qja6h39s55bmi2/file,Grandoreiro,https://urlhaus.abuse.ch/url/4044686/
 2026-10-08 18:34:05,"zip"",""https://urlhaus.abuse.ch/url/3946614/"",""iam_py_test",url,https://www.mediafire.com/file/5zdr3wzj48j8odd/SETUP_PACKAGE_(KEY=2088).zip/file,Password-protected,ValetiStealer
 2026-10-26 14:10:12,"https://urlhaus.abuse.ch/url/4030018/"",""abuse_ch",url,https://www.mediafire.com/file/721o16my8n3r7vt/file,Grandoreiro,zip
@@ -126666,6 +126970,7 @@
 2026-10-21 18:11:57,"https://urlhaus.abuse.ch/url/3955096/"",""anonymous",url,https://www.nova-cheats.net/nova-v3.zip,malware,stealer
 2026-10-09 13:06:31,"runelure,stealer"",""https://urlhaus.abuse.ch/url/3946951/"",""ratcatchers",url,https://www.osmb.net/OSMB.jar,CoinMiner,runelite
 2026-10-27 05:49:53,"ValleyRAT"",""https://urlhaus.abuse.ch/url/4035551/"",""Ling",url,https://www.owr4u.com/lod25,PatchedHostLoader,SilverFox
+2026-11-04 18:29:05,"powershell,ps1"",""https://urlhaus.abuse.ch/url/4056941/"",""abuse_ch",url,https://www.payap.ir/wp-includes/Text/jugrhbm/towenqh/zwjsbqf/KMK.ps1,ascii,Formbook
 2026-10-24 07:29:18,"vsix"",""https://urlhaus.abuse.ch/url/3981429/"",""mindhas403",url,https://www.plikai.com/vsix/plikai-1.0.25.vsix,Geaix,infostealer
 2026-11-02 06:26:19,"https://urlhaus.abuse.ch/url/4050254/"",""rc4",url,https://www.runeliteplus.net/downloads/RuneLite.jar,runelure,stealer
 2026-11-02 06:26:18,"https://urlhaus.abuse.ch/url/4050252/"",""rc4",url,https://www.runeliteplus.net/downloads/RuneLitePlus.exe,runelure,stealer
