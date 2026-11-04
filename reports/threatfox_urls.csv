@@ -1,119 +1,78 @@
-2026-11-03 06:18:40,Mozi,url,http://103.162.40.161:55046/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.162.40.161
+2026-11-04 12:19:26,Mozi,url,http://103.244.172.242:50277/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.244.172.242
+2026-11-04 12:19:27,Mozi,url,http://103.82.121.8:48818/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.82.121.8
 2026-11-03 18:19:36,Mozi,url,http://113.254.36.153:50445/bin.sh,#elf #IoT,https://honeylabs.net/lookup/113.254.36.153
-2026-11-03 06:18:40,Mozi,url,http://124.29.224.112:53315/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/124.29.224.112
-2026-11-03 06:18:39,Mozi,url,http://153.117.127.230:60572/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.127.230
-2026-11-03 12:20:35,Mozi,url,http://153.117.8.78:55402/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.8.78
-2026-11-03 00:19:35,Mirai,url,http://176.65.149.111/eclipse.arm7,#elf #IoT,https://honeylabs.net/lookup/176.65.149.111
-2026-11-03 05:28:58,Unknown malware,url,http://196.32.194.150/r/cmd.txt,#196-32-194-150 #freepbx #issabel #PHP #webshell,https://threatfox.abuse.ch/ioc/2011676/
-2026-11-03 05:28:57,Unknown malware,url,http://196.32.194.150/r/postroot.sh,#196-32-194-150 #freepbx #issabel #PHP #webshell,https://threatfox.abuse.ch/ioc/2011679/
-2026-11-03 05:28:57,Unknown malware,url,http://196.32.194.150/r/xa.sh,#196-32-194-150 #freepbx #issabel #PHP #webshell,https://threatfox.abuse.ch/ioc/2011678/
-2026-11-03 05:28:58,Unknown malware,url,http://196.32.194.150/r/xapiroot.sh,#196-32-194-150 #freepbx #issabel #PHP #webshell,https://threatfox.abuse.ch/ioc/2011677/
-2026-11-03 12:20:37,Mirai,url,http://202.110.70.60:800/alya.armv6l,#elf #IoT,https://honeylabs.net/lookup/202.110.70.60
-2026-11-03 12:20:36,Mirai,url,http://202.110.70.60:800/alya.i586,#elf #IoT,https://honeylabs.net/lookup/202.110.70.60
-2026-11-03 12:20:37,Mirai,url,http://202.110.70.60:800/alya.mipsel,#elf #IoT,https://honeylabs.net/lookup/202.110.70.60
-2026-11-03 05:29:08,Unknown Stealer,url,http://45.207.196.67:8443/api/v1/collect/screenshot,#go #imdrill,https://threatfox.abuse.ch/ioc/2011336/
-2026-11-03 05:29:07,Unknown Stealer,url,http://45.207.196.67:8443/api/v1/heartbeat,#go #imdrill,https://threatfox.abuse.ch/ioc/2011335/
-2026-11-03 05:29:08,Unknown Stealer,url,http://45.207.196.67:8443/api/v1/register,#go #imdrill,https://threatfox.abuse.ch/ioc/2011334/
+2026-11-04 12:19:27,Mozi,url,http://123.10.155.244:48308/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/123.10.155.244
+2026-11-04 00:19:40,Mozi,url,http://153.117.37.137:39548/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.37.137
+2026-11-04 06:19:41,Mozi,url,http://153.117.50.75:44089/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.50.75
+2026-11-04 13:20:12,Bashlite,url,http://181.214.147.11/aarch64,#Gafgyt,https://www.virustotal.com/gui/file/955cee2898bac0ae16f9457bc07817ad3440766ad724f8d0507db1d815af3ef3
+2026-11-04 13:20:14,Bashlite,url,http://181.214.147.11/arc,#Gafgyt,https://www.virustotal.com/gui/file/955cee2898bac0ae16f9457bc07817ad3440766ad724f8d0507db1d815af3ef3
+2026-11-04 13:20:16,Bashlite,url,http://181.214.147.11/armv4l,#Gafgyt,https://www.virustotal.com/gui/file/955cee2898bac0ae16f9457bc07817ad3440766ad724f8d0507db1d815af3ef3
+2026-11-04 13:20:19,Bashlite,url,http://181.214.147.11/armv5l,#Gafgyt,https://www.virustotal.com/gui/file/955cee2898bac0ae16f9457bc07817ad3440766ad724f8d0507db1d815af3ef3
+2026-11-04 13:20:21,Bashlite,url,http://181.214.147.11/armv6l,#Gafgyt,https://www.virustotal.com/gui/file/955cee2898bac0ae16f9457bc07817ad3440766ad724f8d0507db1d815af3ef3
+2026-11-04 13:20:23,Bashlite,url,http://181.214.147.11/armv7l,#Gafgyt,https://www.virustotal.com/gui/file/955cee2898bac0ae16f9457bc07817ad3440766ad724f8d0507db1d815af3ef3
+2026-11-04 13:20:25,Bashlite,url,http://181.214.147.11/i486,#Gafgyt,https://www.virustotal.com/gui/file/955cee2898bac0ae16f9457bc07817ad3440766ad724f8d0507db1d815af3ef3
+2026-11-04 13:20:27,Bashlite,url,http://181.214.147.11/m68k,#Gafgyt,https://www.virustotal.com/gui/file/955cee2898bac0ae16f9457bc07817ad3440766ad724f8d0507db1d815af3ef3
+2026-11-04 13:20:30,Bashlite,url,http://181.214.147.11/mips,#Gafgyt,https://www.virustotal.com/gui/file/955cee2898bac0ae16f9457bc07817ad3440766ad724f8d0507db1d815af3ef3
+2026-11-04 13:20:32,Bashlite,url,http://181.214.147.11/mipsel,#Gafgyt,https://www.virustotal.com/gui/file/955cee2898bac0ae16f9457bc07817ad3440766ad724f8d0507db1d815af3ef3
+2026-11-04 13:20:34,Bashlite,url,http://181.214.147.11/powerpc,#Gafgyt,https://www.virustotal.com/gui/file/955cee2898bac0ae16f9457bc07817ad3440766ad724f8d0507db1d815af3ef3
+2026-11-04 13:20:36,Bashlite,url,http://181.214.147.11/sh4,#Gafgyt,https://www.virustotal.com/gui/file/955cee2898bac0ae16f9457bc07817ad3440766ad724f8d0507db1d815af3ef3
+2026-11-04 13:20:38,Bashlite,url,http://181.214.147.11/sparc,#Gafgyt,https://www.virustotal.com/gui/file/955cee2898bac0ae16f9457bc07817ad3440766ad724f8d0507db1d815af3ef3
+2026-11-04 13:20:41,Bashlite,url,http://181.214.147.11/x86_64,#Gafgyt,https://www.virustotal.com/gui/file/955cee2898bac0ae16f9457bc07817ad3440766ad724f8d0507db1d815af3ef3
+2026-11-04 06:19:41,Mozi,url,http://202.47.55.104:33505/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/202.47.55.104
 2026-11-03 18:19:36,Mozi,url,http://59.96.138.3:45050/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/59.96.138.3
 2026-11-03 18:19:37,Mozi,url,http://72.255.32.84:44669/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/72.255.32.84
-2026-11-03 12:20:35,Mozi,url,http://72.255.33.14:55184/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/72.255.33.14
-2026-11-03 12:20:36,Mozi,url,http://72.255.59.152:56436/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/72.255.59.152
-2026-11-03 05:29:30,Unknown RAT,url,http://cleverstack-ext30341.vercel.app/api/handle,#ContagiousInterview #FamousChollima,https://bazaar.abuse.ch/sample/281d4d60fc99cf7f54819defb1c7c14b9202d46890936c4c6b9ebe3ddc75dd2f/
-2026-11-03 05:29:30,Unknown malware,url,http://cleverstack-ext30341.vercel.app/api/package,#ContagiousInterview #FamousChollima,https://bazaar.abuse.ch/sample/f101fda6093f12758efae630bc265d6bad71479249685b7503c05e707424a276/
+2026-11-04 13:20:10,CloudEyE,url,http://biomedica.al/SENIOR/Kdereaktioner.asd,#guloader,https://www.virustotal.com/gui/file/1bd6c6c129405106f36f587fd24ca4d80769a129d50b41f0b2ef652c6cf9e23d
+2026-11-04 06:45:17,DCRat,url,http://ci797165.tw1.ru/L1nc0In.php,#dcrat #RAT,https://threatfox.abuse.ch/ioc/2014006/
 2026-11-03 18:44:23,Remus,url,http://creesbs.sbs:9932/users,#Remus,https://threatfox.abuse.ch/ioc/2013443/
-2026-11-03 02:10:47,Unknown malware,url,http://glcdn.githack.com/Katy7684/220e93A6-f3F3-4B86-91bc-A897F1E3B5eb/-/raw/main/95c9-d39055c0C180,#ClickFix,https://threatfox.abuse.ch/ioc/2012216/
-2026-11-03 00:00:36,Unknown malware,url,https://123blueslot.co/,#ClickFix,https://clickfix.carsonww.com/domains/123blueslot.co
-2026-11-03 06:09:48,Vidar,url,https://157.180.23.24/,#Vidar,https://threatfox.abuse.ch/ioc/2012384/
-2026-11-03 06:09:49,Vidar,url,https://159.69.114.60/,#Vidar,https://threatfox.abuse.ch/ioc/2012393/
-2026-11-03 06:09:49,Vidar,url,https://159.69.116.56/,#Vidar,https://threatfox.abuse.ch/ioc/2012385/
-2026-11-03 06:09:48,Vidar,url,https://159.69.126.28/,#Vidar,https://threatfox.abuse.ch/ioc/2012378/
-2026-11-03 06:09:48,Vidar,url,https://172.104.203.148/,#Vidar,https://threatfox.abuse.ch/ioc/2012379/
-2026-11-03 06:09:48,Vidar,url,https://2.29.45.84/,#Vidar,https://threatfox.abuse.ch/ioc/2012383/
-2026-11-03 06:09:49,Vidar,url,https://204.168.182.163/,#Vidar,https://threatfox.abuse.ch/ioc/2012388/
+2026-11-04 05:41:24,Remus,url,http://flreaow.click:6527/teams,#Remus,https://threatfox.abuse.ch/ioc/2013958/
+2026-11-04 07:03:06,Remus,url,http://kkgemstone.com:5747,#Remus,https://threatfox.abuse.ch/ioc/2014008/
+2026-11-04 07:56:24,Vidar,url,https://159.69.176.1/,#Vidar,https://threatfox.abuse.ch/ioc/2014033/
+2026-11-04 12:01:29,CloudSyncD,url,https://187.124.23.99:8080/index.html/v5/enterprise/infrastructure/decryption/editor/categorize/jquery-3.3.2.min.js,,https://threatfox.abuse.ch/ioc/2014190/
+2026-11-04 12:01:28,CloudSyncD,url,https://187.124.82.117:8080/index.html/v2.3/enterprise/security/alerting/service/execute/jquery-3.3.2.min.js,,https://threatfox.abuse.ch/ioc/2014191/
+2026-11-04 12:01:29,CloudSyncD,url,https://187.77.134.200:8080/index.html/v1/enterprise/administration/assessment/scheduler/combine/jquery-3.3.2.min.js,,https://threatfox.abuse.ch/ioc/2014192/
+2026-11-04 07:56:24,Vidar,url,https://2.29.145.248/,#Vidar,https://threatfox.abuse.ch/ioc/2014030/
+2026-11-04 07:56:24,Vidar,url,https://2.29.151.245/,#Vidar,https://threatfox.abuse.ch/ioc/2014028/
+2026-11-04 07:56:24,Vidar,url,https://2.29.152.8/,#Vidar,https://threatfox.abuse.ch/ioc/2014034/
+2026-11-04 07:56:24,Vidar,url,https://2.29.157.217/,#Vidar,https://threatfox.abuse.ch/ioc/2014032/
+2026-11-04 07:56:24,Vidar,url,https://2.29.159.106/,#Vidar,https://threatfox.abuse.ch/ioc/2014031/
 2026-11-03 16:43:33,WARDENStealer,url,https://2510priklunee.com/,,https://threatfox.abuse.ch/ioc/2013350/
-2026-11-03 06:09:49,Vidar,url,https://37.27.156.80/,#Vidar,https://threatfox.abuse.ch/ioc/2012387/
-2026-11-03 06:09:49,Vidar,url,https://37.27.22.195/,#Vidar,https://threatfox.abuse.ch/ioc/2012389/
-2026-11-03 06:09:49,Vidar,url,https://37.27.26.190/,#Vidar,https://threatfox.abuse.ch/ioc/2012390/
-2026-11-03 00:00:36,Unknown malware,url,https://3mm.ma/,#ClickFix,https://clickfix.carsonww.com/domains/3mm.ma
-2026-11-03 00:00:36,Unknown malware,url,https://3room.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/3room.co.uk
-2026-11-03 06:09:48,Vidar,url,https://46.62.139.171/,#Vidar,https://threatfox.abuse.ch/ioc/2012380/
-2026-11-03 06:09:48,Vidar,url,https://46.62.166.138/,#Vidar,https://threatfox.abuse.ch/ioc/2012381/
-2026-11-03 06:09:49,Vidar,url,https://62.238.50.223/,#Vidar,https://threatfox.abuse.ch/ioc/2012391/
-2026-11-03 06:09:48,Vidar,url,https://65.108.151.130/,#Vidar,https://threatfox.abuse.ch/ioc/2012376/
-2026-11-03 06:09:49,Vidar,url,https://65.21.182.74/,#Vidar,https://threatfox.abuse.ch/ioc/2012386/
-2026-11-03 06:09:48,Vidar,url,https://77.42.30.151/,#Vidar,https://threatfox.abuse.ch/ioc/2012382/
-2026-11-03 00:00:36,Unknown malware,url,https://88win.store/,#ClickFix,https://clickfix.carsonww.com/domains/88win.store
-2026-11-03 06:09:48,Vidar,url,https://89.167.74.39/,#Vidar,https://threatfox.abuse.ch/ioc/2012377/
-2026-11-03 06:09:48,Vidar,url,https://91.98.109.169/,#Vidar,https://threatfox.abuse.ch/ioc/2012375/
-2026-11-03 06:09:49,Vidar,url,https://95.216.206.217/,#Vidar,https://threatfox.abuse.ch/ioc/2012392/
-2026-11-03 00:00:36,Unknown malware,url,https://a1insulationdfw.com/,#ClickFix,https://clickfix.carsonww.com/domains/a1insulationdfw.com
-2026-11-03 12:10:48,Vidar,url,https://a2.aldoku77.org/aj/,#Vidar,https://threatfox.abuse.ch/ioc/2012910/
-2026-11-03 12:40:48,Vidar,url,https://a2.aldoku77.org/d/,#Vidar,https://threatfox.abuse.ch/ioc/2012953/
-2026-11-03 12:20:48,Vidar,url,https://a2.aldoku77.org/fe/,#Vidar,https://threatfox.abuse.ch/ioc/2012931/
-2026-11-03 12:30:48,Vidar,url,https://a2.aldoku77.org/i6/,#Vidar,https://threatfox.abuse.ch/ioc/2012945/
-2026-11-03 13:00:48,Vidar,url,https://a2.aldoku77.org/jj/,#Vidar,https://threatfox.abuse.ch/ioc/2012969/
-2026-11-03 12:35:48,Vidar,url,https://a2.aldoku77.org/kk/,#Vidar,https://threatfox.abuse.ch/ioc/2012951/
-2026-11-03 12:55:48,Vidar,url,https://a2.aldoku77.org/lc/,#Vidar,https://threatfox.abuse.ch/ioc/2012956/
-2026-11-03 12:45:48,Vidar,url,https://a2.aldoku77.org/lsf/,#Vidar,https://threatfox.abuse.ch/ioc/2012954/
-2026-11-03 12:25:48,Vidar,url,https://a2.aldoku77.org/pi/,#Vidar,https://threatfox.abuse.ch/ioc/2012938/
-2026-11-03 12:15:48,Vidar,url,https://a2.aldoku77.org/t8/,#Vidar,https://threatfox.abuse.ch/ioc/2012921/
-2026-11-03 12:05:48,Vidar,url,https://a2.aldoku77.org/ws/,#Vidar,https://threatfox.abuse.ch/ioc/2012908/
-2026-11-03 12:50:48,Vidar,url,https://a2.aldoku77.org/y/,#Vidar,https://threatfox.abuse.ch/ioc/2012955/
-2026-11-03 09:40:48,Vidar,url,https://a4.aldoku77.org/dg/,#Vidar,https://threatfox.abuse.ch/ioc/2012751/
-2026-11-03 09:45:48,Vidar,url,https://a4.aldoku77.org/en/,#Vidar,https://threatfox.abuse.ch/ioc/2012761/
-2026-11-03 09:55:48,Vidar,url,https://a4.aldoku77.org/f8/,#Vidar,https://threatfox.abuse.ch/ioc/2012773/
-2026-11-03 09:05:48,Vidar,url,https://a4.aldoku77.org/ht/,#Vidar,https://threatfox.abuse.ch/ioc/2012721/
-2026-11-03 10:00:48,Vidar,url,https://a4.aldoku77.org/it/,#Vidar,https://threatfox.abuse.ch/ioc/2012780/
-2026-11-03 09:10:48,Vidar,url,https://a4.aldoku77.org/md/,#Vidar,https://threatfox.abuse.ch/ioc/2012722/
-2026-11-03 09:50:48,Vidar,url,https://a4.aldoku77.org/oo/,#Vidar,https://threatfox.abuse.ch/ioc/2012766/
-2026-11-03 09:35:48,Vidar,url,https://a4.aldoku77.org/p04/,#Vidar,https://threatfox.abuse.ch/ioc/2012745/
-2026-11-03 09:30:48,Vidar,url,https://a4.aldoku77.org/qa/,#Vidar,https://threatfox.abuse.ch/ioc/2012737/
-2026-11-03 09:15:48,Vidar,url,https://a4.aldoku77.org/rs/,#Vidar,https://threatfox.abuse.ch/ioc/2012723/
-2026-11-03 09:25:48,Vidar,url,https://a4.aldoku77.org/u/,#Vidar,https://threatfox.abuse.ch/ioc/2012730/
-2026-11-03 09:20:48,Vidar,url,https://a4.aldoku77.org/u7/,#Vidar,https://threatfox.abuse.ch/ioc/2012725/
-2026-11-03 05:28:49,Vidar,url,https://albino77.org/,#c2 #Vidar,https://threatfox.abuse.ch/ioc/2012098/
-2026-11-03 00:00:36,Unknown malware,url,https://alfabettradycji.pl/,#ClickFix,https://clickfix.carsonww.com/domains/alfabettradycji.pl
-2026-11-03 08:35:48,Vidar,url,https://an.aldoku77.org/b/,#Vidar,https://threatfox.abuse.ch/ioc/2012704/
-2026-11-03 08:25:48,Vidar,url,https://an.aldoku77.org/g0/,#Vidar,https://threatfox.abuse.ch/ioc/2012603/
-2026-11-03 08:15:48,Vidar,url,https://an.aldoku77.org/g41/,#Vidar,https://threatfox.abuse.ch/ioc/2012601/
-2026-11-03 08:30:48,Vidar,url,https://an.aldoku77.org/h4/,#Vidar,https://threatfox.abuse.ch/ioc/2012702/
-2026-11-03 08:40:48,Vidar,url,https://an.aldoku77.org/hz/,#Vidar,https://threatfox.abuse.ch/ioc/2012705/
-2026-11-03 08:05:48,Vidar,url,https://an.aldoku77.org/mg/,#Vidar,https://threatfox.abuse.ch/ioc/2012597/
-2026-11-03 08:45:48,Vidar,url,https://an.aldoku77.org/n/,#Vidar,https://threatfox.abuse.ch/ioc/2012707/
-2026-11-03 08:55:48,Vidar,url,https://an.aldoku77.org/nl/,#Vidar,https://threatfox.abuse.ch/ioc/2012712/
-2026-11-03 08:50:48,Vidar,url,https://an.aldoku77.org/o0/,#Vidar,https://threatfox.abuse.ch/ioc/2012710/
-2026-11-03 08:10:48,Vidar,url,https://an.aldoku77.org/ou/,#Vidar,https://threatfox.abuse.ch/ioc/2012598/
-2026-11-03 08:20:48,Vidar,url,https://an.aldoku77.org/td/,#Vidar,https://threatfox.abuse.ch/ioc/2012602/
-2026-11-03 09:00:50,Vidar,url,https://an.aldoku77.org/uy/,#Vidar,https://threatfox.abuse.ch/ioc/2012715/
+2026-11-04 07:56:24,Vidar,url,https://95.216.197.0/,#Vidar,https://threatfox.abuse.ch/ioc/2014029/
+2026-11-04 10:00:15,Unknown malware,url,https://almarsagroup.ae/,#ClickFix,https://clickfix.carsonww.com/domains/almarsagroup.ae
 2026-11-03 17:42:10,Unknown Loader,url,https://api.telegram.org/bot8998734905:AAGhCMix3YrT6IVBJfDSup4gT-zlIbt12ak/sendMessage,#Loader #telegram,https://bazaar.abuse.ch/sample/ec69264f4a445875a94feb2e0a20de4b4d83b92f4fcca31a33fb7de3b387f265/
 2026-11-03 19:00:16,WARDENStealer,url,https://athenacloud.website/,,https://threatfox.abuse.ch/ioc/2013451/
-2026-11-03 08:00:35,Unknown malware,url,https://atlasfutbolclub.com/,#ClickFix,https://clickfix.carsonww.com/domains/atlasfutbolclub.com
-2026-11-03 06:09:48,Vidar,url,https://b5.aksara87.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012363/
-2026-11-03 06:09:48,Vidar,url,https://b6.akasia988.net/,#Vidar,https://threatfox.abuse.ch/ioc/2012371/
-2026-11-03 05:28:50,Vidar,url,https://bo787.com/,#c2 #Vidar,https://threatfox.abuse.ch/ioc/2012097/
-2026-11-03 06:09:48,Vidar,url,https://bpo.akasia988.net/,#Vidar,https://threatfox.abuse.ch/ioc/2012374/
-2026-11-03 11:00:36,Unknown malware,url,https://brackburger.com/,#ClickFix,https://clickfix.carsonww.com/domains/brackburger.com
-2026-11-03 00:00:36,Unknown malware,url,https://britmagazine.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/britmagazine.co.uk
+2026-11-04 11:30:16,Unknown malware,url,https://atttowing.com.au/,#ClickFix,https://clickfix.carsonww.com/domains/atttowing.com.au
+2026-11-04 02:05:48,Vidar,url,https://b.coy9.com/,#Vidar,https://threatfox.abuse.ch/ioc/2013759/
+2026-11-04 02:30:48,Vidar,url,https://b.coy9.com/h/,#Vidar,https://threatfox.abuse.ch/ioc/2013772/
+2026-11-04 04:30:48,Vidar,url,https://b.coy9.com/i/,#Vidar,https://threatfox.abuse.ch/ioc/2013874/
+2026-11-04 04:00:48,Vidar,url,https://b.coy9.com/m/,#Vidar,https://threatfox.abuse.ch/ioc/2013854/
+2026-11-04 03:00:49,Vidar,url,https://b.coy9.com/z/,#Vidar,https://threatfox.abuse.ch/ioc/2013811/
+2026-11-04 01:37:03,WARDENStealer,url,https://beawlopman.guru/,,https://threatfox.abuse.ch/ioc/2013731/
+2026-11-04 04:05:48,Vidar,url,https://bio.alien203.org/ah/,#Vidar,https://threatfox.abuse.ch/ioc/2013857/
+2026-11-04 04:25:48,Vidar,url,https://bio.alien203.org/at/,#Vidar,https://threatfox.abuse.ch/ioc/2013868/
+2026-11-04 04:50:48,Vidar,url,https://bio.alien203.org/b6/,#Vidar,https://threatfox.abuse.ch/ioc/2013885/
+2026-11-04 04:15:48,Vidar,url,https://bio.alien203.org/d/,#Vidar,https://threatfox.abuse.ch/ioc/2013861/
+2026-11-04 04:10:48,Vidar,url,https://bio.alien203.org/gf/,#Vidar,https://threatfox.abuse.ch/ioc/2013858/
+2026-11-04 04:45:48,Vidar,url,https://bio.alien203.org/hv/,#Vidar,https://threatfox.abuse.ch/ioc/2013884/
+2026-11-04 04:55:48,Vidar,url,https://bio.alien203.org/p/,#Vidar,https://threatfox.abuse.ch/ioc/2013886/
+2026-11-04 04:40:48,Vidar,url,https://bio.alien203.org/sm/,#Vidar,https://threatfox.abuse.ch/ioc/2013883/
+2026-11-04 04:20:48,Vidar,url,https://bio.alien203.org/tz/,#Vidar,https://threatfox.abuse.ch/ioc/2013864/
+2026-11-04 04:35:48,Vidar,url,https://bio.alien203.org/vd/,#Vidar,https://threatfox.abuse.ch/ioc/2013882/
+2026-11-04 04:30:48,Vidar,url,https://bio.alien203.org/yc/,#Vidar,https://threatfox.abuse.ch/ioc/2013875/
+2026-11-04 13:30:14,Unknown malware,url,https://bsoozasyoudao.top/,#ClickFix,https://clickfix.carsonww.com/domains/bsoozasyoudao.top
 2026-11-03 21:30:36,Unknown malware,url,https://buckymotter.com/,#ClickFix,https://clickfix.carsonww.com/domains/buckymotter.com
-2026-11-03 11:53:03,WARDENStealer,url,https://calibrimens.guru/,,https://threatfox.abuse.ch/ioc/2012898/
-2026-11-03 00:00:36,Unknown malware,url,https://capizeats.com/,#ClickFix,https://clickfix.carsonww.com/domains/capizeats.com
-2026-11-03 00:30:36,Unknown malware,url,https://celebritesbiographie.fr/,#ClickFix,https://clickfix.carsonww.com/domains/celebritesbiographie.fr
 2026-11-03 14:00:36,Unknown malware,url,https://coihstats.com/,#ClickFix,https://clickfix.carsonww.com/domains/coihstats.com
-2026-11-03 18:39:29,StrelaStealer,url,https://cr1ymiykt1zwu345wf.pages.dev/win/index.php?vq=WJp2R4rq8ulFJ6pLHdRutVREVDZ1aVVwa1AwM2ptd053aGpIZjZ4Y3ZVdjEveW9DcDBCejRKaW4wcEU5a1VVdlUwQTFVVmdxYlBjN21TSFBqZXpPVU8zbWtLcmdCMlVKdG9nOEJmWVp4TzI4T1F6empmdTI3dStTbHUxMmFQZHBLd2E5U2dLVkwzTGpFWTI2L1l4am9TQ0pqVnpFcm5qWURzUEZubDVMNzBMb05aQ1NZbHBNTnJYNlRjblgyTU9ValgrUkxvOHo4Q1JPQXczRg==,#fakeupdates #StrelaStealer #VQ-Redirect,https://threatfox.abuse.ch/ioc/2013440/
-2026-11-03 06:09:47,Vidar,url,https://cx.albino77.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012342/
-2026-11-03 06:09:47,Vidar,url,https://d.bob78.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012337/
-2026-11-03 11:37:24,WARDENStealer,url,https://dflick.homes/,,https://threatfox.abuse.ch/ioc/2012893/
-2026-11-03 11:37:24,WARDENStealer,url,https://dflick.mom/,,https://threatfox.abuse.ch/ioc/2012894/
-2026-11-03 06:09:48,Vidar,url,https://do.akurat80.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012354/
-2026-11-03 06:09:47,Vidar,url,https://dr.albino77.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012343/
-2026-11-03 00:30:35,Unknown malware,url,https://educiruped.com/,#ClickFix,https://clickfix.carsonww.com/domains/educiruped.com
-2026-11-03 00:30:36,Unknown malware,url,https://elisiumdevelopments.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/elisiumdevelopments.co.uk
-2026-11-03 00:00:37,Unknown malware,url,https://embossitworld.com/,#ClickFix,https://clickfix.carsonww.com/domains/embossitworld.com
-2026-11-03 11:00:36,Unknown malware,url,https://eraaluminyum.com.tr/,#ClickFix,https://clickfix.carsonww.com/domains/eraaluminyum.com.tr
-2026-11-03 11:00:36,Unknown malware,url,https://espritjourneys.com/,#ClickFix,https://clickfix.carsonww.com/domains/espritjourneys.com
-2026-11-03 00:30:35,Unknown malware,url,https://ev99.world/,#ClickFix,https://clickfix.carsonww.com/domains/ev99.world
+2026-11-04 01:37:03,WARDENStealer,url,https://contupasserworld.guru/,,https://threatfox.abuse.ch/ioc/2013732/
+2026-11-04 07:25:38,StrelaStealer,url,https://cr1ymiykt1zwu345wf.pages.dev/win/index.php?vq=WJp2R4rq8ulFJ6pLHdRutVREVDZ1aVVwa1AwM2ptd053aGpIZjZ4Y3ZVdjEveW9DcDBCejRKaW4wcEU5a1VVdlUwQTFVVmdxYlBjN21TSFBqZXpPVU8zbWtLcmdCMlVKdG9nOEJmWVp4TzI4T1F6empmdTI3dStTbHUxMmFQZHBLd2E5U2dLVkwzTGpFWTI2L1l4am9TQ0pqVnpFcm5qWURzUEZubDVMNzBMb05aQ1NZbHBNTnJYNlRjblgyTU9ValgrUkxvOHo4Q1JPQXczRg==,#fakeupdates #StrelaStealer #VQ-Redirect,https://threatfox.abuse.ch/ioc/2013440/
+2026-11-04 09:30:24,AMOS,url,https://cube-60.com/curl/f39ks7h9j63/dcz317k2f1l85zbtwoe271.json,#Amos #ClickFix #Foxveil #macOS,https://bazaar.abuse.ch/sample/2bc2b4e876d2fd2ba905b5d82871e09ffb83097d40f9eb1bffc9a8ff1b73ef22/
+2026-11-04 09:30:25,AMOS,url,https://cube-60.com/f/3ouaaio6tobacvyfqoejza/sul9ec1i,#Amos #ClickFix #Foxveil #macOS,https://bazaar.abuse.ch/sample/2bc2b4e876d2fd2ba905b5d82871e09ffb83097d40f9eb1bffc9a8ff1b73ef22/
+2026-11-03 23:20:48,Vidar,url,https://d.bosmj.org/,#Vidar,https://threatfox.abuse.ch/ioc/2013638/
+2026-11-04 12:30:17,Unknown malware,url,https://daraleilm.com/,#ClickFix,https://clickfix.carsonww.com/domains/daraleilm.com
+2026-11-04 13:35:04,WARDENStealer,url,https://delopaten.rest/,,https://threatfox.abuse.ch/ioc/2014302/
+2026-11-04 12:01:29,CloudSyncD,url,https://dodiihome.com/macos/jquery.js,,https://threatfox.abuse.ch/ioc/2014189/
+2026-11-04 10:00:15,Unknown malware,url,https://duuacmc.top/,#ClickFix,https://clickfix.carsonww.com/domains/duuacmc.top
+2026-11-04 12:01:27,CloudSyncD,url,https://ecl.zs-catch.com:443/index.html/rc1/enterprise/manufacturing/serialization/parser/query/jquery-3.3.2.min.js,,https://threatfox.abuse.ch/ioc/2014193/
+2026-11-04 06:43:03,WARDENStealer,url,https://eptabiboko.com/,,https://threatfox.abuse.ch/ioc/2014004/
 2026-11-03 15:05:48,Vidar,url,https://evu.akun258.org/,#Vidar,https://threatfox.abuse.ch/ioc/2013059/
-2026-11-03 06:09:48,Vidar,url,https://f.akasia988.net/,#Vidar,https://threatfox.abuse.ch/ioc/2012368/
 2026-11-03 14:25:48,Vidar,url,https://f.aldoku77.org/cm/,#Vidar,https://threatfox.abuse.ch/ioc/2013032/
 2026-11-03 14:45:48,Vidar,url,https://f.aldoku77.org/djn/,#Vidar,https://threatfox.abuse.ch/ioc/2013050/
 2026-11-03 14:35:48,Vidar,url,https://f.aldoku77.org/gd/,#Vidar,https://threatfox.abuse.ch/ioc/2013045/
@@ -126,8 +85,8 @@
 2026-11-03 14:10:48,Vidar,url,https://f.aldoku77.org/ot/,#Vidar,https://threatfox.abuse.ch/ioc/2013028/
 2026-11-03 14:50:48,Vidar,url,https://f.aldoku77.org/r8/,#Vidar,https://threatfox.abuse.ch/ioc/2013052/
 2026-11-03 14:15:48,Vidar,url,https://f.aldoku77.org/s/,#Vidar,https://threatfox.abuse.ch/ioc/2013029/
-2026-11-03 07:41:20,ClearFake,url,https://fastly.jsdelivr.net/gh/lulu061994/d9e0903c-083d-438f-a7c9/97c2-ea60ee376581,#ClearFake,https://threatfox.abuse.ch/ioc/2012571/
-2026-11-03 07:01:52,ClearFake,url,https://fastly.jsdelivr.net/gh/lulu061994/d9e0903c-083d-438f-a7c9/b0d1-a3ddaa9b2a5f,#ClearFake,https://threatfox.abuse.ch/ioc/2012520/
+2026-11-04 08:07:12,AMOS,url,https://fern46.com/curl/1to6141b0p/lgk1rfayfis7z0qtqtrp.json,#Amos #ClickFix #Foxveil #macOS,https://bazaar.abuse.ch/sample/2607d870538d4c5aa7bc73c5830762c50ba6aecad250a48f792557171ebc3652/
+2026-11-04 08:07:12,AMOS,url,https://fern46.com/f/vrhqljbnscwhbyhltuwmsq/t2990cmj,#Amos #ClickFix #Foxveil #macOS,https://bazaar.abuse.ch/sample/2607d870538d4c5aa7bc73c5830762c50ba6aecad250a48f792557171ebc3652/
 2026-11-03 17:35:48,Vidar,url,https://fg.alexsi4d.org/ad/,#Vidar,https://threatfox.abuse.ch/ioc/2013368/
 2026-11-03 17:15:48,Vidar,url,https://fg.alexsi4d.org/as/,#Vidar,https://threatfox.abuse.ch/ioc/2013363/
 2026-11-03 17:25:48,Vidar,url,https://fg.alexsi4d.org/bs/,#Vidar,https://threatfox.abuse.ch/ioc/2013365/
@@ -140,27 +99,57 @@
 2026-11-03 17:05:48,Vidar,url,https://fg.alexsi4d.org/py/,#Vidar,https://threatfox.abuse.ch/ioc/2013361/
 2026-11-03 17:30:48,Vidar,url,https://fg.alexsi4d.org/q7/,#Vidar,https://threatfox.abuse.ch/ioc/2013367/
 2026-11-03 17:45:48,Vidar,url,https://fg.alexsi4d.org/v6/,#Vidar,https://threatfox.abuse.ch/ioc/2013383/
-2026-11-03 06:09:47,Vidar,url,https://fj.albino77.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012340/
-2026-11-03 06:09:47,Vidar,url,https://fjs.akurat80.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012352/
-2026-11-03 06:09:47,Vidar,url,https://fk.alan4d.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012347/
 2026-11-03 19:35:48,Vidar,url,https://fz.afktogel.org/s/,#Vidar,https://threatfox.abuse.ch/ioc/2013478/
 2026-11-03 15:53:07,SmartApeSG,url,https://gabbrobarbican.info/version/profile-dom,#SmartApeSG,https://threatfox.abuse.ch/ioc/2013073/
 2026-11-03 15:53:05,SmartApeSG,url,https://gabbrobarbican.info/version/scope-json.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/2013075/
-2026-11-03 06:09:48,Vidar,url,https://gi.akurat80.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012358/
-2026-11-03 01:00:36,Unknown malware,url,https://gillcrestcavaliers.com/,#ClickFix,https://clickfix.carsonww.com/domains/gillcrestcavaliers.com
-2026-11-02 23:34:04,SmartApeSG,url,https://gneisskeep.info/trace/logout-bundle.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/2012064/
-2026-11-03 06:09:47,Vidar,url,https://gs.alan4d.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012350/
-2026-11-02 23:05:47,Vidar,url,https://hm.akuatoto.net/,#Vidar,https://threatfox.abuse.ch/ioc/2012044/
-2026-11-03 01:30:35,Unknown malware,url,https://holidayexpertsusa.com/,#ClickFix,https://clickfix.carsonww.com/domains/holidayexpertsusa.com
-2026-11-03 00:00:37,Unknown malware,url,https://indianpeakscuisine.com/,#ClickFix,https://clickfix.carsonww.com/domains/indianpeakscuisine.com
-2026-11-03 06:09:48,Vidar,url,https://ix.akurat80.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012356/
-2026-11-03 08:49:04,WARDENStealer,url,https://jatyyysgok.com/,,https://threatfox.abuse.ch/ioc/2012709/
-2026-11-03 13:09:23,WARDENStealer,url,https://jstmailhouse.com/,,https://threatfox.abuse.ch/ioc/2012975/
-2026-11-03 00:00:37,Unknown malware,url,https://jualbeliartikel.com/,#ClickFix,https://clickfix.carsonww.com/domains/jualbeliartikel.com
-2026-11-03 05:28:51,Vidar,url,https://k.bo787.com/,#c2 #Vidar,https://threatfox.abuse.ch/ioc/2012095/
-2026-11-03 06:09:47,Vidar,url,https://k4.akurat80.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012353/
+2026-11-04 09:30:15,Unknown malware,url,https://gate-air.com/,#ClickFix,https://clickfix.carsonww.com/domains/gate-air.com
+2026-11-04 01:10:48,Vidar,url,https://gw.alien203.org/c2/,#Vidar,https://threatfox.abuse.ch/ioc/2013710/
+2026-11-04 01:55:48,Vidar,url,https://gw.alien203.org/e/,#Vidar,https://threatfox.abuse.ch/ioc/2013738/
+2026-11-04 01:30:48,Vidar,url,https://gw.alien203.org/f/,#Vidar,https://threatfox.abuse.ch/ioc/2013726/
+2026-11-04 01:35:48,Vidar,url,https://gw.alien203.org/jg/,#Vidar,https://threatfox.abuse.ch/ioc/2013728/
+2026-11-04 01:15:48,Vidar,url,https://gw.alien203.org/kx/,#Vidar,https://threatfox.abuse.ch/ioc/2013717/
+2026-11-04 01:20:48,Vidar,url,https://gw.alien203.org/nj/,#Vidar,https://threatfox.abuse.ch/ioc/2013724/
+2026-11-04 01:45:48,Vidar,url,https://gw.alien203.org/ow/,#Vidar,https://threatfox.abuse.ch/ioc/2013735/
+2026-11-04 01:25:48,Vidar,url,https://gw.alien203.org/pd/,#Vidar,https://threatfox.abuse.ch/ioc/2013725/
+2026-11-04 02:00:49,Vidar,url,https://gw.alien203.org/pg/,#Vidar,https://threatfox.abuse.ch/ioc/2013756/
+2026-11-04 01:40:48,Vidar,url,https://gw.alien203.org/r2/,#Vidar,https://threatfox.abuse.ch/ioc/2013734/
+2026-11-04 01:05:48,Vidar,url,https://gw.alien203.org/v7q/,#Vidar,https://threatfox.abuse.ch/ioc/2013708/
+2026-11-04 01:50:48,Vidar,url,https://gw.alien203.org/xq/,#Vidar,https://threatfox.abuse.ch/ioc/2013736/
+2026-11-03 23:40:48,Vidar,url,https://gx.alien203.org/a/,#Vidar,https://threatfox.abuse.ch/ioc/2013658/
+2026-11-03 23:50:48,Vidar,url,https://gx.alien203.org/fh/,#Vidar,https://threatfox.abuse.ch/ioc/2013660/
+2026-11-03 23:25:48,Vidar,url,https://gx.alien203.org/gf/,#Vidar,https://threatfox.abuse.ch/ioc/2013645/
+2026-11-03 23:15:48,Vidar,url,https://gx.alien203.org/gm/,#Vidar,https://threatfox.abuse.ch/ioc/2013636/
+2026-11-04 00:00:48,Vidar,url,https://gx.alien203.org/j5/,#Vidar,https://threatfox.abuse.ch/ioc/2013666/
+2026-11-03 23:30:48,Vidar,url,https://gx.alien203.org/p1/,#Vidar,https://threatfox.abuse.ch/ioc/2013652/
+2026-11-03 23:35:48,Vidar,url,https://gx.alien203.org/q6/,#Vidar,https://threatfox.abuse.ch/ioc/2013657/
+2026-11-03 23:45:48,Vidar,url,https://gx.alien203.org/se/,#Vidar,https://threatfox.abuse.ch/ioc/2013659/
+2026-11-03 23:05:48,Vidar,url,https://gx.alien203.org/u1/,#Vidar,https://threatfox.abuse.ch/ioc/2013632/
+2026-11-03 23:20:48,Vidar,url,https://gx.alien203.org/x/,#Vidar,https://threatfox.abuse.ch/ioc/2013641/
+2026-11-03 23:10:48,Vidar,url,https://gx.alien203.org/z2/,#Vidar,https://threatfox.abuse.ch/ioc/2013635/
+2026-11-03 23:55:48,Vidar,url,https://gx.alien203.org/zj/,#Vidar,https://threatfox.abuse.ch/ioc/2013661/
+2026-11-04 03:30:48,Vidar,url,https://he.alien203.org/c7/,#Vidar,https://threatfox.abuse.ch/ioc/2013838/
+2026-11-04 03:35:48,Vidar,url,https://he.alien203.org/g9/,#Vidar,https://threatfox.abuse.ch/ioc/2013839/
+2026-11-04 04:00:48,Vidar,url,https://he.alien203.org/h/,#Vidar,https://threatfox.abuse.ch/ioc/2013855/
+2026-11-04 03:45:48,Vidar,url,https://he.alien203.org/hk/,#Vidar,https://threatfox.abuse.ch/ioc/2013841/
+2026-11-04 03:40:48,Vidar,url,https://he.alien203.org/l1/,#Vidar,https://threatfox.abuse.ch/ioc/2013840/
+2026-11-04 03:25:48,Vidar,url,https://he.alien203.org/pz/,#Vidar,https://threatfox.abuse.ch/ioc/2013833/
+2026-11-04 03:05:49,Vidar,url,https://he.alien203.org/r/,#Vidar,https://threatfox.abuse.ch/ioc/2013819/
+2026-11-04 03:10:48,Vidar,url,https://he.alien203.org/shi/,#Vidar,https://threatfox.abuse.ch/ioc/2013821/
+2026-11-04 03:50:48,Vidar,url,https://he.alien203.org/vh/,#Vidar,https://threatfox.abuse.ch/ioc/2013843/
+2026-11-04 03:20:48,Vidar,url,https://he.alien203.org/w6/,#Vidar,https://threatfox.abuse.ch/ioc/2013828/
+2026-11-04 03:15:48,Vidar,url,https://he.alien203.org/xy/,#Vidar,https://threatfox.abuse.ch/ioc/2013822/
+2026-11-04 03:55:48,Vidar,url,https://he.alien203.org/zi/,#Vidar,https://threatfox.abuse.ch/ioc/2013844/
+2026-11-03 23:20:48,Vidar,url,https://k.bob78.org/,#Vidar,https://threatfox.abuse.ch/ioc/2013640/
+2026-11-03 23:30:48,Vidar,url,https://k.bob78.org/a/,#Vidar,https://threatfox.abuse.ch/ioc/2013651/
+2026-11-04 00:30:48,Vidar,url,https://k.bob78.org/k/,#Vidar,https://threatfox.abuse.ch/ioc/2013688/
+2026-11-04 02:00:48,Vidar,url,https://k.bob78.org/s/,#Vidar,https://threatfox.abuse.ch/ioc/2013755/
+2026-11-04 00:00:48,Vidar,url,https://k.bob78.org/t/,#Vidar,https://threatfox.abuse.ch/ioc/2013665/
+2026-11-04 01:00:48,Vidar,url,https://k.bob78.org/v/,#Vidar,https://threatfox.abuse.ch/ioc/2013703/
+2026-11-04 06:05:48,Vidar,url,https://k9.alien203.org/e/,#Vidar,https://threatfox.abuse.ch/ioc/2013974/
+2026-11-04 06:15:48,Vidar,url,https://k9.alien203.org/mk/,#Vidar,https://threatfox.abuse.ch/ioc/2013977/
+2026-11-04 06:20:48,Vidar,url,https://k9.alien203.org/w/,#Vidar,https://threatfox.abuse.ch/ioc/2013980/
+2026-11-04 06:10:48,Vidar,url,https://k9.alien203.org/wp/,#Vidar,https://threatfox.abuse.ch/ioc/2013975/
 2026-11-03 16:59:22,WARDENStealer,url,https://kavjsujfwefw.rest/,,https://threatfox.abuse.ch/ioc/2013358/
-2026-11-03 06:09:48,Vidar,url,https://kb.akasia988.net/,#Vidar,https://threatfox.abuse.ch/ioc/2012366/
 2026-11-03 16:55:48,Vidar,url,https://kb.alexsi4d.org/au/,#Vidar,https://threatfox.abuse.ch/ioc/2013356/
 2026-11-03 16:35:48,Vidar,url,https://kb.alexsi4d.org/bz/,#Vidar,https://threatfox.abuse.ch/ioc/2013115/
 2026-11-03 16:50:48,Vidar,url,https://kb.alexsi4d.org/d2/,#Vidar,https://threatfox.abuse.ch/ioc/2013355/
@@ -173,58 +162,32 @@
 2026-11-03 16:15:48,Vidar,url,https://kb.alexsi4d.org/q8/,#Vidar,https://threatfox.abuse.ch/ioc/2013097/
 2026-11-03 17:01:01,Vidar,url,https://kb.alexsi4d.org/t4/,#Vidar,https://threatfox.abuse.ch/ioc/2013360/
 2026-11-03 16:10:48,Vidar,url,https://kb.alexsi4d.org/wi/,#Vidar,https://threatfox.abuse.ch/ioc/2013095/
-2026-11-03 00:00:37,Unknown malware,url,https://keepexercise.com/,#ClickFix,https://clickfix.carsonww.com/domains/keepexercise.com
-2026-11-03 00:00:37,Unknown malware,url,https://kristof.club/,#ClickFix,https://clickfix.carsonww.com/domains/kristof.club
-2026-11-03 05:28:50,Vidar,url,https://l1.albino77.org/,#c2 #Vidar,https://threatfox.abuse.ch/ioc/2012096/
-2026-11-03 05:28:51,Vidar,url,https://l1.albino77.org/gq/gate,#c2 #Vidar,https://threatfox.abuse.ch/ioc/2012094/
-2026-11-03 06:09:47,Vidar,url,https://ldy.albino77.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012339/
-2026-11-03 11:53:03,WARDENStealer,url,https://limnewarken.qpon/,,https://threatfox.abuse.ch/ioc/2012899/
 2026-11-03 16:59:22,WARDENStealer,url,https://liuxue188.com/,,https://threatfox.abuse.ch/ioc/2013357/
-2026-11-03 06:09:48,Vidar,url,https://ll.aksara87.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012365/
-2026-11-03 02:26:04,WARDENStealer,url,https://llc-dev.rest/,,https://threatfox.abuse.ch/ioc/2012218/
-2026-11-02 23:10:48,Vidar,url,https://m.bola7.net/,#Vidar,https://threatfox.abuse.ch/ioc/2012046/
-2026-11-03 00:05:48,Vidar,url,https://m.bola7.net/z/,#Vidar,https://threatfox.abuse.ch/ioc/2012144/
+2026-11-04 03:05:48,Vidar,url,https://ln.akun258.org/,#Vidar,https://threatfox.abuse.ch/ioc/2013818/
 2026-11-03 19:05:48,Vidar,url,https://m4.akun258.org/,#Vidar,https://threatfox.abuse.ch/ioc/2013458/
-2026-11-03 06:09:48,Vidar,url,https://m8.akasia988.net/,#Vidar,https://threatfox.abuse.ch/ioc/2012367/
-2026-11-03 06:09:47,Vidar,url,https://m8.albino77.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012341/
 2026-11-03 21:30:36,Unknown malware,url,https://makedonias.gr/,#ClickFix,https://clickfix.carsonww.com/domains/makedonias.gr
-2026-11-03 01:00:36,Unknown malware,url,https://man2tidore.sch.id/,#ClickFix,https://clickfix.carsonww.com/domains/man2tidore.sch.id
-2026-11-03 00:00:37,Unknown malware,url,https://masterzdes.ru/,#ClickFix,https://clickfix.carsonww.com/domains/masterzdes.ru
-2026-11-03 00:00:37,Unknown malware,url,https://matrixsignmedia.com/,#ClickFix,https://clickfix.carsonww.com/domains/matrixsignmedia.com
-2026-11-03 01:00:36,Unknown malware,url,https://mawacollection.com/,#ClickFix,https://clickfix.carsonww.com/domains/mawacollection.com
-2026-11-03 12:38:49,WARDENStealer,url,https://mirzaukyyj.com/,,https://threatfox.abuse.ch/ioc/2012952/
-2026-11-03 11:00:36,Unknown malware,url,https://myboostup.io/,#ClickFix,https://clickfix.carsonww.com/domains/myboostup.io
+2026-11-04 13:30:14,Unknown malware,url,https://mceahn.top/,#ClickFix,https://clickfix.carsonww.com/domains/mceahn.top
+2026-11-04 10:29:50,Unknown malware,url,https://microsofttelemetryservices.st/api/bundle,,https://bazaar.abuse.ch/sample/aa7ee2e197c6621037ecf3e68aa3f5fe33836ada3725275360b512eeb3795ca7/
+2026-11-03 22:35:48,Vidar,url,https://n.alexsi4d.org/an/,#Vidar,https://threatfox.abuse.ch/ioc/2013616/
+2026-11-03 22:10:48,Vidar,url,https://n.alexsi4d.org/av/,#Vidar,https://threatfox.abuse.ch/ioc/2013598/
+2026-11-03 22:15:48,Vidar,url,https://n.alexsi4d.org/ba/,#Vidar,https://threatfox.abuse.ch/ioc/2013603/
+2026-11-03 22:50:48,Vidar,url,https://n.alexsi4d.org/c/,#Vidar,https://threatfox.abuse.ch/ioc/2013620/
+2026-11-03 22:30:48,Vidar,url,https://n.alexsi4d.org/c6j/,#Vidar,https://threatfox.abuse.ch/ioc/2013615/
+2026-11-03 22:40:48,Vidar,url,https://n.alexsi4d.org/eb/,#Vidar,https://threatfox.abuse.ch/ioc/2013618/
+2026-11-03 22:55:48,Vidar,url,https://n.alexsi4d.org/fk/,#Vidar,https://threatfox.abuse.ch/ioc/2013623/
+2026-11-03 23:01:01,Vidar,url,https://n.alexsi4d.org/ln/,#Vidar,https://threatfox.abuse.ch/ioc/2013627/
+2026-11-03 22:05:48,Vidar,url,https://n.alexsi4d.org/m/,#Vidar,https://threatfox.abuse.ch/ioc/2013597/
+2026-11-03 22:20:48,Vidar,url,https://n.alexsi4d.org/m1/,#Vidar,https://threatfox.abuse.ch/ioc/2013608/
+2026-11-03 22:45:48,Vidar,url,https://n.alexsi4d.org/m8/,#Vidar,https://threatfox.abuse.ch/ioc/2013619/
+2026-11-03 22:25:48,Vidar,url,https://n.alexsi4d.org/q/,#Vidar,https://threatfox.abuse.ch/ioc/2013612/
 2026-11-03 20:00:49,Vidar,url,https://n.bob78.org/k/,#Vidar,https://threatfox.abuse.ch/ioc/2013512/
-2026-11-03 06:09:47,Vidar,url,https://n7.albino77.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012338/
-2026-11-03 00:00:37,Unknown malware,url,https://nivethithaasakthivel.com/,#ClickFix,https://clickfix.carsonww.com/domains/nivethithaasakthivel.com
-2026-11-03 11:05:48,Vidar,url,https://np.akun258.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012865/
-2026-11-03 06:09:48,Vidar,url,https://nv.aksara87.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012364/
-2026-11-03 06:09:47,Vidar,url,https://o.bob78.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012336/
-2026-11-03 07:05:49,Vidar,url,https://o.bob78.org/b/,#Vidar,https://threatfox.abuse.ch/ioc/2012527/
-2026-11-03 07:30:48,Vidar,url,https://o.bob78.org/n/,#Vidar,https://threatfox.abuse.ch/ioc/2012566/
-2026-11-03 08:00:48,Vidar,url,https://o.bob78.org/p/,#Vidar,https://threatfox.abuse.ch/ioc/2012589/
-2026-11-03 06:30:48,Vidar,url,https://o.bob78.org/u/,#Vidar,https://threatfox.abuse.ch/ioc/2012479/
-2026-11-03 06:20:48,Vidar,url,https://o.bob78.org/y/,#Vidar,https://threatfox.abuse.ch/ioc/2012456/
-2026-11-03 00:00:36,Unknown malware,url,https://outfithub4you.com/,#ClickFix,https://clickfix.carsonww.com/domains/outfithub4you.com
+2026-11-04 09:30:14,Unknown malware,url,https://nandhini-pearl.in/,#ClickFix,https://clickfix.carsonww.com/domains/nandhini-pearl.in
 2026-11-03 20:05:48,Vidar,url,https://p.bob78.org/,#Vidar,https://threatfox.abuse.ch/ioc/2013516/
 2026-11-03 20:30:48,Vidar,url,https://p.bob78.org/c/,#Vidar,https://threatfox.abuse.ch/ioc/2013522/
+2026-11-03 22:30:48,Vidar,url,https://p.bob78.org/i/,#Vidar,https://threatfox.abuse.ch/ioc/2013614/
 2026-11-03 21:30:48,Vidar,url,https://p.bob78.org/k/,#Vidar,https://threatfox.abuse.ch/ioc/2013569/
 2026-11-03 22:00:48,Vidar,url,https://p.bob78.org/v/,#Vidar,https://threatfox.abuse.ch/ioc/2013593/
 2026-11-03 21:00:50,Vidar,url,https://p.bob78.org/w/,#Vidar,https://threatfox.abuse.ch/ioc/2013551/
-2026-11-03 00:00:37,Unknown malware,url,https://pallypattaya.net/,#ClickFix,https://clickfix.carsonww.com/domains/pallypattaya.net
-2026-11-02 23:34:04,SmartApeSG,url,https://pawpawrath.org/policy/signup-ajax.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/2012068/
-2026-11-03 11:55:48,Vidar,url,https://pc.aldoku77.org/e/,#Vidar,https://threatfox.abuse.ch/ioc/2012900/
-2026-11-03 11:45:48,Vidar,url,https://pc.aldoku77.org/e8/,#Vidar,https://threatfox.abuse.ch/ioc/2012896/
-2026-11-03 11:35:48,Vidar,url,https://pc.aldoku77.org/f1/,#Vidar,https://threatfox.abuse.ch/ioc/2012891/
-2026-11-03 11:40:48,Vidar,url,https://pc.aldoku77.org/i2/,#Vidar,https://threatfox.abuse.ch/ioc/2012895/
-2026-11-03 11:10:48,Vidar,url,https://pc.aldoku77.org/in/,#Vidar,https://threatfox.abuse.ch/ioc/2012867/
-2026-11-03 11:15:48,Vidar,url,https://pc.aldoku77.org/je/,#Vidar,https://threatfox.abuse.ch/ioc/2012870/
-2026-11-03 11:05:48,Vidar,url,https://pc.aldoku77.org/q/,#Vidar,https://threatfox.abuse.ch/ioc/2012866/
-2026-11-03 11:30:48,Vidar,url,https://pc.aldoku77.org/rx/,#Vidar,https://threatfox.abuse.ch/ioc/2012890/
-2026-11-03 11:25:48,Vidar,url,https://pc.aldoku77.org/uk/,#Vidar,https://threatfox.abuse.ch/ioc/2012884/
-2026-11-03 11:50:48,Vidar,url,https://pc.aldoku77.org/vf/,#Vidar,https://threatfox.abuse.ch/ioc/2012897/
-2026-11-03 11:20:48,Vidar,url,https://pc.aldoku77.org/ws/,#Vidar,https://threatfox.abuse.ch/ioc/2012876/
-2026-11-03 12:00:48,Vidar,url,https://pc.aldoku77.org/wzy/,#Vidar,https://threatfox.abuse.ch/ioc/2012903/
 2026-11-03 21:05:48,Vidar,url,https://pc.alexsi4d.org/bc/,#Vidar,https://threatfox.abuse.ch/ioc/2013555/
 2026-11-03 21:35:48,Vidar,url,https://pc.alexsi4d.org/ca/,#Vidar,https://threatfox.abuse.ch/ioc/2013576/
 2026-11-03 21:15:48,Vidar,url,https://pc.alexsi4d.org/f9y/,#Vidar,https://threatfox.abuse.ch/ioc/2013559/
@@ -237,58 +200,37 @@
 2026-11-03 21:40:48,Vidar,url,https://pc.alexsi4d.org/uvx/,#Vidar,https://threatfox.abuse.ch/ioc/2013582/
 2026-11-03 21:30:48,Vidar,url,https://pc.alexsi4d.org/xg/,#Vidar,https://threatfox.abuse.ch/ioc/2013570/
 2026-11-03 21:20:48,Vidar,url,https://pc.alexsi4d.org/ze/,#Vidar,https://threatfox.abuse.ch/ioc/2013560/
-2026-11-03 00:00:37,Unknown malware,url,https://pp88.onl/,#ClickFix,https://clickfix.carsonww.com/domains/pp88.onl
-2026-11-03 01:00:36,Unknown malware,url,https://prashenterprises.com/,#ClickFix,https://clickfix.carsonww.com/domains/prashenterprises.com
+2026-11-03 23:07:33,WARDENStealer,url,https://pidorasie-1.rest/,,https://threatfox.abuse.ch/ioc/2013633/
 2026-11-03 16:43:33,WARDENStealer,url,https://prokla2310yod.com/,,https://threatfox.abuse.ch/ioc/2013351/
 2026-11-03 16:43:33,WARDENStealer,url,https://prokla2yod2210.com/,,https://threatfox.abuse.ch/ioc/2013352/
 2026-11-03 16:43:33,WARDENStealer,url,https://proklayod2210.com/,,https://threatfox.abuse.ch/ioc/2013349/
-2026-11-02 23:34:04,SmartApeSG,url,https://pumicebarrow.info/proxy/acl-parser.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/2012065/
-2026-11-03 10:50:48,Vidar,url,https://qb.aldoku77.org/b7/,#Vidar,https://threatfox.abuse.ch/ioc/2012848/
-2026-11-03 11:01:02,Vidar,url,https://qb.aldoku77.org/d/,#Vidar,https://threatfox.abuse.ch/ioc/2012858/
-2026-11-03 10:25:48,Vidar,url,https://qb.aldoku77.org/i9/,#Vidar,https://threatfox.abuse.ch/ioc/2012820/
-2026-11-03 10:05:48,Vidar,url,https://qb.aldoku77.org/im/,#Vidar,https://threatfox.abuse.ch/ioc/2012790/
-2026-11-03 10:30:48,Vidar,url,https://qb.aldoku77.org/jct/,#Vidar,https://threatfox.abuse.ch/ioc/2012828/
-2026-11-03 10:45:48,Vidar,url,https://qb.aldoku77.org/lue/,#Vidar,https://threatfox.abuse.ch/ioc/2012842/
-2026-11-03 10:20:48,Vidar,url,https://qb.aldoku77.org/rg/,#Vidar,https://threatfox.abuse.ch/ioc/2012800/
-2026-11-03 10:15:48,Vidar,url,https://qb.aldoku77.org/sb2/,#Vidar,https://threatfox.abuse.ch/ioc/2012798/
-2026-11-03 10:35:48,Vidar,url,https://qb.aldoku77.org/w7/,#Vidar,https://threatfox.abuse.ch/ioc/2012834/
-2026-11-03 10:55:48,Vidar,url,https://qb.aldoku77.org/xq5/,#Vidar,https://threatfox.abuse.ch/ioc/2012851/
-2026-11-03 10:10:48,Vidar,url,https://qb.aldoku77.org/yf/,#Vidar,https://threatfox.abuse.ch/ioc/2012797/
-2026-11-03 10:40:48,Vidar,url,https://qb.aldoku77.org/z/,#Vidar,https://threatfox.abuse.ch/ioc/2012835/
+2026-11-04 05:01:03,Vidar,url,https://q3.alien203.org/,#Vidar,https://threatfox.abuse.ch/ioc/2013906/
+2026-11-04 05:55:48,Vidar,url,https://q3.alien203.org/f/,#Vidar,https://threatfox.abuse.ch/ioc/2013961/
+2026-11-04 05:25:48,Vidar,url,https://q3.alien203.org/i/,#Vidar,https://threatfox.abuse.ch/ioc/2013925/
+2026-11-04 05:45:48,Vidar,url,https://q3.alien203.org/i5/,#Vidar,https://threatfox.abuse.ch/ioc/2013959/
+2026-11-04 05:35:45,Vidar,url,https://q3.alien203.org/ju/,#Vidar,https://threatfox.abuse.ch/ioc/2013956/
+2026-11-04 05:40:48,Vidar,url,https://q3.alien203.org/o/,#Vidar,https://threatfox.abuse.ch/ioc/2013957/
+2026-11-04 05:05:47,Vidar,url,https://q3.alien203.org/p2/,#Vidar,https://threatfox.abuse.ch/ioc/2013909/
+2026-11-04 06:00:48,Vidar,url,https://q3.alien203.org/p7/,#Vidar,https://threatfox.abuse.ch/ioc/2013968/
+2026-11-04 05:15:48,Vidar,url,https://q3.alien203.org/s/,#Vidar,https://threatfox.abuse.ch/ioc/2013916/
+2026-11-04 05:20:48,Vidar,url,https://q3.alien203.org/s3/,#Vidar,https://threatfox.abuse.ch/ioc/2013919/
+2026-11-04 05:10:48,Vidar,url,https://q3.alien203.org/tps/,#Vidar,https://threatfox.abuse.ch/ioc/2013915/
+2026-11-04 05:30:48,Vidar,url,https://q3.alien203.org/uj/,#Vidar,https://threatfox.abuse.ch/ioc/2013931/
+2026-11-04 05:50:48,Vidar,url,https://q3.alien203.org/ze/,#Vidar,https://threatfox.abuse.ch/ioc/2013960/
+2026-11-04 01:37:04,WARDENStealer,url,https://rabbids-youtube.cc/,,https://threatfox.abuse.ch/ioc/2013733/
 2026-11-03 21:30:36,Unknown malware,url,https://rahu.ir/,#ClickFix,https://clickfix.carsonww.com/domains/rahu.ir
-2026-11-03 10:21:03,WARDENStealer,url,https://rbolt.forum/,,https://threatfox.abuse.ch/ioc/2012801/
-2026-11-03 10:21:03,WARDENStealer,url,https://rbolt.pics/,,https://threatfox.abuse.ch/ioc/2012802/
-2026-11-02 23:34:04,SmartApeSG,url,https://redbudliss.org/trace/logout-bundle.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/2012069/
+2026-11-04 06:12:13,WARDENStealer,url,https://randfom2323.com/,,https://threatfox.abuse.ch/ioc/2013976/
 2026-11-03 21:30:36,Unknown malware,url,https://redmondjeffreyassociates.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/redmondjeffreyassociates.co.uk
-2026-11-03 00:00:36,Unknown malware,url,https://ridomovies.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/ridomovies.co.uk
-2026-11-03 03:05:48,Vidar,url,https://rj.akuatoto.net/,#Vidar,https://threatfox.abuse.ch/ioc/2012244/
-2026-11-03 06:09:47,Vidar,url,https://rq.alan4d.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012344/
-2026-11-03 06:09:48,Vidar,url,https://rw.aksara87.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012361/
-2026-11-03 07:05:48,Vidar,url,https://s.bola7.net/,#Vidar,https://threatfox.abuse.ch/ioc/2012524/
-2026-11-03 06:09:47,Vidar,url,https://s9.alan4d.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012346/
-2026-11-03 00:00:36,Unknown malware,url,https://seafoodnetwork.org/,#ClickFix,https://clickfix.carsonww.com/domains/seafoodnetwork.org
-2026-11-03 00:00:36,Unknown malware,url,https://semijoiasbr.com/,#ClickFix,https://clickfix.carsonww.com/domains/semijoiasbr.com
+2026-11-04 12:01:25,Unknown malware,url,https://relay-3f9c71.kartohaantoha36-6a9.workers.dev/api/hlam/files/4001,#funrat,https://threatfox.abuse.ch/ioc/2014232/
+2026-11-04 12:01:25,Unknown malware,url,https://relay-3f9c71.kartohaantoha36-6a9.workers.dev/config,#funrat,https://threatfox.abuse.ch/ioc/2014231/
+2026-11-04 12:01:25,Unknown malware,url,https://relay-3f9c71.kartohaantoha36-6a9.workers.dev/report,#funrat,https://threatfox.abuse.ch/ioc/2014230/
+2026-11-04 12:01:24,Unknown malware,url,https://relay-mirror.kartohaantoha36-6a9.workers.dev/api/hlam/files/4001,#funrat,https://threatfox.abuse.ch/ioc/2014233/
 2026-11-03 14:41:19,WARDENStealer,url,https://sertilijnah.rest/,,https://threatfox.abuse.ch/ioc/2013048/
-2026-11-03 02:26:04,WARDENStealer,url,https://sk-group.cc/,,https://threatfox.abuse.ch/ioc/2012219/
-2026-11-03 07:30:48,Vidar,url,https://sl.aldoku77.org/af/,#Vidar,https://threatfox.abuse.ch/ioc/2012567/
-2026-11-03 07:55:48,Vidar,url,https://sl.aldoku77.org/bh/,#Vidar,https://threatfox.abuse.ch/ioc/2012577/
-2026-11-03 08:00:48,Vidar,url,https://sl.aldoku77.org/df/,#Vidar,https://threatfox.abuse.ch/ioc/2012590/
-2026-11-03 07:40:48,Vidar,url,https://sl.aldoku77.org/fo/,#Vidar,https://threatfox.abuse.ch/ioc/2012570/
-2026-11-03 07:10:48,Vidar,url,https://sl.aldoku77.org/g6/,#Vidar,https://threatfox.abuse.ch/ioc/2012537/
-2026-11-03 07:15:48,Vidar,url,https://sl.aldoku77.org/i/,#Vidar,https://threatfox.abuse.ch/ioc/2012540/
-2026-11-03 07:05:49,Vidar,url,https://sl.aldoku77.org/j/,#Vidar,https://threatfox.abuse.ch/ioc/2012528/
-2026-11-03 07:50:48,Vidar,url,https://sl.aldoku77.org/jk5/,#Vidar,https://threatfox.abuse.ch/ioc/2012575/
-2026-11-03 07:45:48,Vidar,url,https://sl.aldoku77.org/my/,#Vidar,https://threatfox.abuse.ch/ioc/2012574/
-2026-11-03 07:35:48,Vidar,url,https://sl.aldoku77.org/oqc/,#Vidar,https://threatfox.abuse.ch/ioc/2012569/
-2026-11-03 07:20:48,Vidar,url,https://sl.aldoku77.org/s/,#Vidar,https://threatfox.abuse.ch/ioc/2012562/
-2026-11-03 07:25:48,Vidar,url,https://sl.aldoku77.org/v7/,#Vidar,https://threatfox.abuse.ch/ioc/2012563/
 2026-11-03 17:30:35,Unknown malware,url,https://softify.lat/,#ClickFix,https://clickfix.carsonww.com/domains/softify.lat
-2026-11-03 00:00:36,Unknown malware,url,https://solylunaestudio.com/,#ClickFix,https://clickfix.carsonww.com/domains/solylunaestudio.com
-2026-11-03 03:00:35,Unknown malware,url,https://somrose.co/,#ClickFix,https://clickfix.carsonww.com/domains/somrose.co
-2026-11-03 00:00:36,Unknown malware,url,https://st666.show/,#ClickFix,https://clickfix.carsonww.com/domains/st666.show
-2026-11-03 06:09:47,Vidar,url,https://steamcommunity.com/profiles/76561198612847216,#Vidar,https://threatfox.abuse.ch/ioc/2012334/
-2026-11-03 11:30:35,Unknown malware,url,https://svarka-kzn.ru/,#ClickFix,https://clickfix.carsonww.com/domains/svarka-kzn.ru
-2026-11-03 06:09:48,Vidar,url,https://tc.akasia988.net/,#Vidar,https://threatfox.abuse.ch/ioc/2012372/
+2026-11-04 09:30:15,Unknown malware,url,https://sunstatehvac.com/,#ClickFix,https://clickfix.carsonww.com/domains/sunstatehvac.com
+2026-11-04 05:10:48,Vidar,url,https://t.coy9.com/,#Vidar,https://threatfox.abuse.ch/ioc/2013914/
+2026-11-04 06:00:48,Vidar,url,https://t.coy9.com/u/,#Vidar,https://threatfox.abuse.ch/ioc/2013967/
+2026-11-04 05:30:48,Vidar,url,https://t.coy9.com/w/,#Vidar,https://threatfox.abuse.ch/ioc/2013930/
 2026-11-03 18:20:48,Vidar,url,https://tc.alexsi4d.org/au/,#Vidar,https://threatfox.abuse.ch/ioc/2013422/
 2026-11-03 19:00:49,Vidar,url,https://tc.alexsi4d.org/do/,#Vidar,https://threatfox.abuse.ch/ioc/2013454/
 2026-11-03 18:10:48,Vidar,url,https://tc.alexsi4d.org/et/,#Vidar,https://threatfox.abuse.ch/ioc/2013415/
@@ -301,22 +243,9 @@
 2026-11-03 18:05:48,Vidar,url,https://tc.alexsi4d.org/ts/,#Vidar,https://threatfox.abuse.ch/ioc/2013409/
 2026-11-03 18:15:48,Vidar,url,https://tc.alexsi4d.org/v/,#Vidar,https://threatfox.abuse.ch/ioc/2013417/
 2026-11-03 18:30:48,Vidar,url,https://tc.alexsi4d.org/ve/,#Vidar,https://threatfox.abuse.ch/ioc/2013433/
-2026-11-03 06:09:47,Vidar,url,https://telegram.me/eg0ttt,#Vidar,https://threatfox.abuse.ch/ioc/2012335/
-2026-11-03 00:00:36,Unknown malware,url,https://todayeggprice.in/,#ClickFix,https://clickfix.carsonww.com/domains/todayeggprice.in
-2026-11-02 23:34:04,SmartApeSG,url,https://travertinekurgans.info/signin/reset-thread.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/2012066/
-2026-11-02 23:34:04,SmartApeSG,url,https://tuffcromlech.info/verify/realm-render.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/2012067/
 2026-11-03 21:30:36,Unknown malware,url,https://tuoitresamco.vn/,#ClickFix,https://clickfix.carsonww.com/domains/tuoitresamco.vn
-2026-11-03 06:09:48,Vidar,url,https://u9.akasia988.net/,#Vidar,https://threatfox.abuse.ch/ioc/2012370/
-2026-11-03 07:22:08,IClickFix,url,https://ubbrobccheck20.cc/assets/vendor.min.js,#ClickFix #etherhiding #Polygon #TDS #WPSkip,https://threatfox.abuse.ch/ioc/2012547/
-2026-11-03 02:26:04,WARDENStealer,url,https://updates-get.net/,,https://threatfox.abuse.ch/ioc/2012220/
-2026-11-03 06:09:47,Vidar,url,https://uq.alan4d.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012345/
-2026-11-03 00:00:36,Unknown malware,url,https://usatrendblog.com/,#ClickFix,https://clickfix.carsonww.com/domains/usatrendblog.com
-2026-11-03 06:09:47,Vidar,url,https://uu.alan4d.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012348/
-2026-11-03 11:00:36,Unknown malware,url,https://v79.ad/,#ClickFix,https://clickfix.carsonww.com/domains/v79.ad
 2026-11-03 14:00:36,Unknown malware,url,https://vacationsapple.com/,#ClickFix,https://clickfix.carsonww.com/domains/vacationsapple.com
-2026-11-03 07:22:10,IClickFix,url,https://verifyidentrob01.cc/assets/vendor.min.js,#ClickFix #etherhiding #Polygon #TDS #WPSkip,https://threatfox.abuse.ch/ioc/2012544/
-2026-11-03 07:22:09,IClickFix,url,https://verifyidentrob01.cc/cdn/sync/traffic?r=0cb9,#ClickFix #etherhiding #Polygon #TDS #WPSkip,https://threatfox.abuse.ch/ioc/2012546/
-2026-11-03 07:22:10,IClickFix,url,https://verifyidentrob01.cc/js/all.min.js,#ClickFix #etherhiding #Polygon #TDS #WPSkip,https://threatfox.abuse.ch/ioc/2012545/
+2026-11-03 23:05:47,Vidar,url,https://ve.akun258.org/,#Vidar,https://threatfox.abuse.ch/ioc/2013631/
 2026-11-03 15:20:48,Vidar,url,https://vi.alexsi4d.org/bmn/,#Vidar,https://threatfox.abuse.ch/ioc/2013079/
 2026-11-03 15:55:48,Vidar,url,https://vi.alexsi4d.org/bu/,#Vidar,https://threatfox.abuse.ch/ioc/2013091/
 2026-11-03 15:05:48,Vidar,url,https://vi.alexsi4d.org/bz/,#Vidar,https://threatfox.abuse.ch/ioc/2013060/
@@ -329,6 +258,8 @@
 2026-11-03 15:15:48,Vidar,url,https://vi.alexsi4d.org/pc/,#Vidar,https://threatfox.abuse.ch/ioc/2013077/
 2026-11-03 15:30:48,Vidar,url,https://vi.alexsi4d.org/rk/,#Vidar,https://threatfox.abuse.ch/ioc/2013081/
 2026-11-03 15:35:48,Vidar,url,https://vi.alexsi4d.org/uk/,#Vidar,https://threatfox.abuse.ch/ioc/2013083/
+2026-11-04 13:35:04,WARDENStealer,url,https://vuiniqu.rest/,,https://threatfox.abuse.ch/ioc/2014303/
+2026-11-04 03:05:48,Vidar,url,https://w.bosmj.org/,#Vidar,https://threatfox.abuse.ch/ioc/2013816/
 2026-11-03 20:40:48,Vidar,url,https://w9.alexsi4d.org/b7/,#Vidar,https://threatfox.abuse.ch/ioc/2013535/
 2026-11-03 20:55:48,Vidar,url,https://w9.alexsi4d.org/bg/,#Vidar,https://threatfox.abuse.ch/ioc/2013545/
 2026-11-03 20:05:48,Vidar,url,https://w9.alexsi4d.org/ef/,#Vidar,https://threatfox.abuse.ch/ioc/2013517/
@@ -341,41 +272,24 @@
 2026-11-03 20:25:48,Vidar,url,https://w9.alexsi4d.org/wy/,#Vidar,https://threatfox.abuse.ch/ioc/2013521/
 2026-11-03 20:45:48,Vidar,url,https://w9.alexsi4d.org/y5/,#Vidar,https://threatfox.abuse.ch/ioc/2013541/
 2026-11-03 20:15:48,Vidar,url,https://w9.alexsi4d.org/zp/,#Vidar,https://threatfox.abuse.ch/ioc/2013519/
-2026-11-03 00:00:36,Unknown malware,url,https://warisfertilizer.com/,#ClickFix,https://clickfix.carsonww.com/domains/warisfertilizer.com
-2026-11-03 06:09:48,Vidar,url,https://wr.akurat80.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012359/
-2026-11-03 06:45:48,Vidar,url,https://wr.albino77.org/e1/,#Vidar,https://threatfox.abuse.ch/ioc/2012513/
-2026-11-03 06:25:48,Vidar,url,https://wr.albino77.org/iv/,#Vidar,https://threatfox.abuse.ch/ioc/2012460/
-2026-11-03 07:00:48,Vidar,url,https://wr.albino77.org/iz/,#Vidar,https://threatfox.abuse.ch/ioc/2012519/
-2026-11-03 06:50:48,Vidar,url,https://wr.albino77.org/ka/,#Vidar,https://threatfox.abuse.ch/ioc/2012515/
-2026-11-03 06:55:48,Vidar,url,https://wr.albino77.org/lu/,#Vidar,https://threatfox.abuse.ch/ioc/2012516/
-2026-11-03 06:20:48,Vidar,url,https://wr.albino77.org/rf/,#Vidar,https://threatfox.abuse.ch/ioc/2012457/
-2026-11-03 06:35:48,Vidar,url,https://wr.albino77.org/ro/,#Vidar,https://threatfox.abuse.ch/ioc/2012511/
-2026-11-03 06:30:48,Vidar,url,https://wr.albino77.org/x7/,#Vidar,https://threatfox.abuse.ch/ioc/2012480/
-2026-11-03 06:40:48,Vidar,url,https://wr.albino77.org/zi/,#Vidar,https://threatfox.abuse.ch/ioc/2012512/
-2026-11-03 11:30:35,Unknown malware,url,https://www.accarda.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.accarda.com
-2026-11-03 06:09:48,Vidar,url,https://www.akasia988.net/,#Vidar,https://threatfox.abuse.ch/ioc/2012373/
-2026-11-03 05:30:36,Unknown malware,url,https://www.aloss.sa/,#ClickFix,https://clickfix.carsonww.com/domains/www.aloss.sa
 2026-11-03 14:00:36,Unknown malware,url,https://www.apple-vacation.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.apple-vacation.com
-2026-11-03 01:00:36,Unknown malware,url,https://www.contpercontabil.com.br/,#ClickFix,https://clickfix.carsonww.com/domains/www.contpercontabil.com.br
-2026-11-03 01:00:36,Unknown malware,url,https://www.ercanmakinabursa.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.ercanmakinabursa.com
-2026-11-03 08:00:35,Unknown malware,url,https://www.foxnevs.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.foxnevs.com
-2026-11-03 00:00:37,Unknown malware,url,https://www.jacobbattista.com.au/,#ClickFix,https://clickfix.carsonww.com/domains/www.jacobbattista.com.au
-2026-11-03 00:00:37,Unknown malware,url,https://www.mslperformance.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/www.mslperformance.co.uk
-2026-11-03 00:00:36,Unknown malware,url,https://www.stlghana.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.stlghana.com
-2026-11-03 00:00:36,Unknown malware,url,https://www.tawazon.in/,#ClickFix,https://clickfix.carsonww.com/domains/www.tawazon.in
+2026-11-04 09:30:14,Unknown malware,url,https://www.dannycasey.ie/,#ClickFix,https://clickfix.carsonww.com/domains/www.dannycasey.ie
 2026-11-03 14:00:36,Unknown malware,url,https://www.vacationtour.icu/,#ClickFix,https://clickfix.carsonww.com/domains/www.vacationtour.icu
-2026-11-03 06:09:48,Vidar,url,https://wx.akurat80.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012355/
-2026-11-03 07:05:48,Vidar,url,https://x.akuatoto.net/,#Vidar,https://threatfox.abuse.ch/ioc/2012526/
-2026-11-03 08:05:48,Vidar,url,https://x.bob78.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012596/
-2026-11-03 09:30:48,Vidar,url,https://x.bob78.org/q/,#Vidar,https://threatfox.abuse.ch/ioc/2012736/
-2026-11-03 09:00:48,Vidar,url,https://x.bob78.org/r/,#Vidar,https://threatfox.abuse.ch/ioc/2012714/
-2026-11-03 08:30:48,Vidar,url,https://x.bob78.org/s/,#Vidar,https://threatfox.abuse.ch/ioc/2012701/
-2026-11-03 10:00:48,Vidar,url,https://x.bob78.org/u/,#Vidar,https://threatfox.abuse.ch/ioc/2012779/
-2026-11-03 03:15:48,Vidar,url,https://x.bola7.net/,#Vidar,https://threatfox.abuse.ch/ioc/2012257/
-2026-11-03 06:09:48,Vidar,url,https://x7.aksara87.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012360/
-2026-11-03 06:09:47,Vidar,url,https://xf.alan4d.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012351/
+2026-11-04 00:55:48,Vidar,url,https://xd.alien203.org/cc/,#Vidar,https://threatfox.abuse.ch/ioc/2013696/
+2026-11-04 00:25:48,Vidar,url,https://xd.alien203.org/ebp/,#Vidar,https://threatfox.abuse.ch/ioc/2013683/
+2026-11-04 00:45:48,Vidar,url,https://xd.alien203.org/f0/,#Vidar,https://threatfox.abuse.ch/ioc/2013694/
+2026-11-04 00:50:48,Vidar,url,https://xd.alien203.org/fk/,#Vidar,https://threatfox.abuse.ch/ioc/2013695/
+2026-11-04 00:15:48,Vidar,url,https://xd.alien203.org/gv/,#Vidar,https://threatfox.abuse.ch/ioc/2013670/
+2026-11-04 00:35:48,Vidar,url,https://xd.alien203.org/iya/,#Vidar,https://threatfox.abuse.ch/ioc/2013692/
+2026-11-04 00:20:48,Vidar,url,https://xd.alien203.org/jm/,#Vidar,https://threatfox.abuse.ch/ioc/2013677/
+2026-11-04 00:10:48,Vidar,url,https://xd.alien203.org/kr/,#Vidar,https://threatfox.abuse.ch/ioc/2013669/
+2026-11-04 00:40:48,Vidar,url,https://xd.alien203.org/lz/,#Vidar,https://threatfox.abuse.ch/ioc/2013693/
+2026-11-04 01:00:48,Vidar,url,https://xd.alien203.org/pb/,#Vidar,https://threatfox.abuse.ch/ioc/2013704/
+2026-11-04 00:05:48,Vidar,url,https://xd.alien203.org/r/,#Vidar,https://threatfox.abuse.ch/ioc/2013667/
+2026-11-04 00:30:48,Vidar,url,https://xd.alien203.org/x2/,#Vidar,https://threatfox.abuse.ch/ioc/2013689/
+2026-11-03 22:36:22,WARDENStealer,url,https://xelvorith.rest/,,https://threatfox.abuse.ch/ioc/2013617/
 2026-11-03 16:59:22,WARDENStealer,url,https://xigemade.com/,,https://threatfox.abuse.ch/ioc/2013359/
-2026-11-03 06:09:48,Vidar,url,https://xv5.aksara87.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012362/
+2026-11-04 13:30:14,Unknown malware,url,https://xsadcasyiwaiwai.top/,#ClickFix,https://clickfix.carsonww.com/domains/xsadcasyiwaiwai.top
 2026-11-03 19:35:48,Vidar,url,https://y2.alexsi4d.org/c2/,#Vidar,https://threatfox.abuse.ch/ioc/2013479/
 2026-11-03 19:05:48,Vidar,url,https://y2.alexsi4d.org/c3/,#Vidar,https://threatfox.abuse.ch/ioc/2013459/
 2026-11-03 19:40:48,Vidar,url,https://y2.alexsi4d.org/gxa/,#Vidar,https://threatfox.abuse.ch/ioc/2013480/
@@ -388,22 +302,19 @@
 2026-11-03 20:00:49,Vidar,url,https://y2.alexsi4d.org/ti/,#Vidar,https://threatfox.abuse.ch/ioc/2013513/
 2026-11-03 19:55:48,Vidar,url,https://y2.alexsi4d.org/tn/,#Vidar,https://threatfox.abuse.ch/ioc/2013508/
 2026-11-03 19:10:48,Vidar,url,https://y2.alexsi4d.org/v/,#Vidar,https://threatfox.abuse.ch/ioc/2013460/
-2026-11-03 06:09:48,Vidar,url,https://yh.akasia988.net/,#Vidar,https://threatfox.abuse.ch/ioc/2012369/
-2026-11-03 06:09:47,Vidar,url,https://yn.alan4d.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012349/
-2026-11-03 08:49:04,WARDENStealer,url,https://yoojyyms.com/,,https://threatfox.abuse.ch/ioc/2012708/
-2026-11-03 13:30:48,Vidar,url,https://z.aldoku77.org/bns/,#Vidar,https://threatfox.abuse.ch/ioc/2013003/
+2026-11-04 02:40:48,Vidar,url,https://yb.alien203.org/c8/,#Vidar,https://threatfox.abuse.ch/ioc/2013783/
+2026-11-04 02:45:48,Vidar,url,https://yb.alien203.org/h/,#Vidar,https://threatfox.abuse.ch/ioc/2013784/
+2026-11-04 02:55:48,Vidar,url,https://yb.alien203.org/i/,#Vidar,https://threatfox.abuse.ch/ioc/2013791/
+2026-11-04 03:00:50,Vidar,url,https://yb.alien203.org/jd/,#Vidar,https://threatfox.abuse.ch/ioc/2013812/
+2026-11-04 02:25:48,Vidar,url,https://yb.alien203.org/mb/,#Vidar,https://threatfox.abuse.ch/ioc/2013767/
+2026-11-04 02:10:48,Vidar,url,https://yb.alien203.org/n/,#Vidar,https://threatfox.abuse.ch/ioc/2013762/
+2026-11-04 02:50:48,Vidar,url,https://yb.alien203.org/nh/,#Vidar,https://threatfox.abuse.ch/ioc/2013788/
+2026-11-04 02:35:48,Vidar,url,https://yb.alien203.org/opw/,#Vidar,https://threatfox.abuse.ch/ioc/2013778/
+2026-11-04 02:20:48,Vidar,url,https://yb.alien203.org/oq/,#Vidar,https://threatfox.abuse.ch/ioc/2013765/
+2026-11-04 02:30:48,Vidar,url,https://yb.alien203.org/qr/,#Vidar,https://threatfox.abuse.ch/ioc/2013773/
+2026-11-04 02:15:48,Vidar,url,https://yb.alien203.org/ut/,#Vidar,https://threatfox.abuse.ch/ioc/2013764/
+2026-11-04 02:05:48,Vidar,url,https://yb.alien203.org/wk/,#Vidar,https://threatfox.abuse.ch/ioc/2013760/
 2026-11-03 14:00:49,Vidar,url,https://z.aldoku77.org/e/,#Vidar,https://threatfox.abuse.ch/ioc/2013019/
-2026-11-03 13:10:48,Vidar,url,https://z.aldoku77.org/j/,#Vidar,https://threatfox.abuse.ch/ioc/2012977/
-2026-11-03 13:45:48,Vidar,url,https://z.aldoku77.org/m4/,#Vidar,https://threatfox.abuse.ch/ioc/2013009/
-2026-11-03 13:05:48,Vidar,url,https://z.aldoku77.org/od/,#Vidar,https://threatfox.abuse.ch/ioc/2012974/
-2026-11-03 13:40:48,Vidar,url,https://z.aldoku77.org/p/,#Vidar,https://threatfox.abuse.ch/ioc/2013007/
 2026-11-03 13:55:48,Vidar,url,https://z.aldoku77.org/ql/,#Vidar,https://threatfox.abuse.ch/ioc/2013012/
-2026-11-03 13:20:48,Vidar,url,https://z.aldoku77.org/w/,#Vidar,https://threatfox.abuse.ch/ioc/2012993/
-2026-11-03 13:15:48,Vidar,url,https://z.aldoku77.org/xt/,#Vidar,https://threatfox.abuse.ch/ioc/2012982/
-2026-11-03 13:50:48,Vidar,url,https://z.aldoku77.org/yz/,#Vidar,https://threatfox.abuse.ch/ioc/2013011/
-2026-11-03 13:25:48,Vidar,url,https://z.aldoku77.org/zd/,#Vidar,https://threatfox.abuse.ch/ioc/2013000/
-2026-11-03 13:35:48,Vidar,url,https://z.aldoku77.org/zhr/,#Vidar,https://threatfox.abuse.ch/ioc/2013006/
 2026-11-03 16:43:34,WARDENStealer,url,https://zeuscore.website/,,https://threatfox.abuse.ch/ioc/2013353/
-2026-11-03 06:09:48,Vidar,url,https://zf.akurat80.org/,#Vidar,https://threatfox.abuse.ch/ioc/2012357/
-2026-11-03 00:00:36,Unknown malware,url,https://zo88t.xyz/,#ClickFix,https://clickfix.carsonww.com/domains/zo88t.xyz
-2026-11-03 07:22:07,IClickFix,url,https://zurggoyttjof21.cc/js/all.min.js,#ClickFix #etherhiding #Polygon #TDS #WPSkip,https://threatfox.abuse.ch/ioc/2012548/
+2026-11-04 12:48:23,WARDENStealer,url,https://zyntravio.rest/,,https://threatfox.abuse.ch/ioc/2014262/
