@@ -1,48 +1,41 @@
 2026-11-08 06:18:23,Mozi,url,http://103.213.112.168:52652/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.213.112.168
 2026-11-08 00:18:50,Mozi,url,http://103.66.148.219:46462/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.66.148.219
 2026-11-08 00:18:50,Mozi,url,http://113.233.103.239:51439/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/113.233.103.239
-2026-11-07 18:19:05,Mozi,url,http://115.63.54.55:54878/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/115.63.54.55
 2026-11-08 00:18:50,Mozi,url,http://119.73.23.200:48609/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/119.73.23.200
 2026-11-08 06:18:24,Mozi,url,http://14.205.104.200:58810/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/14.205.104.200
+2026-11-08 18:17:53,Mozi,url,http://153.117.24.7:34965/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.24.7
 2026-11-08 06:18:24,Mozi,url,http://175.101.31.92:37874/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/175.101.31.92
-2026-11-08 11:26:15,Unknown malware,url,http://175.125.92.77:8765/rce_miner_install.sh,#cryptojacking #docker #honeypot #redis,https://threatfox.abuse.ch/ioc/2020427/
-2026-11-07 16:00:23,Stealc,url,http://176.65.144.16,#Stealc,https://bazaar.abuse.ch/sample/0d3c25a7842f86f9fe36aaf59b9800301d8e73349fda54f93b6bc82d84700f9f/
-2026-11-07 18:19:06,Mozi,url,http://202.70.139.30:36975/Mozi.7,#elf #IoT #Mozi,https://honeylabs.net/lookup/202.70.139.30
+2026-11-08 16:10:45,Unknown malware,url,http://175.125.92.77:8765/rce_miner_install.sh,#cryptojacking #docker #honeypot #redis,https://threatfox.abuse.ch/ioc/2020427/
 2026-11-08 06:18:25,Mozi,url,http://207.188.90.227:44244/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/207.188.90.227
-2026-11-08 11:26:14,Unknown malware,url,http://216.75.142.67:8090/miner_boot.sh,#cryptojacking #docker #honeypot #redis,https://threatfox.abuse.ch/ioc/2020425/
+2026-11-08 16:10:46,Unknown malware,url,http://216.75.142.67:8090/miner_boot.sh,#cryptojacking #docker #honeypot #redis,https://threatfox.abuse.ch/ioc/2020425/
 2026-11-08 06:18:24,Mozi,url,http://223.123.34.55:40849/Mozi.7,#elf #IoT #Mozi,https://honeylabs.net/lookup/223.123.34.55
 2026-11-08 06:18:23,Mozi,url,http://72.255.59.102:40591/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/72.255.59.102
-2026-11-08 12:29:21,Unknown malware,url,http://77.239.124.167/s,#CVE-2017-9841 #honeypot #web,https://threatfox.abuse.ch/ioc/2020436/
-2026-11-08 12:29:25,Unknown malware,url,http://77.239.124.167:23413/k/a56f1a4933ad0bca/s,#CVE-2017-9841 #honeypot #web,https://threatfox.abuse.ch/ioc/2020437/
-2026-11-08 11:26:14,Unknown malware,url,http://85.215.219.126:8765/rce_miner_install.sh,#cryptojacking #docker #honeypot #redis,https://threatfox.abuse.ch/ioc/2020426/
-2026-11-07 18:25:13,Stealc,url,http://95.217.96.240,#Stealc,https://bazaar.abuse.ch/sample/07d4b1f763d1d9479635e58980100f90d7fd4fa89808cac1c97e91607e0ad6ca/
+2026-11-08 16:10:40,Unknown malware,url,http://77.239.124.167/s,#CVE-2017-9841 #honeypot #web,https://threatfox.abuse.ch/ioc/2020436/
+2026-11-08 16:10:39,Unknown malware,url,http://77.239.124.167:23413/k/a56f1a4933ad0bca/s,#CVE-2017-9841 #honeypot #web,https://threatfox.abuse.ch/ioc/2020437/
+2026-11-08 16:10:45,Unknown malware,url,http://85.215.219.126:8765/rce_miner_install.sh,#cryptojacking #docker #honeypot #redis,https://threatfox.abuse.ch/ioc/2020426/
 2026-11-08 10:06:56,Mirai,url,http://phubotnet.duckdns.org/main_ppc,#botnet #honeypot #telnet,https://threatfox.abuse.ch/ioc/2020358/
 2026-11-08 10:06:56,Mirai,url,http://phubotnet.duckdns.org/main_sh4,#botnet #honeypot #telnet,https://threatfox.abuse.ch/ioc/2020359/
 2026-11-08 01:21:03,WARDENStealer,url,https://22pensel.website/,,https://threatfox.abuse.ch/ioc/2019893/
-2026-11-07 19:00:09,Unknown malware,url,https://35-94-227-91.sslip.io/,#ClickFix,https://clickfix.carsonww.com/domains/35-94-227-91.sslip.io
-2026-11-07 12:56:18,WARDENStealer,url,https://altushka.work/,,https://threatfox.abuse.ch/ioc/2018955/
-2026-11-08 12:29:18,Unknown malware,url,https://badmonner.s.gy/dota-download,#CVE-2022-22965 #honeypot #web,https://threatfox.abuse.ch/ioc/2020435/
-2026-11-07 12:56:18,WARDENStealer,url,https://bolgarka.work/,,https://threatfox.abuse.ch/ioc/2018954/
+2026-11-08 16:10:43,Unknown malware,url,https://badmonner.s.gy/dota-download,#CVE-2022-22965 #honeypot #web,https://threatfox.abuse.ch/ioc/2020435/
 2026-11-08 07:26:33,Unknown Stealer,url,https://bshiqoxowidjqk.study/,,https://threatfox.abuse.ch/ioc/2019023/
 2026-11-08 10:30:09,Unknown malware,url,https://cdn044us.xyz/,#ClickFix,https://clickfix.carsonww.com/domains/cdn044us.xyz
 2026-11-07 21:00:10,Unknown malware,url,https://choicepropertynetwork.com/,#ClickFix,https://clickfix.carsonww.com/domains/choicepropertynetwork.com
 2026-11-08 07:47:46,Unknown Stealer,url,https://discord.com/api/webhooks/1548809420358549526/iDDGbQRMab24avMSNZ14Y1xGr-dvd9JQZKs5xgdho4zuJ1Fh4Pu2pzhv0sL1msK2X9BI,#discord-webhook #ens #etherhiding #ewa #EXFILTRATION #IRAHook #java #minecraft #stealer,https://bazaar.abuse.ch/sample/80a4f9250bf9a8dca131a0a2b1b9525e9338aa79c8d9d295bc61dd61db965ddf/
-2026-11-07 17:06:18,WARDENStealer,url,https://disik-xyz.mom/,,https://threatfox.abuse.ch/ioc/2019303/
-2026-11-07 14:39:24,WARDENStealer,url,https://dtkolp.forum/,,https://threatfox.abuse.ch/ioc/2019001/
 2026-11-07 21:00:10,Unknown malware,url,https://dunlinsurveys.com/,#ClickFix,https://clickfix.carsonww.com/domains/dunlinsurveys.com
 2026-11-07 21:00:10,Unknown malware,url,https://elitebinary.net/,#ClickFix,https://clickfix.carsonww.com/domains/elitebinary.net
 2026-11-07 21:00:10,Unknown malware,url,https://famousfansindustries.com/,#ClickFix,https://clickfix.carsonww.com/domains/famousfansindustries.com
 2026-11-07 22:00:10,Unknown malware,url,https://fastestwin.co.uk/,#ClickFix,https://clickfix.carsonww.com/domains/fastestwin.co.uk
 2026-11-07 22:30:09,Unknown malware,url,https://joliejaune.tn/,#ClickFix,https://clickfix.carsonww.com/domains/joliejaune.tn
 2026-11-08 04:30:10,Unknown malware,url,https://kayatech.us/,#ClickFix,https://clickfix.carsonww.com/domains/kayatech.us
-2026-11-07 12:56:18,WARDENStealer,url,https://kurwasnus.work/,,https://threatfox.abuse.ch/ioc/2018956/
 2026-11-07 22:00:09,Unknown malware,url,https://lauroarchitecte.fr/,#ClickFix,https://clickfix.carsonww.com/domains/lauroarchitecte.fr
 2026-11-08 03:00:09,Unknown malware,url,https://managedhosting.space/,#ClickFix,https://clickfix.carsonww.com/domains/managedhosting.space
 2026-11-08 09:30:09,Unknown malware,url,https://maplezenith.live/,#ClickFix,https://clickfix.carsonww.com/domains/maplezenith.live
-2026-11-07 14:24:14,WARDENStealer,url,https://nuisglory-host.com/,,https://threatfox.abuse.ch/ioc/2018997/
+2026-11-08 16:55:23,Unknown malware,url,https://physioga.net/u/c.php,,https://bazaar.abuse.ch/sample/ae7ca54128c242a0156ba3a4074ad1af43a0bccc1e58a6126bf1dfd7084da987/
+2026-11-08 16:55:23,Unknown malware,url,https://physioga.net/u/go.php,,https://bazaar.abuse.ch/sample/ae7ca54128c242a0156ba3a4074ad1af43a0bccc1e58a6126bf1dfd7084da987/
 2026-11-08 07:27:15,Unknown malware,url,https://primedrivingschoolllc.com,#ClickFix,https://threatfox.abuse.ch/ioc/2019677/
 2026-11-08 12:30:09,Unknown malware,url,https://primedrivingschoolllc.com/,#ClickFix,https://clickfix.carsonww.com/domains/primedrivingschoolllc.com
 2026-11-08 10:00:09,Unknown malware,url,https://pumpadmin.fun/,#ClickFix,https://clickfix.carsonww.com/domains/pumpadmin.fun
+2026-11-08 16:44:20,Unknown malware,url,https://pumpadmin.fun/c,#ClickFix,https://bazaar.abuse.ch/sample/5cfab00d6b9a85bea79b4091293699519e6efbc0dd35410b04d5838d2feb4230/
 2026-11-08 07:28:42,WARDENStealer,url,https://raw.githubusercontent.com/12345678900273/SNU_2D_ProgrammingTools_IDE_GROMACS/refs/heads/main/L%D0%BEader.zip,#Github #lure #mediafire #WARDENStealer,https://tria.ge/261107-vvh35sev6k
 2026-11-08 07:28:41,WARDENStealer,url,https://raw.githubusercontent.com/12JoelAlmeyda/DeadzoneRogue-ShadowInjector/refs/heads/main/L%D0%BEader.zip,#Github #lure #mediafire #WARDENStealer,https://tria.ge/261107-vvh35sev6k
 2026-11-08 07:28:41,WARDENStealer,url,https://raw.githubusercontent.com/192-168-4201/DeltaForce-EliteTrainer/refs/heads/main/L%D0%BEader.zip,#Github #lure #mediafire #WARDENStealer,https://tria.ge/261107-vvh35sev6k
@@ -183,22 +176,21 @@
 2026-11-08 07:27:17,WARDENStealer,url,https://raw.githubusercontent.com/yaco29c/GlamourGenshin-Mods/refs/heads/main/L%D0%BEader.zip,#Github #lure #mediafire #WARDENStealer,https://tria.ge/261107-vvh35sev6k
 2026-11-08 07:27:16,WARDENStealer,url,https://raw.githubusercontent.com/yogas13/WarzoneMasterToolkit/refs/heads/main/L%D0%BEader.zip,#Github #lure #mediafire #WARDENStealer,https://tria.ge/261107-vvh35sev6k
 2026-11-08 07:27:16,WARDENStealer,url,https://raw.githubusercontent.com/zahrawou/XDefiantSharpAim/refs/heads/main/L%D0%BEader.zip,#Github #lure #mediafire #WARDENStealer,https://tria.ge/261107-vvh35sev6k
-2026-11-07 20:45:23,WARDENStealer,url,https://retolanter.rest/,,https://threatfox.abuse.ch/ioc/2019437/
 2026-11-08 00:00:10,Unknown malware,url,https://sabihaa.com/,#ClickFix,https://clickfix.carsonww.com/domains/sabihaa.com
 2026-11-08 07:28:14,WARDENStealer,url,https://sites.google.com/view/github-launcher,#Github #lure #mediafire #WARDENStealer,https://tria.ge/261107-vvh35sev6k
 2026-11-08 04:30:10,Unknown malware,url,https://sonido13.com/,#ClickFix,https://clickfix.carsonww.com/domains/sonido13.com
 2026-11-08 00:00:09,Unknown malware,url,https://sonkhiyajewellers.com/,#ClickFix,https://clickfix.carsonww.com/domains/sonkhiyajewellers.com
+2026-11-08 17:04:38,Unknown malware,url,https://stealer.greatfinds.life/api/event,,https://bazaar.abuse.ch/sample/f6e64f56886d4d464e7611242bdc846376e8a0d399913e00cf22ef7cba20262f/
+2026-11-08 17:04:38,Unknown malware,url,https://stealer.greatfinds.life/api/hb,,https://bazaar.abuse.ch/sample/f6e64f56886d4d464e7611242bdc846376e8a0d399913e00cf22ef7cba20262f/
 2026-11-08 00:00:09,Unknown malware,url,https://strade-logistics.com/,#ClickFix,https://clickfix.carsonww.com/domains/strade-logistics.com
 2026-11-08 00:00:09,Unknown malware,url,https://suaradigital.id/,#ClickFix,https://clickfix.carsonww.com/domains/suaradigital.id
-2026-11-07 12:56:18,WARDENStealer,url,https://threatfox.work/,,https://threatfox.abuse.ch/ioc/2018957/
-2026-11-07 14:00:09,Unknown malware,url,https://tucuem.icu/,#ClickFix,https://clickfix.carsonww.com/domains/tucuem.icu
+2026-11-08 13:00:09,Unknown malware,url,https://t9.systha.top/,#ClickFix,https://clickfix.carsonww.com/domains/t9.systha.top
 2026-11-08 07:46:43,Grandoreiro,url,https://vmi3721545.contaboserver.net/NXuKVxCZmBHaNOP04V.php,#geo #Grandoreiro #MEX,https://bazaar.abuse.ch/sample/bf519129c526aa9cd1316f219dfbec5e0da362e1448c24d245459ed5fc93ff70/
 2026-11-08 00:00:10,Unknown malware,url,https://wearpasso.com/,#ClickFix,https://clickfix.carsonww.com/domains/wearpasso.com
 2026-11-08 07:27:16,Unknown malware,url,https://winncelo.com/,#ClickFix,https://threatfox.abuse.ch/ioc/2019675/
 2026-11-08 07:27:14,Unknown malware,url,https://winncelo.com/api/gate/issue,#ClickFix,https://threatfox.abuse.ch/ioc/2019680/
 2026-11-08 07:27:15,Unknown malware,url,https://winncelo.com/api/stats/log,#ClickFix,https://threatfox.abuse.ch/ioc/2019676/
 2026-11-08 07:27:14,Unknown malware,url,https://winncelo.com/checking,#ClickFix,https://threatfox.abuse.ch/ioc/2019679/
-2026-11-07 19:59:54,WARDENStealer,url,https://wrckert.pics/,,https://threatfox.abuse.ch/ioc/2019411/
 2026-11-07 22:00:09,Unknown malware,url,https://www.easyglobaltraining.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.easyglobaltraining.com
 2026-11-08 10:00:09,Unknown malware,url,https://www.jeyms.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.jeyms.com
 2026-11-08 07:28:14,WARDENStealer,url,https://www.mediafire.com/file_premium/itozv4weraddd0n/ecore-latest-x64.zip/file,#Github #lure #mediafire #WARDENStealer,https://tria.ge/261107-vvh35sev6k
