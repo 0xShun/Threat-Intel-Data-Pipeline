@@ -1,8 +1,7 @@
 2026-11-09 12:18:37,Mozi,url,http://100.10.4.192:54044/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/100.10.4.192
 2026-11-09 06:18:36,Mozi,url,http://100.10.4.93:51388/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/100.10.4.93
 2026-11-09 06:18:37,Mozi,url,http://124.29.214.230:53497/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/124.29.214.230
-2026-11-08 18:17:53,Mozi,url,http://153.117.24.7:34965/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.24.7
-2026-11-09 00:18:49,Mozi,url,http://153.117.48.36:60078/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.48.36
+2026-11-09 18:19:01,Mozi,url,http://139.135.60.9:50532/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/139.135.60.9
 2026-11-09 06:18:37,Mozi,url,http://153.117.56.62:50299/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.56.62
 2026-11-09 07:51:51,Unknown malware,url,http://160.119.66.206/b,#honeypot,https://threatfox.abuse.ch/ioc/2021402/
 2026-11-09 07:51:52,Unknown malware,url,http://160.119.66.206/bins/net.arc,#honeypot,https://threatfox.abuse.ch/ioc/2021401/
@@ -19,13 +18,17 @@
 2026-11-09 07:51:58,Unknown malware,url,http://160.119.66.206/bins/net.x86,#honeypot,https://threatfox.abuse.ch/ioc/2021379/
 2026-11-09 07:51:57,Unknown malware,url,http://160.119.66.206/bins/net.x86_64,#honeypot,https://threatfox.abuse.ch/ioc/2021378/
 2026-11-09 07:51:58,Unknown malware,url,http://160.119.66.206/kla.sh,#botnet #honeypot #telnet,https://threatfox.abuse.ch/ioc/2021377/
-2026-11-09 00:18:48,Mozi,url,http://172.168.145.15:58548/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/172.168.145.15
 2026-11-09 06:18:37,Mozi,url,http://175.107.216.213:36467/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/175.107.216.213
 2026-11-09 06:18:38,Mozi,url,http://175.107.228.89:38444/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/175.107.228.89
-2026-11-08 16:10:45,Unknown malware,url,http://175.125.92.77:8765/rce_miner_install.sh,#cryptojacking #docker #honeypot #redis,https://threatfox.abuse.ch/ioc/2020427/
+2026-11-10 00:19:03,Mozi,url,http://181.239.158.144:37956/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/181.239.158.144
+2026-11-09 18:19:01,Mozi,url,http://182.119.225.157:60165/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/182.119.225.157
+2026-11-09 18:19:02,Mozi,url,http://182.119.48.44:33329/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/182.119.48.44
+2026-11-10 00:19:03,Mozi,url,http://182.121.178.121:54068/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/182.121.178.121
+2026-11-09 18:19:03,Mozi,url,http://190.196.253.6:10481/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/190.196.253.6
 2026-11-09 07:51:18,Unknown malware,url,http://196.189.101.82:36782/Mozi.a,#honeypot #web,https://threatfox.abuse.ch/ioc/2021682/
-2026-11-08 16:10:46,Unknown malware,url,http://216.75.142.67:8090/miner_boot.sh,#cryptojacking #docker #honeypot #redis,https://threatfox.abuse.ch/ioc/2020425/
 2026-11-09 06:18:38,Mozi,url,http://223.123.34.225:60781/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/223.123.34.225
+2026-11-10 00:19:04,Mozi,url,http://223.123.34.226:49979/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/223.123.34.226
+2026-11-09 18:19:02,Mozi,url,http://223.123.73.98:56705/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/223.123.73.98
 2026-11-09 07:51:49,Unknown malware,url,http://45.90.163.37/curl.sh,#botnet #honeypot #telnet,https://threatfox.abuse.ch/ioc/2021410/
 2026-11-09 07:51:48,Mirai,url,http://45.90.163.37/jklarm,#honeypot,https://threatfox.abuse.ch/ioc/2021446/
 2026-11-09 07:51:48,Mirai,url,http://45.90.163.37/jklarm5,#honeypot,https://threatfox.abuse.ch/ioc/2021447/
@@ -39,10 +42,7 @@
 2026-11-09 07:51:39,Mirai,url,http://45.90.163.37/jklspc,#honeypot,https://threatfox.abuse.ch/ioc/2021506/
 2026-11-09 07:51:39,Mirai,url,http://45.90.163.37/jklx86,#honeypot,https://threatfox.abuse.ch/ioc/2021507/
 2026-11-09 07:51:50,Unknown malware,url,http://45.90.163.37/wget.sh,#botnet #honeypot #telnet,https://threatfox.abuse.ch/ioc/2021409/
-2026-11-08 16:10:40,Unknown malware,url,http://77.239.124.167/s,#CVE-2017-9841 #honeypot #web,https://threatfox.abuse.ch/ioc/2020436/
 2026-11-09 06:18:36,Mirai,url,http://77.239.124.167/superior.apk,#elf #IoT,https://honeylabs.net/lookup/77.239.124.167
-2026-11-08 16:10:39,Unknown malware,url,http://77.239.124.167:23413/k/a56f1a4933ad0bca/s,#CVE-2017-9841 #honeypot #web,https://threatfox.abuse.ch/ioc/2020437/
-2026-11-08 16:10:45,Unknown malware,url,http://85.215.219.126:8765/rce_miner_install.sh,#cryptojacking #docker #honeypot #redis,https://threatfox.abuse.ch/ioc/2020426/
 2026-11-09 08:05:11,Remus,url,http://apexfd.click:8039/categories,#Remus,https://bazaar.abuse.ch/sample/0148cf4d87a467dc69577d9fae6f909a24275ad44b3301de382ce073d1c69b34/
 2026-11-09 08:05:14,Remus,url,http://cfcher.biz:8531/messages,#Remus,https://bazaar.abuse.ch/sample/0148cf4d87a467dc69577d9fae6f909a24275ad44b3301de382ce073d1c69b34/
 2026-11-09 08:05:12,Remus,url,http://cryonex.sbs:5621/exports,#Remus,https://bazaar.abuse.ch/sample/0148cf4d87a467dc69577d9fae6f909a24275ad44b3301de382ce073d1c69b34/
@@ -53,10 +53,10 @@
 2026-11-09 13:51:13,Formbook,url,http://www.rtl.fr/7suu/,,https://app.any.run/tasks/1d9b9fa0-deb9-4bc7-b68f-7e2d16fa64bc
 2026-11-09 13:51:13,Formbook,url,http://www.topvizitka.cz/v6fd/,,https://app.any.run/tasks/1d9b9fa0-deb9-4bc7-b68f-7e2d16fa64bc
 2026-11-09 14:00:57,Unknown malware,url,https://103.101.85.187/,#ClickFix,https://clickfix.carsonww.com/domains/103.101.85.187
+2026-11-09 17:47:05,Vidar,url,https://116.202.186.230,#Vidar,https://threatfox.abuse.ch/ioc/2022305/
 2026-11-09 10:44:06,Unknown malware,url,https://89.124.112.6/upload,,https://bazaar.abuse.ch/sample/de3782be0e0b27bef87a91329dcb6fa665c272844dcd910a7188112cb947bc88/
 2026-11-09 10:11:47,Coruna,url,https://admin.92haoyun.icu/admin,#Coruna #DarkSword,https://threatfox.abuse.ch/ioc/2022107/
 2026-11-09 14:00:57,Unknown malware,url,https://api-dns.org/,#ClickFix,https://clickfix.carsonww.com/domains/api-dns.org
-2026-11-08 16:10:43,Unknown malware,url,https://badmonner.s.gy/dota-download,#CVE-2022-22965 #honeypot #web,https://threatfox.abuse.ch/ioc/2020435/
 2026-11-09 07:50:44,IClickFix,url,https://battaglia.lol/1xh85mjy.js,#ClickFix #Kongtuke #PayloadDelivery #stager,https://threatfox.abuse.ch/ioc/2020937/
 2026-11-09 07:50:44,IClickFix,url,https://battaglia.lol/34la8fjm.js,#ClickFix #Kongtuke #PayloadDelivery #stager,https://threatfox.abuse.ch/ioc/2020938/
 2026-11-09 07:50:44,IClickFix,url,https://battaglia.lol/5mehv8sn.js,#ClickFix #Kongtuke #PayloadDelivery #stager,https://threatfox.abuse.ch/ioc/2020939/
@@ -70,7 +70,6 @@
 2026-11-09 07:50:52,IClickFix,url,https://battaglia.lol/vfsk4s8e.js,#ClickFix #Kongtuke #PayloadDelivery #stager,https://threatfox.abuse.ch/ioc/2020947/
 2026-11-09 07:50:53,IClickFix,url,https://battaglia.lol/ye8ftbl7.js,#ClickFix #Kongtuke #PayloadDelivery #stager,https://threatfox.abuse.ch/ioc/2020948/
 2026-11-09 07:50:53,IClickFix,url,https://battaglia.lol/znxcouod.js,#ClickFix #Kongtuke #PayloadDelivery #stager,https://threatfox.abuse.ch/ioc/2020949/
-2026-11-08 21:30:10,Unknown malware,url,https://ccuffn.icu/,#ClickFix,https://clickfix.carsonww.com/domains/ccuffn.icu
 2026-11-09 07:50:53,IClickFix,url,https://courtoos.icu/o6o5rkc6.js,#ClickFix #Kongtuke #PayloadDelivery #stager,https://threatfox.abuse.ch/ioc/2020950/
 2026-11-09 07:51:03,IClickFix,url,https://deleeue.lol/bf7vmwd5.js,#ClickFix #Kongtuke #PayloadDelivery #stager,https://threatfox.abuse.ch/ioc/2020951/
 2026-11-09 07:51:03,IClickFix,url,https://deleeue.lol/zs910rfw.js,#ClickFix #Kongtuke #PayloadDelivery #stager,https://threatfox.abuse.ch/ioc/2020952/
@@ -83,15 +82,8 @@
 2026-11-09 07:51:05,IClickFix,url,https://griffihhs.click/zzwhq1aq.js,#ClickFix #Kongtuke #PayloadDelivery #stager,https://threatfox.abuse.ch/ioc/2020955/
 2026-11-09 03:00:09,Unknown malware,url,https://khsnec.icu/,#ClickFix,https://clickfix.carsonww.com/domains/khsnec.icu
 2026-11-09 01:00:09,Unknown malware,url,https://maenc.icu/,#ClickFix,https://clickfix.carsonww.com/domains/maenc.icu
-2026-11-08 21:13:34,WARDENStealer,url,https://nsdiqadha.website/,,https://threatfox.abuse.ch/ioc/2020927/
-2026-11-08 16:55:23,Unknown malware,url,https://physioga.net/u/c.php,,https://bazaar.abuse.ch/sample/ae7ca54128c242a0156ba3a4074ad1af43a0bccc1e58a6126bf1dfd7084da987/
-2026-11-08 16:55:23,Unknown malware,url,https://physioga.net/u/go.php,,https://bazaar.abuse.ch/sample/ae7ca54128c242a0156ba3a4074ad1af43a0bccc1e58a6126bf1dfd7084da987/
-2026-11-08 16:44:20,Unknown malware,url,https://pumpadmin.fun/c,#ClickFix,https://bazaar.abuse.ch/sample/5cfab00d6b9a85bea79b4091293699519e6efbc0dd35410b04d5838d2feb4230/
 2026-11-09 07:51:05,IClickFix,url,https://schinner.icu/0443w9q2.js,#ClickFix #Kongtuke #PayloadDelivery #stager,https://threatfox.abuse.ch/ioc/2020956/
-2026-11-08 22:30:09,Unknown malware,url,https://skcrss.icu/,#ClickFix,https://clickfix.carsonww.com/domains/skcrss.icu
 2026-11-09 07:51:00,IClickFix,url,https://ssmpson.top/8ul2yphw.js,#ClickFix #Kongtuke #PayloadDelivery #stager,https://threatfox.abuse.ch/ioc/2020957/
-2026-11-08 17:04:38,Unknown malware,url,https://stealer.greatfinds.life/api/event,,https://bazaar.abuse.ch/sample/f6e64f56886d4d464e7611242bdc846376e8a0d399913e00cf22ef7cba20262f/
-2026-11-08 17:04:38,Unknown malware,url,https://stealer.greatfinds.life/api/hb,,https://bazaar.abuse.ch/sample/f6e64f56886d4d464e7611242bdc846376e8a0d399913e00cf22ef7cba20262f/
 2026-11-09 09:15:24,Vidar,url,https://t.akuntoti.net/rf/gate,#Vidar,https://bazaar.abuse.ch/sample/c6e71f53c93b14cb6693e4dda71e372d1e040ce5a7124fdf796c1647b03e3a74/
 2026-11-09 03:00:09,Unknown malware,url,https://teespresso.com/,#ClickFix,https://clickfix.carsonww.com/domains/teespresso.com
 2026-11-09 07:41:35,Unknown malware,url,https://toddloftindds.com/nback.php,,https://threatfox.abuse.ch/ioc/2021990/
