@@ -1,55 +1,92 @@
+2026-11-11 16:56:51,Unknown malware,url,http://104.156.225.154:8080/,#ghostframe,https://github.com/TheRavenFile/Daily-Hunt/blob/main/GhostFrame
 2026-11-11 12:18:21,Mozi,url,http://111.92.150.144:35208/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/111.92.150.144
-2026-11-10 18:17:33,Mozi,url,http://139.135.40.243:60164/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/139.135.40.243
+2026-11-11 16:56:51,Unknown malware,url,http://140.82.29.164/,#ghostframe,https://github.com/TheRavenFile/Daily-Hunt/blob/main/GhostFrame
 2026-11-11 00:20:18,Mozi,url,http://153.117.33.231:55716/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.33.231
 2026-11-11 00:20:17,Mozi,url,http://153.117.66.241:59616/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.66.241
+2026-11-11 16:56:51,Unknown malware,url,http://162.33.178.5:8080/,#ghostframe,https://github.com/TheRavenFile/Daily-Hunt/blob/main/GhostFrame
 2026-11-11 07:15:01,Unknown malware,url,http://162.55.208.254:8090/run.sh,#cryptojacking #docker #honeypot #redis,https://threatfox.abuse.ch/ioc/2023596/
 2026-11-11 07:15:13,Unknown malware,url,http://169.254.169.254/metadata/v1.json,#cryptojacking #docker #honeypot #redis,https://threatfox.abuse.ch/ioc/2023473/
+2026-11-11 18:18:28,Mozi,url,http://179.154.80.249:47563/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/179.154.80.249
 2026-11-11 00:20:18,Mozi,url,http://182.119.253.63:45038/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/182.119.253.63
 2026-11-11 00:20:19,Mozi,url,http://190.196.253.97:11254/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/190.196.253.97
-2026-11-10 18:17:33,Mozi,url,http://201.110.207.116:60621/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/201.110.207.116
+2026-11-11 16:56:51,Unknown malware,url,http://193.149.176.16:8080/,#ghostframe,https://github.com/TheRavenFile/Daily-Hunt/blob/main/GhostFrame
 2026-11-11 07:14:50,Unknown malware,url,http://204.141.236.157:8080/aarch64,#honeypot,https://greedybear.honeynet.org
 2026-11-11 07:15:00,Unknown malware,url,http://204.141.236.157:8080/armv5l,#honeypot,https://greedybear.honeynet.org
 2026-11-11 07:14:53,Unknown malware,url,http://204.141.236.157:8080/armv6l,#honeypot,https://greedybear.honeynet.org
 2026-11-11 07:14:52,Unknown malware,url,http://204.141.236.157:8080/armv7l,#honeypot,https://greedybear.honeynet.org
 2026-11-11 07:14:50,Unknown malware,url,http://204.141.236.157:8080/x86_64,#honeypot,https://greedybear.honeynet.org
 2026-11-11 00:20:17,Mozi,url,http://27.195.244.26:37515/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/27.195.244.26
+2026-11-11 16:56:51,Unknown malware,url,http://45.158.196.141:8080/,#ghostframe,https://github.com/TheRavenFile/Daily-Hunt/blob/main/GhostFrame
+2026-11-11 16:56:51,Unknown malware,url,http://45.158.196.143:8080/,#ghostframe,https://github.com/TheRavenFile/Daily-Hunt/blob/main/GhostFrame
+2026-11-11 16:56:51,Unknown malware,url,http://45.61.136.104:8080/,#ghostframe,https://github.com/TheRavenFile/Daily-Hunt/blob/main/GhostFrame
 2026-11-11 00:20:19,Mozi,url,http://59.103.100.245:55568/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/59.103.100.245
-2026-11-11 12:29:20,Unknown malware,url,http://94.26.106.200/d/xd.arm4,#honeypot,https://threatfox.abuse.ch/ioc/2024628/
-2026-11-11 12:29:23,Unknown malware,url,http://94.26.106.200/d/xd.arm5,#honeypot,https://threatfox.abuse.ch/ioc/2024629/
-2026-11-11 12:29:26,Unknown malware,url,http://94.26.106.200/d/xd.arm6,#honeypot,https://threatfox.abuse.ch/ioc/2024630/
-2026-11-11 12:29:29,Unknown malware,url,http://94.26.106.200/d/xd.arm7,#honeypot,https://threatfox.abuse.ch/ioc/2024631/
-2026-11-11 13:29:05,Unknown malware,url,http://94.26.106.200/d/xd.m68k,#honeypot,https://threatfox.abuse.ch/ioc/2024645/
-2026-11-11 12:29:14,Unknown malware,url,http://94.26.106.200/d/xd.mips,#honeypot,https://threatfox.abuse.ch/ioc/2024626/
-2026-11-11 12:29:17,Unknown malware,url,http://94.26.106.200/d/xd.mpsl,#honeypot,https://threatfox.abuse.ch/ioc/2024627/
-2026-11-11 12:29:33,Unknown malware,url,http://94.26.106.200/d/xd.ppc,#honeypot,https://threatfox.abuse.ch/ioc/2024632/
-2026-11-11 13:29:08,Unknown malware,url,http://94.26.106.200/d/xd.sh4,#honeypot,https://threatfox.abuse.ch/ioc/2024646/
-2026-11-11 12:29:11,Unknown malware,url,http://94.26.106.200/d/xd.x86,#honeypot,https://threatfox.abuse.ch/ioc/2024625/
-2026-11-11 12:29:04,Unknown malware,url,http://94.26.106.200/sensi.sh,#botnet #honeypot #telnet,https://threatfox.abuse.ch/ioc/2024624/
-2026-11-11 11:46:57,AsyncRAT,url,https://88mmm88.com,#asyncrat #c2 #RAT,https://www.virustotal.com/gui/domain/88mmm88.com?nocache=1
+2026-11-11 16:56:51,Unknown malware,url,http://64.190.113.132:8080/,#ghostframe,https://github.com/TheRavenFile/Daily-Hunt/blob/main/GhostFrame
+2026-11-11 16:56:51,Unknown malware,url,http://64.52.80.59:8080/,#ghostframe,https://github.com/TheRavenFile/Daily-Hunt/blob/main/GhostFrame
+2026-11-11 13:49:05,Unknown malware,url,http://94.26.106.200/d/xd.arm4,#honeypot,https://threatfox.abuse.ch/ioc/2024628/
+2026-11-11 13:49:04,Unknown malware,url,http://94.26.106.200/d/xd.arm5,#honeypot,https://threatfox.abuse.ch/ioc/2024629/
+2026-11-11 13:49:03,Unknown malware,url,http://94.26.106.200/d/xd.arm6,#honeypot,https://threatfox.abuse.ch/ioc/2024630/
+2026-11-11 13:49:02,Unknown malware,url,http://94.26.106.200/d/xd.arm7,#honeypot,https://threatfox.abuse.ch/ioc/2024631/
+2026-11-11 13:49:01,Unknown malware,url,http://94.26.106.200/d/xd.m68k,#honeypot,https://threatfox.abuse.ch/ioc/2024645/
+2026-11-11 13:49:06,Unknown malware,url,http://94.26.106.200/d/xd.mips,#honeypot,https://threatfox.abuse.ch/ioc/2024626/
+2026-11-11 13:49:05,Unknown malware,url,http://94.26.106.200/d/xd.mpsl,#honeypot,https://threatfox.abuse.ch/ioc/2024627/
+2026-11-11 13:49:01,Unknown malware,url,http://94.26.106.200/d/xd.ppc,#honeypot,https://threatfox.abuse.ch/ioc/2024632/
+2026-11-11 13:49:00,Unknown malware,url,http://94.26.106.200/d/xd.sh4,#honeypot,https://threatfox.abuse.ch/ioc/2024646/
+2026-11-11 13:49:06,Unknown malware,url,http://94.26.106.200/d/xd.x86,#honeypot,https://threatfox.abuse.ch/ioc/2024625/
+2026-11-11 13:49:08,Unknown malware,url,http://94.26.106.200/sensi.sh,#botnet #honeypot #telnet,https://threatfox.abuse.ch/ioc/2024624/
+2026-11-11 19:42:48,AMOS,url,http://seohumanoid.com/gate,#cracked-software #exfil #fake-tradingview #infostealer #macOS,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:42:48,AMOS,url,http://seohumanoid.com/pipeline/event,#cracked-software #exfil #fake-tradingview #infostealer #macOS,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 21:30:47,Vidar,url,https://195.15.207.179/gate,#c2 #Vidar,https://threatfox.abuse.ch/ioc/2025119/
+2026-11-11 19:00:56,Unknown malware,url,https://345wingames.pk/,#ClickFix,https://clickfix.carsonww.com/domains/345wingames.pk
+2026-11-11 20:00:57,Unknown malware,url,https://891921-google.com/,#ClickFix,https://clickfix.carsonww.com/domains/891921-google.com
 2026-11-11 07:00:57,Unknown malware,url,https://aadlogin.htv-box.com/,#ClickFix,https://clickfix.carsonww.com/domains/aadlogin.htv-box.com
-2026-11-10 22:30:58,Unknown malware,url,https://agrenebconsultant.co.tz/,#ClickFix,https://clickfix.carsonww.com/domains/agrenebconsultant.co.tz
-2026-11-10 22:07:27,SmartApeSG,url,https://cherryhypogeum.org/tenant/logout-transpiler.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/2023424/
+2026-11-11 23:00:57,Unknown malware,url,https://aadlogin.jcceo.com/,#ClickFix,https://clickfix.carsonww.com/domains/aadlogin.jcceo.com
+2026-11-11 18:30:57,Unknown malware,url,https://abitaziones.com/,#ClickFix,https://clickfix.carsonww.com/domains/abitaziones.com
+2026-11-11 19:30:56,Unknown malware,url,https://alarmasindustriales.com/,#ClickFix,https://clickfix.carsonww.com/domains/alarmasindustriales.com
+2026-11-11 14:31:08,SmartApeSG,url,https://almondmegaron.org/signin/admin-script.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/2024674/
+2026-11-11 19:40:39,Unknown Stealer,url,https://ap1.anek4d.org/w/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 23:00:57,Unknown malware,url,https://benbacriverside.com/,#ClickFix,https://clickfix.carsonww.com/domains/benbacriverside.com
+2026-11-11 19:40:39,Unknown Stealer,url,https://c.dr108.org/g/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:40:38,Unknown Stealer,url,https://c.dr108.org/n/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:40:38,Unknown Stealer,url,https://c.dr108.org/x/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:43:21,Unknown Stealer,url,https://c32f4dda3dceee6b85ba1f5f2f3308bf.r2.cloudflarestorage.com/downloads/TradingView_Premium_Desktop.zip,#cracked-software #fake-tradingview #gateway #infostealer #Windows #zip,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:40:39,Unknown Stealer,url,https://d0.angkajitu.org/qm/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
 2026-11-11 07:32:36,ClearFake,url,https://gitlab.com/amber-ffa-f15a6b/14102f0-b5a6-4e2d-84e1-18b2be0bca16/-/raw/main/973C9-C666-460a-bdCf-0CB8b8A9c503,#ClickFix,https://threatfox.abuse.ch/ioc/2023704/
 2026-11-11 07:32:35,ClearFake,url,https://gitlab.com/amber-ffa-f15a6b/8cb0-4007-b828-39ac22d5c847/-/raw/main/90e5-be84fa8e3613,#ClickFix,https://threatfox.abuse.ch/ioc/2023705/
+2026-11-11 19:43:21,Unknown Stealer,url,https://halchemicals.com/get/,#cracked-software #fake-tradingview #gateway #infostealer #Windows #zip,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:43:21,Unknown Stealer,url,https://halchemicals.com/mac/,#cracked-software #fake-tradingview #gateway #infostealer #Windows #zip,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:00:57,Unknown malware,url,https://hfm-qnyxrf78xc1i0k.cfd/,#ClickFix,https://clickfix.carsonww.com/domains/hfm-qnyxrf78xc1i0k.cfd
+2026-11-11 19:40:38,Unknown Stealer,url,https://ik.angkajitu.org/b38/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:40:38,Unknown Stealer,url,https://ik.angkajitu.org/w/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:40:38,Unknown Stealer,url,https://ik.angkajitu.org/xi/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
 2026-11-11 07:17:54,WARDENStealer,url,https://ja.ja.ja.ja/,,https://threatfox.abuse.ch/ioc/2024110/
-2026-11-10 14:30:59,Unknown malware,url,https://kk88cc.com/,#ClickFix,https://clickfix.carsonww.com/domains/kk88cc.com
+2026-11-11 19:43:22,Unknown Stealer,url,https://joaomps.com/get/,#cracked-software #fake-tradingview #gateway #infostealer #Windows #zip,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:40:39,Unknown Stealer,url,https://l.dr108.org/i/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
 2026-11-11 01:00:57,Unknown malware,url,https://narayanganjdairy.com/,#ClickFix,https://clickfix.carsonww.com/domains/narayanganjdairy.com
 2026-11-11 07:00:57,Unknown malware,url,https://nfshgu.top/,#ClickFix,https://clickfix.carsonww.com/domains/nfshgu.top
-2026-11-10 19:28:06,AMOS,url,https://nimbus-90.com/curl/5um38yuj1t2/q4mpoznw76wtp4g7.json,#Amos #ClickFix #Foxveil #macOS,https://bazaar.abuse.ch/sample/62bce9ebe5b1ff9bbebd38c5ae4728ddd750ea39eea5c2636605b1d36c4c4b9c/
-2026-11-10 19:28:06,AMOS,url,https://nimbus-90.com/f/nt5ax1_btyoxzizb9whm9q/nuyar9lb,#Amos #ClickFix #Foxveil #macOS,https://bazaar.abuse.ch/sample/62bce9ebe5b1ff9bbebd38c5ae4728ddd750ea39eea5c2636605b1d36c4c4b9c/
 2026-11-11 08:30:58,Unknown malware,url,https://notorioushoodlum.com/,#ClickFix,https://clickfix.carsonww.com/domains/notorioushoodlum.com
-2026-11-10 21:13:20,SmartApeSG,url,https://plumossuary.org/trace/reset-thread.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/2023405/
-2026-11-11 11:44:10,AsyncRAT,url,https://rr88vipa.com,#asyncrat #c2 #RAT,https://www.virustotal.com/gui/domain/rr88vipa.com
+2026-11-11 19:40:39,Unknown Stealer,url,https://o54.angkajitu.org/mh/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:40:39,Unknown Stealer,url,https://od.angkajitu.org/o/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:40:38,Unknown Stealer,url,https://pr.anek4d.org/qx/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:40:38,Unknown Stealer,url,https://qm.anek4d.org/id/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:40:38,Unknown Stealer,url,https://qm.anek4d.org/wc/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 17:27:03,AMOS,url,https://quartz-pearl.com/curl/95dx7j6wk/sqwn75ztfi31f8z238dnrnx.json,#Amos #ClickFix #Foxveil #macOS,https://bazaar.abuse.ch/sample/f5123449e3fdd51aa515230217aeed45376a972ffab7f04be3f0da3c9686c87a/
+2026-11-11 17:27:03,AMOS,url,https://quartz-pearl.com/f/vrhqljbnscwhbyhltuwmsq/t2990cmj,#Amos #ClickFix #Foxveil #macOS,https://bazaar.abuse.ch/sample/f5123449e3fdd51aa515230217aeed45376a972ffab7f04be3f0da3c9686c87a/
 2026-11-11 01:00:57,Unknown malware,url,https://s4.ncreuh.icu/,#ClickFix,https://clickfix.carsonww.com/domains/s4.ncreuh.icu
+2026-11-11 19:43:21,Unknown Stealer,url,https://soma.or.tz/dl/,#cracked-software #fake-tradingview #gateway #infostealer #Windows #zip,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:41:31,Unknown Stealer,url,https://t.me/d33ttt,#cracked-software #dead-drop #fake-tradingview #infostealer #Steam #telegram #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
 2026-11-11 08:52:50,Unknown malware,url,https://tewiascomp.blog/fHJMp/event,#PavinLoader,https://bazaar.abuse.ch/sample/4c6fc10b19f08431922034c9989c198a68dca8606d05670052a68646e9cdb0ce/
 2026-11-11 10:30:58,Unknown malware,url,https://tmpackaging.ca/,#ClickFix,https://clickfix.carsonww.com/domains/tmpackaging.ca
-2026-11-10 21:10:40,SmartApeSG,url,https://travertinetholos.info/tenant/logout-transpiler.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/2023404/
-2026-11-10 20:41:19,Grandoreiro,url,https://vmi3740354.contaboserver.net/ShKlXjWdP07Z.php,#geo #Grandoreiro #MEX,https://bazaar.abuse.ch/sample/1a03907273acd3df86811911e659372e2e94d5da743a59fcec7701973ca0c933/
-2026-11-10 20:41:19,Grandoreiro,url,https://vmi3740367.contaboserver.net/AfFHUbXIP04X.php,#geo #Grandoreiro #MEX,https://bazaar.abuse.ch/sample/1a03907273acd3df86811911e659372e2e94d5da743a59fcec7701973ca0c933/
+2026-11-11 14:34:55,SmartApeSG,url,https://tufapropylon.info/signin/admin-script.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/2024677/
 2026-11-10 23:30:58,Unknown malware,url,https://winehouser.com/,#ClickFix,https://clickfix.carsonww.com/domains/winehouser.com
-2026-11-10 19:30:57,Unknown malware,url,https://wios.tron3.vip/,#ClickFix,https://clickfix.carsonww.com/domains/wios.tron3.vip
-2026-11-10 20:30:57,Unknown malware,url,https://www.commodorepalace.com/,#ClickFix,https://clickfix.carsonww.com/domains/www.commodorepalace.com
-2026-11-10 15:59:10,IClickFix,url,https://zzkuntai.net,#ClickFix,https://threatfox.abuse.ch/ioc/2023279/
-2026-11-10 15:59:10,IClickFix,url,https://zzkuntai.net/api/gate/issue?next,#ClickFix,https://threatfox.abuse.ch/ioc/2023282/
-2026-11-10 15:59:10,IClickFix,url,https://zzkuntai.net/api/stats/log,#ClickFix,https://threatfox.abuse.ch/ioc/2023281/
-2026-11-10 15:59:10,IClickFix,url,https://zzkuntai.net/checking,#ClickFix,https://threatfox.abuse.ch/ioc/2023280/
+2026-11-11 19:43:21,Unknown Stealer,url,https://www.arche-hypnose.com/get/,#cracked-software #fake-tradingview #gateway #infostealer #Windows #zip,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:43:21,Unknown Stealer,url,https://www.arche-hypnose.com/mac/,#cracked-software #fake-tradingview #gateway #infostealer #Windows #zip,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 14:04:21,Unknown RAT,url,https://www.dropbox.com/scl/fi/b4ity2m7sexugl048kt2z/31.zip?rlkey=wewk7nfmk91meiyt68r9lnjae&st=tz4gxm3u&dl=1,#dropbox #ens #etherhiding #IRAHook #java #minecraft #RAT #stealer,https://jessn.co.uk/2026/11/08/blocks-and-blockchains-what-was-actually-inside-that-minecraft-mod/
+2026-11-11 14:04:22,Unknown RAT,url,https://www.dropbox.com/scl/fi/e5oi5y7yk6wpzg1zs683p/bundle.zip?rlkey=hi8uz3w7d642b1km89eztprsd&st=fkj4mobr&dl=1,#dropbox #ens #etherhiding #IRAHook #java #minecraft #RAT #stealer,https://jessn.co.uk/2026/11/08/blocks-and-blockchains-what-was-actually-inside-that-minecraft-mod/
+2026-11-11 14:04:21,Unknown RAT,url,https://www.dropbox.com/scl/fi/eq8lzkc6xe9vy278kvb5p/dur.zip?rlkey=uyoriotg4zh2g8p7lmpzxa9jt&st=z2univjw&dl=1,#dropbox #ens #etherhiding #IRAHook #java #minecraft #RAT #stealer,https://jessn.co.uk/2026/11/08/blocks-and-blockchains-what-was-actually-inside-that-minecraft-mod/
+2026-11-11 19:40:39,Unknown Stealer,url,https://xn.amanlay.org/kw/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:40:39,Unknown Stealer,url,https://xn.amanlay.org/rn/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:43:22,Unknown Stealer,url,https://yeelen.cg/new/,#cracked-software #fake-tradingview #gateway #infostealer #Windows #zip,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:43:22,Unknown Stealer,url,https://yeelen.cg/tw,#cracked-software #fake-tradingview #gateway #infostealer #Windows #zip,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 19:40:39,Unknown Stealer,url,https://z.dak69.org/j/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
+2026-11-11 20:10:55,Unknown malware,url,https://zipexsoftware.com/?arc=644a&vol=a779&rev=c561&key=e4f9&ep=prep,#Fake-installer #Loader #NSIS #signed #Zippex,https://www.virustotal.com/gui/file/d76bc68115e015a9eabbdb8678a8da0ddcb9659a5972eb13ee13785448d4b4f6
+2026-11-11 19:40:39,Unknown Stealer,url,https://zs.angkajitu.org/rs/gate,#cracked-software #fake-tradingview #gate #infostealer #Windows,https://hybrid-analysis.com/sample/b8c1d2399105a57046b24aeee74d2dea3250c8c8aa5502c448b8d954f1dcb17a/6af4785369d78560e30587b9
