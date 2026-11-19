@@ -25,7 +25,6 @@
 2026-11-19 12:44:18,Unknown malware,url,http://164.163.210.178/r/setuid32,#elf #freepbx #issabel #setuid #Sh,https://bazaar.abuse.ch/sample/4666ab50f1428aa77aee6df0d3071620e847c6ffd20749d31c68da00138c0e86/
 2026-11-19 12:44:26,Unknown malware,url,http://164.163.210.178/r/xa.sh,#backdoor #freepbx #issabel #PHP #Sh,https://bazaar.abuse.ch/sample/4666ab50f1428aa77aee6df0d3071620e847c6ffd20749d31c68da00138c0e86/
 2026-11-19 12:45:15,Unknown malware,url,http://169.128.70.53:8000/bot_x86_64_c,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
-2026-11-18 18:19:13,Mozi,url,http://175.107.233.153:56903/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/175.107.233.153
 2026-11-19 12:18:27,Mozi,url,http://175.107.3.92:43615/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/175.107.3.92
 2026-11-19 12:45:14,Unknown malware,url,http://176.65.139.158/bins/mips,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
 2026-11-19 12:45:13,Unknown malware,url,http://176.65.139.201:8080/bot-linux-amd64,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
@@ -41,6 +40,7 @@
 2026-11-19 12:45:08,Unknown malware,url,http://181.214.147.65/cat.sh,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
 2026-11-19 12:45:08,Unknown malware,url,http://181.214.147.65/x86_64,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
 2026-11-19 06:19:14,Mozi,url,http://182.127.1.119:41823/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/182.127.1.119
+2026-11-19 18:18:49,Mozi,url,http://183.191.25.118:56014/Mozi.7,#elf #IoT #Mozi,https://honeylabs.net/lookup/183.191.25.118
 2026-11-19 12:45:06,Unknown malware,url,http://185.106.92.100/p,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
 2026-11-19 12:45:06,Unknown malware,url,http://191.217.250.87/hiddenbin2/arm6,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
 2026-11-19 12:45:05,Unknown malware,url,http://191.217.250.87/hiddenbin2/arm7,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
@@ -50,6 +50,7 @@
 2026-11-19 12:44:04,Phemedrone Stealer,url,http://191.44.109.252:8000,#Phemedrone Stealer #static-config #VIGIA,https://bazaar.abuse.ch/sample/de04fead48952f3f622a1266fcbf3992991976c3b11ef606a9a0a77f1c5502db/
 2026-11-19 12:45:01,Unknown malware,url,http://192.227.210.190/dred,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
 2026-11-19 12:45:00,Unknown malware,url,http://193.233.193.75/p,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
+2026-11-19 18:18:49,Mozi,url,http://196.189.101.82:44482/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/196.189.101.82
 2026-11-19 12:44:59,Unknown malware,url,http://198.46.161.135/garm,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
 2026-11-19 12:44:59,Unknown malware,url,http://198.46.161.135/garm7,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
 2026-11-19 12:45:00,Unknown malware,url,http://198.46.161.135/gmips,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
@@ -80,7 +81,6 @@
 2026-11-19 12:44:42,Unknown malware,url,http://51.161.83.58/dl/9c4e1b/arm7,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
 2026-11-19 12:44:42,Unknown malware,url,http://51.161.83.58/dl/9c4e1b/mips,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
 2026-11-19 09:46:11,Mispadu,url,http://64.95.12.126/xGRL/,#banker #delphi #Mispadu #ursa,https://github.com/harperjohnsai/detections/tree/main/iocs/2026-11-mispadu-ursa
-2026-11-18 18:19:13,Mozi,url,http://72.255.59.114:45441/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/72.255.59.114
 2026-11-19 12:44:41,Unknown malware,url,http://82.27.2.141/arch/armv7l,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
 2026-11-19 12:44:40,Unknown malware,url,http://82.27.2.141/arch/i686,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
 2026-11-19 12:44:39,Unknown malware,url,http://82.27.2.141/arch/mips,#cowrie #honeypot #IoT #malware_download,https://github.com/MertByztl/iot-honeypot-wordlist
@@ -130,8 +130,6 @@
 2026-11-19 10:45:04,Mispadu,url,https://32.36.109.208.host.secureserver.net/w9bpi4h18/w9bpi4h18mde2/CaI981.js,#BR #GDV5 #HTA #lure #Mispadu #mshta #ursa,https://github.com/harperjohnsai/detections/tree/main/iocs/2026-11-mispadu-ursa
 2026-11-19 10:45:08,Mispadu,url,https://32.36.109.208.host.secureserver.net/zMt15/zMt15mde2/fxDlC9j621.js,#BR #GDV5 #HTA #lure #Mispadu #mshta #ursa,https://github.com/harperjohnsai/detections/tree/main/iocs/2026-11-mispadu-ursa
 2026-11-19 15:10:50,Unknown Stealer,url,https://api.localhost8000.fun/new,#FunStealer,https://bazaar.abuse.ch/sample/bc64599c557d4b3881194f96085459ea4190dd6823244a68ec887c221c4c6cb1/
-2026-11-18 18:16:38,SmartApeSG,url,https://cuminperistyle.net/verify/acl-payload.js,#SmartApeSG,https://threatfox.abuse.ch/ioc/2034552/
-2026-11-18 19:24:13,WARDENStealer,url,https://domae-trs.club/,,https://threatfox.abuse.ch/ioc/2034576/
 2026-11-19 15:10:50,Unknown Stealer,url,https://geminoargotai.net/data,#FunStealer,https://bazaar.abuse.ch/sample/bc64599c557d4b3881194f96085459ea4190dd6823244a68ec887c221c4c6cb1/
 2026-11-19 15:10:50,Unknown Stealer,url,https://geminoargotai.net/sync,#FunStealer,https://bazaar.abuse.ch/sample/bc64599c557d4b3881194f96085459ea4190dd6823244a68ec887c221c4c6cb1/
 2026-11-19 09:46:13,Unknown malware,url,https://img-codes-cloude.info,#ClickFix #ErrTraffic #etherhiding #Polygon,https://threatfox.abuse.ch/ioc/2034934/
@@ -142,7 +140,10 @@
 2026-11-19 10:01:35,Unknown Stealer,url,https://mooner.icu/register,#WeedStealer,https://x.com/abuse_ch/status/2123049868784447603
 2026-11-19 10:01:35,Unknown Stealer,url,https://mooner.icu/results/,#WeedStealer,https://x.com/abuse_ch/status/2123049868784447603
 2026-11-19 10:01:35,Unknown Stealer,url,https://mooner.icu/tasks/,#WeedStealer,https://x.com/abuse_ch/status/2123049868784447603
+2026-11-19 22:15:25,SalatStealer,url,https://morkovka.cn/qqkb/,#quic #RAT #RUST #salat #stealer #upx #webrat,https://threatfox.abuse.ch/ioc/2035694/
+2026-11-19 16:29:49,Unknown malware,url,https://panelwp.net/assets/,#c2 #PHP #webshell #WordPress,https://bazaar.abuse.ch/sample/5feaec16e5b48cc5f25faf6d59646574b2596424c39d3ade9179bee5a88f3b41/
 2026-11-19 10:45:18,Unknown RAT,url,https://remoto.painelst.com/api/source-file.php?f=d3dx9_43.bin,#banker #BR #delphi #FluxBanker #FluxEngine,https://github.com/harperjohnsai/detections/tree/main/iocs/2026-11-fluxengine
+2026-11-19 22:15:25,SalatStealer,url,https://sa1atik.cn/qqkb/,#quic #RAT #RUST #salat #stealer #upx #webrat,https://threatfox.abuse.ch/ioc/2035695/
 2026-11-19 06:47:00,Stealc,url,https://sdnrlre.com/nback.php,#64-bit #ClickFix #Obfuscated #stealer,https://threatfox.abuse.ch/ioc/2034799/
 2026-11-19 06:47:01,Stealc,url,https://sdnrlre.com/nfront.php,#64-bit #ClickFix #Obfuscated #stealer,https://threatfox.abuse.ch/ioc/2034798/
 2026-11-19 10:01:35,Unknown Stealer,url,https://weedstealer.icu/api/ping,#WeedStealer,https://x.com/abuse_ch/status/2123049868784447603
