@@ -16,6 +16,11 @@
 2026-11-20 13:13:54,Cobalt Strike,url,http://120.24.184.107:8000/static/js/vendor.4f2a1c.js,#CobaltStrike #mwdb,https://mwdb.cert.pl/config/32bb1599827d4f5b01b307dadfc70cecad869471fe3b0f65d7e6ed25e47548aa
 2026-11-20 12:19:32,Mozi,url,http://120.28.163.158:34959/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/120.28.163.158
 2026-11-20 06:19:05,Mozi,url,http://121.202.196.213:55195/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/121.202.196.213
+2026-11-20 18:19:15,Mozi,url,http://153.117.37.126:33167/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.37.126
+2026-11-20 16:06:47,Unknown RAT,url,http://172.232.34.164:8080/cloud/5bqet.dll,#DeskPilot Stealer #RAT,https://app.any.run/tasks/b2b14d68-0c6c-4389-8f0d-14d8aa13e6d5?p=6b004f92d2caae20d1aaf835
+2026-11-20 16:06:45,Unknown RAT,url,http://172.232.34.164:8080/cloud/agent.bin,#DeskPilot Stealer #RAT,https://app.any.run/tasks/b2b14d68-0c6c-4389-8f0d-14d8aa13e6d5?p=6b004f92d2caae20d1aaf835
+2026-11-20 16:06:48,Unknown RAT,url,http://172.232.34.164:8080/cloud/um5jxxgo.dll,#DeskPilot Stealer #RAT,https://app.any.run/tasks/b2b14d68-0c6c-4389-8f0d-14d8aa13e6d5?p=6b004f92d2caae20d1aaf835
+2026-11-20 18:19:16,Mozi,url,http://175.107.233.219:57772/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/175.107.233.219
 2026-11-20 07:27:45,Mirai,url,http://178.83.188.141/fvbig/zerobot.arc,#Mirai #netgear,https://threatfox.abuse.ch/ioc/2035880/
 2026-11-20 07:27:45,Mirai,url,http://178.83.188.141/fvbig/zerobot.arm,#Mirai #netgear,https://threatfox.abuse.ch/ioc/2035881/
 2026-11-20 07:27:45,Mirai,url,http://178.83.188.141/fvbig/zerobot.arm5,#Mirai #netgear,https://threatfox.abuse.ch/ioc/2035882/
@@ -31,8 +36,6 @@
 2026-11-20 07:27:24,Mirai,url,http://178.83.188.141/fvbig/zerobot.spc,#Mirai #netgear,https://threatfox.abuse.ch/ioc/2035892/
 2026-11-20 07:27:23,Mirai,url,http://178.83.188.141/fvbig/zerobot.x86_64,#Mirai #netgear,https://threatfox.abuse.ch/ioc/2035893/
 2026-11-20 06:19:04,Mozi,url,http://182.119.228.62:60165/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/182.119.228.62
-2026-11-19 18:18:49,Mozi,url,http://183.191.25.118:56014/Mozi.7,#elf #IoT #Mozi,https://honeylabs.net/lookup/183.191.25.118
-2026-11-19 18:18:49,Mozi,url,http://196.189.101.82:44482/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/196.189.101.82
 2026-11-20 07:24:12,AhMyth,url,http://23.95.31.196:13467/socket.io/,#AhMyth #android-lab #VIGIA,https://bazaar.abuse.ch/sample/881668984b395f281f0b00de22789a13c2b47555721bc0032a68af0665b72861/
 2026-11-20 07:28:02,Mirai,url,http://45.198.224.89/arm7,#ARM #CVE-2024-3721 #elf #Mirai #tbk-dvr,https://bazaar.abuse.ch/sample/4454ac5f9a6528b94b24be17b9713f99681d6ecc5391e4f8b0e1e79f4b415c1c/
 2026-11-20 07:27:57,VShell,url,http://92.119.178.59:8988/?a=a32&h=92.119.178.59&t=ws_&p=8988,#cPanel #CVE-2026-41940 #SNOWLIGHT #Vshell,https://cyfar.ca/engagements/highway-to-vshell-cpanel-cron-jobs-a-docker-upload-and-snowlight
@@ -54,10 +57,16 @@
 2026-11-20 13:13:57,Pony,url,http://svcrystal.ru/tkan/LijHgs3_3829008.php,#mwdb #Pony,https://mwdb.cert.pl/config/c2652f2aa09a2f45c49f72b0309845fd4a7de92816eac3a96e4644606efe1aec
 2026-11-20 13:13:57,Pony,url,http://www.karl-koller.at/application/LijHgs3_3829008.php,#mwdb #Pony,https://mwdb.cert.pl/config/c2652f2aa09a2f45c49f72b0309845fd4a7de92816eac3a96e4644606efe1aec
 2026-11-20 13:14:01,Cobalt Strike,url,https://114.134.187.54:60445/Qhp4,#CobaltStrike #mwdb,https://mwdb.cert.pl/config/188189331ff3badfbc158423321ae985d9f818d0a616ce882202edf9ebe7eaf1
+2026-11-20 18:31:07,Unknown RAT,url,https://193.24.123.243/ws/device,#RAT #StreamRat,https://threatfox.abuse.ch/ioc/2036541/
+2026-11-20 18:21:41,Unknown RAT,url,https://45.147.28.43/ws/device,#apk StreamRAT #RAT #StreamRat,https://threatfox.abuse.ch/ioc/2036522/
+2026-11-20 18:31:07,Unknown RAT,url,https://85.202.161.17/ws/device,#RAT #StreamRat,https://threatfox.abuse.ch/ioc/2036542/
+2026-11-20 16:06:51,Unknown Stealer,url,https://activation-tunnel.cc/b/clickfix,#ClickFix #powershell #stego,https://threatfox.abuse.ch/ioc/2036489/
+2026-11-20 16:06:50,Unknown Stealer,url,https://activation-tunnel.cc/i/clickfix/a9381c2cd21f99cb.png,#ClickFix #powershell #stego,https://threatfox.abuse.ch/ioc/2036488/
 2026-11-20 01:12:24,WARDENStealer,url,https://alamosha.homes/,,https://threatfox.abuse.ch/ioc/2035780/
-2026-11-19 15:10:50,Unknown Stealer,url,https://api.localhost8000.fun/new,#FunStealer,https://bazaar.abuse.ch/sample/bc64599c557d4b3881194f96085459ea4190dd6823244a68ec887c221c4c6cb1/
+2026-11-20 22:06:31,WARDENStealer,url,https://amomosha.homes/,,https://threatfox.abuse.ch/ioc/2036648/
 2026-11-20 01:07:25,WARDENStealer,url,https://barterry.skin/,,https://threatfox.abuse.ch/ioc/2035777/
 2026-11-20 06:34:01,WARDENStealer,url,https://bimbomhub.mom/,,https://threatfox.abuse.ch/ioc/2036095/
+2026-11-20 16:15:13,WARDENStealer,url,https://blackwidowprotocol.website/,,https://threatfox.abuse.ch/ioc/2036504/
 2026-11-20 07:28:06,Unknown malware,url,https://cdn.876553.xyz/Q1fc8a9OCb7AsC6f/dl/5b5ca3cb-434f-4492-a0f7-11c0b2e0f358,#CVE-2026-10520 #Ivanti #TDGate,https://cyfar.ca/engagements/self-deleting-after-c2-check-in-tdgate-delivery-commands-targeting-ivanti
 2026-11-20 07:28:06,Unknown malware,url,https://cdn.876553.xyz/Q1fc8a9OCb7AsC6f/dl/a855dd05-bc66-4c6a-bf00-2d817e006dde,#CVE-2026-10520 #Ivanti #TDGate,https://cyfar.ca/engagements/self-deleting-after-c2-check-in-tdgate-delivery-commands-targeting-ivanti
 2026-11-20 07:28:05,Unknown malware,url,https://cdn.876553.xyz/Q1fc8a9OCb7AsC6f/dl/c059b6f8-fbbc-4e69-b0d9-b6e590c1a7a3,#CVE-2026-10520 #Ivanti #TDGate,https://cyfar.ca/engagements/self-deleting-after-c2-check-in-tdgate-delivery-commands-targeting-ivanti
@@ -67,21 +76,20 @@
 2026-11-20 07:28:09,Unknown malware,url,https://cdn.876553.xyz/Q1fc8a9OCb7AsC6f/wsGate,#CVE-2026-10520 #Ivanti #TDGate,https://cyfar.ca/engagements/self-deleting-after-c2-check-in-tdgate-delivery-commands-targeting-ivanti
 2026-11-20 07:28:08,Unknown malware,url,https://cdn.876553.xyz/Q1fc8a9OCb7AsC6f/wsTunnel,#CVE-2026-10520 #Ivanti #TDGate,https://cyfar.ca/engagements/self-deleting-after-c2-check-in-tdgate-delivery-commands-targeting-ivanti
 2026-11-20 10:38:53,WARDENStealer,url,https://coralreefscience.website/,,https://threatfox.abuse.ch/ioc/2036306/
+2026-11-20 21:49:13,Unknown Stealer,url,https://coreprotector.org/api/v1/sync/auth,#Android #ByVzor #Fernet #RAT,https://threatfox.abuse.ch/ioc/2036624/
 2026-11-20 08:11:03,WARDENStealer,url,https://dlyavtorogo.com/,,https://threatfox.abuse.ch/ioc/2036139/
 2026-11-20 11:34:37,Unknown Stealer,url,https://gdedengiskatinaufa.shop/webview/loading?buildVersion=marioshdjdjdn,#Android #apk #EVANGELION #Uzbekistan #wretchedcat,https://threatfox.abuse.ch/ioc/2036316/
-2026-11-19 15:10:50,Unknown Stealer,url,https://geminoargotai.net/data,#FunStealer,https://bazaar.abuse.ch/sample/bc64599c557d4b3881194f96085459ea4190dd6823244a68ec887c221c4c6cb1/
-2026-11-19 15:10:50,Unknown Stealer,url,https://geminoargotai.net/sync,#FunStealer,https://bazaar.abuse.ch/sample/bc64599c557d4b3881194f96085459ea4190dd6823244a68ec887c221c4c6cb1/
+2026-11-20 19:24:11,AMOS,url,https://havenleaf3.com/curl/dngnud1og4/9pcx0d0mppr013qy9j8me.json,#Amos #ClickFix #Foxveil #macOS,https://www.virustotal.com/gui/file/41e3b70a30071b6077d781889a8fbf77ac16786cb5d774a04a6a7b32c857e6c5
+2026-11-20 19:24:11,AMOS,url,https://havenleaf3.com/f/hxjvvipsyjzsdxrzfdjwka/pnxco9yv,#Amos #ClickFix #Foxveil #macOS,https://www.virustotal.com/gui/file/41e3b70a30071b6077d781889a8fbf77ac16786cb5d774a04a6a7b32c857e6c5
 2026-11-20 08:21:04,WARDENStealer,url,https://helptools2.com/,,https://threatfox.abuse.ch/ioc/2036141/
 2026-11-20 05:32:43,WARDENStealer,url,https://huishushie.com/,,https://threatfox.abuse.ch/ioc/2036067/
 2026-11-20 01:58:21,WARDENStealer,url,https://laperoter.rest/,,https://threatfox.abuse.ch/ioc/2035786/
-2026-11-19 15:01:44,Unknown malware,url,https://loadraze.blog/9Ywqs/event,,https://bazaar.abuse.ch/sample/f9df8e859a04d6c161d153bb1ab2651e7cefbeba12008a24a2eda197389b1161/
 2026-11-20 08:11:03,WARDENStealer,url,https://marinebiologylab.website/,,https://threatfox.abuse.ch/ioc/2036138/
 2026-11-20 02:44:01,WARDENStealer,url,https://miryyzajy.vip/,,https://threatfox.abuse.ch/ioc/2035822/
 2026-11-20 07:28:18,SalatStealer,url,https://morkovka.cn/qqkb/,#quic #RAT #RUST #salat #stealer #upx #webrat,https://threatfox.abuse.ch/ioc/2035694/
 2026-11-20 11:34:38,Unknown Stealer,url,https://nakiam.com/webview/loading?buildVersion=Soliq-UZ,#Android #apk #EVANGELION #Uzbekistan #wretchedcat,https://threatfox.abuse.ch/ioc/2036315/
 2026-11-20 11:34:40,Unknown Stealer,url,https://nakiam.com/webview/loading?buildVersion=UZ__Qaytarish,#Android #apk #EVANGELION #Uzbekistan #wretchedcat,https://threatfox.abuse.ch/ioc/2036314/
 2026-11-20 07:50:23,WARDENStealer,url,https://opajfnhu.com/,,https://threatfox.abuse.ch/ioc/2036106/
-2026-11-19 16:29:49,Unknown malware,url,https://panelwp.net/assets/,#c2 #PHP #webshell #WordPress,https://bazaar.abuse.ch/sample/5feaec16e5b48cc5f25faf6d59646574b2596424c39d3ade9179bee5a88f3b41/
 2026-11-20 13:14:04,AsyncRAT,url,https://pastebin.com/raw/sFLjiX99,#asyncrat #mwdb,https://mwdb.cert.pl/config/652f1a7bb65fc3d9f34f75b3fbe42d1a51710990e0efdb2da747172efdfc88c5
 2026-11-20 02:44:01,WARDENStealer,url,https://rezynjyy.vip/,,https://threatfox.abuse.ch/ioc/2035823/
 2026-11-20 07:28:17,SalatStealer,url,https://sa1atik.cn/qqkb/,#quic #RAT #RUST #salat #stealer #upx #webrat,https://threatfox.abuse.ch/ioc/2035695/
@@ -89,4 +97,7 @@
 2026-11-20 01:58:21,WARDENStealer,url,https://sigmon-zz.mom/,,https://threatfox.abuse.ch/ioc/2035787/
 2026-11-20 06:08:33,WARDENStealer,url,https://trykow.cc/,,https://threatfox.abuse.ch/ioc/2036072/
 2026-11-20 00:42:03,WARDENStealer,url,https://tyroky.cc/,,https://threatfox.abuse.ch/ioc/2035727/
+2026-11-20 15:22:23,Grandoreiro,url,https://vmi3767928.contaboserver.net/isJzwgRyAPnAP05H.php,#geo #Grandoreiro #MEX,https://bazaar.abuse.ch/sample/ec1104f754226c660c4478d7fd04d540e18d81f6849b9d791b7d9718938b2e5c/
+2026-11-20 15:22:22,Grandoreiro,url,https://vmi3767938.contaboserver.net/,#geo #Grandoreiro #MEX,https://bazaar.abuse.ch/sample/ec1104f754226c660c4478d7fd04d540e18d81f6849b9d791b7d9718938b2e5c/
+2026-11-20 18:33:56,Unknown RAT,url,https://www.dropbox.com/scl/fi/5f9qmzjfv0h5e1rqteufy/31.zip?rlkey=0ksy687dpqhjblsocxo5xpdtw&st=qhgqyd1q&dl=1,#dropbox #ens #etherhiding #IRAHook #java #minecraft #RAT #stealer,https://jessn.co.uk/2026/11/08/blocks-and-blockchains-what-was-actually-inside-that-minecraft-mod/
 2026-11-20 07:28:10,Unknown RAT,url,https://www.dropbox.com/scl/fi/u1gx3ts243xxoya048jbr/bundle.zip?rlkey=3ronxf88is6brzcriugpat5ld&st=7wz97uxi&dl=1,#dropbox #ens #etherhiding #IRAHook #java #minecraft #RAT #stealer,https://jessn.co.uk/2026/11/08/blocks-and-blockchains-what-was-actually-inside-that-minecraft-mod/
