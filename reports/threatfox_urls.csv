@@ -1,67 +1,63 @@
 2026-11-24 06:20:26,Mozi,url,http://100.1.76.175:35474/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/100.1.76.175
-2026-11-24 00:19:12,Mozi,url,http://103.151.47.90:42565/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.151.47.90
+2026-11-24 18:20:03,Mozi,url,http://103.82.120.65:34751/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/103.82.120.65
+2026-11-24 23:09:40,GCleaner,url,http://109.238.86.13/service,#GCleaner #loaderx #PPI #Vidar #YogiStealer,https://threatfox.abuse.ch/ioc/2050408/
+2026-11-24 23:09:40,GCleaner,url,http://109.238.86.13/update,#GCleaner #loaderx #PPI #Vidar #YogiStealer,https://threatfox.abuse.ch/ioc/2050409/
+2026-11-24 23:09:40,GCleaner,url,http://109.238.86.13/ycl,#GCleaner #loaderx #PPI #Vidar #YogiStealer,https://threatfox.abuse.ch/ioc/2050410/
 2026-11-24 12:19:43,Mozi,url,http://124.29.214.141:39586/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/124.29.214.141
 2026-11-24 12:19:44,Mozi,url,http://153.117.15.166:57556/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.15.166
+2026-11-24 18:20:02,Mozi,url,http://153.117.34.198:58011/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/153.117.34.198
 2026-11-24 12:19:43,Mozi,url,http://182.116.11.96:57231/Mozi.m,#elf #IoT #Mozi,https://honeylabs.net/lookup/182.116.11.96
+2026-11-24 17:50:44,Unknown malware,url,http://191.124.172.33:8765/ws,,https://bazaar.abuse.ch/sample/693c683410bf2638d9ce3543b8194b850267970832c58d2b7feaa2e021984eaa/
 2026-11-24 06:32:52,Unknown malware,url,http://198.44.118.17/,#Ransomware #whitearmor,https://github.com/TheRavenFile/Daily-Hunt/blob/main/WhiteArmor%20Ransomware
-2026-11-23 19:26:08,Mirai,url,http://213.193.244.46/bins/parm,#ciotnet #elf #Mirai #robben,https://threatfox.abuse.ch/ioc/2042756/
-2026-11-23 19:26:09,Mirai,url,http://213.193.244.46/bins/parm5,#ciotnet #elf #Mirai #robben,https://threatfox.abuse.ch/ioc/2042755/
-2026-11-23 19:26:10,Mirai,url,http://213.193.244.46/bins/parm6,#ciotnet #elf #Mirai #robben,https://threatfox.abuse.ch/ioc/2042754/
-2026-11-23 19:26:09,Mirai,url,http://213.193.244.46/bins/parm7,#ciotnet #elf #Mirai #robben,https://threatfox.abuse.ch/ioc/2042753/
-2026-11-23 19:26:06,Mirai,url,http://213.193.244.46/bins/pm68k,#ciotnet #elf #Mirai #robben,https://threatfox.abuse.ch/ioc/2042758/
-2026-11-23 19:26:11,Mirai,url,http://213.193.244.46/bins/pmips,#ciotnet #elf #Mirai #robben,https://threatfox.abuse.ch/ioc/2042751/
-2026-11-23 19:26:10,Mirai,url,http://213.193.244.46/bins/pmpsl,#ciotnet #elf #Mirai #robben,https://threatfox.abuse.ch/ioc/2042752/
-2026-11-23 19:26:08,Mirai,url,http://213.193.244.46/bins/pppc,#ciotnet #elf #Mirai #robben,https://threatfox.abuse.ch/ioc/2042757/
-2026-11-23 19:26:07,Mirai,url,http://213.193.244.46/bins/psh4,#ciotnet #elf #Mirai #robben,https://threatfox.abuse.ch/ioc/2042759/
-2026-11-23 19:26:11,Mirai,url,http://213.193.244.46/bins/px86,#ciotnet #elf #Mirai #robben,https://threatfox.abuse.ch/ioc/2042750/
-2026-11-23 19:26:12,Mirai,url,http://213.193.244.46/bins/px86_64,#ciotnet #elf #Mirai #robben,https://threatfox.abuse.ch/ioc/2042749/
-2026-11-23 19:26:06,Mirai,url,http://45.198.224.89/gamebin/d3d10,#CVE-2024-3721 #duckdns #Mirai #OpenNIC #selfrep,https://threatfox.abuse.ch/ioc/2042761/
-2026-11-23 19:26:05,Mirai,url,http://45.198.224.89/gamebin/d3d9,#CVE-2024-3721 #duckdns #Mirai #OpenNIC #selfrep,https://threatfox.abuse.ch/ioc/2042762/
-2026-11-23 19:26:03,Mirai,url,http://45.198.224.89/gamebin/ddraw,#CVE-2024-3721 #duckdns #Mirai #OpenNIC #selfrep,https://threatfox.abuse.ch/ioc/2042769/
-2026-11-23 19:26:03,Mirai,url,http://45.198.224.89/gamebin/dxgi,#CVE-2024-3721 #duckdns #Mirai #OpenNIC #selfrep,https://threatfox.abuse.ch/ioc/2042767/
-2026-11-23 19:26:04,Mirai,url,http://45.198.224.89/gamebin/libEGL,#CVE-2024-3721 #duckdns #Mirai #OpenNIC #selfrep,https://threatfox.abuse.ch/ioc/2042764/
-2026-11-23 19:26:05,Mirai,url,http://45.198.224.89/gamebin/libGL,#CVE-2024-3721 #duckdns #Mirai #OpenNIC #selfrep,https://threatfox.abuse.ch/ioc/2042763/
-2026-11-23 19:26:04,Mirai,url,http://45.198.224.89/gamebin/libgcc,#CVE-2024-3721 #duckdns #Mirai #OpenNIC #selfrep,https://threatfox.abuse.ch/ioc/2042765/
-2026-11-23 19:26:05,Mirai,url,http://45.198.224.89/gamebin/libstd,#CVE-2024-3721 #duckdns #Mirai #OpenNIC #selfrep,https://threatfox.abuse.ch/ioc/2042766/
-2026-11-23 19:26:01,Mirai,url,http://45.198.224.89/gamebin/msvcp,#CVE-2024-3721 #duckdns #Mirai #OpenNIC #selfrep,https://threatfox.abuse.ch/ioc/2042772/
-2026-11-23 19:26:01,Mirai,url,http://45.198.224.89/gamebin/openal,#CVE-2024-3721 #duckdns #Mirai #OpenNIC #selfrep,https://threatfox.abuse.ch/ioc/2042770/
-2026-11-23 19:25:59,Mirai,url,http://45.198.224.89/gamebin/vcruntime,#CVE-2024-3721 #duckdns #Mirai #OpenNIC #selfrep,https://threatfox.abuse.ch/ioc/2042773/
-2026-11-23 19:26:00,Mirai,url,http://45.198.224.89/gamebin/vulkan,#CVE-2024-3721 #duckdns #Mirai #OpenNIC #selfrep,https://threatfox.abuse.ch/ioc/2042771/
-2026-11-23 19:26:02,Mirai,url,http://45.198.224.89/gamebin/xinput,#CVE-2024-3721 #duckdns #Mirai #OpenNIC #selfrep,https://threatfox.abuse.ch/ioc/2042768/
-2026-11-23 19:26:06,Mirai,url,http://45.198.224.89/wget.sh,#CVE-2024-3721 #duckdns #Mirai #OpenNIC #selfrep,https://threatfox.abuse.ch/ioc/2042760/
+2026-11-25 00:19:47,Mozi,url,http://222.141.45.89:51481/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/222.141.45.89
+2026-11-24 23:27:26,Amadey,url,http://45.115.27.47/+4_hTj20y86JkY2Fi/index.php,#Amadey #GCleaner #Telegram-DeadDrop,https://threatfox.abuse.ch/ioc/2050413/
+2026-11-24 23:09:40,Amadey,url,http://62.60.226.140/files/com/kliulij.exe,#Amadey #infostealer #payload_delivery,https://threatfox.abuse.ch/ioc/2050403/
+2026-11-24 23:09:40,Amadey,url,http://62.60.226.140/files/sad/file.exe,#Amadey #infostealer #payload_delivery,https://threatfox.abuse.ch/ioc/2050407/
+2026-11-24 23:09:40,Amadey,url,http://62.60.226.140/files/unique2/file.exe,#Amadey #infostealer #payload_delivery,https://threatfox.abuse.ch/ioc/2050404/
+2026-11-24 23:09:40,Amadey,url,http://62.60.226.140/test/random.exe,#Amadey #infostealer #payload_delivery,https://threatfox.abuse.ch/ioc/2050405/
+2026-11-24 23:09:40,Amadey,url,http://62.60.226.140/vid/random.exe,#Amadey #infostealer #payload_delivery,https://threatfox.abuse.ch/ioc/2050406/
+2026-11-25 00:19:46,Mozi,url,http://76.90.49.31:52674/Mozi.a,#elf #IoT #Mozi,https://honeylabs.net/lookup/76.90.49.31
+2026-11-25 00:57:12,Stealc,url,http://85.234.100.205/444,#stealer #yogi,https://www.virustotal.com/gui/file/f4f878cb8721044db9a3eceb70d0405bec3c65c11a121e33e13fce44e2615597
+2026-11-25 00:57:12,Stealc,url,http://85.234.100.205/445,#stealer #yogi,https://www.virustotal.com/gui/file/f4f878cb8721044db9a3eceb70d0405bec3c65c11a121e33e13fce44e2615597
+2026-11-25 00:57:12,Stealc,url,http://85.234.100.205/yrjrs/ran.bba,#stealer #yogi,https://www.virustotal.com/gui/file/f4f878cb8721044db9a3eceb70d0405bec3c65c11a121e33e13fce44e2615597
 2026-11-24 06:32:53,Unknown malware,url,http://91.210.146.185:7612/,#Ransomware #whitearmor,https://github.com/TheRavenFile/Daily-Hunt/blob/main/WhiteArmor%20Ransomware
-2026-11-23 19:26:12,Mirai,url,http://91.92.40.4/kla.sh,#asus #ciotnet #Loader #Mirai #robben,https://threatfox.abuse.ch/ioc/2042748/
 2026-11-24 06:33:10,Stealc,url,http://93.94.52.124/119,#stealer #yogi,https://www.virustotal.com/gui/file/c595619becbecacb55ff78cb5778da17e12ea0a2983ea44ac426a94d5ea55933
 2026-11-24 06:33:10,Stealc,url,http://93.94.52.124/129,#stealer #yogi,https://www.virustotal.com/gui/file/c595619becbecacb55ff78cb5778da17e12ea0a2983ea44ac426a94d5ea55933
 2026-11-24 06:33:11,Stealc,url,http://93.94.52.124/yrjrs/iiii.bba,#stealer #yogi,https://www.virustotal.com/gui/file/c595619becbecacb55ff78cb5778da17e12ea0a2983ea44ac426a94d5ea55933
 2026-11-24 06:33:21,Bankshot,url,http://avsolution.co.kr/include/bottom.asp,#BANKSHOT #HiddenCobra #Lazarus #RC4 #winhttp,https://bazaar.abuse.ch/sample/0a0bd696ec0d98b6dc7cb655ae58370d4d13f08b91a92eef52a0ed1efbb8577e/
-2026-11-23 23:58:14,Remus,url,http://bdducts.click:5263/invoices,#Remus,https://threatfox.abuse.ch/ioc/2047814/
 2026-11-24 06:33:21,Bankshot,url,http://billing.malgum.com/common/commonDatabase.asp,#BANKSHOT #HiddenCobra #Lazarus #RC4 #winhttp,https://bazaar.abuse.ch/sample/0a0bd696ec0d98b6dc7cb655ae58370d4d13f08b91a92eef52a0ed1efbb8577e/
 2026-11-24 06:33:22,Bankshot,url,http://bremaicemakers.co.kr/include/ban_inc.asp,#BANKSHOT #HiddenCobra #Lazarus #RC4 #winhttp,https://bazaar.abuse.ch/sample/0a0bd696ec0d98b6dc7cb655ae58370d4d13f08b91a92eef52a0ed1efbb8577e/
-2026-11-23 23:58:14,Remus,url,http://coxmics.shop:4262/transactions,#Remus,https://threatfox.abuse.ch/ioc/2047815/
-2026-11-23 23:58:14,Remus,url,http://dctshop.shop:7728/notifications,#Remus,https://threatfox.abuse.ch/ioc/2047816/
+2026-11-24 23:09:41,Unknown malware,url,http://l.station307.com/BVKyQSvFPYUBGEnjQU49DC/formfact.exe,#Amadey #GCleaner #Loader #station307,https://threatfox.abuse.ch/ioc/2050412/
 2026-11-24 08:48:16,Unknown malware,url,https://162.35.47.165/b,,https://bazaar.abuse.ch/sample/ba3c37dab3a316c0f036fe72d463568cdec8917067e4aa846cbb804a2d633e09/
 2026-11-24 06:32:49,Unknown malware,url,https://172.93.215.118:8090/,#Ransomware #whitearmor,https://github.com/TheRavenFile/Daily-Hunt/blob/main/WhiteArmor%20Ransomware
 2026-11-24 10:35:26,Unknown Loader,url,https://23.94.145.229/login,#ClickFix #Romulus,https://github.com/harperjohnsai/detections/tree/main/iocs/2026-11-romulus-clickfix
 2026-11-24 10:35:25,Unknown Loader,url,https://23.94.145.52/login,#ClickFix #Romulus,https://github.com/harperjohnsai/detections/tree/main/iocs/2026-11-romulus-clickfix
+2026-11-25 00:31:01,Unknown malware,url,https://accelerated-ga.com/,#ClickFix,https://clickfix.carsonww.com/domains/accelerated-ga.com
+2026-11-24 20:55:34,Unknown malware,url,https://antimalwarediagnostics.st/files/exe/remus,#Dropper #minecraft #SilentNet #stealer,https://threatfox.abuse.ch/ioc/1960656/
 2026-11-24 06:33:18,Kazuar,url,https://arianeconseil.online/wp-includes/sitemaps/html/,#APT #Kazuar #protobuf #Turla #WordPress,https://bazaar.abuse.ch/sample/436cfce71290c2fc2f2c362541db68ced6847c66a73b55487e5e5c73b0636c85/
 2026-11-24 08:04:54,WARDENStealer,url,https://astana-city.club/,,https://threatfox.abuse.ch/ioc/2048278/
-2026-11-23 17:47:17,WARDENStealer,url,https://azazeldynamics.website/,,https://threatfox.abuse.ch/ioc/2042717/
+2026-11-24 23:27:27,Amadey,url,https://b2b.gojegpot.com/+YLZtDN3noVQ4N2My/index.php,#Amadey #GCleaner #Telegram-DeadDrop,https://threatfox.abuse.ch/ioc/2050414/
 2026-11-24 06:33:31,CloudEyE,url,https://bangladesh-humanresources.com//prophetic_/_muller/kaprifolierne.smi,#bat #CloudEyE #guloader #powershell,https://bazaar.abuse.ch/sample/9e14adb72945a8a8570346a514adc352994f3d77fd941d4621f81809f5b06f52/
+2026-11-24 23:09:41,Unknown malware,url,https://bitboxdiagnostics.com/v1/loaderx/01m87gyhgsdx524v16fz306yyk/carrier/c7cd,#dropped-by-gcleaner #GCleaner #loaderx #RUST,https://threatfox.abuse.ch/ioc/2050411/
 2026-11-24 06:33:31,CloudEyE,url,https://braggoonbus.store/frakas/ZpjrSjxaMZ128.bin,#CloudEyE #guloader #NSIS,https://bazaar.abuse.ch/sample/a851ea93080a37abb1e50fae177bf08bb02728e75cf0f232a267979b924fde5f/
 2026-11-24 06:33:08,Stealc,url,https://cloud-future-dev.buzz,#stealer #yogi,https://www.virustotal.com/gui/file/c595619becbecacb55ff78cb5778da17e12ea0a2983ea44ac426a94d5ea55933
-2026-11-23 17:42:16,WARDENStealer,url,https://deepseacreatures.website/,,https://threatfox.abuse.ch/ioc/2042716/
+2026-11-25 00:31:01,Unknown malware,url,https://cloudfiare-verification.app/,#ClickFix,https://clickfix.carsonww.com/domains/cloudfiare-verification.app
+2026-11-24 18:55:33,Unknown Stealer,url,https://cloudstat-api.buzz/vnc-ws,#Android #banker #RAT #RedWing #VNC,https://bazaar.abuse.ch/sample/9ee6fe6322d38047ab36ca7b365a6a3b3216fe00fc423006fbc7a34c2f16748f/
+2026-11-24 18:55:33,Unknown Stealer,url,https://cloudstat-api.top/vnc-ws,#Android #banker #RAT #RedWing #VNC,https://bazaar.abuse.ch/sample/9ee6fe6322d38047ab36ca7b365a6a3b3216fe00fc423006fbc7a34c2f16748f/
+2026-11-24 18:55:33,Unknown Stealer,url,https://dataflow-hub.work/vnc-ws,#Android #banker #RAT #RedWing #VNC,https://bazaar.abuse.ch/sample/9ee6fe6322d38047ab36ca7b365a6a3b3216fe00fc423006fbc7a34c2f16748f/
 2026-11-24 06:33:09,Stealc,url,https://devfuture-365.buzz/index51.php,#stealer #yogi,https://www.virustotal.com/gui/file/c595619becbecacb55ff78cb5778da17e12ea0a2983ea44ac426a94d5ea55933
 2026-11-24 06:33:18,Kazuar,url,https://download.originalapk.com/wp-content/plugins/loginizer/styles/,#APT #Kazuar #protobuf #Turla #WordPress,https://bazaar.abuse.ch/sample/436cfce71290c2fc2f2c362541db68ced6847c66a73b55487e5e5c73b0636c85/
 2026-11-24 16:09:16,Unknown RAT,url,https://dxsw.cc/,#WC2RAT,https://threatfox.abuse.ch/ioc/2049740/
 2026-11-24 06:33:15,BlackLotus,url,https://frassirishiproc.com/API/hpb_gate.php,#BlackLotus #bootkit #CVE-2022-21894 #Ring0 #UEFI,https://bazaar.abuse.ch/sample/d68f668b4240f9518e4f80499d93d8c5a1eddece0771658c33ae916cc54f5a66/
+2026-11-25 00:57:12,Stealc,url,https://future-dev-2028.buzz/index51.php,#stealer #yogi,https://www.virustotal.com/gui/file/f4f878cb8721044db9a3eceb70d0405bec3c65c11a121e33e13fce44e2615597
+2026-11-25 00:57:12,Stealc,url,https://future-lab-ai.buzz,#stealer #yogi,https://www.virustotal.com/gui/file/f4f878cb8721044db9a3eceb70d0405bec3c65c11a121e33e13fce44e2615597
+2026-11-25 00:31:01,Unknown malware,url,https://garant-suisse.ch/,#ClickFix,https://clickfix.carsonww.com/domains/garant-suisse.ch
 2026-11-24 06:33:14,BlackLotus,url,https://heikickgn.com/API/hpb_gate.php,#BlackLotus #bootkit #CVE-2022-21894 #Ring0 #UEFI,https://bazaar.abuse.ch/sample/d68f668b4240f9518e4f80499d93d8c5a1eddece0771658c33ae916cc54f5a66/
-2026-11-23 18:42:30,WARDENStealer,url,https://marinelifeexplorer.website/,,https://threatfox.abuse.ch/ioc/2042774/
+2026-11-25 00:31:01,Unknown malware,url,https://lineeryapi.com/,#ClickFix,https://clickfix.carsonww.com/domains/lineeryapi.com
 2026-11-24 13:07:59,DarkMe,url,https://notesforschooml.com/image.png,,https://threatfox.abuse.ch/ioc/2049690/
-2026-11-23 18:27:27,WARDENStealer,url,https://nyxcybersystems.website/,,https://threatfox.abuse.ch/ioc/2042740/
-2026-11-23 17:06:31,WARDENStealer,url,https://phigerma.quest/,,https://threatfox.abuse.ch/ioc/2042705/
 2026-11-24 06:33:19,Kazuar,url,https://portal.northernfruit.com/wp-content/plugins/file-away/core/,#APT #Kazuar #protobuf #Turla #WordPress,https://bazaar.abuse.ch/sample/436cfce71290c2fc2f2c362541db68ced6847c66a73b55487e5e5c73b0636c85/
+2026-11-25 00:57:12,Stealc,url,https://roomsplitting.com/nback.php,#stealer #yogi,https://www.virustotal.com/gui/file/f4f878cb8721044db9a3eceb70d0405bec3c65c11a121e33e13fce44e2615597
+2026-11-25 00:57:12,Stealc,url,https://roomsplitting.com/nfront.php,#stealer #yogi,https://www.virustotal.com/gui/file/f4f878cb8721044db9a3eceb70d0405bec3c65c11a121e33e13fce44e2615597
 2026-11-24 10:05:38,Unknown malware,url,https://solutionlogz.info/Treolekomana/recopereta,,https://bazaar.abuse.ch/sample/7c05edfe2b06ea3ead45ef9394568581e4197ad74087d488bc5f829bc7c12dbb/
-2026-11-23 18:47:29,WARDENStealer,url,https://spidermechanism.website/,,https://threatfox.abuse.ch/ioc/2042775/
-2026-11-23 18:37:28,WARDENStealer,url,https://tarantulhydraulic.website/,,https://threatfox.abuse.ch/ioc/2042747/
-2026-11-23 17:52:19,WARDENStealer,url,https://wolfspideralgorithm.website/,,https://threatfox.abuse.ch/ioc/2042718/
+2026-11-24 20:56:58,Unknown Stealer,url,https://wnc6495nvw37nvmw38sjaiu89x3u98mc74rzh76mcz.mojangsessionauth.st/api/session,#credential-theft #EXFILTRATION #minecraft #stealer,https://www.decompiler.com/jar/f7fc5a22c31431f5800b815e4893afb3/mysboeu7.jar
+2026-11-24 18:55:33,Unknown Stealer,url,https://worker-metrics.shop/vnc-ws,#Android #banker #RAT #RedWing #VNC,https://bazaar.abuse.ch/sample/9ee6fe6322d38047ab36ca7b365a6a3b3216fe00fc423006fbc7a34c2f16748f/
